@@ -21,6 +21,12 @@
   <main id="chat" aria-live="polite"></main>
 
   <footer class="composer">
+    <div class="mode-row">
+      <label class="mode-toggle" title="Quote passages from the training corpus (retrieval) instead of generating from the model's memory. Grounded answers are verbatim corpus text with sources.">
+        <input type="checkbox" id="grounded-toggle">
+        <span>Grounded mode <small>(quote training corpus &mdash; RAG)</small></span>
+      </label>
+    </div>
     <div class="input-row">
       <textarea id="input" rows="1"
         placeholder="Ask about crops, soil, irrigation, fertilizers, pests, diseases&hellip;"></textarea>

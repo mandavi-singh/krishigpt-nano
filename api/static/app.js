@@ -13,6 +13,7 @@ const inputEl = document.getElementById("input");
 const sendBtn = document.getElementById("send-btn");
 const clearBtn = document.getElementById("clear-btn");
 const statusEl = document.getElementById("model-status");
+const groundedToggle = document.getElementById("grounded-toggle");
 
 let messages = [];   // {role, content} history sent to /chat each turn
 let busy = false;
@@ -29,7 +30,7 @@ function addNotice() {
   chatEl.appendChild(notice);
 }
 
-function addBubble(role, text) {
+function addBubble(role, text, sources) {
   const wrap = el("div", "message " + role);
   const who = el("span", "who");
   who.textContent =
@@ -38,6 +39,16 @@ function addBubble(role, text) {
   body.textContent = text;
   wrap.appendChild(who);
   wrap.appendChild(body);
+  if (sources && sources.length) {
+    const src = el("div", "sources");
+    src.textContent = "source: " + sources.join(", ");
+    wrap.appendChild(src);
+  }
+  if (role === "assistant" && groundedToggle.checked) {
+    const tag = el("div", "mode-tag");
+    tag.textContent = "grounded quote (from training corpus, not generated)";
+    wrap.appendChild(tag);
+  }
   chatEl.appendChild(wrap);
   chatEl.scrollTop = chatEl.scrollHeight;
   return wrap;
@@ -83,7 +94,11 @@ async function send() {
     const res = await fetch("/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ messages: messages, seed: 0 }),
+      body: JSON.stringify({
+        messages: messages,
+        seed: 0,
+        grounded: groundedToggle.checked,
+      }),
     });
     let data = null;
     try { data = await res.json(); } catch (_) { /* non-JSON error body */ }
@@ -92,7 +107,7 @@ async function send() {
       throw new Error(msg);
     }
     setTyping(false);
-    addBubble("assistant", data.response);
+    addBubble("assistant", data.response, data.sources);
     messages.push({ role: "assistant", content: data.response });
   } catch (err) {
     setTyping(false);

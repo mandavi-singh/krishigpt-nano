@@ -39,6 +39,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from model.generate import KrishiGenerator  # noqa: E402
+from rag.retrieval import search as corpus_search  # noqa: E402
 
 CKPT = ROOT / "checkpoints" / "krishigpt_v3" / "best.pt"
 TOKENIZER = ROOT / "data" / "processed" / "agri_bpe_tokenizer.json"
@@ -131,6 +132,9 @@ class ChatRequest(BaseModel):
     top_p: float | None = Field(default=DEFAULT_TOP_P, gt=0.0, le=1.0)
     top_k: int | None = Field(default=None, ge=1)
     seed: int | None = None
+    grounded: bool = Field(default=False,
+                           description="quote the training corpus (RAG) instead "
+                                       "of generating from the model's memory")
 
 
 class ChatResponse(BaseModel):
@@ -142,6 +146,33 @@ class ChatResponse(BaseModel):
     dropped_turns: int
     seed: int | None
     decoding: dict
+    grounded: bool = False
+    sources: list[str] = []      # corpus doc ids the answer was quoted from
+
+
+def _grounded_answer(question: str) -> tuple[str, list[str]]:
+    """Quote the model's own training corpus (RAG-lite).
+
+    The frozen v3 model cannot store facts (documented capacity limit), but
+    the corpus it was trained on contains them verbatim. This searches that
+    corpus (same license-clean pool as the model's fabrication metric) and
+    quotes the best-matching passage, with per-document source attribution.
+    """
+    hits = corpus_search(question, k=3)
+    if not hits:
+        return ("No passage in my training corpus matches that question — "
+                "I only know about the agriculture topics I was trained on "
+                "(crops, soil, irrigation, fertilizers, pests, diseases, "
+                "farming practices)."), []
+    best = hits[0]
+    answer = best["text"]
+    if len(answer) < 90 and len(hits) > 1:      # too short to stand alone
+        answer = answer + " " + hits[1]["text"]
+    srcs = []
+    for h in ([best] if len(answer) >= 90 else hits[:2]):
+        if h["source"] not in srcs:
+            srcs.append(h["source"])
+    return answer, srcs
 
 _FREQ: dict[str, int] | None = None
 _FREQ_LIST: list[str] | None = None
@@ -541,6 +572,22 @@ def chat(req: ChatRequest) -> ChatResponse:
                       "temperature": req.temperature},
         )
 
+    if req.grounded:                       # quote the corpus, don't generate
+        answer, srcs = _grounded_answer(messages[-1].content)
+        return ChatResponse(
+            response=answer,
+            disclaimer=DISCLAIMER + " [GROUNDED: quoted verbatim from the "
+                                  "training corpus, not generated]",
+            stop_reason="grounded_quote",
+            n_generated=0,
+            prompt_tokens=0,
+            dropped_turns=0,
+            seed=req.seed,
+            decoding={},
+            grounded=True,
+            sources=srcs,
+        )
+
     meta = _is_meta_question(messages[-1].content)
     if meta is not None:
         return ChatResponse(
@@ -633,6 +680,17 @@ def chat(req: ChatRequest) -> ChatResponse:
         decoding={"top_p": req.top_p, "top_k": req.top_k,
                   "temperature": req.temperature},
     )
+
+
+@app.get("/search")
+def search(q: str = "", k: int = 3) -> dict:
+    """Debug/demonstration endpoint: what the grounded mode retrieves."""
+    if not q.strip():
+        raise HTTPException(status_code=400, detail="provide ?q=")
+    hits = corpus_search(q, k=min(max(1, k), 10))
+    return {"query": q, "hits": hits,
+            "note": "BM25-lite search over the frozen v3 training pool; "
+                    "grounded /chat answers quote these passages verbatim."}
 
 
 @app.get("/")

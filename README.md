@@ -270,6 +270,27 @@ ambition...") containing fabricated words. Every response carries the
 disclaimer that outputs must not be treated as professional agricultural
 advice. The UI displays the same disclaimer permanently.
 
+### Grounded mode (RAG-lite) — quote, don't hallucinate
+
+The model cannot store facts (a documented capacity limit), but its training
+corpus contains them verbatim. The checkbox **"Grounded mode"** in the UI
+switches `/chat` from generation to **retrieval**: a dependency-free
+BM25-lite search (`rag/retrieval.py`) over the exact license-clean pool the
+frozen v3 model trained on (v1+v2+v3 corpora), returning the best-matching
+passages as **verbatim quotes with per-document source attribution**.
+
+| question | generated (default) | grounded (RAG) |
+|---|---|---|
+| *Define garlic scapes.* | "Garlic scapes is often unique. Let us understand of different formation." | **"Garlic scapes are removed to focus all the garlic's energy into bulb growth. The scapes can be eaten raw or cooked."** (`wiki__Garlic.meta`) |
+| *What is loam?* | "Loam is unsuccessful in its present state." | the corpus's actual definition, with source |
+
+Same question, same server, one checkbox — a live demonstration of *why*
+retrieval beats generation for factual answers at small scale, and of the
+model's honest limits. Grounded responses are labeled in the UI and carry
+`sources:` citations. A `/search?q=...` endpoint exposes the retrieval for
+inspection/demos. The frozen checkpoint is untouched — grounded mode is a
+serving-layer feature only.
+
 ## 9. Reproducibility
 
 Everything runs locally from this package:
@@ -320,8 +341,11 @@ Seeded sampling reproduces `final/final_eval.json` bit-for-bit.
 ├── training/                     AdamW train loop, QA fine-tune, checkpointing, loss
 ├── inference/demo.py             one-command generation from the final checkpoint
 ├── api/                          chatbot: FastAPI app + static web UI
-│   ├── app.py                    /health, /chat, static serving (load-once)
+│   ├── app.py                    /health, /chat (gen + grounded RAG mode),
+│   │                             /search, static serving (load-once)
 │   └── static/                   index.html, style.css, app.js (no framework)
+├── rag/retrieval.py              BM25-lite search over the training corpus
+│                                 (grounded mode: verbatim quotes + sources)
 ├── configs/                      run configs (nano_agri_v3.json = final run;
 │                                 nano_agri_v4*.json = post-freeze QA lineage)
 ├── data/
