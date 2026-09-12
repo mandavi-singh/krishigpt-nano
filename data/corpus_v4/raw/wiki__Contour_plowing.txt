@@ -1,0 +1,45 @@
+Contour plowing or contour farming is the farming practice of plowing and/or planting across a slope following its elevation contour lines. These contour line furrows create a water break, reducing the formation of rills and gullies during heavy precipitation and allowing more time for the water to settle into the soil. In contour plowing, the ruts made by the plow run perpendicular rather than parallel to the slopes, generally furrows that curve around the land and are level. This method is also known for preventing tillage erosion. Tillage erosion is the soil movement and erosion by tilling a given plot of land. A similar practice is contour bunding where stones are placed around the contours of slopes. Contour plowing has been proven to reduce fertilizer loss, power, time consumption, and wear on machines, as well as to increase crop yields and reduce soil erosion.
+Soil erosion prevention practices such as this can drastically decrease negative effects associated with soil erosion, such as reduced crop productivity, worsened water quality, lower effective reservoir water levels, flooding, and habitat destruction. Contour farming is considered an active form of sustainable agriculture.
+
+
+== History ==
+The Phoenicians first developed the practice of contour farming and spread it throughout the Mediterranean. However, the Romans preferred cultivation in straight furrows and this practice became standard.
+
+
+== Modern history ==
+This was one of the main procedures promoted by the US Soil Conservation Service (the current Natural Resources Conservation Service) during the 1930s. The US Department of Agriculture established the Soil Conservation Service in 1935 during the Dust Bowl when it became apparent that soil erosion was a huge problem along with desertification.
+The extent of the problem was such that the 1934 "Yearbook of Agriculture" noted that Approximately 35 million acres [142,000 km2] of formerly cultivated land have essentially been destroyed for crop production. . . . 100 million acres [405,000 km2] now in crops have lost all or most of the topsoil; 125 million acres [506,000 km2] of land now in crops are rapidly losing topsoil. This can lead to large-scale desertification, permanently transforming a formerly productive landscape into an arid one that becomes increasingly intensive and expensive to farm.
+The Soil Conservation Service worked with state governments and universities with established agriculture programs, such as the University of Nebraska, to promote the method to farmers. By 1938, the introduction of new agricultural techniques, such as contour plowing, had reduced soil loss by 65% despite the continuation of the drought.
+Demonstrations showed that contour farming, under ideal conditions, will increase yields of row crops by up to 50%, with increases of between 5 and 10% being common. Importantly, the technique also significantly reduces soil erosion and fertilizer loss, making farming less energy and resource-intensive under most circumstances. Reducing fertilizer loss saves the farmer time and money and decreases the risk of harming regional freshwater systems. Soil erosion caused by heavy rain can encourage the development of rills and gullies which carry excess nutrients into freshwater systems through the process of eutrophication
+Contour plowing is also promoted in countries with rainfall patterns similar to those in the United States, such as western Canada and Australia.
+The practice is effective only on slopes with between 2% and 10% gradient and when rainfall does not exceed a certain amount within a certain period. On steeper slopes and areas with greater rainfall, a procedure known as strip cropping is used with contour farming to provide additional protection. Contour farming is most effective when used with other soil conservation methods such as terrace farming, and the use of cover crops. The proper combination of such farming methods can be determined by various climatic and soil conditions of that given area. Farming sites are often classified into five levels: insensitive, mild, moderate, high, and extreme, depending on the region's soil sensitivity. Contour farming is applied in certain European countries such as Belgium, Italy, Greece, Romania, Slovenia, and Spain in areas with higher than 10% slope.
+
+
+=== Modifications ===
+P. A. Yeomans' Keyline design system is critical of traditional contour plowing techniques and improves the system through observing normal landforms and topography. At one end of a contour, the slope of the land will always be steeper than at the other. Thus, when plowing parallel runs paralleling any contour, the plow furrows soon deviate from a true contour. Rainwater in these furrows will flow sideways along the falling "contour" line. This can often concentrate water to exacerbate erosion instead of reducing it. Yeomans was the first to appreciate the significance of this phenomenon. Keyline cultivation utilizes this "off contour" drift in cultivating furrows to control the movement of rainwater for the benefit of the land.
+German agronomist Dr. Philipp Gerhardt has developed the related Seepage Line System, which has been taken up in parts of Germany.
+
+
+== See also ==
+George Washington Carver
+Soil conservation
+Tillage erosion
+
+
+== References ==
+
+
+== External links ==
+ Media related to Contour farming at Wikimedia Commons
+
+NRCS Conservation Practice Standard 330-Contour Farming Archived 1 February 2017 at the Wayback Machine 4 page pdf file
+Encyclopædia Britannica page on contour farming
+Purdue University article on contour farming
+Natural Resources Conservation Service page on sustainable farming
+Manitoba Soil Conservation Resource Manual
+Priority One. Together We Can Beat Global Warming
+Pearce, F. (2002) Africans go back to the land as plants reclaim the desert, New Scientist 21. September, page 4.
+Looking after our land - Soil and Water Conservation in Dryland Africa - Detailed instructions for contour bund construction.
+BBC News - Sahara desert frontiers turn green
+Article on Water Erosion- from Penn State College of Agricultural Sciences
+Article on Tillage Erosion Archived 10 March 2023 at the Wayback Machine- from Penn State College of Agricultural Sciences

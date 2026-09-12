@@ -1,0 +1,36 @@
+Watershed management  is the study of the relevant characteristics of a watershed aimed at the sustainable distribution of its resources and the process of creating and implementing plans, programs and projects to sustain and enhance watershed functions that affect the plant, animal, and human communities within the watershed boundary. Features of a watershed that agencies seek to manage to include water supply, water quality, drainage, stormwater runoff, water rights  and the overall planning and utilization of watersheds. Landowners, land use agencies, stormwater management experts, environmental specialists, water use surveyors and communities all play an integral part in watershed management.
+
+
+== Controlling pollution ==
+In agricultural systems, common practices include the use of buffer strips, grassed waterways, the re-establishment of wetlands, and forms of sustainable agriculture practices such as conservation tillage, crop rotation and inter-cropping. After certain practices are installed, it is important to continuously monitor these systems to ensure that they are working properly in terms of improving environmental quality.
+In urban settings, managing areas to prevent soil loss and control stormwater flow are a few of the areas that receive attention. A few practices that are used to manage stormwater before it reaches a channel are retention ponds, filtering systems and wetlands. It is important that storm-water is given an opportunity to infiltrate so that the soil and vegetation can act as a "filter" before the water reaches nearby streams or lakes. In the case of soil erosion prevention, a few common practices include the use of silt fences, landscape fabric with grass seed and hydroseeding. The main objective in all cases is to slow water movement to prevent soil transport.
+
+
+== Governance ==
+The 2nd  World Water Forum held in The Hague in March 2000 raised some controversies that exposed the multilateral nature and imbalance the demand and supply management of freshwater. While donor organizations, private and government institutions backed by the World Bank, believe that freshwater should be governed as an economic good by appropriate pricing, NGOs however, held that freshwater resources should be seen as a social good. The concept of network governance where all stakeholders form partnerships and voluntarily share ideas towards forging a common vision can be used to resolve this clash of opinion in freshwater management. Also, the implementation of any common vision presents a new role for NGOs because of their unique capabilities in local community coordination, thus making them a valuable partner in network governance.
+Watersheds replicate this multilateral terrain with private industries and local communities interconnected by a common watershed. Although these groups share a common ecological space that could transcend state borders, their interests, knowledge and use of resources within the watershed are mostly disproportionate and divergent, resulting to the activities of a specific group adversely impacting on other groups. Examples being the Minamata Bay poisoning that occurred from 1932 to 1968, killing over 1,784 individuals and the Wabigoon River incidence of 1962. Furthermore, while some knowledgeable groups are shifting from efficient water resource exploitation to efficient utilization, net gain for the watershed ecology could be lost when other groups seize the opportunity to exploit more resources.
+Moreover, the need to create partnerships between donor organizations, private and government institutions and community representatives like NGOs in watersheds is to enhance an "organizational society" among stakeholders.
+Several riparian states have adopted this concept in managing the increasingly scarce resources of watersheds. These include the nine Rhine states, with a common vision of pollution control, the Lake Chad and river Nile Basins, whose common vision is to ensure environmental sustainability. As a partner in the commonly shared vision, NGOs has adopted a new role in operationalizing the implementation of regional watershed management policies at the local level. For instance, essential local coordination and education are areas where the services of NGOs have been effective. This makes NGOs the "nuclei" for successful watershed management. Recently, artificial Intelligence techniques such as neural networks have been utilized to address the problem of watershed management.
+
+
+== Environmental law ==
+
+Environmental laws often dictate the planning and actions that agencies take to manage watersheds. Some laws require that planning be done, others can be used to make a plan legally enforceable and others set out the ground rules for what can and cannot be done in development and planning. Most countries and states have their own laws regarding watershed management.
+Those concerned about aquatic habitat protection have a right to participate in the laws and planning processes that affect aquatic habitats. By having a clear understanding of whom to speak to and how to present the case for keeping our waterways clean a member of the public can become an effective watershed protection advocate.
+
+
+== See also ==
+
+Biomanipulation
+Integrated landscape management
+Integrated water resources management
+Source water protection
+
+
+== References ==
+
+
+== Further reading ==
+Erickson, J.D., Messner, F. and I. Ring, eds. (2007). Economics of Sustainable Watershed Management. Elsevier, Amsterdam, the Netherlands.
+Sabatier, P. A. (2005). Swimming Upstream: Collaborative Approaches to Watershed Management. The MIT Press.
+Wagner, W., Gawel, J., Furumai, H., De Souza, M. P., Teixeira, D., Rios, L., et al. (2002). Sustainable watershed management: an international multi-watershed case study. Ambio, 2–13.

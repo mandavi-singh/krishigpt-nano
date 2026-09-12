@@ -1,0 +1,90 @@
+Agricultural machinery refers to mechanical devices, vehicles, and structures used in farming or other agriculture. There are many types of such equipment, from hand tools and power tools to tractors and the farm implements that they tow or operate. Machinery is used in both organic and nonorganic farming. Especially since the advent of mechanised agriculture, agricultural machinery is an indispensable part of how the world is fed.
+Agricultural machinery can be regarded as part of wider agricultural automation technologies, which includes the more advanced digital equipment and agricultural robotics. While robots have the potential to automate the three key steps involved in any agricultural operation (diagnosis, decision-making and performing), conventional motorized machinery is used principally to automate only the performing step where diagnosis and decision-making are conducted by humans based on observations and experience.
+
+
+== History ==
+
+
+=== Industrial Revolution ===
+With the coming of the Industrial Revolution and the development of more complicated machines, farming methods took a great leap forward. Instead of harvesting grain by hand with a sharp blade, wheeled machines cut a continuous swath. Instead of threshing the grain by beating it with sticks, threshing machines separated the seeds from the heads and stalks. The first tractors appeared in the late 19th century.
+
+
+=== Steam power ===
+
+Power for agricultural machinery was originally supplied by ox or other domesticated animals. With the invention of steam power came the portable engine, and later the traction engine, a multipurpose, mobile energy source that was the ground-crawling cousin to the steam locomotive. Agricultural steam engines took over the heavy pulling work of oxen, and were also equipped with a pulley that could power stationary machines via the use of a long belt. The steam-powered machines were low-powered by today's standards but because of their size and their low gear ratios, they could provide a large drawbar pull. The slow speed of steam-powered machines led farmers to comment that tractors had two speeds: "slow, and damn slow".
+
+
+=== Internal combustion engines ===
+The internal combustion engine; first the petrol engine, and later diesel engines; became the main source of power for the next generation of tractors. These engines also contributed to the development of the self-propelled combine harvester and thresher, or the combine harvester (also shortened to 'combine'). Instead of cutting the grain stalks and transporting them to a stationary threshing machine, these combines cut, threshed, and separated the grain while moving continuously throughout the field.
+
+
+== Agricultural machinery types ==
+
+
+=== Tractors ===
+Tractors do the majority of work on a modern farm. They are used to push/pull implements—machines that till the ground, plant seeds, and perform other tasks. Tillage implements prepare the soil for planting by loosening the soil and killing weeds or competing plants. The best-known is the plow, the ancient implement that was upgraded in 1838 by John Deere. Plows are now used less frequently in the U.S. than formerly, with offset disks used instead to turn over the soil, and chisels used to gain the depth needed to retain moisture.
+
+
+=== Combines ===
+
+Combine is a machine designed to efficiently harvest a variety of grain crops. The name derives from its combining four separate harvesting operations—reaping, threshing, gathering, and winnowing—into a single process. Among the crops harvested with a combine are wheat, rice, oats, rye, barley, corn (maize), sorghum, soybeans, flax (linseed), sunflowers and rapeseed.
+
+
+=== Planters ===
+The most common type of seeder is called a planter, and spaces seeds out equally in long rows, which are usually two to three feet apart. Some crops are planted by drills, which put out much more seed in rows less than a foot apart, blanketing the field with crops. Transplanters automate the task of transplanting seedlings to the field. With the widespread use of plastic mulch, plastic mulch layers, transplanters, and seeders lay down long rows of plastic, and plant through them automatically.
+
+
+=== Sprayers ===
+After planting, other agricultural machinery such as self-propelled sprayers can be used to apply fertilizer and pesticides. Agriculture sprayer application is a method to protect crops from weeds by using herbicides, fungicides, and insecticides. Spraying or planting a cover crop are ways to mix weed growth.
+
+
+=== Balers and other agriculture implements ===
+
+Planting crop hay balers can be used to tightly package grass or alfalfa into a storable form for the winter months. Modern irrigation relies on machinery. Engines, pumps and other specialized gear provide water quickly and in high volumes to large areas of land. Similar types of equipment such as agriculture sprayers can be used to deliver fertilizers and pesticides.
+Besides the tractor, other vehicles have been adapted for use in farming, including trucks, airplanes, and helicopters, such as for transporting crops and making equipment mobile, to aerial spraying and livestock herd management.
+
+
+== New technology and the future ==
+The basic technology of agricultural machines has changed little in the last century. Though modern harvesters and planters may do a better job or be slightly tweaked from their predecessors, the combine of today still cuts, threshes, and separates grain in the same way it has always been done. However, technology is changing the way that humans operate the machines, as computer monitoring systems, GPS locators and self-steer programs allow the most advanced tractors and implements to be more precise and less wasteful in the use of fuel, seed, or fertilizer. In the foreseeable future, there may be mass production of driverless tractors, which use GPS maps and electronic sensors.
+
+
+=== Agricultural automation ===
+The Food and Agriculture Organization of the United Nations (FAO) defines agricultural automation as the use of machinery and equipment in agricultural operations to improve their diagnosis, decision-making, or performance, reducing the drudgery of agricultural work and improving the timeliness, and potentially the precision, of agricultural operations.
+The technological evolution in agriculture has been a journey from manual tools to animal traction, then to motorized mechanization, and further to digital equipment. This progression has culminated in the use of robotics with artificial intelligence (AI). Motorized mechanization, for instance, automates operations like ploughing, seeding, fertilizing, milking, feeding, and irrigating, thereby significantly reducing manual labor. With the advent of digital automation technologies, it has become possible to automate diagnosis and decision-making. For instance, autonomous crop robots can harvest and seed crops, and drones can collect information to help automate input applications. Tractors, on the other hand, can be transformed into automated vehicles that can sow fields independently.
+A 2023 report by the United States Department of Agriculture (USDA) revealed that over 50% of corn, cotton, rice, sorghum, soybeans, and winter wheat in the United States is planted using automated guidance systems. These systems, which utilize technology to autonomously steer farm equipment, only require supervision from a farmer. This is a clear example of how agricultural automation is being implemented in real-world farming scenarios.
+
+
+=== Open source agricultural equipment ===
+
+Many farmers are upset by their inability to fix the new types of high-tech farm equipment. This is due mostly to companies using intellectual property law to prevent farmers from having the legal right to fix their equipment (or gain access to the information to allow them to do it). In October 2015 an exemption was added to the DMCA to allow inspection and modification of the software in cars and other vehicles including agricultural machinery.
+The Open Source Agriculture movement counts different initiatives and organizations such as Farm Labs which is a network in Europe, l'Atelier Paysan which is a cooperative to teach farmers in France how to build and repair their tools, and Ekylibre which is an open-source company to provide farmers in France with open source software (SaaS) to manage farming operations. In the United States, the MIT Media Lab's Open Agriculture Initiative seeks to foster "the creation of an open-source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production". It develops the Personal Food Computer, an educational project to create a "controlled environment agriculture technology platform that uses robotic systems to control and monitor climate, energy, and plant growth inside of a specialized growing chamber". It includes the development of Open Phenom, an open source library with open data sets for climate recipes which link the phenotype response of plants (taste, nutrition) to environmental variables, biological, genetic and resource-related necessary for cultivation (input). Plants with the same genetics can naturally vary in color, size, texture, growth rate, yield, flavor, and nutrient density according to the environmental conditions in which they are produced.
+
+
+== Manufacturers ==
+
+
+=== Active ===
+
+
+=== Former ===
+
+
+== See also ==
+
+List of agricultural machinery
+Mechanised agriculture
+Agricultural machinery industry
+
+
+== Sources ==
+ This article incorporates text from a free content work. Licensed under CC BY-SA 3.0 (license statement/permission). Text taken from In Brief to The State of Food and Agriculture 2022 – Leveraging automation in agriculture for transforming agrifood systems​, FAO, FAO. 
+
+
+== References ==
+
+
+== External links ==
+
+Hay Harvesting in the 1940s instructional films, Center for Digital Initiatives, University of Vermont Library
+Worldwide Agricultural Machinery and Farm Equipment Directory
+Economic Situation of the agricultural machinery sector—VDMA Report

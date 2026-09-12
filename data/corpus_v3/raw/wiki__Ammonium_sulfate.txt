@@ -1,0 +1,68 @@
+Ammonium sulfate (American English and international scientific usage; ammonium sulphate in British English); [NH4]2SO4, is an inorganic salt with a number of commercial uses. The most common use is as a soil fertilizer. It contains 21% nitrogen and 24% sulfur.
+
+
+== Uses ==
+
+
+=== Agriculture ===
+The primary use of ammonium sulfate is as a fertilizer for alkaline soils. In the soil, the ammonium ion is released and forms a small amount of acid, lowering the pH balance of the soil, while contributing essential nitrogen for plant growth. One disadvantage to the use of ammonium sulfate is its low nitrogen content relative to ammonium nitrate or urea, which elevates transportation costs.
+It is also used as an agricultural spray adjuvant for water-soluble insecticides, herbicides, and fungicides. There, it functions to bind iron and calcium cations that are present in both well water and plant cells. It is particularly effective as an adjuvant for 2,4-D (amine), glyphosate, and glufosinate herbicides.
+
+
+=== Laboratory use ===
+Ammonium sulfate precipitation is a common method for protein purification by precipitation. As the ionic strength of a solution increases, the solubility of proteins in that solution decreases.  Being extremely soluble in water, ammonium sulfate can "salt out" (precipitate) proteins from aqueous solutions. Precipitation by ammonium sulfate is a result of a reduction in solubility rather than protein denaturation, thus the precipitated protein can be resolubilized through the use of standard buffers. Ammonium sulfate precipitation provides a convenient and simple means to fractionate complex protein mixtures.
+In the analysis of rubber lattices, volatile fatty acids are analyzed by precipitating rubber with a 35% ammonium sulfate solution, which leaves a clear liquid from which volatile fatty acids are regenerated with sulfuric acid and then distilled with steam. Selective precipitation with ammonium sulfate, opposite to the usual precipitation technique which uses acetic acid, does not interfere with the determination of volatile fatty acids.
+
+
+=== Food additive ===
+As a food additive, ammonium sulfate is considered generally recognized as safe (GRAS) by the U.S. Food and Drug Administration, and in the European Union it is designated by the E number E517. It is used as an acidity regulator in flours and breads.
+
+
+=== Other uses ===
+Ammonium sulfate is a precursor to other ammonium salts, especially ammonium persulfate.
+Ammonium sulfate is listed as an ingredient for many United States vaccines per the Centers for Disease Control.
+Ammonium sulfate has also been used in flame retardant compositions acting much like diammonium phosphate. As a flame retardant, it increases the combustion temperature of the material, decreases maximum weight loss rates, and causes an increase in the production of residue or char.
+
+
+== Preparation ==
+Ammonium sulfate is made by treating ammonia with sulfuric acid:
+
+2 NH3 + H2SO4  →  [NH4]2SO4
+A mixture of ammonia gas and water vapor is introduced into a reactor that contains a saturated solution of ammonium sulfate and about 2% to 4% of free sulfuric acid at 60 °C. Concentrated sulfuric acid is added to keep the solution acidic, and to retain its level of free acid. The heat of reaction keeps reactor temperature at 60 °C. Dry, powdered ammonium sulfate may be formed by spraying sulfuric acid into a reaction chamber filled with ammonia gas. The heat of reaction evaporates all water present in the system, forming a powdery salt. Approximately 6,000 million tons were produced in 1981.
+Ammonium sulfate also is manufactured from gypsum (CaSO4·2H2O). Finely divided gypsum is added to an ammonium carbonate solution. Calcium carbonate precipitates as a solid, leaving ammonium sulfate in the solution.
+
+[NH4]2CO3 + CaSO4  →  [NH4]2SO4 + CaCO3
+Ammonium sulfate occurs naturally as the rare mineral mascagnite in volcanic fumaroles and due to coal fires on some dumps.
+Ammonium sulfate is a byproduct in the production of methyl methacrylate.
+
+
+== Properties ==
+Ammonium sulfate becomes ferroelectric at temperatures below −49.5 °C.  At room temperature it crystallises in the orthorhombic system, with cell sizes of a = 7.729 Å, b = 10.560 Å, c = 5.951 Å. When chilled into the ferrorelectric state, the symmetry of the crystal changes to space group Pna21.
+
+
+== Reactions ==
+Ammonium sulfate decomposes upon heating above 250 °C (482 °F), first forming ammonium bisulfate. Heating at higher temperatures results in decomposition into ammonia, nitrogen, sulfur dioxide, and water.
+As a salt of a strong acid (H2SO4) and weak base (NH3), its solution is acidic; the pH of 0.1 M solution is 5.5. In aqueous solution the reactions are those of [NH4]+ and SO2−4 ions. For example, addition of barium chloride, precipitates out barium sulfate. The filtrate on evaporation yields ammonium chloride.
+Ammonium sulfate forms many double salts (ammonium metal sulfates) when its solution is mixed with equimolar solutions of metal sulfates and the solution is slowly evaporated. With trivalent metal ions, alums such as ferric ammonium sulfate are formed. Double metal sulfates include ammonium cobaltous sulfate, ferrous diammonium sulfate, ammonium nickel sulfate which are known as Tutton's salts and ammonium ceric sulfate. Anhydrous double sulfates of ammonium also occur in the Langbeinites family. The ammonia produced has a pungent smell and is toxic.
+Airborne particles of evaporated ammonium sulfate comprise approximately 30% of fine particulate pollution worldwide.
+It reacts with additional sulfuric acid to give triammonium hydrogen disulphate, (NH4)3H(SO4)2.
+
+
+== Legislation and control ==
+In November 2009, a ban on ammonium sulfate, ammonium nitrate and calcium ammonium nitrate fertilizers was imposed in the former Malakand Division—comprising the Upper Dir, Lower Dir, Swat, Chitral and Malakand districts of the North West Frontier Province (NWFP) of Pakistan, by the NWFP government, following reports that they were used by militants to make explosives. In January 2010, these substances were also banned in Afghanistan for the same reason.
+
+
+== See also ==
+Ammonium sulfate precipitation
+
+
+== References ==
+
+
+== Further reading ==
+Properties: UNIDO and International Fertilizer Development Center (1998), Fertilizer Manual, Kluwer Academic Publishers, ISBN 0-7923-5032-4.
+
+
+== External links ==
+Ammonium sulfate in the Pesticide Properties DataBase (PPDB)
+Calculators: surface tensions, and densities, molarities and molalities of aqueous ammonium sulfate

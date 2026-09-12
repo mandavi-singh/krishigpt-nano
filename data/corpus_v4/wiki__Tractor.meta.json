@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Tractor",
+  "provider": "Wikipedia",
+  "title": "Tractor",
+  "url": "https://en.wikipedia.org/wiki/Tractor",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-09-06",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Tractor.txt"
+}

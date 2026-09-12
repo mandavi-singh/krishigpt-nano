@@ -1,0 +1,48 @@
+Superphosphate is a chemical fertiliser first synthesised in the 1840s by reacting bones with sulfuric acid. The process was subsequently improved by reacting phosphate coprolites with sulfuric acid. Subsequently, other phosphate-rich deposits such as phosphorite were discovered and used. Soluble phosphate is an essential nutrient for all plants, and the availability of superphosphate revolutionised agricultural productivity.
+
+
+== History ==
+The earliest phosphate-rich fertilisers were made from guano, animal manure, or crushed bones. So valuable were these resources during the Industrial Revolution that graveyards and catacombs across Europe were pillaged for human bones to satisfy demand.
+In 1842, the Reverend John Stevens Henslow found coprolites – fossilised dinosaur dung – in the cliffs of south Suffolk in England. He was aware of previous research in Dorset by William Buckland which showed that coprolites were rich in phosphate that could be made available for plants by dissolution in sulfuric acid. John Bennet Lawes, who farmed in Hertfordshire, learnt of these discoveries and conducted his own research at his farm at Rothamsted (later an agricultural research station), naming the resultant product "super phosphate of lime". He patented the discovery, and in 1842, started producing superphosphate from fossilised dinosaur dung on an industrial scale; this was the first chemical manure produced in the world.
+Edward Packard, recognising the significance of Lawes' work, converted a mill in Ipswich to produce this new fertiliser from coprolites excavated in the village of Kirton. He moved his operation in the 1850s to Bramford next to a similar new factory operated by Joseph Fisons. These operations were destined to form part of the Fisons fertiliser company. The street where the original mill stood is still called Coprolite Street.
+
+
+== Agricultural significance ==
+All plants and animals need phosphorus compounds to carry out their normal metabolism even though in the case of plants it may constitute as little as 2% of their dry matter. The phosphorus can be in the form of soluble inorganic phosphates or organic compounds containing phosphorus. In the living cell, energy is accumulated or expended using a complex range of biochemical processes which involve the transformation of adenosine triphosphate to adenosine diphosphate when energy is being expended and the reverse when energy is being accumulated as in photosynthesis.
+Superphosphate is relatively cheap compared to other available sources of phosphate. The lower price contributes to its widespread adoption, particularly in developing regions where the costs of agricultural inputs are a significant consideration.
+The fate of phosphates in soil is complicated as they readily form complexes with other minerals such as clays, and aluminium and iron salts, and may be generally unavailable to plants except by weathering and through the action of bacterial and the soil microbiome. The advantage of superphosphate fertilisers is that a significant proportion of the phosphate content is soluble and is immediately available to plants. It thus provides a very quick boost to plant growth. However, the complex soil dynamics tend to immobilize phosphate in mineral complexes or organic ligands reducing the availability to plants.  Phosphates are also lost to the soil and plant environment when crops are harvested or consumed by animals or otherwise lost to the local system. Phosphates tend to be tightly bound to fine sediments in the soil. Leaching of sediments from soil can lead to elevated phosphate concentrations in the receiving watercourse.
+The addition of phosphorus as super-phosphate enables much greater crop yields. Although there is some replenishment of soil phosphorus from mineral sources and release from soil complexes by physical and biological mechanisms, the rate of re-solubilisation is too low to support modern agricultural productivity. Organic phosphorus contained within plant or animal matter is much more readily re-solubilised as the material decomposes through microbial action. 
+However, the key quality that made superphosphate so attractive—the solubility of the phosphate—also created an ongoing demand for the product as the soluble phosphorus salts and phosphate bound to fine sediments are eluted from fields into rivers and streams where they became lost to agriculture but help to encourage unwelcome eutrophication.
+
+
+== Manufacture ==
+Superphosphates are manufactured in all the main industrial centres of the world, including Europe, China and the US. In 2021, about 689,916 tonnes of superphosphate were produced with more than half from Poland and substantial amounts from Indonesia, Bangladesh, China and Japan.
+
+
+== Formulations ==
+All formulations of superphosphate contain a significant proportion of soluble and available phosphate ions which is the key quality that has made them essential for modern agriculture.
+
+
+=== Single superphosphate ===
+Single superphosphate is produced using the traditional method of extraction of phosphate rock with sulfuric acid, an approximate 1:1 mixture of Ca(H2PO4)2 and CaSO4.
+
+
+=== Double superphosphate ===
+The term, "double superphosphate", refers to a mixture of triple and single superphosphate, resulting from the extraction of phosphate rock with a mixture of phosphoric and sulfuric acids.
+
+
+=== Triple superphosphate ===
+Triple superphosphate is a component of many proprietary fertilisers. It primarily consists of monocalcium phosphate, Ca(H2PO4)2. It is obtained by treating phosphate rock with phosphoric acid. 
+Many proprietary fertilisers are derived from triple superphosphate, for example by blending with ammonium sulfate and potassium chloride. Typical fertiliser-grade triple superphosphate contains 45% P2O5eq, single superphosphate 20% P2O5eq.
+
+
+== Adverse impacts of superphosphate ==
+Continuous use of superphosphate can lead to soil acidification, particularly on poorly buffered soils, altering pH levels and potentially limiting nutrient availability. This necessitates careful monitoring and management of soil pH to prevent long-term soil degradation.
+Production and transport produce significant quantities of CO2 amounting in some estimates to 1.2 kg/kg for the manufacture of superphosphate and 238 g/kg for transport. Other sources note that assuming all the sulfur for the sulfuric acid is recovered from oil and gas sweetening, and the reaction  to produce superphosphate is exothermic: provided that the heat generated is fully re-used, the whole cycle may have a negative carbon footprint as low as -518 g/kg for production alone.
+While superphosphate enriches soil with phosphorus, excessive or imbalanced application can disrupt nutrient ratios, leading to deficiencies or toxicities in plants. Evidence is emerging that elevated levels may be associated with deadly infections by Phytophthora cinnamomi. Sustainable fertilisation practices, including soil testing and targeted applications, are essential to mitigate this risk.
+The availability of suitable phosphate-rich rocks is limited and estimates of "peak phosphorus" vary between 30 years from 2022, or somewhere between 2051 and 2092. As the human population increases and the demand for food increases, the availability of superphosphate fertilisers in the future may be less secure, suggesting that alternative sources of phosphate may need to be developed.
+A significant number of plants, especially those that evolved in Gondwanaland, have a sensitivity to excess phosphorus, getting all that they need from associations with Arbuscular mycorrhiza. Examples of plants that are intolerant of the application of superphosphate include Hakea prostrata  and Grevillea crithmifolia. Many terrestrial orchids which rely on mycorrhizal associations may have similar sensitivities to elevated phosphate levels and populations may be suppressed by applications of superphosphate containing fertiliser.
+Eutrophication of rivers, lakes and the sea has a very well-documented link to increasing phosphate concentrations. However, teasing out the contribution made to this problem by the use of superphosphate is difficult because of the wide range of other sources of phosphorus compounds in both human and animal waste streams. Recent issues on the River Wye have been traced back to intensive poultry rearing with the excess phosphate coming from poorly managed chicken manure.
+
+
+== References ==

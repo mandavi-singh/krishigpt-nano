@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Economy of Karnataka",
+  "provider": "Wikipedia",
+  "title": "Economy of Karnataka",
+  "url": "https://en.wikipedia.org/wiki/Economy%20of%20Karnataka",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Agriculture_in_Karnataka.txt"
+}

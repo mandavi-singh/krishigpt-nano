@@ -1,0 +1,223 @@
+{
+  "summary": {
+    "model": "KrishiGPT-nano (final = checkpoints/krishigpt_v3/best.pt)",
+    "step": 3800,
+    "params": 1860224,
+    "vocab_size": 5237,
+    "architecture": "6 blocks x d_model 128 x 4 heads, RoPE, pre-norm, tied embedding/head, dropout 0.0",
+    "val_loss": 4.0804,
+    "val_ppl": 59.17,
+    "val_windows": 172,
+    "generation": {
+      "throughput_context_loop_tps": 22.7,
+      "decode_only_tps": 46.6,
+      "note": "CPU-only (i5-1335U, 10 threads); throughput varies with machine load between runs",
+      "variants": {
+        "topp0.9": {
+          "avg_rep_rate": 0.1905,
+          "avg_distinct_1": 0.8125,
+          "avg_distinct_2": 0.9936,
+          "avg_max_run": 1.0,
+          "fab_words": 8,
+          "words": 177,
+          "fabrication_pct": 4.5
+        },
+        "topk40": {
+          "avg_rep_rate": 0.3079,
+          "avg_distinct_1": 0.6969,
+          "avg_distinct_2": 0.9429,
+          "avg_max_run": 1.8,
+          "fab_words": 7,
+          "words": 175,
+          "fabrication_pct": 4.0
+        }
+      }
+    }
+  },
+  "results": [
+    {
+      "variant": "topp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "seed": 0,
+      "text": ", with ashes , and generally nutrition to the ambition of a savory thing that labor reduces it ranging from transport to the energy . The term populari damage that water drains , although the amount of natural transport of carbon and plant nutrients is widespread due to additional waste to re",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.61,
+      "repetition_rate": 0.2063,
+      "max_run": 1,
+      "distinct_1": 0.7969,
+      "distinct_2": 0.9841,
+      "fab_words": [
+        "populari"
+      ],
+      "n_words": 37,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Soil moisture affects",
+      "seed": 0,
+      "text": "the soil , and over - structure . Formes in climates and fruits are useful for the growing and planting season it ranging from earnâ € ” cutting many damage that is produced by mandelic foundations . In many parts of the world , the Mumbai Center re",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.76,
+      "repetition_rate": 0.1746,
+      "max_run": 1,
+      "distinct_1": 0.8281,
+      "distinct_2": 1.0,
+      "fab_words": [
+        "earnâ",
+        "mandelic"
+      ],
+      "n_words": 34,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "To control pests in the field",
+      "seed": 0,
+      "text": ", fungus flowers are generally known as onion - dew and hard dy , and no renewable meaning they immature . Unound the world Bosch of many damage that is produced by mandelic foundations . In many parts of the world , the Mumbai Center re",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.65,
+      "repetition_rate": 0.1429,
+      "max_run": 1,
+      "distinct_1": 0.8594,
+      "distinct_2": 0.9841,
+      "fab_words": [
+        "Unound",
+        "mandelic"
+      ],
+      "n_words": 31,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Rice is grown in",
+      "seed": 0,
+      "text": "climates with other flowers over a generation . Forest in India and Australia region , for example , during the same it was immature at least 90 % . In the U . S . , as in China , India Freegg is one of the three major survives in the United States , and the other parts of",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.48,
+      "repetition_rate": 0.2698,
+      "max_run": 1,
+      "distinct_1": 0.7344,
+      "distinct_2": 1.0,
+      "fab_words": [
+        "Freegg"
+      ],
+      "n_words": 35,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The farmer should irrigate",
+      "seed": 0,
+      "text": "two hundred years old . But if the year the horse must put your father , for thing being entirely like , it was improof to be used to hasten fresh many feet wide and greater run , and the You fear it very forcome . \" The wider of this grassland will be re",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.68,
+      "repetition_rate": 0.1587,
+      "max_run": 1,
+      "distinct_1": 0.8438,
+      "distinct_2": 1.0,
+      "fab_words": [
+        "improof",
+        "forcome"
+      ],
+      "n_words": 40,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The best fertilizer for wheat",
+      "seed": 0,
+      "text": ", with the best wheat , is the _Stam_ , and a well - known tree , the same farmer was not the best ; and when the next season of sowing to the first year ' s planting . Fresh a grass crop of wheat , oats , bugs , or wheat . If the land was",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.43,
+      "repetition_rate": 0.3175,
+      "max_run": 1,
+      "distinct_1": 0.6875,
+      "distinct_2": 0.9683,
+      "fab_words": [
+        "_Stam_"
+      ],
+      "n_words": 37,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Soil moisture affects",
+      "seed": 0,
+      "text": "the soil , and by a soil surface by the soil and the surface solution . This layer is usually a clay horizon ( also called RA ) . The term NA + AH + The The \" PDA horizon layer of the roots , is typically covered by the structure , and the other parts of",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.4,
+      "repetition_rate": 0.4127,
+      "max_run": 2,
+      "distinct_1": 0.5938,
+      "distinct_2": 0.9206,
+      "fab_words": [
+        "PDA"
+      ],
+      "n_words": 35,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topk40",
+      "prompt": "To control pests in the field",
+      "seed": 0,
+      "text": ", the other species are generally known as a paramarchorus , and the Cavenojoys are typically grown on the plant family Pacinae , that is produced by mandhillella plants used to avoid the plant behavior , and the other known re",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.42,
+      "repetition_rate": 0.2222,
+      "max_run": 1,
+      "distinct_1": 0.7812,
+      "distinct_2": 0.9365,
+      "fab_words": [
+        "paramarchorus",
+        "Cavenojoys",
+        "Pacinae",
+        "mandhillella"
+      ],
+      "n_words": 30,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Rice is grown in",
+      "seed": 0,
+      "text": "East Asia , and has a major industry by the region of the United States . The world is the largest staple in India and the third third - century BC . = = = See also = = = = Tomenta data Co . and Co - widespread DNA – Center –",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.51,
+      "repetition_rate": 0.3175,
+      "max_run": 4,
+      "distinct_1": 0.6875,
+      "distinct_2": 0.9206,
+      "fab_words": [
+        "Tomenta"
+      ],
+      "n_words": 30,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The farmer should irrigate",
+      "seed": 0,
+      "text": "two hundred years old . But if the year the horse must put your hay , for the horse and the horses it was better . We did not say the next time of a few days , as the crop of the year could be a week ; but I think , when the soil was so rich , and to re",
+      "stop_reason": "max_tokens",
+      "n_generated": 64,
+      "wall_secs": 1.48,
+      "repetition_rate": 0.2698,
+      "max_run": 1,
+      "distinct_1": 0.7344,
+      "distinct_2": 0.9683,
+      "fab_words": [],
+      "n_words": 43,
+      "label": "MODEL OUTPUT (not human-authored, not from the corpus)"
+    }
+  ]
+}

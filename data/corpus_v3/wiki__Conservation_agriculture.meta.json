@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Conservation agriculture",
+  "provider": "Wikipedia",
+  "title": "Conservation agriculture",
+  "url": "https://en.wikipedia.org/wiki/Conservation%20agriculture",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Conservation_agriculture.txt"
+}

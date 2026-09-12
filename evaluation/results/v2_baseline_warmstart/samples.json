@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "variant": "greedy",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", the same is the best crop . The soil is a plant that is the soil . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.1875,
+      "distinct_2": 0.2698412698412698,
+      "repetition_rate": 0.8253968253968254,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Soil moisture affects",
+      "text": "the soil and the soil . The soil is a soil of the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.125,
+      "distinct_2": 0.1746031746031746,
+      "repetition_rate": 0.8888888888888888,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "To control pests in the field",
+      "text": ". The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant . The soil is a plant that is a plant that is",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.109375,
+      "distinct_2": 0.12698412698412698,
+      "repetition_rate": 0.9047619047619048,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Rice is grown in",
+      "text": "the world . The world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s ' s ' s ' s ' s '",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.09375,
+      "distinct_2": 0.12698412698412698,
+      "repetition_rate": 0.9206349206349206,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "The farmer should irrigate",
+      "text": "the soil . The soil is a large crop of the soil . The soil is a plant that is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.171875,
+      "distinct_2": 0.2222222222222222,
+      "repetition_rate": 0.8412698412698413,
+      "max_run": 1
+    }
+  ]
+}

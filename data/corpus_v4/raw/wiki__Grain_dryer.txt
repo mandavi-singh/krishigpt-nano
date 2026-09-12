@@ -1,0 +1,118 @@
+Grain drying is the process of drying grain to prevent spoilage during storage. Artificial grain drying uses fuel or electricity powered processes supplementary to natural ones, including swathing/windrowing for air and sun drying, or stooking before threshing.
+
+
+== Overview ==
+
+Annually, hundreds of millions of tons of wheat, barley, maize, soybeans, rice, sorghum, sunflower seeds, rapeseed/canola, oats, and other grains are dried in grain dryers.
+Grain drying typically reduces the moisture content of freshly harvested crops from around 17–30% (wet basis) to between 8% and 15%, depending on the type of grain. The final moisture level must be low enough to ensure safe storage. Grains with higher oil content require even lower moisture levels for storage, as well as lower initial moisture content before drying. Cereal grains are often dried to around 14%, while typical target values for oilseeds are 12.5% for soybeans, 8% for sunflower seeds, and 9% for peanuts.
+Drying is essential for safe storage, as it inhibits the growth of microorganisms. However, maintaining low storage temperatures is also strongly recommended to prevent spoilage reactions and to suppress the activity of insects and mites. An effective maximum storage temperature is approximately 18 °C.
+The largest dryers are normally used off-farm, in grain elevators, and are of the continuous-flow type. Mixed-flow dryers are commonly used in Europe, while cross-flow dryers are more prevalent in the United States. In Argentina, both types are widely used. Continuous-flow dryers can process up to 100 metric tons of grain per hour. The depth of the grain bed that drying air must pass through ranges from approximately 0.15 m in mixed-flow dryers to around 0.30 m in cross-flow dryers.
+Batch dryers are primarily used on-farm, particularly in the United States and Europe. These typically consist of a bin with heated air that flows horizontally: from an internal perforated metal cylinder, through an annular grain bed about 0.5 m thick, and then across an outer perforated wall before being vented to the atmosphere. Drying times usually range from 1 to 4 hours, depending on factors such as moisture removal needs, grain type, drying air temperature, and bed depth.
+In the United States, on-farm continuous counter-flow dryers may also be used. These systems adapt storage bins to allow grain to be slowly dried as it is fed from the top and removed from the bottom using a sweeping auger.
+Grain drying continues to be an active area of research. Dryer performance can be simulated using computer programs based on mathematical models that incorporate physics, thermodynamics, heat and mass transfer, and physical chemistry. More recently, modeling has focused on optimizing trade-offs between drying rate, energy consumption, and product quality. For example, in wheat, both bread-making quality and germination rates are considered critical quality parameters and can be negatively affected by improper drying conditions.
+
+
+== Grain Drying Fundamentals ==
+Drying begins at the bottom of the bin, where the drying air first contacts the grain. The dry air is drawn or forced upward by a fan through the layers of wet grain. Drying occurs within a distinct layer, typically 0.3 to 0.6 m (1 ft 0 in to 2 ft 0 in) (1 to 2 ft (0.30 to 0.61 m)) thick, known as the drying zone. The drying zone moves from the bottom of the bin to the top. When it reaches the highest layer, the grain is dry. Grain below the drying zone reaches equilibrium moisture content with the drying air, indicating it is safe for storage, while grain above the zone still requires drying. The humid air is then expelled from the bin through an exhaust vent.
+
+
+=== Allowable Storage Time ===
+Allowable storage time is an estimate of how long grain can be stored before significant spoilage occurs while maintaining acceptable quality. Fungi and molds are the primary concerns during grain storage. Other factors, including insects, rodents, and bacteria, also influence storage conditions. The lower the grain temperature, the longer the allowable storage time will be.
+
+
+=== Proper Moisture Levels for Safe Storage ===
+Long-term safe storage is possible if grain moisture content is maintained at 14% or less and the grain is protected from insects, rodents, and birds. The following table provides recommended moisture content levels for safe storage:
+
+
+=== Equilibrium Moisture Content ===
+Moisture content in grain is related to the relative humidity and the temperature of the surrounding air. Equilibrium moisture content (EMC) is reached when grain neither gains nor loses moisture when in contact with the surrounding air. The final moisture content of the grain is primarily determined by the relative humidity of the drying air. Low relative humidity indicates dry air with a high potential for moisture absorption. A temperature increase of 20 °F (11 °C) generally reduces relative humidity by half.
+
+
+=== Temperature ===
+Heated air may be used in the grain drying process. It not only accelerates moisture migration within the kernel, but also facilitates surface moisture evaporation. A primary concern with heated air drying is the potential for high kernel temperatures. Typically, kernel temperature remains lower than the air temperature. Maximum allowable kernel temperatures vary depending on the intended use of the grain. For example, seed corn typically has a maximum temperature limit of 110 °F (43 °C), while corn for livestock feed can tolerate up to 180 °F (82 °C).
+
+
+=== Aeration ===
+Aeration refers to the process of moving air through a grain mass. Airflow is measured in cubic feet per minute (CFM) per bushel of grain. In grain drying, the drying time is largely dependent on aeration rates. Insufficient airflow can lead to grain damage before drying is complete. Fans are used to move air through grain.
+
+
+== Drying Cost ==
+The drying cost is made up of two parts: the capital cost and the operating cost. Capital cost largely depends on the required drying rate and equipment investment. Operating cost includes fuel, electricity, and labor. The energy required to dry a bushel of grain is generally similar across different drying methods. However, energy costs vary based on the method used, with some relying heavily on natural air, while others utilize LP heat or natural gas. Fundamentally, fuel and electrical power constitute the major portions of the operating cost. Drying cost is influenced by the energy (measured in BTUs) required to achieve the desired temperature and moisture content change from ambient conditions.
+
+
+== Classification of Grain Drying Methods According to Mode of Heat Transfer ==
+In-Storage Drying Methods
+Low-temperature drying
+Multiple-layer drying
+Batch Drying Methods
+Bin batch drying
+Column batch drying
+Continuous Flow Drying Methods
+Cross-flow drying
+Counter-flow drying
+Concurrent-flow drying
+
+
+=== In-Storage Drying Methods ===
+
+
+==== Low-temperature Drying ====
+In-storage drying methods refer to processes where grain is dried and stored within the same container. Low-temperature drying, also known as near-ambient drying, is one such method. Four major factors influence low-temperature drying: weather variability, harvest moisture content, airflow in the storage bin, and the amount of heated air. Most low-temperature dryers are designed to dry grain as slowly as possible while minimizing spoilage. It is suggested that low-temperature drying systems are optimally operated when the average daily temperature is 30 to 50 °F (−1 to 10 °C). Rather than precisely controlling drying air temperature, low-temperature drying primarily focuses on managing relative humidity to achieve uniform equilibrium moisture content (EMC) across all grain layers.
+The low-temperature drying process typically takes from 5 days to several months, depending on variables such as weather conditions, airflow rate, initial moisture content, and the amount of supplemental heat used. Among these, airflow is a critical factor. Insufficient airflow can lead to grain spoilage before drying is complete.
+By incorporating supplemental heated air (e.g., from LP, electric, or solar sources), the relative humidity of the drying air can be better controlled to achieve the desired moisture content. Heated air dryers are typically employed when the ambient relative humidity exceeds 70%. In electric heat dryers, an electrical resistance heater is usually placed before the fan to warm the airstream. In some cases, a humidistat is employed to control the heater. In solar heat dryers, the drying air first passes through a solar collector to be heated (typically resulting in a 10 to 12 °F (5.6 to 6.7 °C) temperature rise), then enters the bin via the fan and motor.
+Advantages of in-storage low-temperature drying include quick bin filling, high-quality product preservation, and fewer equipment requirements. Disadvantages include longer drying times, electrical demand if using electric heat, the need for high management skills, and variability in harvest moisture content.
+
+
+==== Multiple-layer Drying ====
+Multiple-layer drying refers to methods that utilize LP heat or natural gas for drying grain (often corn). Compared to low-temperature methods, multiple-layer drying employs higher temperatures, resulting in a shorter allowable storage time.
+Multiple-layer drying without stirring is a basic method where an airstream, heated by an LP burner, is introduced into the grain by a fan. Typically, the temperature rise after the LP burner is kept low to prevent overdrying of the grain in the bottom layers of the bin. Once the grain in the bin is sufficiently dried, the burner is turned off, and the fan continues to operate to cool the grain to ambient temperature. Advantages of multiple-layer drying without stirring include minimal grain handling and the ability for the bin to serve as both dryer and storage. Disadvantages include slower filling rates and potential overdrying in the bottom layers.
+Multiple-layer drying with stirring not only promotes more uniform drying from top to bottom but also decreases the airflow resistance of the grain bed. Moreover, a stirring system can prevent overdrying in the bottom layer and achieve a more uniform grain moisture content throughout the bin. When drying is complete, the burner is turned off while the fan and stirrer continue to operate to homogenize the grain's moisture content and temperature. The advantages of adding stirring include preventing overdrying, accelerating drying, and increasing the allowable fill rate. Disadvantages of a stirring system include additional expenses and a reduction in effective bin capacity.
+
+
+=== Batch drying methods ===
+
+
+==== Bin-Batch Drying ====
+Bin-batch drying is a method that utilizes a bin to dry grain in batches. A certain amount of grain, typically in a layer of 5 to 10 cm (2 to 4 inches), is placed in the bin, dried, and then cooled. After this, the batch is removed, and the process is repeated. Bin-batch drying typically utilizes a bin with a full perforated floor for airflow. Without stirring, a wide variety of equipment is available, and the batch can serve as both dryer and cooler. However, this method may result in a large moisture gradient from top to bottom and incur time losses during loading and unloading. When a stirring system is added, the problem of non-uniform moisture content is mitigated; however, the stirrer itself represents an added expense. Using a bin-batch roof dryer can alleviate time losses associated with loading and unloading. In such dryers, a drying floor is located under the bin roof, and the drying fan and burner are installed high on the bin wall. Upon completion of the drying process, the grain is transferred to the regular bin floor, thereby reducing unloading time. However, bin-batch roof dryers do not typically have wet grain holding capacity and involve higher equipment costs.
+
+
+==== Column Batch Drying ====
+The column in this type of dryer is formed by two vertical perforated steel sheets, typically enclosing a grain bed about 30 cm (12 inches) thick. The capacity of column batch dryers is generally too small for bulk grain storage. Advantages of column batch (stationary bed) dryers include their portability and dual function as dryer and cooler. Disadvantages include time loss during cooling, loading, and unloading, and potentially unequal moisture distribution upon completion of drying. When a column batch recirculating dryer is used, the problem of moisture content variation is mitigated, but the additional handling processes may increase the risk of grain spoilage.
+
+
+=== Continuous Flow Drying Methods ===
+In the United States, continuous counterflow dryers may also be found on-farm, where a bin is adapted for slowly drying grain fed at the top and removed at the bottom by a sweeping auger.
+
+
+==== Cross-Flow Drying ====
+In cross-flow dryers, the airstream is perpendicular to the grain flow. Consequently, grain closer to the drying air is often over-dried, while grain on the opposite side may be under-dried. A moisture gradient therefore exists within the grain mass upon completion of drying. In practice, lower airflow rates tend to result in greater variation in grain moisture content across the column.
+
+
+==== Concurrent-Flow Drying ====
+In concurrent-flow dryers, both the grain and air move in the same direction, meaning the wettest grain is exposed to the hottest drying air. The kernels ideally leave the drying region with uniform temperature and moisture content. Energy efficiency is typically 40% better compared to cross-flow dryers. However, the grain bed depth must be greater than 30 cm (12 inches) compared to cross-flow types. Consequently, fan power requirements are higher in this type of dryer.
+
+
+==== Counter-Flow Drying ====
+In counter-flow dryers, the grain and air move in opposite directions, meaning the driest grain is exposed to the hottest drying air. Similar to concurrent-flow dryers, the kernels ideally leave the drying region with uniform temperature and moisture content. Suggested air temperatures are typically less than 180 °F (82 °C) because the driest kernels are more susceptible to heat damage.
+
+
+== Drying Specific Crops ==
+
+
+=== Sunflower Drying ===
+Different types of sunflowers require varying moisture content for preservation. Oilseed sunflowers are typically dried to 9% moisture content, while birdseed sunflowers are dried to 10%. Compared to corn, sunflowers are generally easier to dry and store safely. Furthermore, high temperatures may not have an adverse effect on sunflower kernels, possibly due to their fatty acid composition. No evidence of damage has been reported when air temperatures up to 220 °F (104 °C) were used for drying. However, fine hairs and fibers on the seed coat of sunflowers can pose a fire hazard. It is therefore suggested to remove any flammable particles before heating the sunflowers.
+
+
+=== Bean Drying ===
+The seed coat of beans is quite fragile and susceptible to cracking and splitting, which can lead to producer losses. Studies suggest that to prevent cracking, drying air should be maintained above 40% relative humidity.
+
+
+=== Corn Drying ===
+When drying corn kernels, it is important to consider that cracks and fractures can lead to various problems during both storage and processing. A major problem resulting from high-temperature drying followed by rapid cooling is stress-cracking. Stress-cracking occurs when fractures develop in the corn endosperm. Stress-cracked kernels often absorb water too quickly, are more prone to breakage, and are increasingly susceptible to insect and mold damage during dry storage. To reduce grain loss due to stress-cracking, methods such as medium-temperature drying with slow cooling, or natural air and low-temperature drying, should be employed.
+
+
+== History ==
+The era in which millions of tons of grain are dried by fuel-powered or electric-powered dryers at industrial scale as a routine matter of course did not begin until the postwar era after World War II. Its advent was necessary for the advent of ubiquitous combine harvesting in all regions, even humid ones and higher-latitude cooler ones, as combining involves no time interval between reaping and threshing, unlike traditional harvesting of cereal grains, which involved shocking (stooking) the grain and allowing it to air dry for weeks in an intermediate step before threshing. As recently as the 1930s, when Cyrus McCormick III wrote his seminal history of the mechanization of grain harvesting (The Century of the Reaper), the mechanical prowess of combine design had already become substantially advanced, but the moisture of the grain still represented a great barrier to extending combining to ubiquity. The general sweep of advancement of mechanized bulk materials handling that occurred in the mid-20th century was of a piece with these other interrelated aspects of novel systems, including greatly advanced trucking, power farming equipment, roadbuilding, electrification, distribution infrastructure for LPG and fuel oil, and so on. All of these factors acting in concert were necessary to make possible the era in which humans produce grain in affordable abundance with extensive mechanization and very little labor per ton.
+
+
+== References ==

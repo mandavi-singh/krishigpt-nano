@@ -1,0 +1,133 @@
+Regenerative agriculture is a conservation and rehabilitation approach to food and farming systems. It focuses on topsoil regeneration, increasing biodiversity, enhancing ecosystem services, supporting biosequestration, increasing resilience to climate change, and strengthening the health and vitality of farm soil.
+Regenerative agriculture is not a specific practice. It combines a variety of sustainable agriculture techniques. Practices include maximal recycling of farm waste and adding composted material from non-farm sources.
+Regenerative agriculture claims to mitigate climate change through carbon dioxide removal from the atmosphere and sequestration. Carbon sequestration is gaining popularity in agriculture from individuals as well as groups. However, such claims have also been subject to criticism by scientists.
+
+
+== Definition ==
+A 2020 review of 229 journal articles and 25 practitioner websites found that regenerative agriculture lacked both a legal or regulatory definition and a broadly accepted definition in common usage. Definitions varied considerably: some focused on particular practices, such as cover cropping, livestock integration, and reduced tillage, while others emphasized outcomes such as improved soil health, carbon sequestration, and increased biodiversity. The authors noted that process-based and outcome-based definitions may conflict and can have different implications for policy, certification, and carbon-payment schemes. They did not endorse any single definition and cautioned that the frequency with which particular processes or outcomes appeared in the literature did not make them more valid or preferable. Because the term is used in many different ways, they recommended defining it carefully and comprehensively for each specific purpose and context.
+
+
+== History ==
+
+
+=== Origins ===
+Regenerative agriculture is based on various agricultural and ecological practices, with a particular emphasis on minimal soil disturbance and the practice of composting. Similar ideas focus on "sea minerals" and innovations in no-till practices, such as slash and mulch in tropical regions. Sheet mulching is a regenerative agriculture practice that smothers weeds and adds nutrients to the soil below.
+In the early 1980s, the Rodale Institute began using the term 'regenerative agriculture'. Rodale Publishing formed the Regenerative Agriculture Association, which began publishing regenerative agriculture books in 1987 and 1988.
+
+By marching forward under the banner of sustainability we are, in effect, continuing to hamper ourselves by not accepting a challenging enough goal. I am not against the word sustainable, rather I favor regenerative agriculture.
+However, the institute stopped using the term in the late 1980s, and it only appeared sporadically (in 2005 and 2008), until they released a white paper in 2014, titled "Regenerative Organic Agriculture and Climate Change". The paper's summary states, "we could sequester more than 100% of current annual CO2 emissions with a switch to common and inexpensive organic management practices, which we term 'regenerative organic agriculture.'" The paper described agricultural practices, like crop rotation, compost application, and reduced tillage, that are similar to organic agriculture methods. 
+
+In 2002, Storm Cunningham documented the beginning of what he called "restorative agriculture" in his first book, The Restoration Economy. Cunningham defined restorative agriculture as a technique that rebuilds the quantity and quality of topsoil, while also restoring local biodiversity (especially native pollinators) and watershed function. Restorative agriculture was one of the eight sectors of restorative development industries/disciplines in The Restoration Economy.
+
+
+=== Developments (since 2010) ===
+Regenerative agriculture has appeared in academic research since the early to mid 2010s in the fields of environmental science, plant science, and ecology. As the term expands in use, many books have been published on the topic and several organizations started to promote regenerative agriculture techniques. Allan Savory gave a TED talk on fighting and reversing climate change in 2013. He also launched The Savory Institute, which educates ranchers on methods of holistic land management. Abe Collins created LandStream to monitor ecosystem performance in regenerative agriculture farms. Eric Toensmeier had a book published on the subject in 2016. However, researchers at Wageningen University in the Netherlands found there to be no consistent definition of what people referencing "regenerative agriculture" meant. They also found that most works on this topic were instead authors' attempts to shape what regenerative agriculture meant.
+In 2011, the (not for profit) Mulloon Institute was founded in New South Wales, Australia, to develop and promote regenerative practices to reclaim land as water-retentive areas by slowing the loss of water from land. The members of the Institute created a 22-weir in-stream project with neighbours over 2 kilometers of Mulloon Creek. A study indicates that the outcomes were positive but relatively unpredictable, and that suitability of ground conditions on site was a key for success. Bottom-up change in the context of Australian regenerative agriculture is a complex set of narratives and barriers to change affecting farmers. A West Australian government-funded survey of land hydration was conducted by the Mulloon Institute in June 2022, which concluded that water retention projects supported the regeneration of native plant species.
+Several large corporations have also announced regenerative agriculture initiatives in the last few years. In 2019, General Mills announced an effort to promote regenerative agriculture practices in their supply chain. The farming practices have received criticism from academic and government experiments on sustainability in farming. In particular, Gunsmoke Farm partnered with General Mills to transition to regenerative agriculture practices and become a teaching hub for others. Experts from the area have expressed concerns about the farm now doing more harm than good, with agronomist Ruth Beck stating that "Environmental marketing got ahead of what farmers can actually do". More recent debates highlight concerns that corporate actors may be co-opting regenerative agriculture, invoking the term for marketing purposes while neglecting its substantive practices.
+In February 2021, the regenerative agriculture market gained traction after Joe Biden's Secretary of Agriculture Tom Vilsack made reference to it during his Senate Confirmation hearing. The Biden administration wants to utilize $30 billion from the USDA's Commodity Credit Corporations to incentivise farmers to adopt sustainable practices. Vilsack stated in the hearing, "It is a great tool for us to create the kind of structure that will inform future farm bills about what will encourage carbon sequestration, what will encourage precision agriculture, what will encourage soil health and regenerative agricultural practices." During the House of Representatives Committee on Agriculture's first hearing on climate change, Gabe Brown, a proponent of regenerative agriculture, testified about the role of regenerative agriculture in both the economics and sustainability of farming.
+Several days before the opening of the 2022 United Nations Climate Change Conference, a report was published, sponsored by some of the biggest agricultural companies. The report was produced by Sustainable Markets Initiative, an organisation of companies trying to become climate friendly, established by King Charles III. According to the report, regenerative agriculture is already implemented on 15% of all cropland. Despite this, the rate of transition is "far too slow" and must be tripled by the year 2030 to prevent the global temperature passing the threshold of 1.5 degrees above preindustrial levels. Agricultural practices must immediately change in order to avoid the damage that would result. One of the authors emphasised that "The interconnection between human health and planetary health is more evident than ever before." The authors proposed a set of measures for accelerating the transition, like creating metrics for measuring how much farming is sustainable, and paying farmers who will change their farming practices to more sustainable ones.
+
+
+== Principles ==
+Several individuals, groups, and organizations have attempted to define the principles of regenerative agriculture. In their review of the existing literature on regenerative agriculture, researchers at Wageningen University created a database of 279 research articles on regenerative agriculture. Their analysis of this database found that people using the term regenerative agriculture were using different principles to guide regenerative agriculture efforts. The 4 most consistent principles were found to be, 1) enhancing and improving soil health, 2) optimization of resource management, 3) alleviation of climate change, and 4) improvement of water quality and availability.
+
+
+=== Notable definitions of principles ===
+
+
+==== Terra Genesis International ====
+Terra Genesis International, an environmental regenerative design firm working to mesh economics with ecology, promotes a holistic definition of regenerative agriculture practices built on four principles. First, regenerative agriculture practices must continually work to better entire agroecosystems, specifically in their biodiversity and soil and water quality. Second, each farm should make intentional designs and decisions that reflect its core values and circumstances. The third principle involves the development of fair and equal roles and interactions of all stakeholders of the farm. Lastly, regenerative agriculture practices must constantly progress on the individual, farm, and community levels in order to maximize all potential benefits.
+
+
+==== Philip Loring ====
+Instead of focusing on the specifics of food production technologies, human ecologist Philip Loring suggests a food system-level focus on regeneration, arguing that it is the combination of flexibility and diversity in our food systems that supports regenerative ecological practices. Loring argues that, depending on the relative flexibility of people in the food system with respect to the foods they eat and the overall diversity of foods being produced and harvested, food systems can fall into one of four general patterns:
+Firstly, food systems can be regenerative, with high diversity and high flexibility. Ecosystems are able to recycle and replenish used energy into new usable forms, such as those found in many Indigenous food systems.
+Food systems can also be degenerative, with high diversity and low flexibility. This occurs when people fixate on specific resources and only switch to alternatives once the preferred commodity is exhausted, such as fishing down the food web.
+A coerced food system involves low diversity and low flexibility. People subsidize prized resources at the expense of the surrounding ecosystem, such as in the Maine Lobster fishery.
+Impoverished food systems have low diversity but high flexibility. People are willing to choose sustainable options, but because they are living in degraded ecosystems and possibly a poverty trap, cannot realistically allow ecosystems and resources to regenerate.
+Loring's typology is based on a principle he calls the Conservation of Change, which states that change must always happen somewhere in ecosystems, and derives from the Second Law of Thermodynamics and Barry Commoner's premise in that, in ecosystems, "there is no free lunch".
+
+
+== Practices ==
+Regenerative farming involves the use many different practices and models, often simultaneously.
+
+
+=== Aquaculture ===
+Aquaculture is a fishing technique involving the rearing of fish in the ocean in fish farms. Aquaculture prioritizes sustainability and innate environmental productivity as opposed to traditional fishing techniques. Regenerative ocean farms are a form of aquaculture where shellfish and seaweeds are grown.
+
+
+=== Holistically managed grazing ===
+Holistically managed grazing is a practice that is based on consistent rotation of livestock herds onto different fields in order to mimic how natural herds would graze. Livestock herds trample plants, which is shown to increase soil restoration, stimulate plant regrowth, increase soil carbon storage, and water infiltration.
+
+
+=== Nature farming ===
+Nature farming is a practice that originated in Japan and involves relying on the power of ecosystems to produce abundant yields. Pesticides and chemical fertilizers are not used, and every organism is valued as a contributor to the ecosystem. Permaculture design is a similar practice.
+
+
+=== Natural sequence farming (NSF) ===
+Natural sequence farming is a technique that prioritizes the natural waterways and surrounding vegetation of an environment. Natural sequence farming often promotes the slowing of water flow, which can have a positive impact on water absorption in the soil and reduced erosion.
+
+
+=== Silvopasture ===
+Silvopasture is the integration of trees, forage, and livestock on the same plot of land. Silvopasture improves productivity, animal wellbeing, and ecosystem services. 
+
+
+=== Syntropic agriculture ===
+Syntropic agriculture mimics the natural establishment and dynamics of forests, aiming to replicate the natural stages of ecological succession. This system organizes crops in stratified layers and temporal sequences that reflect different stages of forest development (from pioneer species to long-term canopy species) without the use of synthetic fertilizers or chemical pesticides. Instead, syntropic agriculture relies on biomass generation, pruning, and plant diversity to regulate pests and maintain fertility. Research suggests these techniques positively boost plant growth, survival, and resistance to disease.
+
+
+== Environmental impacts ==
+A 2023 literature review found that several practices commonly associated with regenerative agriculture (reduced tillage, crop-residue retention, cover cropping, crop–livestock integration, and agroforestry) can improve soil carbon, soil health, or crop yields under certain climatic and soil conditions. However, the authors noted that many farmers remain reluctant to adopt regenerative practices because evidence for their claimed benefits and profitability is still limited. They also emphasized that outcomes vary among agroecosystems and cannot necessarily be generalized across regions, and therefore called for rigorous long-term trials comparing regenerative and conventional farming systems.
+
+
+=== Carbon sequestration ===
+
+It is estimated that 30–75% of global soil organic matter has been lost since the advent of tillage-based farming. Greenhouse gas (GHG) emissions associated with conventional soil and cropping activities represent 13.7% of anthropogenic emissions, or 1.86 Pg-C y−1. The raising of ruminant livestock also contributes GHGs, representing 11.6% of anthropogenic emissions, or 1.58 Pg-C y−1. Furthermore, runoff and siltation of water bodies associated with conventional farming practices promote eutrophication and emissions of methane.
+There is mixed evidence on the carbon sequestration potential of regenerative grazing. A meta-analysis of relevant studies between 1972 and 2016 found that Holistic Planned Grazing had no better effect than continuous grazing on plant cover and biomass, although it may have benefited some areas with higher precipitation. However, some studies have found positive impacts compared to conventional grazing. One study found that regenerative grazing management, particularly adaptive multi-paddock (AMP) grazing, has been shown to reduce soil degradation compared to continuous grazing and thus has the potential to mitigate carbon emissions from soil. Another study found that crop rotation and maintenance of permanent cover crops help to reduce soil erosion as well, and in conjunction with AMP grazing, may result in net carbon sequestration.
+
+
+=== Nutrient cycling ===
+Regenerative management of ruminant livestock in mixed-crop and grazing agroecosystems has been shown to improve soil nutrient cycling by encouraging the consumption and decomposition of residual crop biomass and promoting the recovery of nitrogen-fixing plant species. Regenerative crop management practices, namely the use of crop rotation to ensure permanent ground cover, have the potential to increase soil fertility and nutrient levels if nitrogen-fixing crops are included in the rotation.
+
+
+=== Biodiversity ===
+Adaptive multi-paddock grazing (AMP) can help improve biodiversity since increased soil organic carbon stocks also promotes a diversity of soil microbial communities. Implementation of AMP in North American prairies, for example, has been correlated with an increase in forage productivity and the restoration of plant species that had previously been decimated by continuous grazing practices. Furthermore, studies of arid and semiarid regions of the world where regenerative grazing has been practiced for a long time following prior periods of continuous grazing have shown a recovery of biodiversity, grass species, and pollinator species.
+
+
+== Criticism ==
+Some members of the scientific community have criticized some of the claims made by proponents of regenerative agriculture as exaggerated and unsupported by evidence.
+
+One of the prominent proponents of regenerative agriculture, Allan Savory, claimed in his TED talk that holistic grazing could reduce carbon-dioxide levels to pre-industrial levels in a span of 40 years. According to Skeptical Science: "it is not possible to increase productivity, increase numbers of cattle and store carbon using any grazing strategy, never-mind Holistic Management [...] Long term studies on the effect of grazing on soil carbon storage have been done before, and the results are not promising.[...] Because of the complex nature of carbon storage in soils, increasing global temperature, risk of desertification and methane emissions from livestock, it is unlikely that Holistic Management, or any management technique, can reverse climate change."
+Commenting on his TED talk "How to Fight Desertification and Reverse Climate Change", Savory has since denied claiming that holistic grazing can reverse climate change, saying that "I have only used the words address climate change... although I have written and talked about reversing man-made desertification". Savory has faced criticisms for claiming the carbon sequestration potential of holistic grazing is immune from empirical scientific study. For instance, in 2000, Savory said that "the scientific method never discovers anything" and "the scientific method protects us from cranks like me". A 2017 factsheet authored by Savory stated that "Every study of holistic planned grazing that has been done has provided results that are rejected by range scientists because there was no replication!". 
+TABLE Debates sums this up by saying "Savory argues that standardisation, replication, and therefore experimental testing of HPG [Holistic Planned Grazing] as a whole (rather than just the grazing system associated with it) is not possible, and that therefore, it is incapable of study by experimental science", but "he does not explain how HPG can make causal knowledge claims with regards to combating desertification and climate mitigation, without recourse to science demonstrating such connections."
+According to a 2016 study published by the Swedish University of Agricultural Sciences, the actual rate at which improved grazing management could contribute to carbon sequestration is seven times lower than the claims made by Savory. The study concludes that holistic management cannot reverse climate change. A study by the Food and Climate Research Network in 2017 concluded that Savory's claims about carbon sequestration are "unrealistic" and very different from those issued by peer-reviewed studies.
+Tim Searchinger and Janet Ranganathan have expressed concerns about emphasis upon "Practices That Increase Soil Carbon at the Field Level" because "overestimating potential soil carbon gains could undermine efforts to advance effective climate mitigation in the agriculture sector". Instead Tim Searchinger and Janet Ranganathan say, "preserving the huge, existing reservoirs of vegetative and soil carbon in the world's remaining forests and woody savannas by boosting productivity on existing agricultural land (a land sparing strategy) is the largest, potential climate mitigation prize of regenerative and other agricultural practices. Realizing these benefits requires implementing practices in ways that boost productivity and then linking those gains to governance and finance to protect natural ecosystems. In short, produce, protect and prosper are the most important opportunities for agriculture."
+
+
+=== Indigenous roots and appropriation ===
+Regenerative agriculture was practiced for hundreds, if not thousands, of years by Indigenous groups. A paper published in the journal Agriculture and Human Values argues that Western systems have ignored this and the relational values of Indigenous systems in their regenerative agriculture work, leading to epistemic injustices.
+
+
+== See also ==
+
+Agroecological restoration
+Agroecology – Study of ecological processes in agriculture
+Agroforestry – Land use management system
+Biointensive agriculture – Organic agricultural system based on maximum yield
+Carbon farming – Agricultural methods that capture carbon
+Farmer-managed natural regeneration – Technique to combat deforestation and desertification
+Korean natural farming – Agricultural method
+Permaculture – Approach to agriculture and land management
+Regenerative design – Process-oriented whole systems approach to design
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Kiss the Ground at IMDb
+Common Ground at IMDb
+"Regenerative Agriculture". Regeneration.org. 2021.

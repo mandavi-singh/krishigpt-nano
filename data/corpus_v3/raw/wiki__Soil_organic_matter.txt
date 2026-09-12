@@ -1,0 +1,92 @@
+Soil organic matter (SOM) is the organic matter component of soil, consisting of plant and animal detritus at various stages of decomposition, cells and tissues of soil microbes, and substances that soil microbes synthesize. SOM provides numerous benefits to soil's physical and chemical properties and its capacity to provide regulatory ecosystem services. SOM is especially critical for soil functions and quality.
+The benefits of SOM result from several complex, interactive, edaphic factors; a non-exhaustive list of these benefits to soil function includes improvement of soil structure, aggregation, water retention, soil biodiversity, absorption and retention of pollutants, buffering capacity, and the cycling and storage of plant nutrients. SOM increases soil fertility by providing cation exchange sites and being a reserve of plant nutrients, especially nitrogen (N), phosphorus (P), and sulfur (S), along with micronutrients, which the mineralization of SOM slowly releases. As such, the amount of SOM and soil fertility are significantly correlated.
+SOM also acts as a major sink and source of soil carbon (C). Although the C content of SOM varies considerably, SOM is ordinarily estimated to contain 58% C, and "soil organic carbon" (SOC) is often used as a synonym for SOM, with measured SOC content often serving as a proxy for SOM, as it makes up a majority of SOM. Soil represents one of the largest C sinks on Earth, containing 2-3x more C than both the atmosphere and vegetation combined. It is significant in the global carbon cycle and, therefore, for climate change mitigation, as carbon can be sequestered in soil for centuries to millennia. Therefore, SOM/SOC dynamics and the capacity of soils to provide the ecosystem service of carbon sequestration through SOM management have received considerable attention.
+
+The concentration of SOM in soils generally ranges from 1% to 6% of the total mass of topsoil for most upland soils. Soils whose upper horizons consist of less than 1% of organic matter are mainly limited to deserts, while the SOM content of soils in low-lying, wet areas can be as great as 90%.  Soils containing 12% to 18% SOC are generally classified as organic soils. The accumulation of organic matter is also tightly associated with the type of soils, which is controlled by multiple factors (Cl, O, R, P, T) of soil formation. 
+SOM can be divided into three genera: the living biomass of microbes, fresh and partially decomposed detritus, and more stabilized organic C also sometimes referred to as humus. Surface plant litter, i.e., fresh vegetal residue, is generally excluded from SOM.
+
+
+== SOC distribution with depth ==
+
+Within the soil profile, soil organic matter is distributed differently between the surface layer (~20 cm depth) and the deeper, mineral soil (below 20–30 cm). About 70% of global soil organic carbon occurs at depths below 20 cm.
+ While the surface soil typically has higher concentrations of SOC, ranging from 29%-50% SOC depending on the ecosystem, the deeper soils actually accumulate more SOC due to their increased mass. An increase in SOC age (found from radiocarbon dates) between surface soil and deeper soil demonstrates how deep soil may be accumulating and storing C for longer periods of time, also contributing to why there is more SOC stored at depth.
+Additionally, the composition of the SOC changes with depth, with more biotic influences in the surface soil and more mineral influences dominating SOC at depth. This domination of mineral influences at depth, and also higher amount of SOC found in deeper soil has to do with mineral associated organic matter (MAOM or MAOC for mineral associated organic C) which is typically thought to be resistant to microbial degradation in comparison to particulate organic matter (POM or POC for organic C). 
+MAOM is thought to be low molecular weight compounds of plant and microbial origin that is associated with minerals through chemical bonds between SOM and charged mineral surfaces as well as occlusion due to  aggregates. This mineral association acts as a protection for the SOM, as it is less accessible for decomposers to access. MAOM is typically more persistent in the soil, staying there for centuries, compared to POM, which remains for only a few years to decades before being decomposed. Whereas POM is thought to be more fragments of plant compounds like phenols, cellulose and fungal derived compounds (chitin) that have not experienced much decomposition.
+
+
+== Sources ==
+The primary source of SOM is vegetal detritus. In forests and prairies, for example, different soil organisms decompose the fresh detritus into simpler compounds. This involves several stages, the first being primarily mechanical and becoming more chemical as decomposition progresses. The microbial decomposers are included in the SOM and form a food web of organisms that prey upon each other and subsequently become prey.
+Above detritivores, there are also herbivores that consume fresh vegetal matter, the residue of which then passes to the soil. The products of the metabolisms of these organisms are the secondary sources of SOM, which also includes their corpses. Some animals, like earthworms, termites, ants, and millipedes contribute to both vertical and horizontal translocation of organic matter.
+Additional sources of SOM include plant root exudates and charcoal.
+
+
+== Plant residue ==
+
+The water content of most vegetal detritus ranges from 60% to 90%. The dry matter consists mainly of carbon, oxygen, and hydrogen. Although these three elements make up about 92% of the dry weight of the organic matter in the soil, other elements present are essential for the nutrition of plants, including nitrogen, phosphorus, potassium, sulfur, calcium, magnesium, and many micronutrients.
+Organic compounds in vegetal detritus include:
+
+Carbohydrates that are composed of carbon, hydrogen, and oxygen and range in complexity from relatively simple sugars to large molecules of cellulose.
+Fats that are composed of glycerids of fatty acids, like butyric, stearic, and oleic. They also include carbon, oxygen, and hydrogen.
+Lignins are complex compounds from the older wood parts. They are resistant to decomposition. Lignins are composed primarily of carbon, oxygen, and hydrogen.
+Proteins composed of nitrogen, carbon, hydrogen, and oxygen; and small amounts of sulfur, iron, and phosphorus.
+Charcoal is elemental carbon derived from incomplete combustion of organic matter. It is resistant to decomposition.
+
+
+== Decomposition ==
+
+Vegetal detritus generally is not soluble in water and, therefore, is inaccessible to plants. It constitutes, nevertheless, the raw matter from which plant nutrients derive. Soil microbes decompose it through enzymatic biochemical processes, obtain the necessary energy from the same matter, and produce the mineral compounds that plant roots are apt to absorb. The decomposition of organic compounds specifically into mineral, i.e. inorganic, compounds, is denominated "mineralization". A portion of organic matter is not mineralized and instead decomposed into stable organic matter that is denominated "humus".
+The decomposition of organic compounds occurs at very different rates, depending on the nature of the compound. The ranking, from fast to slow rates, is:
+
+Sugars, starches, and simple proteins
+Proteins
+Hemicelluloses
+Cellulose
+Lignins and fats
+Chitin and waxes
+The reactions that occur can be included in one of three genera:
+
+Enzymatic oxidation that produces carbon dioxide, water, and heat. It affects the majority of the matter.
+A series of specific reactions liberates and mineralizes the essential elements nitrogen, phosphorus, and sulfur.
+Compounds that are resistant to microbial action are formed by modification of the original compounds or by microbial synthesis of new ones to produce humus.
+The mineral products are:
+
+Cellulose and hemicellulose undergo fast decomposition by fungi and bacteria, with a half-life of 12–18 days in a temperate climate. Brown rot fungi can decompose the cellulose and hemicellulose, leaving the lignin and phenolic compounds behind. Starch, which is an energy storage system for plants, undergoes fast decomposition by bacteria and fungi. Lignin consists of polymers composed of 500 to 600 units with a highly branched, amorphous structure, linked to cellulose, hemicellulose and pectin in plant cell walls. Lignin undergoes very slow decomposition, mainly by white rot fungi and actinomycetes; its half-life under temperate conditions is about six months.
+Lignin is resistant to breakdown and accumulates within the soil. It also reacts with proteins, which further increases its resistance to decomposition, including enzymatic decomposition by microbes. Fats and waxes from plant matter have still more resistance to decomposition and persist in soils for thousand years, hence their use as tracers of past vegetation in buried soil layers. Clay soils often have higher organic contents that persist longer than soils without clay as the organic molecules adhere to and are stabilised by the clay. Proteins normally decompose readily, to the exception of scleroproteins, but when bound to clay particles they become more resistant to decomposition. As for other proteins clay particles absorb the enzymes exuded by microbes, decreasing enzyme activity while protecting extracellular enzymes from degradation. The addition of organic matter to clay soils can render that organic matter and any added nutrients inaccessible to plants and microbes for many years. A study showed increased soil fertility following the addition of mature compost to a clay soil. High soil tannin content can cause nitrogen to be sequestered as resistant tannin-protein complexes.
+
+
+== Humus ==
+
+Humus refers to organic matter that has been decomposed by soil microflora and fauna to the point where it is resistant to further breakdown. Humus usually constitutes only five percent of the soil or less by volume, but it is an essential source of nutrients and adds important textural qualities crucial to soil health and plant growth. Humus also feeds arthropods, termites and earthworms which further improve the soil. The end product, humus, is suspended in colloidal form in the soil solution and forms a weak acid that can attack silicate minerals by chelating their iron and aluminum atoms. Humus has a high cation and anion exchange capacity that on a dry weight basis is many times greater than that of clay colloids. It also acts as a buffer, like clay, against changes in pH and soil moisture.
+As vegetal detritus decomposes, some microbially resistant compounds are let undecayed, including modified lignins, oils, fats, and waxes. Secondly, some new compounds are synthesized, like polysaccharides and polyuronids. These compounds are the basis of humus. New reactions occur between these compounds and some proteins and other products that contain nitrogen, thus incorporating nitrogen and avoiding its mineralization. Other nutrients are also protected in this way from mineralization.
+Humus formation is a process dependent on the amount of plant material added each year and the type of base soil. Both are affected by climate and the type of organisms present. Soils with humus can vary in nitrogen content but typically have 3 to 6 percent nitrogen. Raw organic matter, as a reserve of nitrogen and phosphorus, is a vital component affecting soil fertility. Humus also absorbs water, and expands and shrinks between dry and wet states to a higher extent than clay, increasing soil porosity. Humus is less stable than the soil's mineral constituents, as it is reduced by microbial decomposition, and over time its concentration diminishes without the addition of new organic matter. However, humus in its most stable forms may persist over centuries if not millennia. Charcoal is a source of highly stable humus, called black carbon, which had been used traditionally to improve the fertility of nutrient-poor tropical soils. This very ancient practice, as ascertained in the genesis of Amazonian dark earths, has been renewed and became popular under the name of biochar. It has been suggested that biochar could be used to sequester more carbon in the fight against the greenhouse effect.
+
+
+=== Humic substances ===
+Humic substances are classified into three genera based on their solubility in acids and alkalis, and also according to their stability:
+
+Fulvic acid is the genus that contains the matter that has the lowest molecular weight, is soluble in acids and alkalis, and is susceptible to microbial action.
+Humic acid is the genus that contains the intermediate matter that has medial molecular weight, is soluble in alkalis and insoluble in acids, and has some resistance to microbial action.
+Humin is the genus that contains the matter that has the greatest molecular weight, is the darkest in color, is insoluble in acids and alkalis, and has the greatest resistance to microbial action.
+Humic acids and fulvic acids, which begin as raw organic matter, are important constituents of humus. After the death of plants, animals, and microbes, microbes begin to feed on the residues through their production of extra-cellular soil enzymes, resulting finally in the formation of humus. As the residues break down, only molecules made of aliphatic and aromatic hydrocarbons, assembled and stabilized by oxygen and hydrogen bonds, remain in the form of complex molecular assemblages collectively called humus. Humus is never pure in the soil, because it reacts with metals and clays to form complexes which further contribute to its stability and to soil structure. Although the structure of humus has in itself few nutrients (with the exception of constitutive metals such as calcium, iron and aluminum) it is able to attract and link, by weak chemical bonds, cation and anion nutrients that can further be released into the soil solution in response to selective root uptake and changes in soil pH, a process of paramount importance for the maintenance of fertility in tropical soils.
+
+
+== Function in carbon cycling ==
+
+Soil has a crucial function in the global carbon cycle, with the global soil carbon pool estimated to be 2,500 gigatons. This is 3.3 times the amount of the atmospheric pool at 750 gigatons and 4.5 times the biotic pool at 560 gigatons. The pool of organic carbon, which occurs primarily in the form of SOM, accounts for approximately 1,550 gigatons of the total global carbon pool, with soil inorganic carbon (SIC) accounting for the remainder. The pool of organic carbon exists in dynamic equilibrium between gains and losses; soil may therefore serve as either a sink or source of carbon through carbon sequestration or greenhouse gas emissions, respectively, depending on exogenous factors.
+
+
+== Climatological influence ==
+The production, accumulation and degradation of organic matter are greatly dependent on climate. For example, when a thawing event occurs, the flux of soil gases with atmospheric gases is significantly influenced. Temperature, soil moisture and topography are the major factors affecting the accumulation of organic matter in soils. Organic matter tends to accumulate under wet or cold conditions where decomposer activity is impeded by low temperature or excess moisture which results in anaerobic conditions. Conversely, excessive rain and high temperatures of tropical climates enables rapid decomposition of organic matter and leaching of plant nutrients. Forest ecosystems on these soils rely on efficient recycling of nutrients and plant matter by the living plant and microbial biomass to maintain their productivity, a process which is disturbed by human activities. Excessive slope, in particular in the presence of cultivation for the sake of agriculture, may encourage the erosion of the top layer of soil which holds most of the raw organic material that would otherwise eventually become humus.
+
+
+== See also ==
+Biotic material – Any material originating from living organisms
+Detritus – Dead particulate organic material
+Immobilization (soil science)
+Mineralization (soil science) – Decomposition of organic matter
+Organic matter – Matter composed of organic compounds
+Soil carbon – Solid carbon stored in global soils
+Soil science – Study of soil as a natural resource on the surface of Earth
+
+
+== References ==

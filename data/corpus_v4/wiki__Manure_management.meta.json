@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Manure management",
+  "provider": "Wikipedia",
+  "title": "Manure management",
+  "url": "https://en.wikipedia.org/wiki/Manure%20management",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-09-06",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Manure_management.txt"
+}

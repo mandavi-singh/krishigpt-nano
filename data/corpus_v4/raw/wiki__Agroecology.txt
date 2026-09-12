@@ -1,0 +1,80 @@
+Agroecology is an academic discipline that studies ecological processes applied to agricultural production systems. Bringing ecological principles to bear can suggest new management approaches in agroecosystems. The term can refer to a science, a movement, or an agricultural practice. Agroecologists study a variety of agroecosystems. The field of agroecology is not associated with any one particular method of farming, whether it be organic, regenerative, integrated, or industrial, intensive or extensive, although some use the name specifically for alternative agriculture.
+
+
+== Definition ==
+Agroecology is broadly defined as an integrative approach that examines the ecological, social and economic relationship within agricultural systems. Dalgaard et al. refer to agroecology as the study of the interactions between plants, animals, humans and the environment within agricultural systems. Francis et al. also use the definition in the same way, but thought it should be restricted to growing food.
+Agroecology is a holistic approach that seeks to reconcile agriculture and local communities with natural processes for the common benefit of nature and livelihoods.
+Agroecology is inherently multidisciplinary, including sciences such as agronomy, ecology, environmental science, sociology, economics, history and others. Agroecology uses different sciences to understand elements of ecosystems such as soil properties and plant-insect interactions, as well as using social sciences to understand the effects of farming practices on rural communities, economic constraints to developing new production methods, or cultural factors determining farming practices. The system properties of agroecosystems studied may include: productivity, stability, sustainability and equitability. Agroecology is not limited to any one scale; it can range from an individual gene to an entire population, or from a single field in a given farm to global systems.
+Paul Wojtkowski differentiates the ecology of natural ecosystems from agroecology inasmuch as in natural ecosystems there is no role for economics, whereas in agroecology, focusing as it does on organisms within planned and managed environments, it is human activities, and hence economics, that are the primary governing forces that ultimately control the field. Wojtkowski discusses the application of agroecology in agriculture, forestry and agroforestry in his 2002 book.
+
+
+=== Varieties ===
+Agroecology can be described in many different approaches. One perspective emphasizes ecosystem agroecology, which draws from system ecology and focuses on understanding farms as integrated ecological systems. This approach analyzes energy flows, nutrient cycles, and the ecological interactions among biotic and abiotic components of an agroecosystem.
+Other scholars identify distinct historical traditions within agroecology. For example, Dalgaard et al. (2003) characterize agroecology as an integrative discipline combining agronomy, ecology, sociology, and economics. Within this view, what is often termed early integrative agroecology focuses on understanding interactions among plants, animals, humans, and their environment within agricultural landscapes.
+Over time, diverse methodological approaches have emerged depending on the values and goals prioritized. Some perspectives emphasize more quantitative, technology-driven, and ecological-analytical methods often described as “hard agroecology”. Others highlight cultural knowledge, farmer experience, local practices, and broader social dimensions sometimes referred to as “soft agroecology.” Although these exact labels do not always appear in the literature, they reflect the coexistence of both quantitative and qualitative approaches within the field.
+Today, the term agroecology is used flexibly and may refer to:
+
+A scientific discipline, focused on ecological and agricultural processes that support sustainable food systems
+A set of agricultural practices that harness ecological processes, biodiversity, nutrient recycling, agroforestry, intercropping, composting, and other nature-based methods.
+A social and political movement aimed at transforming food systems by promoting food sovereignty, equity, environmental justice, and the recognition of Indigenous and farmer knowledge
+This multi-layered use of the term encompassing science, practice, and movement has enabled agroecology to expand from the field or farm scale to the broader food-system scale, integrating ecological, social, economic, and cultural dimensions.
+
+
+=== Certification ===
+There are three varieties of agroecology that are both well defined and have a certification regime. These are firstly biodynamic farming, secondly organic agriculture, and thirdly Green Food (managed by China Green Food). For producers, certification enables certainty and oversight and the opportunity for achieving a premium price. For consumers, certification provides confidence that the stated good intentions have translated into actual production practices. Biodynamics is the oldest of the certified agroecologies, Organics is the most widely practised certified agroecology (in 188 countries), and Green Food is the newest certified agroecology and was developed in China.
+
+
+== History ==
+
+
+=== Overview ===
+The history of agroecology depends on whether it is considered a body of thought or a method of practice. Many indigenous cultures around the world have historically applied, and still apply, practices that today would be recognized as agroecological knowledge. Examples include Maori, Nahuatl, and many other indigenous peoples.
+The Mexica people that inhabited Tenochtitlan pre-colonization of the Americas used a process called chinampas that in many ways mirrors the use of composting in sustainable agriculture today. The use of agroecological practices such as nutrient cycling and intercropping occurs across hundreds of years and many different cultures. Indigenous peoples also currently make up a large proportion of people using agroecological practices, and those involved in the movement to move more farming into an agroecological paradigm.
+
+
+=== Pre-WWII academic thought ===
+According to Gliessman and Francis et al., agronomy and ecology were first linked with the study of crop ecology by Klages in 1928. This work is a study of where crops can best be grown.
+Wezel et al. say the first mention of the term agroecology was in 1928, with the publication of the term by Basil Bensin. Dalgaard et al. claim the German zoologist Friederichs was the first to use the name in 1930 in his book on the zoology of agriculture and forestry, followed by American crop physiologist Hansen in 1939, both using the word for the application of ecology within agriculture.
+
+
+=== Post-WWII academic thought ===
+Tischler's 1965 book Agrarökologie may be the first to be titled 'agroecology'. He analyzed the different components (plants, animals, soils and climate) and their interactions within an agroecosystem as well as the impact of human agricultural management on these components.
+Gliessman describes that post-WWII ecologists gave more focus to experiments in the natural environment, while agronomists dedicated their attention to the cultivated systems in agriculture, but in the 1970s agronomists saw the value of ecology, and ecologists began to use the agricultural systems as study plots, studies in agroecology grew more rapidly. More books and articles using the concept of agroecosystems and the word agroecology started to appear in 1970s. According to Dalgaard et al., it probably was the concept of "process ecology" such as studied by Arthur Tansley in the 1930s which inspired Harper's 1974 concept of agroecosystems, which they consider the foundation of modern agroecology. Dalgaard et al. claim Frederic Clements's investigations on ecology using social sciences, community ecology and a "landscape perspective" is agroecology, as well as Henry Gleason's investigations of the population ecology of plants using different scientific disciplines. Ethnobotanist Efraim Hernandez X.'s work on traditional knowledge in Mexico in the 1970s led to new education programs in agroecology.
+Works such as Silent Spring and The Limits to Growth caused the public to be aware of the environmental costs of agricultural production, which caused more research in sustainability starting in the 1980s. The view that the socio-economic context are fundamental was used in the 1982 article Agroecologia del Tropico Americano by Montaldo, who argues that this context cannot be separated from agriculture when designing agricultural practices. In 1985 Miguel Altieri studied how the consolidation of the farms and cropping systems impact pest populations, and Gliessman how socio-economic, technological, and ecological components gave rise to producer choices of food production systems.
+In 1995, Edens et al. in Sustainable Agriculture and Integrated Farming Systems considered the economics of systems, ecological impacts, and ethics and values in agriculture.
+
+
+=== Social movements ===
+Several social movements have adopted agroecology as part of their larger organizing strategy. Groups like La Via Campesina have used agroecology as a method for achieving food sovereignty. Agroecology has also been utilized by farmers to resist global agricultural development patterns associated with the green revolution.
+
+
+== By region ==
+
+
+=== Latin America ===
+
+
+=== Africa ===
+Garí wrote two papers for the FAO in the early 2000s about using an agroecological approach which he called "agrobiodiversity" to empower farmers to cope with the impacts of the AIDS on rural areas in Africa.
+In 2011, the first encounter of agroecology trainers took place in Zimbabwe and issued the Shashe Declaration.
+In Ethiopia, the Private Sector Incentives and Investments (PSii) project, following in the footprints of the Alliance of Bioversity International and CIAT (International Center for Tropical Agriculture), exemplifies the practical application of agroecology in developing nations. In October 2024, a PSii project in the Doyogena region of Ethiopia was awarded praise from local and agricultural officials. The project stressed the importance of practices such as rotation of faba beans and wheat to help enhance soil health, reduce chemical reliance, and increase productivity. These initiatives were put in place to promote climate resilient methods of agriculture and to diversify the many clusters of wheat farms in the area. The project has shown signs of immense success in both improvements in soil quality and crop yields, which has sparked conversations about possibilities of wider adoption in similar regions throughout the local area and throughout Africa.
+
+
+=== Europe ===
+The European Commission supports the use of sustainable practices such as agroecology through the Green Deal and the Farm to Fork Strategy. It provides guidance on such practices in its Operational guide on agroecology.
+
+
+== Debate ==
+Academic research areas that focus on topics related to agriculture or ecology, such as agronomy, veterinary science, environmental science, and others, are heatedly debating which model of agriculture or agroecology should be supported through policy. Agricultural departments of different countries support agroecology to varying degrees, with the UN perhaps its most prominent proponent. Debates around agroecology often reflect broader tensions in land and resource management, and Puerto Rico offers several examples of these dynamics. In recent years, conflicts have emerged over the conversion of agricultural land for large-scale solar energy projects, raising concerns among local farmers and environmental groups about food security, land sovereignty, and long-term projects of fertile soil.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==

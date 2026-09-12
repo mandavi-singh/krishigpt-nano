@@ -1,0 +1,9 @@
+{
+  "n_sentences_scanned": 87684,
+  "n_pairs_total": 666,
+  "n_train": 616,
+  "n_valid": 50,
+  "min_subject_freq": 30,
+  "source_train": "data\\corpus_v4\\agri_train_v4.txt",
+  "source_valid_excluded": "data\\corpus_v4\\agri_valid_v4.txt"
+}

@@ -1,0 +1,82 @@
+Many countries have standardized the labeling of fertilizers to indicate their contents of major nutrients. The most common labeling convention, the NPK or N-P-K label, shows the amounts of the chemical elements nitrogen, phosphorus, and potassium.
+
+
+== Common labeling conventions ==
+
+
+=== The NPK analysis label ===
+
+Fertilizers are usually labeled with three numbers, as in 18-20-10, indicating the relative content of the primary macronutrients nitrogen (N), phosphorus (P), and potassium (K), respectively.
+More precisely, the first number ("N value") is the percentage of elemental nitrogen by weight in the fertilizer; that is, the mass fraction of nitrogen times 100.  The second number ("P value") is the percentage by weight of phosphorus pentoxide P2O5.  The third number ("K value") is the equivalent content of potassium oxide K2O.
+For example, a 15-13-20 fertilizer would contain 15% by weight of nitrogen, 13% by weight of P2O5, 20%  by weight of K2O, and 52% of some inert ingredient.
+
+
+=== Other labeling conventions ===
+In the U.K., fertilizer labeling regulations allow for reporting the elemental mass fractions of phosphorus and potassium. The regulations stipulate that this should be done in parentheses after the standard N-P-K values, as in "15-30-15
+(15-13-13)".
+In Australia, macronutrient fertilizers are labeled with an "N-P-K-S" system, which uses elemental mass fractions rather than the standard N-P-K values and includes the amount of sulfur (S) contained in the fertilizer.
+
+Fertilizers with additional macronutrients (S, Ca, Mg) may add more numbers to the N-P-K ratio to indicate the amount. The additional numbers are similarly reported in the oxide mass fraction form. For example, a Polish fertilizer labeled "NPK (Ca,S) 4-12-12 (14-29)" has an equivalent of 14% soluble calcium oxide and 29% total sulfur trioxide.
+
+
+== Converting nutrient analysis to composition ==
+The values in an NPK fertilizer label are related to the concentrations (by weight) of phosphorus and potassium elements as follows:
+
+P2O5 consists of 56.4% elemental oxygen and 43.6% elemental phosphorus by weight. Therefore, the elemental phosphorus percentage of a fertilizer is 0.436 times its P value.
+K2O consists of 17% oxygen and 83% elemental potassium by weight. Therefore, the elemental potassium percentage is 0.83 times the K value.
+The N value in NPK labels represents actual percentage of nitrogen element by weight, so it does not need to be converted.
+So, for example, an 18−51−20 fertilizer contains by weight
+
+18% elemental nitrogen,
+0.436 × 51 = 22% elemental phosphorus, and
+0.83 × 20 = 17% elemental potassium.
+As another example, the fertilizer sylvite is a naturally occurring mineral consisting mostly of potassium chloride, KCl.  Pure potassium chloride contains one potassium atom (whose atomic mass is 39.09 g/mol) for every chlorine atom (whose atomic mass is 35.45 g/mol).  Therefore, pure KCl is 39.09/(39.09 + 35.45) = 52% potassium and 48% chlorine by weight.  Its K value is therefore 52/0.83 = 63; that is, a fertilizer that gets all its potassium from K2O and has the same potassium contents as pure KCl would have to be 63% K2O.  Pure KCl fertilizer would thus be labeled 0-0-63.  Since sylvite contains other compounds that contribute no N, P, or K, it is usually labeled 0-0-60.
+
+
+== NPK values for commercial fertilizers ==
+
+
+=== NPK values for various synthetic fertilizers ===
+Source:
+
+15-0-0 Calcium nitrate
+21-0-0 Ammonium sulphate
+30-0-0 to 40-0-0 Sulfur-coated urea (slow release)
+31-0-0 Isobutylidenediurea (~90% slow release)
+33-0-0 to 34-0-0 Ammonium nitrate
+35-0-0 Ureaform (~85% slow release, sparingly soluble ureaformaldehyde)
+40-0-0 Methylene ureas (~70% slow release)
+46-0-0 Urea (U-46)
+82-0-0 Anhydrous ammonia
+10-34-0 to 11-37-0 Ammonium polyphosphate
+11-48-0 to 11-55-0 Monoammonium phosphate
+18-46-0 to 21-54-0 Diammonium phosphate
+7-7-7 Growmore
+13-0-44 Potassium nitrate
+0-17-0 to 0-22-0 Superphosphate (Monocalcium phosphate monohydrate with gypsum)
+0-44-0 to 0-52-0 Triple superphosphate (Monocalcium phosphate monohydrate)
+0-0-22 Potassium magnesium sulfate (K-mag)
+
+
+=== NPK values for mined fertilizer minerals ===
+11-8-2 to 16-12-3 bird guano
+0-3-0 to 0-8-0 Raw Phosphate Rock (would be 0-34-0 if it were soluble)
+0-0-60 Potassium chloride
+0-0-19 Kainite
+0-0-17 Carnallite
+
+
+=== NPK values for biosolids fertilizers and others ===
+9-0-0 dairy manure
+1-0-1 horse manure
+3-2-2 poultry manure
+4-12-0 Bone meal
+5-5-6 Fish blood and bone
+6-2-0 Milorganite
+
+
+== See also ==
+Fertilizer
+
+
+== References ==

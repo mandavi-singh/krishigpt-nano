@@ -1,0 +1,41 @@
+{
+  "checkpoint": "C:\\Users\\singh\\Documents\\Default Project\\myllm\\checkpoints\\krishigpt_v3\\best.pt",
+  "val_loss": 4.0804,
+  "val_ppl": 59.2,
+  "vocab_size": 5237,
+  "generation_tps": 20.5,
+  "variants": {
+    "greedy": {
+      "samples": 5,
+      "distinct_1": 0.1344,
+      "distinct_2": 0.181,
+      "repetition_rate": 0.8794,
+      "max_run": 13.0,
+      "frac_rep_over_half": 1.0
+    },
+    "temp0.9": {
+      "samples": 5,
+      "distinct_1": 0.7906,
+      "distinct_2": 0.9746,
+      "repetition_rate": 0.2127,
+      "max_run": 1.0,
+      "frac_rep_over_half": 0.0
+    },
+    "topk40": {
+      "samples": 5,
+      "distinct_1": 0.6969,
+      "distinct_2": 0.9429,
+      "repetition_rate": 0.3079,
+      "max_run": 1.8,
+      "frac_rep_over_half": 0.0
+    },
+    "topp0.9": {
+      "samples": 5,
+      "distinct_1": 0.8125,
+      "distinct_2": 0.9937,
+      "repetition_rate": 0.1905,
+      "max_run": 1.0,
+      "frac_rep_over_half": 0.0
+    }
+  }
+}

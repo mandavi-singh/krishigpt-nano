@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:24080",
+  "provider": "Project Gutenberg",
+  "title": "The Stewardship of the Soil: Baccalaureate Address by John Henry Worst, President, North Dakota Agricultural College",
+  "authors": "Worst, John H. (John Henry)",
+  "url": "https://www.gutenberg.org/ebooks/24080",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-22",
+  "topic_bucket": "soil science",
+  "download_count": 390,
+  "raw_file": "gutenberg__24080.txt",
+  "use": "KrishiGPT-nano corpus v3 (System A pretraining only)"
+}

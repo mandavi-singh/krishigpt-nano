@@ -1,0 +1,62 @@
+A cold chain is a supply chain that uses refrigeration to maintain perishable goods, such as pharmaceuticals, produce or other goods that are temperature-sensitive. Common goods, sometimes called cool cargo, distributed in cold chains include fresh agricultural produce, seafood, frozen food, photographic film, chemicals, and pharmaceutical products. The objective of a cold chain is to preserve the integrity and quality of goods such as pharmaceutical products or perishable goods from production to consumption. 
+A well functioning, or unbroken, cold chain requires uninterrupted sequence of refrigerated production, storage and distribution activities, along with associated equipment and fleet management logistics, which maintain a desired low-temperature interval to keep the safety and quality of perishable or sensitive products. Unlike other goods or merchandise, cold chain goods are perishable and always en-route towards end use or destination. Adequate cold storage, in particular, can be crucial to prevent food loss and waste.
+
+
+== History ==
+Mobile refrigeration with ice from the ice trade began with reefer ships and refrigerator cars (iceboxes on wheels) in the mid-19th century. The term cold chain was first used in 1908. The first effective cold store in the UK opened in 1882 at St Katharine Docks. It could hold 59,000 carcasses, and by 1911 cold storage capacity in London had reached 2.84 million carcasses. By 1930 about a thousand refrigerated meat containers were in use which could be switched from road to railway.
+Mobile mechanical refrigeration was invented by Frederick McKinley Jones, who co-founded Thermo King with entrepreneur Joseph A. "Joe" Numero. In 1938 Numero sold his Cinema Supplies Inc. movie sound equipment business to RCA to form the new entity, U.S. Thermo Control Company (later the Thermo King Corporation), in partnership with Jones, his engineer. Jones designed a portable air-cooling unit for trucks carrying perishable food, for which they obtained a patent on 12 July 1940, subsequent to a challenge to invent a refrigerated truck over a 1937 golf game by associates of Numero's, Werner Transportation Co. president Harry Werner, and United States Air Conditioning Co. president Al Fineberg,
+This technology has been frequently in use since the 1950s, when it was most often used for preserving animal-based cells or tissue. As medical breakthroughs, such as in cancer treatment, have taken place, the demand for cold chain systems has grown. The COVID-19 pandemic and its associated vaccinations, have caused vastly increased need.
+
+
+== Uses ==
+Cold chains are common in the food and pharmaceutical industries and also in some chemical shipments. One common temperature range for a cold chain in pharmaceutical industries is 2 to 8 °C (36 to 46 °F), but the specific temperature (and time at temperature) tolerances depend on the actual product being shipped.
+
+
+=== Produce ===
+Unique to fresh produce cargoes, the cold chain requires to additionally maintain product specific environment parameters which include air quality levels (carbon dioxide, oxygen, humidity and others).
+
+
+=== Vaccines ===
+The cold chain is used in the supply of vaccines to distant clinics in hot climates served by poorly developed transport networks. Disruption of a cold chain due to war or logistical challenges may produce severe consequences, as distributed vaccines can become inert due to a lack of temperature control during transport. The integrity of the vaccine cold chain is therefore a critical public health concern.
+For vaccines, there are different types of cold chains. There is an ultralow, or deep freeze, cold chain for vaccines that require -70 degrees C, such as the Ebola and Pfizer–BioNTech COVID-19 vaccines, and some animal vaccines. Next the frozen chain requires -20 degrees C. Varicella and zoster vaccinations require this level. Then the refrigerated chain, which requires temperatures between two and eight degrees C. Most flu vaccinations only require refrigeration.
+In 2020, during the COVID-19 pandemic, vaccines being developed may need ultracold storage and transportation temperatures as cold as −70 °C (−94 °F), requiring what has been referred to as a "colder chain" infrastructure. This creates some issues of distribution for the Pfizer vaccine. It is estimated that only 25 to 30 countries in the world have the infrastructure for the required ultracold cold chain.
+
+
+== Technologies ==
+
+The integrity of a modern cold chain is maintained by a suite of interconnected technologies that provide real-time monitoring, data logging, and operational control. These systems are a key part of fleet digitalization and are essential for ensuring product safety, regulatory compliance, and operational efficiency. The development of advanced frameworks for temperature monitoring, leveraging IoT platforms, has become a key area of innovation in logistics.
+
+
+=== Fleet telematics and remote monitoring ===
+Refrigerated trucks, railcars, and reefer containers are typically equipped with advanced fleet telematics systems. A telematic control unit installed in the vehicle or container serves as the central hub for data collection. Unlike standard systems, these units often interface directly with the refrigeration unit's microprocessor, allowing for two-way communication. This enables dispatchers and fleet managers to not only receive data but also remotely adjust settings, such as the temperature setpoint.
+The specialized telemetry data transmitted in real-time is crucial for cold chain oversight. This includes:
+
+Vehicle location data: Real-time GPS tracking for continuous visibility of the asset's location.
+Temperature monitoring: Data from multiple sensors placed inside the trailer or container to ensure uniform temperature distribution.
+Reefer unit status: Critical operational data such as the temperature setpoint, return air temperature, operating mode (e.g., continuous vs. start/stop), and any active alarm codes from the refrigeration unit.
+Door sensors: Alerts that are triggered whenever cargo doors are opened or closed, helping to monitor security and prevent unnecessary temperature excursions.
+
+
+=== Data logging and compliance ===
+Continuous data logging is fundamental for validation and compliance. This is achieved using standalone temperature data loggers, RFID tags that record temperature, or, most commonly, through the integrated telematics system. This creates an unbroken digital record of a shipment's temperature history from origin to destination, which is the core of a modern track and trace system. This verifiable audit trail is essential for meeting regulatory standards like HACCP and Good Distribution Practice (GDP), and for accurately determining the remaining shelf life of a product.
+
+
+=== Route planning and driver management ===
+Modern route planning software can optimize routes not only for time and fuel efficiency but also to minimize risks to temperature-sensitive cargo. This can include avoiding areas with high ambient temperatures or known traffic congestion that could strain refrigeration units. Furthermore, driver scoring systems are used to monitor driving behavior. Gentle driving with smooth acceleration and braking is important to prevent load shifting and damage to delicate products like fresh produce or pharmaceuticals.
+
+
+=== Video telematics and security ===
+For high-value cargo, video telematics systems with interior and exterior-facing cameras provide an additional layer of oversight. This technology can be used to verify that proper loading and unloading protocols are followed to minimize the time cargo doors are open. It also enhances security, which, when combined with GPS tracking, is a critical component for the stolen vehicle recovery of valuable shipments such as pharmaceuticals.
+
+
+== See also ==
+
+
+== Sources ==
+ This article incorporates text from a free content work. Licensed under CC BY-SA 3.0 (license statement/permission). Text taken from The State of Food and Agriculture 2019. Moving forward on food loss and waste reduction, In brief​, 24, FAO, FAO. 
+
+
+== References ==
+
+
+== Further reading ==

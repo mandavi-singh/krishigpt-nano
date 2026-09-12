@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:26975",
+  "provider": "Project Gutenberg",
+  "title": "Chapters in Rural Progress",
+  "authors": "Butterfield, Kenyon L. (Kenyon Leech)",
+  "url": "https://www.gutenberg.org/ebooks/26975",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-17",
+  "topic_bucket": "climate/general",
+  "download_count": 3209,
+  "raw_file": "gutenberg__26975.txt",
+  "use": "KrishiGPT-nano corpus v2 (System A pretraining only)"
+}

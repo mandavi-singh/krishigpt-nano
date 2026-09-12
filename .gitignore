@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Model artifacts — heavy intermediate checkpoints are not tracked.
+# The FROZEN final checkpoint (checkpoints/krishigpt_v3/best.pt, 23 MB,
+# SHA-pinned in final/FREEZE_MANIFEST.json) IS committed so the chatbot and
+# demos run out of the box. Everything else under checkpoints/ stays local.
+checkpoints/*
+!checkpoints/krishigpt_v3/
+checkpoints/krishigpt_v3/*
+!checkpoints/krishigpt_v3/best.pt
+
+# Data: corpora text + provenance + frozen tokenizer are tracked; heavy
+# .pt token-id caches and raw bulk downloads stay local.
+data/**/*.pt
+data/raw/
+
+# Archives / scratch
+*.zip
+*.tar.gz
+
+# OS
+Thumbs.db
+.DS_Store
+assets/chatbot_demo_full.png
+
+assets/chatbot_demo_full.png

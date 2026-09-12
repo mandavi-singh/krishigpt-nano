@@ -1,0 +1,31 @@
+{
+  "run_name": "krishigpt_nano_v2_extended",
+  "corpus": "v2",
+  "device": "cpu",
+  "torch_threads": 10,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 16,
+  "epochs": 4,
+  "max_steps": 4636,
+  "lr": 6e-4,
+  "min_lr": 6e-5,
+  "warmup_steps": 200,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 50,
+  "val_every": 100,
+  "save_every": 300,
+  "warm_start": "checkpoints/krishigpt_nano_v2/best.pt",
+  "update_warm_start": true,
+  "extend_schedule": { "max_steps": 4636 },
+  "smoke": {
+    "max_steps": 30,
+    "log_every": 5,
+    "val_every": 15
+  },
+  "notes": "KrishiGPT-nano corpus-v2 CONTINUATION (local; executes the written recommendation of the v2 run). Warm-start source: krishigpt_nano_v2/best.pt = step 2300, tokens_seen 4,710,400, best_val_loss 4.5068, val_ppl 90.63. Trains 2,336 additional steps (step 2300 -> 4636) via update_warm_start + extend_schedule: cosine LR re-normalized to the 4636-step horizon (lr at resume-step 2300 ~3.5e-4, decaying to min_lr 6e-5 by step 4636); step/tokens/best_val bookkeeping carried forward. Dry run (configs/nano_agri_v2_extended_dry.json, checkpoints/v2ext_dry) verified this exact path: 30 stats-only batches, loss in-range, counters resumed correctly. Same architecture (6x128x4, RoPE, tied, 1,860,224 params), same 5237-vocab BPE, same corpus v2 (train 1,196,617 ids / 9,348 windows; valid 22,026 ids / 172 windows, leak-safe), same AdamW settings. CPU-only machine. No further experiment after this without user confirmation."
+}

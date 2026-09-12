@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:22040",
+  "provider": "Project Gutenberg",
+  "title": "Prairie Farmer, Vol. 56: No. 3, January 19, 1884.: A Weekly Journal for the Farm, Orchard and Fireside",
+  "authors": "Various",
+  "url": "https://www.gutenberg.org/ebooks/22040",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-22",
+  "topic_bucket": "crop manuals",
+  "download_count": 583,
+  "raw_file": "gutenberg__22040.txt",
+  "use": "KrishiGPT-nano corpus v3 (System A pretraining only)"
+}

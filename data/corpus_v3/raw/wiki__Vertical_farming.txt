@@ -1,0 +1,172 @@
+Vertical farming is the practice of growing crops in vertically and horizontally stacked layers. It often incorporates controlled-environment agriculture, which aims to optimize plant growth, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics. Some common choices of structures to house vertical farming systems include buildings, shipping containers, underground tunnels, and abandoned mine shafts.
+The modern concept of vertical farming was proposed in 1999 by Dickson Despommier, professor of Public and Environmental Health at Columbia University. Despommier and his students came up with a design of a skyscraper farm that could feed 50,000 people. Although the design has not yet been built, it successfully popularized the idea of vertical farming. Current applications of vertical farming coupled with other state-of-the-art technologies, such as specialized LED lights, have resulted in over 10 times the crop yield as would be received through traditional farming methods.
+The main advantage of utilizing vertical farming technologies is the increased crop yield that comes with a smaller unit area of land requirement. The increased ability to cultivate a larger variety of crops at once because crops do not share the same plots of land while growing is another sought-after advantage. Additionally, crops are resistant to weather disruptions because of their placement indoors, meaning fewer crops lost to extreme or unexpected weather occurrences. Lastly, because of its limited land usage, vertical farming is less disruptive to the native plants and animals, leading to further conservation of the local flora and fauna.
+Vertical farming technologies face economic challenges with large start-up costs compared to traditional farms. They cannot grow all types of crops but can be cost-effective for high value products such as salad vegetables. Vertical farms also face large energy demands due to the use of supplementary light like LEDs. The buildings also need excellent control of temperature, humidity and water supplies. Moreover, if non low-carbon electricity is used to meet these energy demands, vertical farms could produce more pollution than traditional farms or greenhouses. An approach to ensure better energy-related environmental performance is to use agrivoltaic-powered vertical farming in an agrotunnel or similar CEA. In this way crops can be grown beneath outdoor agrivoltaics and the solar electricity they provide can be used to power the vertical farming.
+
+
+== Types ==
+The term "vertical farming" was coined by Gilbert Ellis Bailey in 1915 in his book Vertical Farming. His use of the term differs from the current meaning—he wrote about farming with a special interest in soil origin, its nutrient content and the view of plant life as "vertical" life forms, specifically relating to their underground root structures. Modern usage of the term "vertical farming" usually refers to growing plants in layers, whether in a multistorey skyscraper, used warehouse, or shipping container.
+
+
+=== Mixed-use skyscrapers ===
+Mixed-use skyscrapers were proposed and built by architect Ken Yeang. Yeang proposes that instead of hermetically sealed mass-produced agriculture, plant life should be cultivated within open air, mixed-use skyscrapers for climate control and consumption. This version of vertical farming is based upon personal or community use rather than the wholesale production and distribution that aspires to feed an entire city.
+
+
+=== Despommier's skyscrapers ===
+Ecologist Dickson Despommier argues that vertical farming is legitimate for environmental reasons. He claims that the cultivation of plant life within skyscrapers will require less embodied energy and produce less pollution than some methods of producing plant life on natural landscapes. By shifting to vertical farms, Despommier believes that farmland will return to its natural state (i.e., forests), which would help reverse the effects of climate change. He moreover claims that natural landscapes are too toxic for natural agricultural production. Vertical farming would remove some of the parasitic risks associated with farming.
+Despommier's concept of the vertical farm emerged in 1999 at Columbia University. It promotes the mass cultivation of plant life for commercial purposes in skyscrapers.
+
+
+=== Stackable shipping containers ===
+Several companies have developed stacking recycled shipping containers in urban settings. The shipping containers serve as standardized, modular environmental chambers for growing. By stacking the shipping containers, higher density in terms of produce yield/square foot is possible. But, the stacked containers pose the challenge of how to effectively and affordably access the stacked levels.
+Freight Farms produced the "Greenery" that is a complete system outfitted with vertical hydroponics, LED lighting and climate controls built within a 12 m × 2.4 m shipping container. Podponics built a vertical farm in Atlanta consisting of over 100 stacked "growpods", but reportedly went bankrupt in May 2016.
+In 2017, TerraFarms offered a system of 40-foot shipping containers, which included computer vision integrated with an artificial neural network to monitor the plants; and were remotely monitored. It was claimed that the TerraFarm system "has achieved cost parity with traditional, outdoor farming" with each unit producing the equivalent of "three to five acres [one to two hectares] of farmland", using 97% less water through water recapture and harvesting the evaporated water through the air conditioning.
+
+
+=== In abandoned mine shafts ===
+Vertical farming in abandoned mine shafts is termed "deep farming", and is proposed to take advantage of consistent underground temperatures and locations near or in urban areas. It would also be able to use nearby groundwater, thereby reducing the cost of providing water to the farm.
+
+
+== Technology ==
+Lighting can be natural or via LEDs. As of 2018 commercial LEDs were about 28% efficient, which keeps the cost of produce high and prevents vertical farms from competing in regions where cheap vegetables are abundant. Energy costs can be reduced because full-spectrum white light is not required. Instead, red and blue or purple light can be generated with less electricity.
+
+
+== History ==
+One of the earliest drawings of a tall building that cultivates food was published in Life Magazine in 2009. The reproduced drawings feature vertically stacked homesteads set amidst a farming landscape. This proposal can be seen in Rem Koolhaas's Delirious New York. Koolhaas wrote that this theorem is 'The Skyscraper as Utopian device for the production of unlimited numbers of virgin sites on a metropolitan location'.
+
+
+=== Hydroponicum ===
+Early architectural proposals that contribute to VF include Le Corbusier's Immeubles-Villas (1922) and SITE's Highrise of Homes (1972). SITE's Highrise of Homes is a near revival of the 1909 Life Magazine Theorem. Built examples of tower hydroponicums are documented in The Glass House by John Hix. Images of the vertical farms at the School of Gardeners in Langenlois, Austria, and the glass tower at the Vienna International Horticulture Exhibition (1964) show that vertical farms existed. The technological precedents that make vertical farming possible can be traced back to horticultural history through the development of greenhouse and hydroponic technology. Early hydroponicums integrated hydroponic technology into building systems. These horticultural building systems evolved from greenhouse technology. The British Interplanetary Society developed a hydroponicum for lunar conditions, while other building prototypes were developed during the early days of space exploration.
+The Armenian tower hydroponicums are the first built examples of a vertical farm, and are documented in Sholto Douglas' Hydroponics: The Bengal System, first published in 1951 with data from the then-East Pakistan, today's Bangladesh, and the Indian state of West Bengal.
+Later precursors that have been published, or built, are Ken Yeang's Bioclimatic Skyscraper (Menara Mesiniaga, built 1992); MVRDV's PigCity, 2000; MVRDV's Meta City/ Datatown (1998–2000); Pich-Aguilera's Garden Towers (2001).
+Ken Yeang is perhaps the most widely known architect who has promoted the idea of the 'mixed-use' Bioclimatic Skyscraper which combines living units and food production.
+
+
+=== Vertical farm ===
+Dickson Despommier is a professor of environmental health sciences and microbiology. He reopened the topic of VF in 1999 with graduate students in a medical ecology class. He speculated that a 30-floor farm on one city block could provide food for 50,000 people including vegetables, fruit, eggs and meat, explaining that hydroponic crops could be grown on upper floors; while the lower floors would be suited for chickens and fish that eat plant waste.
+Although many of Despommier's suggestions have been challenged from an environmental science and engineering point of view, Despommier successfully popularized his assertion that food production can be transformed. Critics claimed that the additional energy needed for artificial lighting, heating and other operations would outweigh the benefit of the building's close proximity to the areas of consumption.
+Despommier originally challenged his class to feed the entire population of Manhattan (about 2,000,000 people) using only 5 hectares (13 acres) of roof gardens. The class calculated that rooftop gardening methods could feed only 2% of the population. Unsatisfied with the results, Despommier made an off-the-cuff suggestion of growing plants indoors, vertically. By 2001 the first outline of a vertical farm was introduced. In an interview Despommier described how vertical farms would function:
+
+Each floor will have its own watering and nutrient monitoring systems. There will be sensors for every single plant that tracks how much and what kinds of nutrients the plant has absorbed. You'll even have systems to monitor plant diseases by employing DNA chip technologies that detect the presence of plant pathogens by simply sampling the air and using snippets from various viral and bacterial infections. It's very easy to do.
+Moreover, a gas chromatograph will tell us when to pick the plant by analyzing which flavenoids the produce contains. These flavonoids are what gives the food the flavors you're so fond of, particularly for more aromatic produce like tomatoes and peppers. These are all right-off-the-shelf technologies. The ability to construct a vertical farm exists now. We don't have to make anything new.
+Architectural designs were independently produced by designers Chris Jacobs, Andrew Kranis and Gordon Graff.
+Mass media attention began with an article written in New York magazine, followed by others, as well as radio and television features.
+In 2011, the Plant in Chicago was building an anaerobic digester into the building. This will allow the farm to operate off the energy grid. Moreover, the anaerobic digester will be recycling waste from nearby businesses that would otherwise go into landfills.
+As of 2014, Vertical Fresh Farms was operating in Buffalo, New York, specializing in salad greens, herbs and sprouts. In March the world's then largest vertical farm opened in Scranton, Pennsylvania, built by Green Spirit Farms (GSF). The firm is housed in a single-storey building covering 3.25 hectares, with racks stacked six high to house 17 million plants. The farm was to grow 14 lettuce crops per year, as well as spinach, kale, tomatoes, peppers, basil and strawberries. Water is scavenged from the farm's atmosphere with a dehumidifier.
+The US Defense Advanced Research Projects Agency (DARPA) operates an 18-storey project that produces genetically modified plants that make proteins useful in vaccines.
+Plenty has designed a new AI-controlled modular grow system for multiple crops; they are opening a farm in Chesterfield, Virginia that will grow more than 1.8 million kilograms (4 million pounds) of strawberries each year. The farm uses 97% less land and 97% less water than traditional farming.
+In August 2025, United States-based vertical farm company '80 Acres Farms' merged with Soil Organics. The company operates seven vertical farms in the United States with an estimated hydroponic produce production up to 20 million pounds per year.
+
+
+== Advantages ==
+Many of VF's potential benefits are obtained from scaling up hydroponic or aeroponic growing methods.
+A 2018 study estimated that the value of four ecosystem services provided by existing vegetation in urban areas was on the order of $33 billion annually. The study's quantitative framework projected annual food production of 100–180 million tonnes, energy savings ranging from 14 to 15 billion kilowatt-hours, nitrogen sequestration between 100,000 and 170,000 tonnes and stormwater runoff reductions between 45 and 57 billion cubic metres annually. Food production, nitrogen fixation, energy savings, pollination, climate regulation, soil formation and biological pest control could be worth as much as $80–160 billion annually.
+
+
+=== Reduced need for farmland ===
+It is estimated that by the year 2048, the world's population will increase by 3 billion people and close to 80% will live in urban areas. Vertical farms have the potential to reduce or eliminate the need to create additional farmland.
+
+
+=== Increased crop production ===
+Unlike traditional farming in non-tropical areas, indoor farming can produce crops year-round. All-season farming multiplies the productivity of the farmed surface by a factor of 4 to 6 depending on the crop. With crops such as strawberries, the factor may be as high as 30.
+Furthermore, as the crops would be consumed where they are grown, long-distance transport with its accompanying time delays, should reduce spoilage, infestation and energy needs. Globally some 30% of harvested crops are wasted due to spoilage and infestation, though this number is much lower in developed nations.
+Despommier suggests that once dwarf versions of crops (e.g., dwarf wheat which is smaller in size but richer in nutrients), year-round crops and "stacker" plant holders are accounted for, a 30-storey building with a base of a building block (2 hectares or 5 acres) would yield a yearly crop analogous to that of 1,000 hectares (2,400 acres) of traditional farming.
+
+
+=== Weather disruption ===
+Crops grown in traditional outdoor farming depend on supportive weather, and suffer from undesirable temperatures rain, monsoon, hailstorm, tornado, flooding, wildfires and drought. "Three recent floods (in 1993, 2007 and 2008) cost the United States billions of dollars in lost crops, with even more devastating losses in topsoil. Changes in rain patterns and temperature could diminish India's agricultural output by 30% by the end of the century."
+VF productivity is mostly independent of weather, although earthquakes and tornadoes still pose threats.
+The issue of adverse weather conditions is especially relevant for arctic and sub-arctic areas like Alaska and northern Canada where traditional farming is largely impossible. Food insecurity has been a long-standing problem in remote northern communities where fresh produce has to be shipped large distances resulting in high costs and poor nutrition. Container-based farms can provide fresh produce year-round at a lower cost than shipping in supplies from more southerly locations with a number of farms operating in locations such as Churchill, Manitoba and Unalaska, Alaska As with disruption to crop growing, local container-based farms are also less susceptible to disruption than the long supply chains necessary to deliver traditionally grown produce to remote communities. Food prices in Churchill spiked substantially after floods in May and June 2017 forced the closure of the rail line that forms the only permanent overland connection between Churchill and the rest of Canada.
+
+
+=== Conservation ===
+Up to 20 units of outdoor farmland per unit of VF could return to its natural state, due to VF's increased productivity.
+Vertical farming would thus reduce the amount of farmland, thus saving many natural resources. Deforestation and desertification caused by agricultural encroachment on natural biomes could be avoided. Producing food indoors reduces or eliminates conventional plowing, planting, and harvesting by farm machinery, protecting soil and reducing emissions.
+
+
+=== Resource scarcity ===
+The scarcity of fertilizer components like phosphorus poses a threat to industrial agriculture. The closed-cycle design of vertical farm systems minimizes the loss of nutrients, while traditional field agriculture loses nutrients to runoff and leeching.
+
+
+=== Mass extinction ===
+Withdrawing human activity from large areas of the Earth's land surface may be necessary to address anthropogenic mass extinctions.
+Traditional agriculture disrupts wild populations and may be unethical given a viable alternative. One study showed that wood mouse populations dropped from 25 per hectare to 5 per hectare after harvest, estimating 10 animals killed per hectare each year with conventional farming. In comparison, vertical farming would cause nominal harm to wildlife.
+
+
+=== Human health ===
+Traditional farming is a hazardous occupation that often affects the health of farmers. Such risks include: exposure to infectious agents such as malaria and schistosomes, as well as soil-borne microbes, exposure to toxic pesticides and fungicides, confrontations with wildlife such as venomous snakes, and injuries that can occur when using large industrial farming equipment. VF reduces some of these risks. The modern industrial food system makes unhealthy food cheap while fresh produce is more expensive, encouraging poor eating habits. These habits lead to health problems such as obesity, heart disease and diabetes.
+
+
+=== Poverty and culture ===
+Food insecurity is one of the primary factors leading to absolute poverty. Constructing farms will allow continued growth of culturally significant food items without sacrificing sustainability or basic needs, which can be significant to the recovery of a society from poverty.
+
+
+=== Urban growth ===
+Vertical farming, used in conjunction with other technologies and socioeconomic practices, could allow cities to expand while remaining substantially self-sufficient in food. This would allow large urban centers to grow without food constraints.
+
+
+=== Energy sustainability ===
+Vertical farms could exploit methane digesters to generate energy. Methane digesters could be built on site to transform the organic waste generated at the farm into biogas that is generally composed of 65% methane along with other gases. This biogas could then be burned to generate electricity for the greenhouse.
+
+
+== Problems ==
+
+
+=== Economics ===
+Vertical farms require substantial start-up funding and some start-up companies have not been able to achieve a profit before going bankrupt.
+Opponents question the potential profitability of vertical farming. Its economic and environmental benefits rest partly on the concept of minimizing food miles, the distance that food travels from farm to consumer. However, a recent analysis suggests that transportation is only a minor contributor to the economic and environmental costs of supplying food to urban populations. The analysis concluded that "food miles are, at best, a marketing fad". Thus the facility would have to lower costs or charge higher prices to justify remaining in a city.
+Similarly, if power needs are met by fossil fuels, the environmental effect may be a net loss; even building low-carbon capacity to power the farms may not make as much sense as simply leaving traditional farms in place, while burning less coal.
+The initial building costs would exceed $100 million for a 60-hectare vertical farm. Office occupancy costs can be high in major cities, with office space in cities such as Tokyo, Moscow, Mumbai, Dubai, Milan, Zurich, and São Paulo ranging from $1850 to $880 per square metre.
+The developers of the TerraFarm system produced from second hand, 40 foot shipping containers claimed that their system "has achieved cost parity with traditional, outdoor farming".
+
+
+=== Energy use ===
+During the growing season, the sun shines on a vertical surface at an extreme angle such that much less light is available to crops than when they are planted on flat land. Therefore, supplemental light would be required. Bruce Bugbee claimed that the power demands of vertical farming would be uncompetitive with traditional farms using only natural light. Environmental writer George Monbiot calculated that the cost of providing enough supplementary light to grow the grain for a single loaf would be about $15. An article in the Economist argued that "even though crops growing in a glass skyscraper will get some natural sunlight during the day, it won't be enough" and "the cost of powering artificial lights will make indoor farming prohibitively expensive".
+As "The Vertical Farm" proposes a controlled environment, heating and cooling costs will resemble those of any other tower. Plumbing and elevator systems are necessary to distribute nutrients and water. In the northern continental United States, fossil fuel heating cost can be over $200,000 per hectare.
+Jones Food Company in Gloucestershire, England opened a farm in 2024 with 14,500 square metres (156,000 sq ft) of growing space, powered only by renewable electricity. The company failed to make a profit and in April 2025, was placed into administration.
+
+
+=== Pollution ===
+Depending on the method of electricity generation used, greenhouse produce can create more greenhouse gases than field produce, largely due to higher energy use per kilogram. Vertical farms require much greater energy per kilogram versus regular greenhouses, mainly through increased lighting. The amount of pollution produced is dependent on how the energy is generated.
+Greenhouses commonly supplement CO2 levels to three–four times the atmospheric rate. This increase in CO2 increases photosynthesis rates by 50%, contributing to higher yields. Some greenhouses burn fossil fuels purely for this purpose, as other CO2 sources, such as those from furnaces, contain pollutants such as sulphur dioxide and ethylene which significantly damage plants. This means a vertical farm requires a CO2 source, most likely from combustion. Also, necessary ventilation may allow CO2 to leak into the atmosphere.
+Greenhouse growers commonly exploit photoperiodism in plants to control whether the plants are in a vegetative or reproductive stage. As part of this control, the lights stay on past sunset and before sunrise or periodically throughout the night. Single-storey greenhouses have attracted criticism over light pollution.
+Hydroponic greenhouses regularly change the water, producing water containing fertilizers and pesticides that must be disposed of. The most common method of spreading the effluent over neighbouring farmland or wetlands would be more difficult for an urban vertical farm.
+
+
+== Technologies and devices ==
+Vertical farming relies on the use of various physical methods to become effective. Combining these technologies and devices in an integrated whole is necessary to make Vertical Farming a reality. Various methods are proposed and under research. The most common technologies suggested are:
+
+Greenhouses
+The Folkewall and other vertical growing architectures
+Aeroponics
+Agricultural robot
+Aquaponic
+Composting
+Controlled-environment agriculture
+Flowerpots
+Grow lights
+Hydroponics
+Phytoremediation
+Precision agriculture
+Skyscrapers
+
+
+== Vertical farming around the world ==
+Developers and local governments in many cities have expressed interest in establishing vertical farms, for example in Incheon (South Korea), Abu Dhabi (United Arab Emirates), Dongtan (China), New York City, Portland, Oregon, Los Angeles, Las Vegas, Seattle, Surrey, B.C., Toronto, Paris, Bangalore, Dubai, Shanghai and Beijing. There have been several different means of implementing vertical farming systems into communities such as: Canada (London), UK (Paignton), Israel, Singapore, USA (Chicago), Germany (Munich), UK (London), Japan, and UK (Lincolnshire).
+In 2009, the world's first pilot production system was installed at Paignton Zoo Environmental Park in the United Kingdom. The project showcased vertical farming and provided a physical base to research sustainable urban food production. The produce is used to feed the zoo's animals while the project enables evaluation of the systems and provides an educational resource to advocate for change in unsustainable land use practices that affect global biodiversity and ecosystem services,
+In 2010 the Green Zionist Alliance proposed a resolution at the 36th World Zionist Congress calling on Keren Kayemet L'Yisrael (Jewish National Fund in Israel) to develop vertical farms in Israel.
+In 2012, the world's first commercial vertical farm was opened in Singapore. Sky Greens Farms developed it, and it is three stories high. They currently have over 100 nine-metre-tall towers.
+In 2013, the Association for Vertical Farming (AVF) was founded in Munich (Germany). By May 2015, the AVF had expanded with regional chapters across Europe, Asia, the US, Canada, and the United Kingdom. This organization unites growers and inventors to improve food security and sustainable development. AVF focuses on advancing vertical farming technologies, designs, and businesses by hosting international info days, workshops, and summits.
+The world's largest vertical farm opened in Dubai in 2022. It produces more than one million kilograms of leafy greens per year, using 95% less water than traditional cultivation and saving 250 million litres of water per year.
+Kyoto, Japan-based Nuvege (pronounced "new veggie") operates a windowless farm. Its LED lighting is tuned to service two types of chlorophyll, one preferring red light and the other blue. Nuvege produces 6 million lettuce heads a year.
+Vertical farming has been developed in Lebanon with the support of local organisations Basmeh and Zeitooneh, using international development funding from CAFOD in the UK.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+ Learning materials related to Domestic house food production system at Wikiversity

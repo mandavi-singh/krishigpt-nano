@@ -1,0 +1,11 @@
+{
+  "id": "wiki:White revolution (India)",
+  "provider": "Wikipedia",
+  "title": "White revolution (India)",
+  "url": "https://en.wikipedia.org/wiki/White%20revolution%20%28India%29",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__White_Revolution_(India).txt"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:65286",
+  "provider": "Project Gutenberg",
+  "title": "Prairie Farmer, Vol. 56: No. 5, February 2, 1884.: A Weekly Journal for the Farm, Orchard and Fireside",
+  "authors": "Various",
+  "url": "https://www.gutenberg.org/ebooks/65286",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-09-06",
+  "topic_bucket": "crop manuals",
+  "download_count": 631,
+  "raw_file": "gutenberg__65286.txt",
+  "use": "KrishiGPT-nano corpus v4 (System A pretraining only)"
+}

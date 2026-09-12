@@ -1,0 +1,251 @@
+{
+  "name": "krishigpt_corpus_v3",
+  "created_in": "evaluation/corpus_v3/build_corpus_v3.py",
+  "policy": {
+    "train": "v2 train docs (byte-reused) + v3 new docs",
+    "valid": "exact byte copy of v2 valid (6 docs, never trained in any run) so token ids/windows and val loss are directly comparable with every checkpoint so far",
+    "drops": [
+      {
+        "id": "gutenberg:57457",
+        "reason": "quality: archaic language 12.7 markers/kW (worst v1 book was 18.6/kW and already flagged) + 65% short lines; file kept with provenance"
+      }
+    ],
+    "corpus_duplicates_skipped": [
+      {
+        "id": "wiki:Surface irrigation",
+        "requested": "Surface irrigation",
+        "reason": "redirect collides with an existing v1/v2 document; existing text stays canonical"
+      }
+    ],
+    "dedupe_rule": "exact-line dedupe of new docs vs all previously trained text (lines >=25 chars)",
+    "removed_duplicate_lines": 844
+  },
+  "total_docs_in_corpus": 184,
+  "v2_train_docs_reused": 83,
+  "new_docs": {
+    "docs": 101,
+    "provider_breakdown": {
+      "Project Gutenberg": 4,
+      "Wikipedia": 97
+    },
+    "license_breakdown": {
+      "Public domain in the USA (Project Gutenberg)": 4,
+      "CC BY-SA 4.0": 97
+    },
+    "ids": [
+      "gutenberg:22040",
+      "gutenberg:24080",
+      "gutenberg:38955",
+      "gutenberg:74799",
+      "wiki:Agribusiness",
+      "wiki:Agricultural machinery",
+      "wiki:Agronomy",
+      "wiki:Ammonium nitrate",
+      "wiki:Ammonium sulfate",
+      "wiki:Aphid",
+      "wiki:Aquaculture",
+      "wiki:Banana",
+      "wiki:Beekeeping",
+      "wiki:Biofertilizer",
+      "wiki:Bone meal",
+      "wiki:Buckwheat",
+      "wiki:Canker",
+      "wiki:Cassava",
+      "wiki:Cation-exchange capacity",
+      "wiki:Center-pivot irrigation",
+      "wiki:Clay mineral",
+      "wiki:Click beetle",
+      "wiki:Coconut",
+      "wiki:Coffee production in India",
+      "wiki:Cold chain",
+      "wiki:Common sunflower",
+      "wiki:Companion planting",
+      "wiki:Conservation agriculture",
+      "wiki:Corn smut",
+      "wiki:Crop yield",
+      "wiki:Cultivar",
+      "wiki:Cutworm",
+      "wiki:Desert locust",
+      "wiki:Downy mildew",
+      "wiki:Economy of Karnataka",
+      "wiki:Economy of Maharashtra",
+      "wiki:Economy of Odisha",
+      "wiki:Economy of Rajasthan",
+      "wiki:El Niño–Southern Oscillation",
+      "wiki:Ergot",
+      "wiki:Erysiphaceae",
+      "wiki:European corn borer",
+      "wiki:Fall armyworm",
+      "wiki:Flood",
+      "wiki:Food security",
+      "wiki:Food storage",
+      "wiki:Fusarium wilt",
+      "wiki:Garlic",
+      "wiki:Germplasm",
+      "wiki:Green manure",
+      "wiki:Greenhouse",
+      "wiki:Groundwater",
+      "wiki:Horticulture",
+      "wiki:Humus",
+      "wiki:Hydroponics",
+      "wiki:Intercropping",
+      "wiki:Jute",
+      "wiki:Lentil",
+      "wiki:Magnaporthe grisea",
+      "wiki:Mango",
+      "wiki:Mealybug",
+      "wiki:Micronutrient",
+      "wiki:Millet",
+      "wiki:Monoculture",
+      "wiki:Oat",
+      "wiki:Onion",
+      "wiki:Pea",
+      "wiki:Peanut",
+      "wiki:Pearl millet",
+      "wiki:Phaseolus vulgaris",
+      "wiki:Phytophthora infestans",
+      "wiki:Pig farming",
+      "wiki:Potash",
+      "wiki:Precision agriculture",
+      "wiki:Rapeseed",
+      "wiki:Regenerative agriculture",
+      "wiki:Rust (fungus)",
+      "wiki:Rye",
+      "wiki:Seed bank",
+      "wiki:Smut (fungus)",
+      "wiki:Soil compaction",
+      "wiki:Soil horizon",
+      "wiki:Soil microbiology",
+      "wiki:Soil organic matter",
+      "wiki:Soil structure",
+      "wiki:Sowing",
+      "wiki:Stubble burning",
+      "wiki:Superphosphate",
+      "wiki:Sweet potato",
+      "wiki:Tea",
+      "wiki:Terrace (earthworks)",
+      "wiki:Thrips",
+      "wiki:Urea",
+      "wiki:Vermicompost",
+      "wiki:Vertical farming",
+      "wiki:Water conservation",
+      "wiki:Water table",
+      "wiki:Watershed management",
+      "wiki:White revolution (India)",
+      "wiki:Whitefly",
+      "wiki:Zinc deficiency"
+    ]
+  },
+  "validation_docs": {
+    "docs": 6,
+    "ids": [
+      "wiki:Combine harvester",
+      "wiki:Loam",
+      "wiki:No-till farming",
+      "wiki:Phosphorus cycle",
+      "wiki:Rabi crop",
+      "wiki:Rainwater harvesting"
+    ]
+  },
+  "raw_after_clean_new": {
+    "docs": 101,
+    "chars": 2733402,
+    "words": 444500
+  },
+  "after_dedup_new": {
+    "docs": 101,
+    "chars": 2685977,
+    "words": 436660
+  },
+  "chars_after_dedup": {
+    "v2_train_part": 4329545,
+    "new_part": 2685977
+  },
+  "split": {
+    "train": {
+      "docs": 184,
+      "chars": 7015724,
+      "words": 1163400
+    },
+    "valid": {
+      "docs": 6,
+      "chars": 84458,
+      "words": 13054
+    }
+  },
+  "tokens_existing_5237_vocab": {
+    "new_train_part": {
+      "total_tokens": 769488,
+      "tokens_per_1000_chars": 286.5,
+      "words": 528399,
+      "word_types": 35095,
+      "unk_words": 277,
+      "unk_word_pct": 0.052,
+      "single_token_word_pct": 74.09,
+      "avg_tokens_per_word": 1.456
+    },
+    "combined_train": {
+      "total_tokens": 1966105,
+      "tokens_per_1000_chars": 280.2,
+      "words": 1406840,
+      "word_types": 55475,
+      "unk_words": 1410,
+      "unk_word_pct": 0.1,
+      "single_token_word_pct": 76.58,
+      "avg_tokens_per_word": 1.398
+    },
+    "valid": {
+      "total_tokens": 22026,
+      "tokens_per_1000_chars": 260.8,
+      "words": 15799,
+      "word_types": 3413,
+      "unk_words": 2,
+      "unk_word_pct": 0.013,
+      "single_token_word_pct": 75.53,
+      "avg_tokens_per_word": 1.394
+    },
+    "reference_v2_train": {
+      "total_tokens": 1196617,
+      "tokens_per_1000_chars": 276.4,
+      "words": 878441,
+      "word_types": 40628,
+      "unk_words": 1133,
+      "unk_word_pct": 0.129,
+      "single_token_word_pct": 78.08,
+      "avg_tokens_per_word": 1.362
+    }
+  },
+  "topic_hits_per_10k_words": {
+    "new_train": {
+      "crops/cultivation": 153.1,
+      "soil science": 86.0,
+      "irrigation": 104.3,
+      "fertilizers/nutrients": 47.9,
+      "pests/diseases": 63.6,
+      "machinery": 21.3,
+      "plant physiology": 56.3,
+      "agronomy": 58.3,
+      "climate/weather": 541.5,
+      "livestock": 22.6,
+      "indian agriculture": 32.8
+    },
+    "combined_train": {
+      "crops/cultivation": 134.5,
+      "soil science": 86.7,
+      "irrigation": 99.2,
+      "fertilizers/nutrients": 43.0,
+      "pests/diseases": 49.5,
+      "machinery": 33.4,
+      "plant physiology": 54.3,
+      "agronomy": 56.9,
+      "climate/weather": 529.4,
+      "livestock": 26.3,
+      "indian agriculture": 28.2
+    }
+  },
+  "artifacts": {
+    "train_text": "data\\corpus_v3\\agri_train_v3.txt",
+    "valid_text": "data\\corpus_v3\\agri_valid_v3.txt",
+    "report": "data\\corpus_v3\\corpus_v3_stats.json"
+  }
+}

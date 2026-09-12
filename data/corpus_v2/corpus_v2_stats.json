@@ -1,0 +1,211 @@
+{
+  "name": "krishigpt_corpus_v2",
+  "created_in": "evaluation/corpus_v2/build_corpus_v2.py",
+  "v1_validation_docs_reserved_out": [
+    "wiki:Harvest"
+  ],
+  "dropped": [],
+  "total_docs": 89,
+  "provider_breakdown": {
+    "Project Gutenberg": 7,
+    "Wikipedia": 82
+  },
+  "license_breakdown": {
+    "Public domain in the USA (Project Gutenberg)": 7,
+    "CC BY-SA 4.0": 82
+  },
+  "topic_doc_buckets": {
+    "soil science": 1,
+    "crops/agronomy": 3,
+    "climate/general": 1,
+    "livestock/dairy": 1,
+    "indian agriculture": 1,
+    "article": 82
+  },
+  "raw_after_clean": {
+    "docs": 89,
+    "chars": 4446373,
+    "words": 745028
+  },
+  "after_dedup": {
+    "docs": 89,
+    "chars": 4413829,
+    "words": 739794
+  },
+  "dedupe_removed_chars": 32544,
+  "dedupe_removed_pct": 0.73,
+  "split": {
+    "val_fraction": 0.1,
+    "seed": 0,
+    "valid_pool": "documents unseen by v1 training only (leak-safe for warm-start evaluation)",
+    "n_valid_pool": 60,
+    "train_ids": [
+      "gutenberg:16525",
+      "gutenberg:17512",
+      "gutenberg:26975",
+      "gutenberg:29665",
+      "gutenberg:56640",
+      "gutenberg:59579",
+      "gutenberg:60313",
+      "wiki:Agriculture",
+      "wiki:Agriculture in India",
+      "wiki:Economy of Tamil Nadu",
+      "wiki:Agroforestry",
+      "wiki:Animal husbandry",
+      "wiki:Barley",
+      "wiki:Cash crop",
+      "wiki:Chickpea",
+      "wiki:Climate-smart agriculture",
+      "wiki:Compost",
+      "wiki:Cotton",
+      "wiki:Cover crop",
+      "wiki:Crop",
+      "wiki:Crop rotation",
+      "wiki:Dairy farming",
+      "wiki:Drip irrigation",
+      "wiki:Drought",
+      "wiki:Fertilizer",
+      "wiki:Surface irrigation",
+      "wiki:Fodder",
+      "wiki:Fungicide",
+      "wiki:Germination",
+      "wiki:Green Revolution",
+      "wiki:Green Revolution in India",
+      "wiki:Harrow (tool)",
+      "wiki:Herbicide",
+      "wiki:Indian Council of Agricultural Research",
+      "wiki:Integrated pest management",
+      "wiki:Intensive farming",
+      "wiki:Irrigation",
+      "wiki:Kharif crop",
+      "wiki:Legume",
+      "wiki:Locust",
+      "wiki:Maize",
+      "wiki:Manure",
+      "wiki:Micro-irrigation",
+      "wiki:Mustard plant",
+      "wiki:Nitrogen fixation",
+      "wiki:Labeling of fertilizer",
+      "wiki:Organic fertilizer",
+      "wiki:Pasture",
+      "wiki:Pest (organism)",
+      "wiki:Pesticide",
+      "wiki:Photosynthesis",
+      "wiki:Plant breeding",
+      "wiki:Plant pathology",
+      "wiki:Plant physiology",
+      "wiki:Plough",
+      "wiki:Pollination",
+      "wiki:Potato",
+      "wiki:Poultry farming",
+      "wiki:Rainfed agriculture",
+      "wiki:Rice",
+      "wiki:Seed drill",
+      "wiki:Silvopasture",
+      "wiki:Smallholding",
+      "wiki:Soil",
+      "wiki:Soil conditioner",
+      "wiki:Soil erosion",
+      "wiki:Soil fertility",
+      "wiki:Soil pH",
+      "wiki:Soil salinity",
+      "wiki:Soil science",
+      "wiki:Sorghum",
+      "wiki:Soybean",
+      "wiki:Subsistence agriculture",
+      "wiki:Sugarcane",
+      "wiki:Sustainable agriculture",
+      "wiki:Tillage",
+      "wiki:Tomato",
+      "wiki:Topsoil",
+      "wiki:Tractor",
+      "wiki:Vegetable",
+      "wiki:Water scarcity",
+      "wiki:Weed",
+      "wiki:Wheat"
+    ],
+    "valid_ids": [
+      "wiki:Combine harvester",
+      "wiki:No-till farming",
+      "wiki:Loam",
+      "wiki:Phosphorus cycle",
+      "wiki:Rainwater harvesting",
+      "wiki:Rabi crop"
+    ],
+    "train": {
+      "docs": 83,
+      "chars": 4329381,
+      "words": 726740
+    },
+    "valid": {
+      "docs": 6,
+      "chars": 84448,
+      "words": 13054
+    }
+  },
+  "tokens_existing_5237_vocab": {
+    "train": {
+      "total_tokens": 1196617,
+      "tokens_per_1000_chars": 276.4,
+      "words": 878441,
+      "word_types": 40628,
+      "unk_words": 1133,
+      "unk_word_pct": 0.129,
+      "single_token_word_pct": 78.08,
+      "avg_tokens_per_word": 1.362
+    },
+    "valid": {
+      "total_tokens": 22026,
+      "tokens_per_1000_chars": 260.8,
+      "words": 15799,
+      "word_types": 3413,
+      "unk_words": 2,
+      "unk_word_pct": 0.013,
+      "single_token_word_pct": 75.53,
+      "avg_tokens_per_word": 1.394
+    },
+    "reference_v1_train": {
+      "total_tokens": 897225,
+      "tokens_per_1000_chars": 283.7,
+      "words": 684094,
+      "word_types": 42444,
+      "unk_words": 0,
+      "unk_word_pct": 0.0,
+      "single_token_word_pct": 80.46,
+      "avg_tokens_per_word": 1.312
+    }
+  },
+  "topic_hits_per_10k_words": {
+    "train": {
+      "crops/cultivation": 90.3,
+      "soil science": 55.2,
+      "irrigation": 53.4,
+      "fertilizers/nutrients": 34.6,
+      "pests/diseases": 39.5,
+      "machinery": 39.2,
+      "plant physiology": 32.8,
+      "agronomy": 24.5,
+      "climate/weather": 21.5,
+      "livestock": 27.6,
+      "indian agriculture": 16.4
+    },
+    "valid": {
+      "crops/cultivation": 175.4,
+      "soil science": 215.3,
+      "irrigation": 232.9,
+      "fertilizers/nutrients": 143.3,
+      "pests/diseases": 16.1,
+      "machinery": 68.2,
+      "plant physiology": 19.9,
+      "agronomy": 41.4,
+      "climate/weather": 32.2,
+      "livestock": 5.4,
+      "indian agriculture": 37.5
+    }
+  },
+  "artifacts": {
+    "train_text": "data\\corpus_v2\\agri_train_v2.txt",
+    "valid_text": "data\\corpus_v2\\agri_valid_v2.txt",
+    "report": "data\\corpus_v2\\corpus_v2_stats.json"
+  }
+}

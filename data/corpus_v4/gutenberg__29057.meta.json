@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:29057",
+  "provider": "Project Gutenberg",
+  "title": "Address delivered by Hon. Henry H. Crapo, Governor of Michigan, before the Central Michigan Agricultural Society, at their Sheep-shearing Exhibition held at the Agricultural College Farm, on Thursday, May 24th, 1866",
+  "authors": "Crapo, Henry Howland",
+  "url": "https://www.gutenberg.org/ebooks/29057",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-09-06",
+  "topic_bucket": "livestock manuals",
+  "download_count": 388,
+  "raw_file": "gutenberg__29057.txt",
+  "use": "KrishiGPT-nano corpus v4 (System A pretraining only)"
+}

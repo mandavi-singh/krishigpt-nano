@@ -1,0 +1,75 @@
+Downy mildew refers to any of several types of oomycete microbes that are obligate parasites of plants. Downy mildews exclusively belong to the Peronosporaceae family. In commercial agriculture, they are a particular problem for growers of crucifers, grapes and vegetables that grow on vines. The prime example is Peronospora farinosa featured in NCBI-Taxonomy and HYP3. This pathogen does not produce survival structures in the northern states of the United States, and overwinters as live mildew colonies in Gulf Coast states. It progresses northward with cucurbit production each spring. Yield loss associated with downy mildew is most likely related to soft rots that occur after plant canopies collapse and sunburn occurs on fruit. Cucurbit downy mildew only affects leaves of cucurbit plants.
+
+
+== Symptoms ==
+
+Initial symptoms include large, angular or blocky, yellow areas visible on the upper surface. They can also be distinguished by their sporadic yellow patch appearance. As lesions mature, they expand rapidly and turn brown. The under surface of infected leaves appears watersoaked. Upon closer inspection, a purple-brown mold (conidiophores) becomes apparent. Small spores shaped like footballs can be observed among the mold with a 10x hand lens. As a result of numerous infectious sites, leaves might show a blighted appearance if the disease continues to spread. In disease-favorable conditions (cool nights with long dew periods), downy mildew will spread rapidly, destroying leaf tissue without affecting stems or petioles.
+
+
+=== Floricolous species ===
+
+One monophyletic clade of Peronospora, known as the floricolous downy mildews, only cause symptoms in the flowers of their hosts. Infection is systemic, with hyphae produced at low densities in the host xylem. This clade is known from hostplants in the Asteraceae, Campanulaceae, Dipsacaceae, Lamiaceae, and Orobanchaceae.
+One floricolous species, Peronospora violacea, causes its host Succisa pratensis to produce longer, pinker petals, and abort its anthers. Other authors report that on the same host it causes the host corollas to be brownish and dead-looking.
+
+
+== Treatment and management ==
+
+
+=== Cultural options ===
+Because the downy mildew pathogen does not overwinter in midwestern fields, crop rotations and tillage practices do not affect disease development. The pathogen tends to become established in late summer. Therefore, planting early season varieties may further reduce the already minor threat posed by downy mildew. When downy mildew does pose a threat, the removal and destruction of plants displaying symptoms is good practice.
+
+
+=== Chemical control ===
+Fungicides applied specifically for downy mildew control may be unnecessary. Broad spectrum protectant fungicides such as chlorothalonil, mancozeb, and fixed copper are at least somewhat effective in protecting against downy mildew infection. Systemic fungicides are labeled for use against cucurbit downy mildew, but are recommended only after diagnosis of this disease has been confirmed. In the United States, the Environmental Protection Agency has approved oxathiapiprolin for use against downy mildew. In Canada, a mixture of zoxamide and mancozeb was registered for control of the mildew under the trademark Gavel (fungicide) as early as 2008.
+
+
+=== Organic control ===
+One way to control downy mildew is to eliminate moisture and humidity around the impacted plants. Watering from below, such as with a drip system, and improve air circulation through selective pruning. In enclosed environments, like in the house or in a greenhouse, reducing the humidity will help as well.
+
+
+=== Resistant cultivars ===
+Within effected plant species, different varieties may exhibit higher or lower resistance to downy mildew. For example, varieties of Basil have been found to show variation in downy mildew resistance, and breeding programs, as well as genetic modification, have aimed to transfer resistance between varieties.
+
+
+== Plant-specific mildews ==
+
+
+=== Basil ===
+Downy mildew of basil caused by Peronospora belbahrii has been a huge problem for both commercial producers and home growers. The disease was first reported in Italy in 2004, was reported in the U.S. in 2007 and 2008 and has been steadily increasing in prevalence, distribution, and economic importance since then. The highest disease occurrence in basil leaves occurs at temperatures around 68 °F (20 °C). A review of studies into Basil susceptibility to downy mildew suggested that sweet basil (O. basilicum) is most susceptible, citrus basil (O. citriodorum) is susceptible but develops fewer symptoms and spice type basils (O. americanum, O. basilicum var. americanum) are the most resistant.
+
+
+=== Cucurbitaceae ===
+Cucurbitaceae downy mildew (caused by Pseudoperonospora cubensis) is specific to cucurbits (e.g., cantaloupe (Cucumis melo), cucumber (Cucumis sativus), pumpkin, squash, watermelon (Citrullus lanatus) and other members of the gourd family). The disease is one of the most significant diseases of cucurbits worldwide.
+
+
+=== Grapes ===
+Plasmopara viticola is the causal agent of grapevine downy mildew.
+
+
+=== Hops ===
+Hop Downy Mildew (caused by Pseudoperonospora humuli) is specific to hops (Humulus lupulus). The disease is the single most devastating disease in Western United States hopyards, since the microbe thrives in moist climates. Infected young hop bines become stunted with thickened clusters of pale curled leaves. These spikes have a silvery upper surface, while the undersides of leaves become blackened with spores. These dwarfed spikes are called "basal spikes". 'Lateral' or 'terminal' spikes occur further up the vine. An entire hop crop could be devastated in only a few days.
+
+
+=== Ornamentals ===
+A new and particularly aggressive form of impatiens downy mildew has recently emerged as a major threat to the cultivation of ornamental impatiens in the United States, where they are one of the most popular ornamental plants.
+Peronospora sparsa attacks rose bushes (including Rosa canina) and Rubus species.
+
+
+=== Soybeans ===
+Peronospora manshurica infects soybeans, reducing photosynthetic activity, yield, and quality. The fungus spreads by oospores on diseased leaves and/or on infected seed. The disease spreads in environments with high humidity and favors temperatures between 20 and 22 °C. Tufts of grayish to pale-colored sporangiophores on the underside of leaves easily distinguish the infection from other foliar diseases. The disease is often controlled using the fungicides mancozeb, maneb, or zineb.
+
+
+=== Spinach ===
+Downy mildew on spinach is caused by Peronospora effusa, an oomycete pathogen that poses a challenge to spinach production worldwide, especially in organic production.
+
+
+=== Sunflowers ===
+Plasmopara halstedii infects sunflowers, producing oospores which can remain dormant in the soil for many years.
+
+
+== See also ==
+Blue mold (of tobacco plants)
+Peronosporaceae (with a list of the downy mildew genera)
+
+
+== References ==

@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:74799",
+  "provider": "Project Gutenberg",
+  "title": "Adobe days : $b being the truthful narrative of the events in the life of a California girl on a sheep ranch and in El Pueblo de Nuestra Señora de Los Angeles while it was yet a small and humble town; together with an account of how three young men from Maine in eighteen hundred and fifty-three drove sheep and cattle across the plains, mountains and deserts from Illinois to the Pacific coast; and the strange prophecy of Admiral Thatcher about San Pedro harbor",
+  "authors": "Bixby Smith, Sarah",
+  "url": "https://www.gutenberg.org/ebooks/74799",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-22",
+  "topic_bucket": "animal husbandry",
+  "download_count": 392,
+  "raw_file": "gutenberg__74799.txt",
+  "use": "KrishiGPT-nano corpus v3 (System A pretraining only)"
+}

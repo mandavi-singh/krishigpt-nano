@@ -1,0 +1,24 @@
+{
+  "run_name": "krishigpt_v4_qa",
+  "device": "cpu",
+  "torch_threads": 10,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 8,
+  "epochs": 3,
+  "max_steps": 63,
+  "lr": 1e-4,
+  "min_lr": 1e-5,
+  "warmup_steps": 10,
+  "weight_decay": 0.01,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 5,
+  "val_every": 21,
+  "save_every": 21,
+  "warm_start": "checkpoints/krishigpt_v4/best.pt",
+  "notes": "QA fine-tune on data/qa (616 train / 50 valid auto-generated pairs from corpus v4, 3 formats per fact). Goal: Q/A FORMAT learning, not knowledge injection. CORRECTED after Colab v1 run overfit (240 steps was ~11 epochs on 21 steps/epoch): 3 real epochs = 63 steps; val_every/save_every = 21 (1 epoch). Low LR 1e-4 -> 1e-5. Monitors BOTH the held-out QA valid loss (best.pt criterion) and the byte-fixed corpus val loss (regression guard vs v4's 3.9752). Warm start from the v4 pretraining best.pt."
+}
+

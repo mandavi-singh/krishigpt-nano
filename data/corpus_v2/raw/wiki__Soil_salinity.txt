@@ -1,0 +1,77 @@
+Soil salinity is the salt content in the soil; the process of increasing the salt content is known as salinization (also called salination in American English). Salts occur naturally within soils and water. Salinization can be caused by natural processes such as mineral weathering or by the gradual withdrawal of an ocean. It can also come about through artificial processes such as irrigation and road salt.
+
+
+== Natural occurrence ==
+Salts are a natural component in soils and water bodies. The ions responsible for salinization are: Na+, K+, Ca2+, Mg2+ and Cl−.
+Over long periods of time, as soil minerals weather and release salts, these salts are flushed or leached out of the soil by drainage water in areas with sufficient precipitation or under irrigation, or may rise through capillarity and accumulate near the surface under intense evaporation during drought periods. In addition to mineral weathering, salts are also deposited via dust and precipitation. Salts may accumulate in dry regions, leading to naturally saline soils. This is the case, for example, in large parts of Australia. 
+Human practices can increase the salinity of soils by the addition of salts in irrigation water. Proper irrigation management can prevent salt accumulation by providing adequate drainage water (e.g. rainwater) to leach added salts from the soil. Disrupting drainage patterns that provide leaching can also result in salt accumulations. An example of this occurred in Egypt in 1970 when the Aswan High Dam was built. The change in the level of ground water before the construction had enabled soil erosion, which led to high concentration of salts in the water table. After the construction, the continuous high level of the water table led to the salinization of arable land. The increase in aridity caused by human-induced global warming also contributes to the salinization of waterlogged soils.
+
+
+== Sodic soils ==
+When the Na+ (sodium) predominates, soils can become sodic. The pH of sodic soils may be acidic, neutral, or alkaline. 
+Sodic soils present particular challenges because they tend to have very poor structure which limits or prevents water infiltration and drainage. They tend to accumulate certain elements like boron and molybdenum in the root zone at levels that may be toxic for plants. The most common compound used for reclamation of sodic soil is gypsum, and some organisms that are tolerant to salt and ion toxicity (e.g. halophytes, halophilic rhizobacteria) may offer strategies for improvement.
+The term "sodic soil" is sometimes used imprecisely in scholarship. It's been used interchangeably with the term alkali soil, which is used for soil with a pH greater than 8.2, an exchangeable sodium content above 15% of cation-exchange capacity, or both.
+
+
+== Dry land salinity ==
+Salinity in drylands can occur when the water table is between two and three metres from the surface for clayey soils but for sandy soils it may be less than a metre. The salts from the groundwater are raised by capillary action to the surface of the soil. This occurs when groundwater is saline (which is true in many areas), and is favored by land use practices allowing more rainwater to enter the aquifer than it could accommodate. For example, the clearing of trees for agriculture is a major reason for dryland salinity in some areas, since deep rooting of trees has been replaced by shallow rooting of annual crops.
+
+
+== Salinity due to irrigation ==
+
+Salinity from irrigation can occur over time wherever irrigation occurs, since almost all water (even natural rainfall) contains some dissolved salts. When the plants use the water, the salts are left behind in the root zone (rhizosphere) and eventually begin to accumulate. This water in excess of plant needs is called the leaching fraction. Salinization from irrigation water is also greatly increased by poor drainage and use of saline water for irrigating agricultural crops.
+Salinity in urban areas often results from the combination of irrigation, now common in gardens and recreation areas, often using salt-laden reclaimed water, and groundwater processes.
+
+
+== Consequences of soil salinity ==
+The consequences of salinity are
+
+Detrimental effects on plant growth and yield
+Damage to infrastructure (roads, bricks, corrosion of pipes and cables)
+Reduction of water quality for users, sedimentation problems, increased leaching of metals, especially copper, cadmium, manganese and zinc
+Soil erosion ultimately, when crops are too strongly affected by the amounts of salts and the vegetation cover collapses
+More energy required to desalinate
+Salinity is an important land degradation problem. Soil salinity can be reduced by leaching soluble salts out of soil with excess irrigation water of good quality (i.e. poor in salts). Soil salinity control involves watertable control and flushing in combination with tile drainage or another form of subsurface drainage. A comprehensive treatment of soil salinity is available from the United Nations Food and Agriculture Organization.
+The presence of soluble salts in soils can significantly influence their engineering properties, particularly under varying moisture conditions. Studies have shown that long-term soaking can lead to dissolution and redistribution of salts in clayey and gypsiferous soils, resulting in changes in soil structure and a reduction in strength and stiffness.
+Research on gypsiferous soils has further demonstrated that moisture variation and soaking conditions can significantly affect mechanical performance due to gypsum dissolution and changes in internal soil structure.
+Earlier studies have also shown that compaction conditions interact with salinity effects, where increased compaction improves initial strength, but long-term exposure to moisture may still result in degradation due to dissolution of soluble salts in gypsiferous soils.
+
+
+== Salt tolerance of crops ==
+
+High levels of soil salinity can be tolerated if salt-tolerant plants are grown. Sensitive crops lose their vigor already in slightly saline soils, most crops are negatively affected by (moderately) saline soils, and only salinity-resistant crops thrive in severely saline soils. The University of Wyoming, the Utah State University, and the Government of Alberta report data on the salt tolerance of crop plants.
+Field data in irrigated lands, under farmers' conditions, are scarce, especially in developing countries. However, some on-farm surveys have been made in Egypt, India, and Pakistan. Some examples are shown in the following gallery, with crops arranged from sensitive to very tolerant.
+
+Calcium has been found to have a positive effect in combating salinity in soils. It has been shown to ameliorate the negative effects that salinity has such as reduced water uptake by plants.
+Soil salinity activates genes associated with stress conditions for plants. These genes initiate the production of plant stress enzymes such as superoxide dismutase, L-ascorbate oxidase, and Delta 1 DNA polymerase. Limiting this process can be achieved by administering exogenous glutamine to plants. The decrease in the level of expression of genes responsible for the synthesis of superoxide dismutase increases with the increase in glutamine concentration.
+
+
+== Regions affected ==
+From the FAO/UNESCO Soil Map of the World the following salinised areas can be derived.
+
+
+== See also ==
+
+Alkali soil – Soil type with pH > 8.5
+Arabidopsis thaliana responses to salinity
+Biosaline agriculture – Production of crops in salt-rich conditions
+Biosalinity – Use of salty water for irrigation
+Crop tolerance to seawater – Quality in crops
+Desalination – Removal of salts from water
+Environmental impacts of deicing salt – Chemicals used to de-ice surfacesPages displaying short descriptions of redirect targets
+Halophyte – Salt-tolerant plant
+Halotolerance – Adaptation of living organisms to conditions of high salinity
+Salinity in Australia
+Salt tolerance of crops
+Sodium in biology
+Water softening – Removing positive ions from hard water
+U.S. Salinity Laboratory – National Laboratory for research on salt-affected soil
+
+
+== References ==
+
+
+== External links ==
+Article on water and salt balances in the soil
+Download leaching model for saline soils
+Salt of the Earth Documentary produced by Prairie Public Television

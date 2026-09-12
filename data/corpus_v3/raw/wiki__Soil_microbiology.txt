@@ -1,0 +1,154 @@
+Soil microbiology is the study of microorganisms in soil, their functions, and how they affect soil properties. It is believed that between two and four billion years ago, the first ancient cyanobacteria (also called blue-green algae) came about on Earth's oceans. These bacteria could fix carbon by photosynthesis, fix nitrogen, in time multiplied, and as a result released oxygen into the atmosphere and nitrogen into the soil. This led to more advanced microorganisms, which were important because they effected soil structure and fertility. Soil microorganisms can be classified as bacteria (including cyanobacteria and actinomycetes), archaea, fungi, algae, slime molds and protozoa. Each of these groups has characteristics that define them and their functions in soil.
+Up to 10 billion culturable bacterial cells inhabit each gram of soil in and around plant roots, a region known as the rhizosphere, which is a hotspot of microbial diversity, and in particular the rhizoplane. In 2011, a team detected more than 33,000 bacterial and archaeal species on sugar beet roots.
+The composition of the rhizobiome can change rapidly in response to changes in the biotic and abiotic environment. The diversity of microorganisms in soils is dependant on pH, soil texture, organic matter content, plant community composition, and contaminants such as heavy metals.
+
+
+== Bacteria ==
+
+Bacteria and archaea (initially classified as bacteria), the smallest organisms in soil apart from viruses, are prokaryotic. They are the most abundant microorganisms in the soil, and serve many important purposes, including nitrogen fixation and organic matter decomposition for bacteria. Soil archaea are still poorly known but they could play a significant role in  nitrification and methanogenesis.
+Some bacteria can colonize minerals in the soil and help influence weathering and the breaking down of these minerals. The overall composition of the soil can determine the amount and distribution of bacteria growing in it. The more clay minerals that are found in an area can result in a higher abundance of bacteria living as biofilms at their surface. Soil bacteria also contribute to the formation of soil aggregates, which increases the overall health of the soil.
+Apart from the rhizosphere, where bacterial activity is stimulated by rhizodeposition and root exudation, most bacteria of the bulk soil are in a quiescent state, in the form of bacterial colonies embedded in a polysaccharidic matrix covered with clay platelets, and resistant to drought. These bacterial microaggregates may  remain in this state of quiescence for a long time, until being reached by exudates from growing root tips or the mucus of burrowing earthworms. Accordingly, sugar-rich lixiviates (e.g. after a pollen rain) may also stimulate respiration, reproduction and dissemination of resting soil bacteria, exerting a priming effect on soil microbial activity.
+In the mycorhizosphere mycorrhiza helper bacteria form symbiotic associations with mycorrhizal fungi, assisting mycorrhiza formation or enhancing their functions.
+
+
+=== Biochemical processes ===
+One of the most distinguished features of bacteria is their biochemical versatility. A bacterial genus called Pseudomonas can metabolize a wide range of chemicals and fertilizers. In contrast, another genus known as Nitrobacter can only derive its energy by oxidizing nitrite to nitrate. The genus Clostridium is an example of bacterial versatility because it, unlike most species, can grow in the absence of oxygen, respiring anaerobically. Several species of Pseudomonas, such as Pseudomonas aeruginosa are able to respire both aerobically and anaerobically, using nitrate as the terminal electron acceptor.
+Archaea are particularly adapted to chemically and physically harsh environments, with their unique membrane lipids, and their methanogenic pathways which incorporate a number of coenzymes unique to this microbial group.
+
+
+=== Nitrogen fixation ===
+
+Nitrogen is often the most limiting nutrient in soil and water. Bacteria are responsible for the process of nitrogen fixation, which is the conversion of atmospheric dinitrogen into nitrogen-containing compounds (such as ammonia) that can be used by plants. Some nitrogen-fixing bacteria (e.g. cyanobacteria) are autotroph and derive their carbon from the atmosphere through photosynthesis while others are heterotroph and derive their carbon either from soil organic matter (e.g. Clostridium) of from a symbiotic host (e.g. Rhizobium). Some soil chemotroph bacteria derive their energy through the oxidation of nitrite ions, which they transform in nitrate ions, like Nitrobacter. These bacteria are not nitrogen-fixing microorganisms but contribute to nitrification, an important step in the nitrogen cycle.
+
+
+== Actinomycetes ==
+
+Actinomycetes (or Actinobacteria) are bacteria, but they share some characteristics with fungi that are most likely a result of convergent evolution due to a common habitat and lifestyle. They display ambiguous species boundaries due to commonness of horizontal gene transfer. Although largely hypothetical, horizontal gene transfer from actinomycetes to ancestral fungi cannot be excluded, which could also explain the various morphological and biochemical features they have in common.
+
+
+=== Similarities to fungi ===
+Although they are members of the Bacteria kingdom, many actinomycetes share characteristics with fungi, including shape and branching properties, spore formation and secondary metabolite production.
+
+The mycelium branches in a manner similar to that of fungi.
+They form aerial mycelium as well as conidia.
+Their growth in liquid culture occurs as distinct clumps or pellets, rather than as a uniform turbid suspension as in bacteria.
+
+
+=== Antibiotics ===
+
+One of the most notable characteristics of the actinomycetes is their ability to produce antibiotics. Streptomycin, neomycin, erythromycin and tetracycline are only a few examples of these antibiotics. Streptomycin is used to treat tuberculosis and infections caused by certain bacteria and neomycin is used to reduce the risk of bacterial infection during surgery. Erythromycin is used to treat certain infections caused by bacteria, such as bronchitis, pertussis (whooping cough), pneumonia and ear, intestine, lung, urinary tract and skin infections.
+
+
+== Fungi ==
+
+Fungi may be outnumbered by bacteria in cell counts, but they can contribute greater biomass and respiration rate in some soil types. Fungi decay plant detritus, in particular wood, contribute to soil aggregation, are important as food sources for other, larger soil organisms, as soil-borne pathogens, or conversely as beneficial plant symbionts (e.g. mycorrhizae) and more generally they are important for soil health. Fungi can be split into species based primarily on the size, shape and color of their reproductive spores, visible only under the microscope, a difficult task often needing the use of plate or chamber cultures, now facilitated and improved by molecular methods. Most of the environmental factors that influence the growth and distribution of bacteria and actinomycetes also influence fungi. The quality as well as quantity of organic matter in the soil has a direct correlation to the community composition of fungi. Compared with bacteria, fungi are relatively benefitted by acidic soils. Fungi also grow well in dry, arid soils because fungi are aerobic, or dependent on oxygen, and the higher the moisture content in the soil, the less oxygen is present for them. Many fungi are able to escape water to grow in the air, and some are even able to derive their water directly from the atmosphere through hydrophilic outer surfaces of their cell walls.
+
+
+== Algae ==
+
+Algae can make their own carbon through photosynthesis, i.e. are autotrophs. Photosynthesis converts light energy to chemical energy that can be stored as starch. For algae to grow, they must be exposed to light because photosynthesis requires light, so soil algae are typically distributed evenly wherever sunlight and moderate moisture is available, and not far from the surface. Algae do not have to be directly exposed to the sun, but can live below the soil surface given uniform temperature and moisture conditions, and are capable of facultative heterotrophy in the presence of easily available carbon sources (e.g. glucose). Synergistic interactions with rhizosphere bacteria in the promotion of plant growth have been demonstrated in Chlorella vulgaris.
+
+
+=== Types ===
+Soil algae can be split up into Chlorophyceae and Bacillariophyceae (diatoms). The Chlorophyceae usually only have chlorophyll as pigment which makes them green, while diatoms contain chlorophyll as well as other pigments such as the carotenoid fucoxanthin that make them golden-brown in color.
+
+
+== Protozoa ==
+
+Protozoa are eukaryotic unicellular organisms (protists) that were some of the first microorganisms to reproduce sexually, a significant evolutionary step from duplication of spores, like those that many other soil microorganisms depend on, allowing silencing of deleterious mutations. Protozoa can be split up into three categories: flagellates, amoebae and ciliates. A large number of soil protozoa feed on bacteria, others feed on both bacteria and fungi, while some species are strictly mycophagous, and other soil protozoa are saprophagous, feeding on humus particles. In the rhizosphere protozoa are involved in a microbial loop, a positive feedback process involving growing roots, their exudates, the bacteria feeding on them, and bacterivorous protozoa which liberate in a plant-available form the nutrients entrapped in microbial biomass.
+
+
+=== Flagellates ===
+
+Flagellates are the smallest members of the protozoa group, and can be divided further based on whether they can participate in photosynthesis. Nonchlorophyll-containing flagellates are not capable of photosynthesis because chlorophyll is the green pigment that absorbs sunlight. These heterotrophic flagellates are found mostly in soil where their number may occasionally be as high as several millions per gram of soil. Flagellates that contain chlorophyll (e.g. Euglena) typically occur in aquatic conditions. Flagellates can be distinguished by their flagella, which is their means of movement. Some have several flagella, while other species only have one that resembles a long branch or appendage.
+
+
+=== Amoebae ===
+
+Amoebae are larger than flagellates and move in a different way. Amoebae can be distinguished from other protozoa by their slug-like properties and pseudopodia. A pseudopodium or "false foot" is a temporary obtrusion from the body of the amoeba that helps pull it along surfaces for movement or helps to pull in food. The amoeba does not have permanent appendages and the pseudopodium is more of a slime-like consistency than a flagellum. Naked amoebae move freely in water-filled pore spaces and in water films surrounding roots and aggregates, while testate amoebae are partly encapsulated in a chitinous or mineral shell which protects them from desiccation when fluid water retreats. Testate amoebae may remain encysted until better conditions are fulfilled for feeding and reproduction. By their abundance, shape variety and the diversity of their adapatations to moisture variation they are good indicators of climate, making them prominent tools in the reconstruction of past environmental changes, from hundreds of years to millennia.
+
+
+=== Ciliates ===
+
+Ciliates are the largest of the protozoa group, and move by means of short, numerous cilia that produce beating movements. Cilia resemble small, short hairs. They can move in different directions to move the organism, giving it more mobility than flagellates or amoebae. Ciliates perform complex behaviors that can appear indistinguishable from those of macroscopic animals, like avoidance reactions involving a coordinated movement of the numerous cilia controlled by an equivalent of complex nervous systems. They have two types of nuclei in a single cell: the "germinal" micronucleus and the "somatic" macronucleus. Conjugation (isogamy) between two ciliate cells is a primitive form of sexual reproduction involving meiosis, fertilisation, and reconstruction of cell systems. This is an important evolutionary step, allowing inactivation (knockout) of  deleterious genetic information and rapid adaptation to environmental hazards.
+
+
+== Phages ==
+
+Phages, viruses that infect bacteria, are some of the most understudied organisms, despite being considered one of the most abundant organisms present in microbial communities. Although understudied, soil phages are significant contributors to soil health and affect microbial diversity through ecological and evolutionary roles, being considered as a major agent of horizontal gene transfer. Viral richness, or the abundance and diversity of phages in an environment, is affected by seasonal changes, soil moisture content, physical location, and the presence and growth of plants. Bacterial abundance in soil communities is an additional factor in viral richness, with an increase in bacterial abundance associated with increased phage abundance.
+In the rhizosphere phages affect nutrient content through their impact on bacteria. Lytic phages affect host populations which impact bacterial processes like carbon, nitrogen, sulfur, and phosphorus cycling in soil. Although not fully understood there have been cases of temperate phages affecting bacterial populations by mediating horizontal gene transfer (HGT). This process allows phages to affect the genetic diversity of their host potentially improving fitness. Bacteriophages may also be involved in plant pathogenesis through the killing of important bacteria that prevent infection in plants. The lytic phage ΦGP100 is known to kill Pseudomonas fluorescens, which produces antifungals, thus opening plants up to fungal infections.
+
+
+=== Morphological, genomic, and life cycle diversity ===
+Phage morphological diversity includes tailed, non-tailed, and filamentous forms, in addition to a variety of nucleic acid compositions, including dsDNA, ssDNA, dsRNA, and ssRNA. Genome size also varies greatly among bacteriophages ranging from 2.5 to 735 kb, with "giant phages"  possessing a genome of 200 kb or more. Soil phages may be lytic, lysogenic, or chronic. Lytic phages undergo the lytic cycle, during which viral reproduction lyses the cell, resulting in bacterial death and the release of virions. Lysogenic phages integrate their genome into the host and replicate along with the host genome through the lysogenic cycle. Phages that are lysogenic are called prophages and do not generate virions or kill host cells. Temperate phages are capable of switching from the lysogenic to the lytic cycle when bacterial cells experience stress conditions. An infection is considered to be chronic when virions are produced and released continuously without lysing and killing the host cell.
+
+
+== Myxomycetes and myxobacteria ==
+
+Myxomycetes (slime molds) and myxobacteria (slime bacteria) are among the most mysterious soil microorganisms. Myxomycetes are eukaryotes, having nuclei and other cell organelles, while myxobacteria are prokaryotes, having their cellular components not enclosed in membranes, like bacteria (the domain to which myxobacteria pertain) and archaea. Both are unicellular organisms forming syncytia for myxomycetes or swarms containing many cells kept together by intercellular molecular signals for myxobacteria. These collective microorganisms are able to glide for foraging in a coordinated ('intelligent') manner, a complex phenomenon still largely unexplored. During their life they pass by different phases, including microscopic individual cells and plasmodial (acellular) forms in myxomycetes, or swarms of individual cells synchronized by contact cell signaling (pseudoplasmodia) in myxobacteria. Both groups sporulate (myxospores), forming fruiting bodies which can take different shapes and colors according to species, often iridescent and conspicuous.
+Myxomycetes can make complex nutritional decisions, despite lacking a coordination center and comprising only a single vast multinucleate cell. Intelligence was also advocated to describe the social behaviour of myxobacteria when cells move on to make similar, transient connections with other cells.
+
+
+== Composition regulation ==
+
+Plant hormones, salicylic acid, jasmonic acid and ethylene are key regulators of innate immunity in plant leaves. Mutants impaired in salicylic acid synthesis and signaling are hypersusceptible to microbes that colonize the host plant to obtain nutrients, whereas mutants impaired in jasmonic acid and ethylene synthesis and signaling are hypersusceptible to herbivorous insects and microbes that kill host cells to extract nutrients. The challenge of modulating a community of diverse microbes in plant roots is more involved than that of clearing a few pathogens from inside a plant leaf. Consequently, regulating root microbiome composition may require immune mechanisms other than those that control foliar microbes.
+A 2015 study analyzed a panel of Arabidopsis hormone mutants impaired in synthesis or signaling of individual or combinations of plant hormones, the microbial community in the soil adjacent to the root and in bacteria living within root tissues. Changes in salicylic acid signaling stimulated a reproducible shift in the relative abundance of bacterial phyla in the endophytic compartment. These changes were consistent across many families within the affected phyla, indicating that salicylic acid may be a key regulator of microbiome community structure.
+Classical plant defense hormones also function in plant growth, metabolism and abiotic stress responses, obscuring the precise mechanism by which salicylic acid regulates this microbiome.
+During plant domestication, humans selected for traits related to plant improvement, but not for plant associations with a beneficial microbiome. Even minor changes in abundance of certain bacteria can have a major effect on plant defenses and physiology, with only minimal effects on overall microbiome structure.
+
+
+== Biochemical activity ==
+
+Most soil enzymes are produced by bacteria, fungi and plant roots. Their biochemical activity is a factor in both stabilization and degradation of soil structure. Enzyme activity is higher in plots that are fertilized with manure as compared to inorganic fertilizers, although other studies showed that a combination of mineral and organic fertilizers was better than manuring. The microflora of the rhizosphere may increase activity of enzymes there.
+
+
+== Applications ==
+
+
+=== Agriculture ===
+Microbes can make nutrients in the soil more available to plants, produce hormones that spur growth, stimulate the plant immune system and trigger or dampen stress responses of plants. In general a more diverse soil microbiome results in fewer plant diseases and higher crop yield.
+Farming can destroy soil's rhizobiome (rhizospheric microbial ecosystem) by using soil amendments such as fertilizer and pesticide without compensating for their detrimental effects. By contrast, healthy soil can increase fertility in multiple ways, including supplying nutrients such as nitrogen and protecting against pests and diseases, while reducing the need for water and other inputs. Some approaches may even allow agriculture in soils that were never considered viable.
+The group of bacteria called rhizobia live inside the roots of legumes and fix nitrogen from the air into a biologically useful form.
+Mycorrhizae or root fungi form a dense network of thin filaments (extramatrical hyphae) that reach far into the soil, acting as extensions of the plant roots they live on or in. These fungi facilitate the uptake of water and a wide range of nutrients.
+Up to 30% of the carbon fixed by plants is excreted from the roots as so-called exudates—including sugars, amino acids, flavonoids, aliphatic acids, and fatty acids that attract and feed beneficial microbial species while repelling and killing harmful ones.
+
+
+==== Commercial activity ====
+
+Almost all registered microbes are biopesticides (biocontrol, bioprotection agents), now comprising about 10% of the global pesticide market. Some microbes have been marketed for decades, such as Trichoderma biofungicide fungi that suppress other, pathogenic fungi, and the caterpillar killer Bacillus thuringiensis. Serenade is a biopesticide containing a Bacillus subtilis strain that has antifungal properties and promotes plant growth. It can be applied in a liquid form on plants and to soil to fight a range of pathogens. It has found acceptance in both conventional and organic agriculture. and organic agriculture.
+Agrochemical companies such as Bayer have begun investing in the technology. In 2012, Bayer bought AgraQuest for $425 million. Its €10 million annual research budget funds field-tests of dozens of new fungi and bacteria to replace chemical pesticides or to serve as biostimulants to promote crop health and growth. Novozymes, a company developing microbial fertilizers and pesticides, forged an alliance with Monsanto. Novozymes invested in a biofertilizer containing the soil fungus Penicillium bilaiae and a bioinsecticide that contains the fungus Metarhizium anisopliae. In 2014, Syngenta and BASF acquired companies developing microbial products, as did Dupont in 2015.
+A 2007 study showed that a complex symbiosis with fungi and viruses makes it possible for a grass called Dichanthelium lanuginosum to thrive in geothermal soils in Yellowstone National Park, where temperatures reach 60 °C (140 °F). Introduced in the US market in 2014 for corn and rice, they trigger an adaptive stress response.
+In both the US and Europe, companies have to provide regulatory authorities with evidence that both the individual strains and the product as a whole are safe, leading many existing products to label themselves "biostimulants" instead of "biopesticides".
+When selecting a bacterium for disease control its other effects must also be considered. Some suppressive bacteria perform the opposite of nitrogen fixation (see § Nitrogen fixation above), making nitrogen unavailable. Stevens and collaborators found bacterial denitrification and dissimilatory nitrate reduction to ammonium to especially occur at high pH.
+
+
+==== Unhelpful microbes ====
+A fungus-like unicellular organism named Phytophthora infestans, responsible for potato blight and other crop diseases, has caused famines throughout history. Other fungi and bacteria cause the decay of roots and leaves.
+Many strains that seemed promising in the lab often failed to prove effective in the field, because of soil, climate and ecosystem effects, leading companies to skip the lab phase and emphasize field tests.
+
+
+==== Fade ====
+Populations of beneficial microbes can diminish over time. Serenade stimulates a high initial B. subtilis density, but levels decrease because the bacteria lacks a defensible ecological niche. One way to compensate is to use multiple collaborating strains.
+Fertilizers deplete soil of organic matter, some of them (e.g. triple superphosphate) carry noxious trace elements (e.g. arsenic, cadmium), cause salination and acidification when in excess of plant nitrogen requirements, and suppress mycorrhizae above some threshold level, in particular with phosphorus; they can also turn symbiotic bacteria into competitors.
+
+
+==== Pilot project ====
+A pilot project in Europe used a plow to slightly loosen and ridge the soil. They planted oats and vetch, which attracts nitrogen-fixing rhizobia. They planted small olive trees to boost microbial diversity. They split an unirrigated 100-hectare field into three zones, one treated with chemical fertilizer and pesticides (zone A); and the other two with different amounts of an organic biofertilizer, consisting of fermented grape leftovers and a variety of bacteria and fungi, along with four types of mycorrhiza spores.
+The crops that had received the most organic fertilizer had reached nearly twice the height of those in zone A and were inches taller than zone C. The yield of that section equaled that of irrigated crops, whereas the yield of the conventional technique was negligible. The mycorrhiza had penetrated the rock by excreting acids, allowing plant roots to reach almost 2 meters into the rocky soil and reach groundwater.
+
+
+== Soil microbiologists ==
+Nikolai Aleksandrovich Krasil'nikov (1896–1973), Russian
+Michael Goodfellow (born 1941), British
+
+
+== See also ==
+Natural farming
+Korean natural farming
+Effective microorganisms
+Soil biology
+Soil biomantle
+Soil life
+
+
+== References ==

@@ -1,0 +1,224 @@
+{
+  "results": [
+    {
+      "variant": "greedy",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", the same is the best crop . The soil is a plant that is the soil . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.1875,
+      "distinct_2": 0.2698412698412698,
+      "repetition_rate": 0.8253968253968254,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Soil moisture affects",
+      "text": "the soil and the soil . The soil is a soil of the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a soil and the soil . The soil is a",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.125,
+      "distinct_2": 0.1746031746031746,
+      "repetition_rate": 0.8888888888888888,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "To control pests in the field",
+      "text": ". The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant . The soil is a plant that is a plant that is",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.109375,
+      "distinct_2": 0.12698412698412698,
+      "repetition_rate": 0.9047619047619048,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Rice is grown in",
+      "text": "the world . The world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s world ' s ' s ' s ' s ' s '",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.09375,
+      "distinct_2": 0.12698412698412698,
+      "repetition_rate": 0.9206349206349206,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "The farmer should irrigate",
+      "text": "the soil . The soil is a large crop of the soil . The soil is a plant that is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant that is a plant that is a plant . The soil is a plant",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.171875,
+      "distinct_2": 0.2222222222222222,
+      "repetition_rate": 0.8412698412698413,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "text": ". They are best over a eggs . They are less burbridge body ' s legumes . On the Foit was imford at rye and says the next picking of many times quesharrow ' s mander . The business of soil is roots plant . The wids_ to live in the other ads of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.796875,
+      "distinct_2": 0.9365079365079365,
+      "repetition_rate": 0.20634920634920634,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "Soil moisture affects",
+      "text": "such as the flowers are generally used . They are amal and body dy , legumes thing that it may learning them into the Winter chound . The hasten of many damage that harrow the ramander does foundation of the roots . Worose berying soil is gradtive to be subsequ",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.875,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.12698412698412698,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "To control pests in the field",
+      "text": ". They are best over a generation of organic leaves in the production . The global legumes thing that it was even it was imUS . The Paris does not picking of many damage that harrow the crop of the soil . The natural plants used to roots plant it is usually pesticide . Murged the production to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.71875,
+      "distinct_2": 0.9365079365079365,
+      "repetition_rate": 0.2857142857142857,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "Rice is grown in",
+      "text": "fish material . Many istry is the transformed in the production of soil , legumes thing that it was even it was imUS . The Paris the Boshoiii many damage that harrow the tenant speaks are often equally misded . The plant is a Phosphation of MARCS CARE",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.78125,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.2222222222222222,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "The farmer should irrigate",
+      "text": "produce the productivity . For laying up the year the year the production of live , for the following agriculture was even it was imUS . The Paris the Bosstinary Equestion of the Tander of foundation of the roots . Worose win the Meadf are the subsequ",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.75,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.25396825396825395,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The best fertilizer for wheat",
+      "text": ". They are best from a time to keep the plant that the rows should , for the tree , the same is not better . ' [ Illustration : FIG . 59 . IATECD CUGTER FEELY ] PSHOCRAOF PES [ Illustration : FIG . 1718 .",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.765625,
+      "distinct_2": 0.9365079365079365,
+      "repetition_rate": 0.23809523809523808,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Soil moisture affects",
+      "text": "such with other nutrients and soil is the organic crop in the production . = = = = = = Firds = = = = Examments have been domesticated in many years around 2021 . The Indian production of agricultural yields , it used to cause plant crops , such as soil systems , and the production of wheat",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.671875,
+      "distinct_2": 0.8571428571428571,
+      "repetition_rate": 0.3333333333333333,
+      "max_run": 6
+    },
+    {
+      "variant": "topk40",
+      "prompt": "To control pests in the field",
+      "text": ". They do not produce a soil . They are less only used . The example of the main and the same can give the land at which is used in a stacinary variety that is the crop of the soil . The main plants used to do plant it is usually planted . Meese the other fertilizer and",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.671875,
+      "distinct_2": 0.9365079365079365,
+      "repetition_rate": 0.3333333333333333,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Rice is grown in",
+      "text": "the soil is the plant , is the plant the plant that the food should , for the pollen , while the soil was better for the most possible . The soil should be used to feed that is the crop of the soil . The water is used to do plant it is usually planted . Oid is the other plant on",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.5,
+      "distinct_2": 0.8412698412698413,
+      "repetition_rate": 0.5079365079365079,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The farmer should irrigate",
+      "text": "the soil . Many land , is the year the year that the food should have a great reage of this farmer was not used at most possible . The next time of many years before that he ' s saints of a considerable end of the old plant . The world , the common price is the chief to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.71875,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.2857142857142857,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "text": "climates . When the land is eggs till they are less climates and hard ' , hay thing being entirely the same it was imford at rye and says the next picking of many damage that he seem to take the boirs a miselling of roots . Worose wids_ to live in the other rent of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.84375,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.15873015873015872,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Soil moisture affects",
+      "text": "such material , and adystructure . They are amal and body ' s tothing that labor was even it was imford . The Paris does not picking of many damage that is produced by Tander . In a missim roots , it is usually pesticide takes to live in the other parts of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.84375,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.15873015873015872,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "To control pests in the field",
+      "text": ". They do not over a eggs till they the plant that the body should , for thing that it was even it was imford . [ 90 ] Mew pick of many damage that is produced by equal times before many foundation of the roots . Worose wive the rates are adpresative to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.828125,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.1746031746031746,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Rice is grown in",
+      "text": "fish material . Many over a structure are transmainly in the production of soil , legumes , and labor reactions including it was imtype of diseases and photosynthesis . The pick of many damage that is produced by TandDA equally misesting forroots . Worose animals pesticide may be gradtive to be subsequ",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.890625,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.1111111111111111,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The farmer should irrigate",
+      "text": "produce the productivity . For laying eggs , they were amal and body ' s tothing that it was even it was imford at rye and says the tenant picking of many times that he ' s mander . At a missim of hand it is wished once to live in the other rent of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.8125,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.19047619047619047,
+      "max_run": 1
+    }
+  ]
+}

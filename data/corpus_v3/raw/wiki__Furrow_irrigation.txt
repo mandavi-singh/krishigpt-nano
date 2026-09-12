@@ -1,0 +1,68 @@
+Surface irrigation is where water is applied and distributed over the soil surface by gravity. It is by far the most common form of irrigation throughout the world and has been practiced in many areas virtually unchanged for thousands of years.
+Surface irrigation is often referred to as flood irrigation, implying that the water distribution is uncontrolled and therefore, inherently inefficient. In reality, some of the irrigation practices grouped under this name involve a significant degree of management (for example surge irrigation).
+
+
+== Process ==
+The process of surface irrigation can be described using four phases. As water is applied to the top end of the field it will flow or advance over the field length. The advance phase refers to that length of time as water is applied to the top end of the field and flows or advances over the field length. After the water reaches the end of the field it will either run-off or start to pond. The period of time between the end of the advance phase and the shut-off of the inflow is termed the wetting, ponding or storage phase. As the inflow ceases the water will continue to runoff and infiltrate until the entire field is drained. The depletion phase is that short period of time after cut-off when the length of the field is still submerged. The recession phase describes the time period while the water front is retreating towards the downstream end of the field. The depth of water applied to any point in the field is a function of the opportunity time, the length of time for which water is present on the soil surface.
+
+
+== Types of surface irrigation ==
+
+
+=== Basin irrigation ===
+
+Level basin irrigation has historically been used in small areas having level surfaces that are surrounded by earth banks. The water is applied rapidly to the entire basin and is allowed to infiltrate. In traditional basins no water is permitted to drain from the field once it is irrigated. Basin irrigation is favored in soils with relatively low infiltration rates. This is also a method of surface irrigation. Fields are typically set up to follow the natural contours of the land but the introduction of laser levelling and land grading has permitted the construction of large rectangular basins that are more appropriate for mechanised broadacre cropping.
+
+
+==== Drainback level basins ====
+Drainback level basins (DBLBs) or contour basins are a variant of basin irrigation where the field is divided into a number of terraced rectangular bays which are graded level or have no significant slope. Water is applied to the first bay (usually the highest in elevation) and then the desired depth of applied water is permitted to drain back off that bay and flow to the next bay which is at a lower elevation than the first. Each bay is irrigated in turn using a combination of drainage water from the previous bay and continuing inflow from the supply channel. Successful operation of these systems is reliant on a sufficient elevation drop between successive bays. These systems are commonly used in Australia where rice and wheat are grown in rotation.
+
+
+=== Furrow irrigation ===
+
+Furrow irrigation is conducted by creating small parallel channels along the length of the field parallel to the direction of its predominant slope. Water is applied to the top end of each furrow and flows down the field under the influence of gravity. Water may be supplied using gated pipe, siphon and head ditch, or bankless systems. The speed of water movement is determined by many factors such as slope, surface roughness, and furrow shape, but most importantly by the inflow rate and soil infiltration rate. The spacing between adjacent furrows is governed by the crop species, common spacings typically range from 0.75 to 2 m (2.5 to 6.6 ft). The crop is planted on the ridge between furrows which may contain a single row of plants or several rows in the case of a bed-type system. Furrows may range anywhere from less than 100 to 2,000 m (0.062 to 1.243 mi) long depending on the soil type, location, and crop type. Shorter furrows are commonly associated with higher uniformity of application but result in increasing potential for runoff losses. Furrow irrigation is particularly suited to broadacre row crops such as cotton, maize, and sugar cane. It is also practiced in various horticultural industries such as citrus, stone fruit, and tomatoes.
+The water can take a considerable period of time to reach the other end, meaning water has been infiltrating for a longer period of time at the top end of the field. This results in poor uniformity with high application at the top end with lower application at the bottom end. In most cases the performance of furrow irrigation can be improved through increasing the speed at which water moves along the field (the advance rate). This can be achieved through increasing flow rates or through the practice of surge irrigation. Increasing the advance rate not only improves the uniformity but also reduces the total volume of water required to complete the irrigation.
+
+
+==== Surge irrigation ====
+This type of irrigation is relatively new with research and development into its practice and modelling started in early 1980s. Surge Irrigation is a variant of furrow irrigation where the water supply is pulsed on and off in planned time periods (e.g. on for 1 hour off for 1½ hour). The wetting and drying cycles reduce infiltration rates resulting in faster advance rates and higher uniformity than continuous flow. The reduction in infiltration is a result of surface consolidation, filling of cracks and micro pores and the disintegration of soil particles during rapid wetting and consequent surface sealing during each drying phase. On those soils where surging is effective it has been reported to allow completion of the irrigation with a lower overall water usage and therefore higher efficiency and potentially offer the ability to practice deficit irrigation. The effectiveness of surge irrigation is soil type dependent; for example, many clay soils experience a rapid sealing behaviour under continuous flow and therefore surge irrigation offers little benefit.
+
+
+=== Bay/border strip irrigation ===
+Border strip, otherwise known as border check or bay irrigation could be considered as a hybrid of level basin and furrow irrigation. The field is divided into a number of bays or strips, each bay is separated by raised earth check banks (borders). The bays are typically longer and narrower compared to basin irrigation and are orientated to align lengthwise with the slope of the field. Typical bay dimensions are 10 to 70 m (10 to 80 yd) wide and 100 to 700 m (110 to 770 yd) long. The water is applied to the top end of the bay, which is usually constructed to facilitate free-flowing conditions at the downstream end. One common use of this technique includes the irrigation of pasture for dairy production.
+
+
+=== Spate irrigation ===
+Spate irrigation (from the English word spate, meaning: a. a flood or inundation. b. a river flooding its banks) uses seasonal floods of rivers, streams, ponds and lakes to fill water storage basins. It is an ancient method of irrigation in arid and semi-arid climates in the Middle East, North Africa, West Asia, East Africa and parts of Latin America.
+In spate irrigation, water is diverted from normally dry river beds when the river is in spate. The flood water is then diverted to the fields. This may be done by free intakes, by diversion spurs or by bunds, that are built across the river bed. The flood water, typically lasting a few hours or a few days, is channelled through a network of primary, secondary and sometimes tertiary flood channels. Command areas may range from anything between a few hectares to over 25,000 hectares (62,000 acres).
+Spate irrigation systems require huge management efforts to control and optimize the flow of water. Because fast-moving water is capable of moving very large amounts of sediment, the heights of river banks and the composition of their beds can change rapidly. Diverting the flow of a powerful force which is capable of moving rocks, soils and other materials used to divert the path of the water can prove difficult.
+
+
+== Issues associated with surface irrigation ==
+
+While surface irrigation can be practiced effectively using the correct management under the right conditions, it is often associated with a number of issues undermining productivity and environmental sustainability:
+
+Waterlogging – Can cause the plant to shut down delaying further growth until sufficient water drains from the rootzone. Waterlogging may be counteracted by drainage, tile drainage or watertable control by another form of subsurface drainage.
+Deep drainage - Overirrigation may cause water to move below the root zone resulting in rising water tables. In regions with naturally occurring saline soil layers (for example salinity in south eastern Australia) or saline aquifers, these rising water tables may bring salt up into the root zone leading to problems of irrigation salinity.
+Salinization – Depending on water quality irrigation water may add significant volumes of salt to the soil profile. While this is a lesser issue for surface irrigation compared to other irrigation methods (due to the comparatively high  leaching fraction), lack of subsurface drainage may restrict the leaching of salts from the soil. This can be remedied by drainage and soil salinity control through flushing.
+The aim of modern surface irrigation management is to minimize the risk of these potential adverse impacts.
+
+
+== See also ==
+Irrigation
+Irrigation in viticulture
+Irrigation statistics
+Irrigation management
+Irrigation environmental impacts
+Tidal irrigation
+Irrigation in alluvial fans
+Deficit irrigation
+Irrigation district
+
+
+== References ==
+
+
+== External links ==
+FAO Irrigation and Drainage Paper 45: Guidelines for designing and evaluating surface irrigation systems
+The Experimental Hydrology Wiki Infiltration – Hood Infiltrometer

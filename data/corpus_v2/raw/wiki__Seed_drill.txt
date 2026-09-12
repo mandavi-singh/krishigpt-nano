@@ -1,0 +1,59 @@
+A seed drill is a device used in agriculture that sows seeds for crops by positioning them in the soil and burying them to a specific depth while being dragged by a tractor. This ensures that seeds will be distributed evenly.
+The seed drill sows the seeds at the proper seeding rate and depth, ensuring that the seeds are covered by soil. This saves them from being eaten by birds and animals, or being dried up due to exposure to the sun. With seed drill machines, seeds are distributed in rows; this allows plants to get sufficient sunlight and nutrients from the soil.
+Before the introduction of the seed drill, most seeds were planted by hand broadcasting, an imprecise and wasteful process with a poor distribution of seeds and low productivity. The use of a seed drill can improve the ratio of crop yield (seeds harvested per seed planted) by as much as eight times while also saving time and labor.
+Some machines for metering out seeds for planting are called planters. The concepts evolved from ancient Chinese practice and later evolved into mechanisms that pick up seeds from a bin and deposit them down a tube.
+Seed drills of earlier centuries included single-tube seed drills in Sumer and multi-tube seed drills in China,  and later a seed drill in 1701 by Jethro Tull that was influential in the growth of farming technology in recent centuries. Even for a century after Tull, hand-sowing of grain remained common.
+
+
+== Function ==
+
+Many seed drills consist of a hopper filled with seeds arranged above a series of tubes that can be set at selected distances from each other to allow optimum growth of the resulting plants. Seeds are spaced out using fluted paddles which rotate using a geared drive from one of the drill's land wheels. The seeding rate is altered by changing gear ratios. Most modern drills use air to convey seeds through plastic tubes from the seed hopper to the colters. This arrangement enables seed drills to be much wider than the seed hopper—as much as 12m wide in some cases. The seed is metered mechanically into an air stream created by a hydraulically powered onboard fan and conveyed initially to a distribution head which sub-divides the seeds into the pipes taking the seeds to the individual colters.
+Before the operation of a conventional seed drill, hard ground has to be plowed and harrowed to soften it enough to be able to get the seeds to the right depth and make a good "seedbed", providing the right mix of moisture, stability, space and air for seed germination and root development. The plow digs up the earth and the harrow smooths the soil and breaks up any clumps. In the case that the soil is not as compacted as to need a plow, it can also be tilled by less deeply disturbing tools, before drilling. 
+The least interruption of soil structure and soil fauna happens when a type of drilling machine is used which is outfitted to be able to "direct drill"; "direct" referring to sowing into narrow rows opened by single teeth placed in front of every seed-dispensing tube, directly into/ between the partly composted remains (stubble) of the last crop (directly into an untilled field). 
+The drill must be set for the size of the seed used. After this the grain is put in the hopper on top, from which the seed grains flow down to the drill which spaces and plants the seed. 
+This system is still used today but has been updated and modified over time in many aspects; the most visible example being very wide machines with which one farmer can plant many rows of seed at the same time.
+A seed drill can be pulled across the field, depending on the type, using draft animals, like bullocks or by a power engine, usually a tractor. Seeds sown using a seed drill are distributed evenly and placed at the correct depth in the soil.
+
+
+== Precursors ==
+In older methods of planting, a field is initially prepared with a plow to a series of linear cuts known as furrows. The field is then seeded by throwing the seeds over the field, a method known as manual broadcasting. The seeds may not be sown to the right depth nor the proper distance from one another. Seeds that land in the furrows have better protection from the elements, and natural erosion or manual raking will cover them while leaving some exposed. The result is a field planted roughly in rows, but having a large number of plants outside the furrow lanes.
+There are several downsides to this approach. The most obvious is that seeds that land outside the furrows will not have the growth shown by the plants sown in the furrow since they are too shallow in the soil. Because of this, they are lost to the elements. Many of the seeds remain on the surface where they are vulnerable to being eaten by birds or carried away by the wind. Surface seeds commonly never germinate at all or germinate prematurely, only to be killed by frost.
+Since the furrows represent only a portion of the field's area, and broadcasting distributes seeds fairly evenly, this results in considerable wastage of seeds. Less obvious are the effects of over seeding; all crops grow best at a certain density, which varies depending on the soil and weather conditions. Additional seeding above this will reduce crop yields, in spite of more plants being sown, as there will be competition among the plants for the minerals, water, and the soil available. Another reason is that the mineral resources of the soil will also deplete at a much faster rate, thereby directly affecting the growth of the plants.
+
+
+== History ==
+
+While the Babylonians used primitive seed drills around 1400 BCE, the invention never reached Europe. Multi-tube iron seed drills were invented by the Chinese in the 2nd century BCE. This multi-tube seed drill has been credited with giving China an efficient food production system that allowed it to support its large population for millennia. It may have been introduced into Europe following contacts with China. In the Indian subcontinent, the seed drill was in widespread use among peasants by the time of the Mughal Empire in the 16th century.
+The first known European seed drill was attributed to Camillo Torello and patented by the Venetian Senate in 1566. A seed drill was described in detail by Tadeo Cavalina of Bologna in 1602. In England, the seed drill was further refined by Jethro Tull in 1701 in the Agricultural Revolution. However, seed drills of this and successive types were both expensive and unreliable, as well as fragile. Seed drills would not come into widespread use in Europe until the mid to late 19th century, when manufacturing advances such as machine tools, die forging and metal stamping allowed large-scale precision manufacturing of metal parts.
+Early drills were small enough to be pulled by a single horse, and many of these remained in use into the 1930s. The availability of steam, and later gasoline tractors, however, saw the development of larger and more efficient drills that allowed farmers to seed ever larger tracts in a single day.
+Recent improvements to drills allow seed-drilling without prior tilling. This means that soils subject to erosion or moisture loss are protected until the seed germinates and grows enough to keep the soil in place. This also helps prevent soil loss by avoiding erosion after tilling. The development of the press drill was one of the major innovations in pre-1900 farming technology.
+
+
+== Impact ==
+
+The invention of the seed drill dramatically improved germination. The seed drill employed a series of runners spaced at the same distance as the plowed furrows. These runners, or drills, opened the furrow to a uniform depth before the seed was dropped. Behind the drills were a series of presses, metal discs which cut down the sides of the trench into which the seeds had been planted, covering them over.
+This innovation permitted farmers to have precise control over the depth at which seeds were planted. This greater measure of control meant that fewer seeds germinated early or late and that seeds were able to take optimum advantage of available soil moisture in a prepared seedbed. The result was that farmers were able to use less seed and at the same time experience larger yields than under the broadcast methods.
+The seed drill allows farmers to sow seeds in well-spaced rows at specific depths at a specific seed rate; each tube creates a hole of a specific depth, drops in one or more seeds, and covers it over. This invention gives farmers much greater control over the depth that the seed is planted and the ability to cover the seeds without back-tracking. The result is an increased rate of germination, and a much-improved crop yield (up to eight times compared to broadcast seeding).
+The use of a seed drill also facilitates weed control. Broadcast seeding results in a random array of growing crops, making it difficult to control weeds using any method other than hand weeding. A field planted using a seed drill is much more uniform, typically in rows, allowing weeding with a hoe during the growing season. Weeding by hand is laborious and inefficient. Poor weeding reduces crop yield, so this benefit is extremely significant.
+
+
+== See also ==
+Land imprinter
+Planter (farm implement)
+Broadcast spreader
+Gorru
+
+
+== References ==
+
+
+== Further reading ==
+The Genius of China, Robert Temple, ISBN
+History Channel, Where Did It Come From? Episode: "Ancient China: Agriculture"
+
+
+== External links ==
+
+Tiscali encyclopedia article on seed drills
+Conservation tillage Archived 2008-06-03 at the Wayback Machine
+Zero Tillage seed drilling in Pakistan Archived 2020-10-27 at the Wayback Machine

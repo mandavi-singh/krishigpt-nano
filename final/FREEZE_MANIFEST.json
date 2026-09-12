@@ -1,0 +1,16 @@
+﻿{
+  "model": "KrishiGPT-nano",
+  "checkpoint_role": "FINAL",
+  "file": "checkpoints/krishigpt_v3/best.pt",
+  "frozen": "2026-08-22",
+  "training_step": 3800,
+  "val_loss": 4.0804,
+  "val_ppl": 59.2,
+  "vocab_size": 5237,
+  "params": 1860224,
+  "size_bytes": 22939521,
+  "sha256": "137cc83da53dd873cbab22c82e7344c7c84882d79b37017a37c765ff38e14536",
+  "protection": "read-only file attribute set",
+  "lineage": "v1 full -> v1 extended -> v2 warm-start -> v2 extended -> v3 warm-start",
+  "note": "Frozen at user instruction; do not modify. Companion artifacts: data/processed/agri_bpe_tokenizer.json (5,237-vocab BPE), configs/nano_agri_v3.json."
+}

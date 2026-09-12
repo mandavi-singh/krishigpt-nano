@@ -1,0 +1,17 @@
+{
+  "checkpoint": "C:\\Users\\singh\\Documents\\Default Project\\myllm\\checkpoints\\krishigpt_nano_v2\\warm_start.pt",
+  "val_loss": 5.1916,
+  "val_ppl": 179.8,
+  "vocab_size": 5237,
+  "generation_tps": 100.1,
+  "variants": {
+    "greedy": {
+      "samples": 5,
+      "distinct_1": 0.1375,
+      "distinct_2": 0.1841,
+      "repetition_rate": 0.8762,
+      "max_run": 1.0,
+      "frac_rep_over_half": 1.0
+    }
+  }
+}

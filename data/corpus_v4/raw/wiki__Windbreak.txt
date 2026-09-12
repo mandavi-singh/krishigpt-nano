@@ -1,0 +1,37 @@
+A windbreak (shelterbelt) is a planting usually made up of one or more rows of trees or shrubs planted in such a manner as to provide shelter from the wind and to protect soil from erosion. They are commonly planted in hedgerows around the edges of fields on farms. If designed properly, windbreaks around a home can reduce the cost of heating and cooling and save energy. Windbreaks are also planted to help keep snow from drifting onto roadways or yards.
+Farmers sometimes use windbreaks to keep snow drifts on farm land that will provide water when the snow melts in the spring. Other benefits include contributing to a microclimate around crops (with slightly less drying and chilling at night), providing habitat for wildlife, and, in some regions, providing wood if the trees are harvested.
+
+
+== Usages ==
+Windbreaks and intercropping can be combined in a farming practice referred to as alley cropping, or being deployed along riparian buffer stripes. Fields are planted in rows of different crops surrounded by rows of trees. These trees provide fruit, wood, or protect the crops from the wind. Alley cropping has been particularly successful in India, Africa, and Brazil, where coffee growers have combined farming and forestry.
+A further use for a shelterbelt is to screen a farm from a main road or motorway. This improves the farm landscape by reducing the visual incursion of the motorway, mitigating noise from the traffic and providing a safe barrier between farm animals and the road.
+Sheltered, windless areas created by windbreaks are called wind shadows.
+Windbreaks can mitigate the effects of pesticide drift.
+
+
+== Windbreak aerodynamics ==
+
+When wind encounters a porous obstacle, such as a windbreak or shelterbelt, air pressure increases on the windward side and decreases on the leeward side. As a result, the airstream approaching the barrier is interrupted, and a portion of it moves over the barrier, resulting in a jet of higher wind speed. The remainder of the airstream then moves through the barrier to its edge downstream, pushed along by the decrease in pressure across the shelterbelt's width; as it emerges again, that airstream is interrupted further as its air pressure adjusts to the surrounding area. This results in slower wind speed further downwind, reaching a minimum at a distance of about 3 to 5 times the windbreak's height.
+Beyond that point wind speed recovers, aided by the overlying, faster-moving stream. From the perspective of the Reynolds-averaged Navier–Stokes equations, these effects can be understood as resulting from the loss of momentum caused by the drag of leaves and branches and would be represented by the body force fi (a distributed momentum sink).
+Windbreaks reduce the wind's average air speed and make it less variable, resulting in the wind mixing less effectively than it does upwind. Additionally, all these changes to the wind's behavior result in changes to the region's environment. For instance, the surface energy budget of the ground may be impacted, as the slowed wind dissipates heat from the sun less effectively; this trend may reverse further downwind, and about 8 times the windbreak's height downstream, the windbreak may result in cooler surface temperatures.
+
+
+== Windbreak organizations ==
+
+The Great Plains Shelterbelt was an American initiative to create shelterbelts on the prairies in the USA during the Dust Bowl of the 1930s.
+The Prairie Farm Rehabilitation Administration in Indian Head, Saskatchewan, Canada, subsidized seedlings to prairie farmers for almost 100 years to reduce soil erosion and increase quality of life on the prairies.
+
+
+== Gallery ==
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+National Agroforestry Center (USDA)
+The Bibliography of Aeolian Research

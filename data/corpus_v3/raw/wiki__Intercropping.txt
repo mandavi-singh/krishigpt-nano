@@ -1,0 +1,74 @@
+Intercropping is a multiple cropping practice that involves the cultivation of two or more crops simultaneously on the same field, a form of polyculture. The most common goal of intercropping is to produce a greater yield on a given piece of land by making use of resources or ecological processes that would otherwise not be utilized by a single crop.
+
+
+== Methods ==
+The degree of spatial and temporal overlap in the two crops can vary somewhat, but both requirements must be met for a cropping system to be an intercrop. Numerous types of intercropping, all of which vary the temporal and spatial mixture to some degree, have been identified.
+
+
+=== Mixed intercropping ===
+Mixed intercropping consists of multiple crops freely mixed in the available space. In the 21st century, it remains a common practice in Ethiopia, Eritrea, Georgia, and a few other places. Freely mixed intercropping has been practiced for thousands of years. In medieval England, farmers mixed oat and barley, which they called dredge, or dredge corn, to make livestock feed. French peasants similarly ground wheat and rye together to make pain de méteil, or bread of mixed grains. Ease of harvesting and buyer preferences led later farmers to plant single-species fields instead.
+
+
+=== Row crops ===
+
+A row crop is a crop that can be planted in rows wide enough to allow it to be tilled or otherwise cultivated by agricultural machinery, machinery tailored for the seasonal activities of row crops. Such crops are sown by drilling or transplanting rather than broadcasting. They are often grown in market gardening (truck farming) contexts or in kitchen gardens. Growing row crops first started in Ancient China in the 6th century BC.
+
+
+=== Temporal ===
+Temporal intercropping uses the practice of sowing a fast-growing crop with a slow-growing crop, so that the fast-growing crop is harvested before the slow-growing crop starts to mature. This can provide greater yield than either crop alone.
+Further temporal separation is found in relay cropping, where the second crop is sown during the growth, often near the onset of reproductive development or fruiting, of the first crop, so that the first crop is harvested to make room for the full development of the second.
+Crop rotation is a related practice but is not a form of intercropping, as the different crops are grown in separate growing seasons rather than in a single season.
+
+
+=== Alley cropping ===
+Alley cropping has crop strips alternating with rows of closely spaced tree or hedge species. Normally, the trees are pruned before planting the crop. The cut leafy material - for example, from Alchornea cordifolia and Acioa barteri - is spread over the crop area to provide nutrients. In addition to nutrients, the hedges serve as windbreaks and reduce erosion. In tropical North and South America, various species of Inga such as I. edulis and I. oerstediana have been used for alley cropping. Weed control is inherent to alley cropping, by providing mulch and shade.
+Inga alley cropping offers an alternative to the ecologically destructive slash and burn cultivation. It increases yields and is more sustainable as it allows the land to be cultivated repeatedly, eliminating the need for slash and burn to get fertile plots. Inga trees, native to Central and South America, grow well on acid soils of tropical rainforest or former rainforest. They are leguminous, fixing nitrogen into a form usable by plants. The leaves form a thick mulch that protects both soil and roots from sun and rain. The trees form a thick canopy that cuts off light from the weeds below, and withstand annual pruning. The technique was developed and trialled by tropical ecologist Mike Hands in Costa Rica in the late 1980s and early '90s. He showed that the tough  leaves of the Inga tree decomposed quickly enough to be useful as a mulch.
+
+
+== Potential benefits ==
+
+
+=== Resource partitioning ===
+
+Careful planning is required, taking into account the soil, climate, crops, and varieties. It is particularly important not to have crops competing with each other for physical space, nutrients, water, or sunlight. Examples of intercropping strategies are planting a deep-rooted crop with a shallow-rooted crop, or planting a tall crop with a shorter crop that requires partial shade. Inga alley cropping has been proposed as an alternative to the ecological destruction of slash-and-burn farming.
+When crops are carefully selected, other agronomic benefits are also achieved.
+
+
+=== Mutualism ===
+Intercropping systems can provide higher yields for the same input, or more stable yields with less input, in low-input or subsistence systems. Planting two crops in close proximity can especially be beneficial when the two plants interact in a way that increases one or both of the plant's fitness (and therefore yield). For example, plants that are prone to tip over in wind or heavy rain (lodging-prone plants), may be given structural support by their companion crop. Climbing plants such as black pepper can also benefit from structural support. Some plants are used to suppress weeds or provide nutrients.
+Intercropping of compatible plants can encourage biodiversity, McDaniel et al. 2014 and Lori et al. 2017 finding a legume intercrop to increase soil diversity, or by providing a habitat for a variety of insects and soil organisms that would not be present in a single-crop environment. These organisms may provide crops valuable nutrients, such as through nitrogen fixation.
+
+
+=== Pest management ===
+
+There are several ways in which increasing crop diversity may help improve pest management. For example, such practices may limit outbreaks of crop pests by increasing predator biodiversity. Additionally, reducing the homogeneity of the crop can potentially increase the barriers against biological dispersal of pest organisms through the crop.
+There are several ways pests, typically herbivorous insects, can be controlled through intercropping:
+
+Trap cropping, this involves planting a crop nearby that is more attractive for pests compared to the production crop, the pests will target this crop and not the production crop.
+Repellant intercrops, an intercrop that has a repellent effect to certain pests can be used. This system involved the repellant crop masking the smell of the production crop in order to keep pests away from it.
+Push-pull cropping, this is a mixture of trap cropping and repellant intercropping. An attractant crop attracts the pest and a repellant crop is also used to repel the pest away.
+
+
+==== Limitations ====
+Intercropping to reduce pest damage in agriculture, has been deployed with varying success. For example, while many trap crops have successfully diverted pests off of focal crops in small-scale greenhouse, garden and field experiments, only a small portion of these plants have been shown to reduce pest damage at larger commercial scales. Furthermore, increasing crop diversity through intercropping does not necessarily increase the presence of the predators of crop pests. In a systematic review of the literature, in 2008, in the studies examined, predators of pests tended to increase under crop diversification strategies in only 53 percent of studies, and crop diversification only led to increased yield in only 32% of the studies. A common explanation for reported trap cropping failures, is that attractive trap plants only protect nearby plants if the insects do not move back into the main crop. In a review of 100 trap cropping examples in 2006, only 10 trap crops were classified as successful at a commercial scale, and in all successful cases, trap cropping was supplemented with management practices that specifically limited insect dispersal from the trap crop back into the main crop.
+
+
+== Gallery ==
+
+
+== See also ==
+Chaos gardening
+Companion planting
+Ecological sanitation
+Food-feed system
+Organic farming
+Permaculture
+Sustainable agriculture
+Three Sisters (agriculture)
+
+
+== References ==
+
+
+== External links ==
+Intercropping at Washington State University

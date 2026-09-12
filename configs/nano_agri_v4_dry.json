@@ -1,0 +1,30 @@
+{
+  "run_name": "krishigpt_v4",
+  "corpus": "v4",
+  "device": "cpu",
+  "torch_threads": 4,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 16,
+  "epochs": 4,
+  "max_steps": 60,
+  "lr": 6e-4,
+  "min_lr": 6e-5,
+  "warmup_steps": 200,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 10,
+  "val_every": 20,
+  "save_every": 60,
+  "warm_start": "checkpoints/krishigpt_v3/best.pt",
+  "train_stats_only": true,
+  "smoke": {
+    "max_steps": 10,
+    "log_every": 5,
+    "val_every": 5
+  },
+  "notes": "DRY RUN of the v4 warm-start schedule (disposable checkpoints/krishigpt_v4_dry stats-only checkpoints). Verify only."
+}

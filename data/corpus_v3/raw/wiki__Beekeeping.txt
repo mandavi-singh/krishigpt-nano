@@ -1,0 +1,220 @@
+Beekeeping (or apiculture, from Latin: apis + culture) is the maintenance of bee colonies, commonly in artificial beehives. Honey bees in the genus Apis are the most commonly kept species but other honey producing bees such as Melipona stingless bees are also kept. Beekeepers (or apiarists) keep bees to collect honey and other products of the hive: beeswax, propolis, bee pollen, and royal jelly. Other sources of beekeeping income include pollination of crops, raising queens, and production of package bees for sale. Bee hives are kept in an apiary or "bee yard".
+The earliest evidence of humans collecting honey are from Spanish caves paintings dated 6,000 BCE, however it is not until 3,100 BCE that there is evidence from Egypt of beekeeping being practiced.
+In the modern era, beekeeping is often used for crop pollination and the collection of its by products, such as wax and propolis. The largest beekeeping operations are agricultural businesses but many small beekeeping operations are run as a hobby. As beekeeping technology has advanced, beekeeping has become more accessible, and urban beekeeping was described as a growing trend as of 2016. Some studies have found city-kept bees are healthier than those in rural settings because there are fewer pesticides and greater biodiversity in cities.
+
+
+== History ==
+
+
+=== Early history ===
+
+At least 10,000 years ago, humans began to attempt to maintain colonies of wild bees in artificial hives made from hollow logs, wooden boxes, pottery vessels, and woven straw baskets known as skeps. Depictions of humans collecting honey from wild bees date to 10,000 years ago. Beekeeping in pottery vessels began about 9,000 years ago in North Africa. Traces of beeswax have been found in potsherds throughout the Middle East beginning about 7,000 BCE. In the Borjomi region of Georgia, archaeologists discovered the world's oldest known honey, dating back approximately 5,500 years, highlighting Georgia's ancient beekeeping traditions and the ritual use of honey in burial practices. Domestication of bees is shown in Egyptian art from around 4,500 years ago. Simple hives and smoke were used, and honey was stored in jars, some of which were found in the tombs of pharaohs such as Tutankhamun. In the 18th century, European understanding of the colonies and biology of bees allowed the construction of the movable comb hive so honey could be harvested without destroying the entire colony.
+Honeybees were kept in Egypt from antiquity. On the walls of the sun temple of Nyuserre Ini from the Fifth Dynasty before 2,422 BCE, workers are depicted blowing smoke into hives as they remove honeycombs. Inscriptions detailing the production of honey are found on the tomb of Pabasa from the Twenty-sixth Dynasty c. 650 BCE, in which cylindrical hives are depicted along with people pouring honey into jars.
+
+An inscription records the introduction of honey bees into the land of Suhum in Mesopotamia, where they were previously unknown: I am Shamash-resh-ușur, the governor of Suhu and the land of Mari. Bees that collect honey, which none of my ancestors had ever seen or brought into the land of Suhu, I brought down from the mountain of the men of Habha, and made them settle in the orchards of the town 'Gabbari-built-it'. They collect honey and wax, and I know how to melt the honey and wax – and the gardeners know too.
+Whoever comes in the future, may he ask the old men of the town, (who will say) thus: "They are the buildings of Shamash-resh-ușur, the governor of Suhu, who introduced honey bees into the land of Suhu". 
+The oldest archaeological finds directly relating to beekeeping have been discovered at Rehov, Israel, a Bronze and Iron Age archaeological site in the Jordan Valley. Thirty intact hives made of straw and unbaked clay were discovered in the ruins of the city, dating from about 900 BCE, by archaeologist Amihai Mazar. The hives were found in orderly rows, three high, in a manner that according to Mazar could have accommodated around 100 hives, held more than one million bees and had a potential annual yield of 500 kilograms (1,100 lb) of honey and 70 kilograms (150 lb) of beeswax, and are evidence an advanced honey industry in Tel Rehov, Israel 3,000 years ago.
+
+In ancient Greece, in Crete and Mycenae, there existed a system of high-status apiculture that is evidenced by the finds of hives, smoking pots, honey extractors and other beekeeping paraphernalia in Knossos. Beekeeping was considered a highly valued industry controlled by beekeeping overseers—owners of gold rings depicting apiculture scenes rather than religious ones as they have been reinterpreted recently, contra Sir Arthur Evans.
+Aspects of the lives of bees and beekeeping are discussed at length by Aristotle. Beekeeping was also documented by the Roman writers Virgil, Gaius Julius Hyginus, Varro, and Columella.
+Beekeeping has been practiced in ancient China since antiquity. In a book written by Fan Li (or Tao Zhu Gong) during the Spring and Autumn period are sections describing beekeeping, stressing the importance of the quality of the wooden box used and its effects on the quality of the honey. The Chinese word for honey mi (Chinese: 蜜; pinyin: Mì), reconstructed Old Chinese pronunciation *mjit) was borrowed from proto-Tocharian *ḿət(ə) (where *ḿ is palatalized; cf. Tocharian B mit), cognate with English mead.
+The ancient Maya domesticated a species of stingless bee, which they used for several purposes, including making balché, a mead-like alcoholic drink. By 300 BCE they had achieved the highest levels of stingless beekeeping practices in the world. The use of stingless bees is referred to as meliponiculture, which is named after bees of the tribe Meliponini such as Melipona quadrifasciata in Brazil. This variation of beekeeping still occurs today. For instance, in Australia, the stingless bee Tetragonula carbonaria is kept for the production of honey.
+
+
+=== Scientific study of honey bees ===
+European natural philosophers began to scientifically study bee colonies in the 18th century. Eminent among these scientists were Swammerdam, René Antoine Ferchault de Réaumur, Charles Bonnet and François Huber. Swammerdam and Réaumur were among the first to use a microscope and dissection to understand the internal biology of honey bees. Réaumur was among the first to construct a glass-walled observation hive to better observe activities inside hives. He observed queens laying eggs in open cells but did not know how queens were fertilized; the mating of a queen and drone had not yet been observed and many theories held queens were "self-fertile" while others believed a vapor or "miasma" emanating from the drones fertilized queens without physical contact. Huber was the first to prove by observation and experiment that drones physically inseminate queens outside the confines of the hive, usually a great distance away.
+Following Réaumur's design, Huber built improved glass-walled observation hives and sectional hives that could be opened like the leaves of a book. This allowed the inspection of individual wax combs and greatly improved direct observation of hive activity. Although he went blind before he was twenty, Huber employed a secretary named François Burnens to make daily observations, conduct experiment and keep accurate notes for more than twenty years. Huber confirmed a hive consists of one queen, who is the mother of every female worker and male drone in the colony. He was also the first to confirm mating with drones takes place outside hives and that queens are inseminated in successive matings with male drones, which occur high in the air at a great distance from the hive. Together, Huber and Burnens dissected bees under the microscope, and were among the first to describe the ovaries and spermatheca (sperm store) of queens, as well as the penis of male drones. Huber is regarded as "the father of modern bee-science" and his work Nouvelles Observations sur Les Abeilles (New Observations on Bees) revealed all of the basic scientific facts of the biology and ecology of honeybees.
+
+
+=== Hive designs ===
+
+Before the invention of the movable comb hive, the harvesting of honey frequently resulted in the destruction of the whole colony. The wild hive was broken into using smoke to quieten the bees. The honeycombs were pulled out and either immediately eaten whole or crushed, along with the eggs, larvae, and honey they held. A sieve or basket was used to separate the liquid honey from the demolished brood nest. In medieval times in northern Europe, although skeps and other containers were made to house bees, the honey and wax were still extracted after the bee colony was killed. This was usually accomplished by using burning sulfur to suffocate the colony without harming the honey within. It was impossible to replace old, dark-brown brood comb in which larval bees are constricted by layers of shed pupal skins.
+The movable frames of modern hives are considered to have been developed from the traditional basket top bar (movable comb) hives of Greece, which allowed the beekeeper to avoid killing the bees. The oldest evidence of their use dates to 1669, although it is probable their use is more than 3,000 years old.
+
+Intermediate stages in the transition from older methods of beekeeping were recorded in 1768 by Thomas Wildman, who described advances over the destructive, skep-based method so bees no longer had to be killed to harvest their honey. Wildman fixed an array of parallel wooden bars across the top of a straw hive 10 inches (25 cm) in diameter "so that there are in all seven bars of deal to which the bees fix their combs", foreshadowing future uses of movable-comb hives. He also described using such hives in a multi-story configuration, foreshadowing the modern use of supers: he added successive straw hives below and later removed the ones above when free of brood and filled with honey so the bees could be separately preserved at the harvest the following season. Wildman also described the use of hives with "sliding frames" in which the bees would build their comb.
+Wildman's book acknowledges the advances in knowledge of bees made by Swammerdam, Maraldi, and de Réaumur—he includes a lengthy translation of Réaumur's account of the natural history of bees. Wildman also describes the initiatives of others in designing hives for the preservation of bees when taking the harvest, citing reports from Brittany in the 1750s due to the Comte de la Bourdonnaye. Another hive design was invented by Rev. John Thorley in 1744; the hive was placed in a bell jar that was screwed onto a wicker basket. The bees were free to move from the basket to the jar, and honey was produced and stored in the jar. The hive was designed to keep the bees from swarming as much as they would have in other hive designs.
+In the 19th century, changes in beekeeping practice were completed through the development of the movable comb hive by the American Lorenzo Lorraine Langstroth, who was the first person to make practical use of Huber's earlier discovery of a specific spatial distance between the wax combs, later called the bee space, which bees do not block with wax but keep as a free passage. Having determined this bee space, which is commonly given as between 6 and 9 mm (0.24 and 0.35 in), though up to 15 mm (0.59 in) has been found in populations in Ethiopia. Langstroth then designed a series of wooden frames within a rectangular hive box, carefully maintaining the correct space between successive frames. He found the bees would build parallel honeycombs in the box without bonding them to each other or to the hive walls. This enables the beekeeper to slide any frame out of the hive for inspection without harming the bees or the comb; and protecting the eggs, larvae and pupae in the cells. It also meant combs containing honey could be gently removed and the honey extracted without destroying the comb. The emptied honeycombs could then be returned intact to the bees for refilling. Langstroth's book The Hive and Honey-bee (1853), describes his rediscovery of the bee space and the development of his patent movable comb hive. The invention and development of the movable comb hive enabled the growth of large-scale, commercial honey production in both Europe and the U.S.
+
+
+=== 20th and 21st century hive designs ===
+Langstroth's design of movable comb hives was adopted by apiarists and inventors in both North America and Europe, and a wide range of moveable comb hives were developed in England, France, Germany and the United States. Classic designs evolved in each country; Dadant hives and Langstroth hives are still dominant in the U.S.; in France the De-Layens trough hive became popular, in the UK a British National hive became standard by the 1930s, although in Scotland the smaller Smith hive is still popular. In some Scandinavian countries and in Russia, the traditional trough hive persisted until late in the 20th century and is still kept in some areas. The Langstroth and Dadant designs, however, remain ubiquitous in the U.S. and in many parts of Europe, though Sweden, Denmark, Germany, France and Italy all have their own national hive designs. Regional variations of hive were developed according to climate, floral productivity and reproductive characteristics of the subspecies of native honey bees in each bio-region.
+
+The differences in hive dimensions are insignificant in comparison to the common factors in these hives: they are all square or rectangular; they all use movable wooden frames; and they all consist of a floor, brood-box, honey super, crown-board and roof. Hives have traditionally been constructed from cedar, pine or cypress wood but in recent years, hives made from injection-molded, dense polystyrene have become increasingly common. Hives also use queen excluders between the brood-box and honey supers to keep the queen from laying eggs in cells next to those containing honey intended for consumption. With the 20th-century advent of mite pests, hive floors are often replaced, either temporarily or permanently, with a wire mesh and a removable tray.
+
+In 2015, the Flow Hive system was invented in Australia by Cedar Anderson and his father Stuart Anderson, whose design allows honey to be extracted without cumbersome centrifuge equipment.
+
+
+=== Pioneers of practical and commercial beekeeping ===
+In the 19th century, improvements were made in the design and production of beehives, systems of management and husbandry, stock improvement by selective breeding, honey extraction and marketing. Notable innovators of modern beekeeping include:
+
+Petro Prokopovych used frames with channels in the side of the woodwork; these were packed side-by-side in stacked boxes. Bees traveled between frames and boxes via these channels, which were similar to the cutouts in the sides of modern wooden sections.
+Jan Dzierżon' beehive design has influenced modern beehives.
+François Huber made significant discoveries about the bee life cycle and communication between bees. Despite being blind, Huber discovered a large amount of information about the queen bee's mating habits and her contact with the rest of the hive. His work was published as New Observations on the Natural History of Bees.
+L. L. Langstroth has influenced modern beekeeping practice more than anyone else. His book The Hive and Honey-bee was published in 1853.
+Moses Quinby, author of Mysteries of Bee-Keeping Explained, invented the bee smoker in 1873.
+A. J. Cook author of The Bee-Keepers' Guide; or Manual of the Apiary, 1876.
+Dr. C.C. Miller was one of the first entrepreneurs to make a living from apiculture. By 1878, he made beekeeping his sole business activity. His book, Fifty Years Among the Bees, remains a classic and his influence on bee management persists into the 21st century.
+
+Franz Hruschka was an Austrian/Italian military officer who in 1865 invented a simple machine for extracting honey from the comb by means of centrifugal force. His original idea was to support combs in a metal framework and then spin them within a container to collect honey that was thrown out by centrifugal force. This meant honeycombs could be returned to a hive empty and undamaged, saving the bees a vast amount of work, time and materials. This invention significantly improved the efficiency of honey harvesting and catalyzed the modern honey industry.
+Walter T. Kelley was an American pioneer of modern beekeeping in the early-and mid-20th century. He greatly improved upon beekeeping equipment and clothing, and went on to manufacture these items and other equipment. His company sold products worldwide and his book How to Keep Bees & Sell Honey, encouraged a boom in beekeeping following World War II.
+Cary W. Hartman (1859–1947), lecturer, well known beekeeping enthusiast and honey promoter was elected President of the California State Beekeepers' Association in 1921.
+In the UK, practical beekeeping was led in the early 20th century by a few men, pre-eminently Brother Adam and his Buckfast bee, and R.O.B. Manley, author of books including Honey Production in the British Isles and inventor of the Manley frame, which is still universally popular in the UK. Other notable British pioneers include William Herrod-Hempsall and Gale.
+Ahmed Zaky Abushady (1892–1955) was an Egyptian poet, medical doctor, bacteriologist, and bee scientist, who was active in England and Egypt in the early twentieth century. In 1919, Abushady patented a removable, standardized aluminum honeycomb. In the same year, he founded The Apis Club in Benson, Oxfordshire, which later became the International Bee Research Association (IBRA). In Egypt in the 1930s, Abushady established The Bee Kingdom League and its organ The Bee Kingdom.
+
+
+== Hives and other equipment ==
+
+
+=== Horizontal hives ===
+
+A Horizontal top-bar hive is a single-story, frameless beehive in which the comb hangs from removable bars that form a continuous roof over the comb, whereas the frames in most current hives allow space for bees to move between boxes. Hives that have frames or that use honey chambers in summer and use management principles similar to those of regular top-bar hives are sometimes also referred to as top-bar hives. Top-bar hives are rectangular and are typically more than twice as wide as multi-story framed hives commonly found in English-speaking countries. Top-bar hives usually include one box and allow for beekeeping methods that interfere very little with the colony. While conventional advice often recommends inspecting each colony each week during the warmer months, some beekeepers fully inspect top-bar hives only once a year, and only one comb needs to be lifted at a time.
+
+
+=== Vertical stackable hives ===
+
+There are three types of vertical stackable hives: hanging or top-access frame, sliding or side-access frame, and top bar.
+Hanging-frame hive designs include Langstroth, the British National, Dadant, Layens, and Rose, which differ in size and number of frames. The Langstroth was the first successful top-opened hive with movable frames. Many other hive designs are based on the principle of bee space that was first described by Langstroth, and is a descendant of Jan Dzierzon's Polish hive designs. Langstroth hives are the most-common size in the United States and much of the world; the British National is the most common size in the United Kingdom; Dadant and Modified Dadant hives are widely used in France and Italy, and Layens by some beekeepers, where their large size is an advantage. Square Dadant hives–often called 12-frame Dadant or Brother Adam hives–are used in large parts of Germany and other parts of Europe by commercial beekeepers.
+Any hanging-frame hive design can be built as a sliding frame design. The AZ Hive, the original sliding frame design, integrates hives using Langstroth-sized frames into a honey house to streamline the workflow of honey harvest by localization of labor, similar to cellular manufacturing. The honey house can be a portable trailer, allowing the beekeeper to move hives to a site and provide pollination services.
+Top-bar stackable hives use top bars instead of full frames. The most common type is the Warre hive, although any hive with hanging frames can be converted into a top-bar stackable hive by using only the top bar rather than the whole frame. This may work less well with larger frames, where crosscomb and attachment can occur more readily.
+
+
+=== Protective clothing ===
+
+Most beekeepers wear some protective clothing. Novice beekeepers usually wear gloves and a hooded suit or hat and veil. Experienced beekeepers sometimes choose not to use gloves because they inhibit delicate manipulations. The face and neck are the most important areas to protect, so most beekeepers wear at least a veil. Defensive bees are attracted to the breath; a sting on the face can lead to much more pain and swelling than a sting elsewhere, while a sting on a bare hand can usually be quickly removed by fingernail scrape to reduce the amount of venom injected.
+Traditionally, beekeeping clothing is pale-colored because of the natural color of cotton and the cost of coloring is an expense not warranted for workwear, though some consider this to provide better differentiation from the colony's natural predators such as bears and skunks, which tend to be dark-colored. It is now known bees see in ultraviolet wavelengths and are also attracted to scent. The type of fabric conditioner used has more impact than the color of the fabric.
+Stings that are retained in clothing fabric continue to pump out an alarm pheromone that attracts aggressive action and further stinging attacks. Attraction can be minimized with regular washing.
+
+
+=== Smoker ===
+
+Most beekeepers use a smoker, a device that generates smoke from the incomplete combustion of fuels. Although the exact mechanism is disputed, it is said smoke calms bees. Some claim it initiates a feeding response in anticipation of possible hive abandonment due to fire. It is also thought smoke masks alarm pheromones released by guard bees or bees that are squashed in an inspection. The ensuing confusion creates an opportunity for the beekeeper to open the hive and work without triggering a defensive reaction.
+Many types of fuel can be used in a smoker as long as it is natural and not contaminated with harmful substances. Common fuels include hessian, twine, pine needles, corrugated cardboard, and rotten or punky wood. Indian beekeepers, especially in Kerala, often use coconut fibers, which are readily available, safe, and cheap. Some beekeeping supply sources also sell commercial fuels like pulped paper, compressed cotton and aerosol cans of smoke. Other beekeepers use sumac as fuel because it ejects much smoke and lacks an odor.
+Some beekeepers use "liquid smoke" as a safer, more convenient alternative. It is a water-based solution that is sprayed onto the bees from a plastic spray bottle. A spray of clean water can also be used to encourage bees to move on. Torpor may also be induced by the introduction of chilled air into the hive, while chilled carbon dioxide may have harmful, long-term effects.
+Few anecdotal stories of using the smoke from burning fungi in England or Europe for centuries have been published. Several more recent studies describe anaesthesia of honeybees using smoke from burning fungi. The fungi reported to have been used to smoke bees are the puffballs Lycoperdon gigantium, L. wahlbergii and the conks, Fomes fomentarius and F. igiarius. When fungi are burned, the characteristic smell is due to the pyrolysis of the keratin cell wall of fungi. Besides being a major fungi constituent, keratin is found in animal tissues, such as hair or feathers. Anaesthesia experiments done using smoke from pyrolysis of L. wahlbergii, human hair and chicken feathers showed no difference in long-term mortality of anesthetized honeybees and non-treated bees in the same hive. Hydrogen sulphide was identified as the major combustion product that is responsible for putting the bees to sleep. Note – hydrogen sulphide is toxic to humans at high concentrations.
+
+
+=== Hive tool ===
+
+Most beekeepers use a hive tool when working on their hives. The two main types are the American hive tool; and the Australian hive tool often called a 'frame lifter'. They are used to scrape off burr-comb from around the hive, especially on top of the frames. They are also used to separate the frames before lifting out of the hive.
+
+
+== Safety and husbandry ==
+
+
+=== Stings ===
+
+Some beekeepers believe pain and irritation from stings decreases if a beekeeper receives more stings, and they consider it important for safety of the beekeeper to be stung a few times a season. Beekeepers have high levels of antibodies, mainly Immunoglobulin G, caused by a reaction to the major antigen of bee venom, phospholipase A2 (PLA). Antibodies correlate with the frequency of bee stings.
+The entry of venom into the body from bee stings may be hindered and reduced by protective clothing that allows the wearer to remove stings and venom sacs with a simple tug on the clothing. Although the stinger is barbed, a worker bee's stinger is less likely to become lodged into clothing than human skin.
+Symptoms of being stung include redness, swelling and itching around the site of the sting. In mild cases, pain and swelling subside in two hours. In moderate cases, the red welt at the sting site will become slightly larger for one or two days before beginning to heal. A severe reaction, which is rare among beekeepers, results in anaphylactic shock.
+If a beekeeper is stung by a bee, the sting should be removed without squeezing the attached venom glands. A quick scrape with a fingernail is effective and intuitive, and ensures the venom injected does not spread so the side effects of the sting will go away sooner. Washing the affected area with soap and water can also stop the spread of venom. Ice or a cold compress can be applied to the sting area.
+
+
+=== Internal temperature of a hive ===
+
+Bees maintain the internal temperature of their hive at about 35 °C (95 °F). Their ability to do this is known as social homeostasis and was first described by Gates in 1914. During hot weather, bees cool the hive by circulating cool air from the entrance through the hive and out again; and if necessary by placing water, which they fetch, throughout the hive to create evaporative cooling. In cold weather, packing and insulation of the bee hive is believed to be beneficial. The extra insulation is believed to reduce the amount of honey the bees consume and makes it easier for them to maintain the hive's temperature. The desire for insulation encouraged the use of double-walled hives with an outer wall of timber or polystyrene; and hives constructed from a ceramic.
+
+
+=== Location of hives ===
+There has been considerable debate about the best location for hives. Virgil thought they should be located near clear springs, ponds or shallow brooks. Wildman thought they should face to the south or west. All writers agree hives should be sheltered from strong winds. In hot climates, hives are often placed under the shade of trees in summer. Researchers in the U.S. found domestic honey bees placed in national parks compete with native bee species for resources. A further review of the literature concluded large concentrations of beehives on continents where they are not native, such as North and South America, could compete against the native bees; this, however, was not as strongly observed in areas where domestic bees are native such as Europe and Africa, where the different bee species have adapted to have a narrower overlapping of forage preferences.
+
+
+=== Natural beekeeping ===
+
+The natural beekeeping movement believes bee hives are weakened by modern beekeeping and agricultural practices, such as crop spraying, hive movement, frequent hive inspections, artificial insemination of queens, routine medication, and sugar water feeding. Practitioners of "natural beekeeping" tend to use variations of the top-bar hive, which is a simple design that retains the concept of having a movable comb without the use of frames or a foundation. The horizontal top-bar hive, as promoted by many writers, can be seen as a modernization of hollow log hives, with the addition of wooden bars of specific width from which bees hang their combs. The widespread adoption of Natural Beekeeping methods in recent years can be attributed to the 2007 publications of Natural Beekeeping by Ross Conrad, and The Barefoot Beekeeper by Philip Chandler, which challenges many aspects of modern beekeeping and offers the horizontal top-bar hive as a viable alternative to the ubiquitous Langstroth-style movable-frame hive.
+A vertical top-bar hive is the Warré hive, based on a design by the French priest Abbé Émile Warré (1867–1951) and popularized by David Heaf in his English translation of Warré's book L'Apiculture pour Tous as Beekeeping For All.
+
+
+=== Urban and backyard beekeeping ===
+
+Related to natural beekeeping, urban beekeeping is an attempt to revert to a less-industrialized way of obtaining honey by using small-scale colonies that pollinate urban gardens. Some have found city bees are healthier than rural bees because there are fewer pesticides and greater biodiversity in urban gardens. Urban bees may fail to find forage, however, and homeowners can use their land to help feed local bee populations by planting flowers that provide nectar and pollen. An environment of year-round, uninterrupted bloom creates an ideal environment for colony reproduction.
+Using managed honeybee colonies to fill the ecological niche of pollinators in urban environments is also thought to be crucial to preventing the formation of feral colonies by more destructive species like the Africanized honeybee (AHB).
+
+
+=== Indoor beekeeping ===
+Modern beekeepers have experimented with raising bees indoors in a controlled environment or in indoor observation hives. This may be done for reasons of space and monitoring, or in the cooler months, when large commercial beekeepers may move colonies to "wintering" warehouses with fixed temperature, light, and humidity. This helps bees remain healthy but relatively dormant. These relatively dormant "wintered" bees survive on stored honey, and new bees are not born.
+Experiments in raising bees indoors for longer durations have looked into more precise and varying environment controls. In 2015, MIT's "Synthetic Apiary" project simulated springtime inside a closed environment for several hives throughout the winter. They provided food sources and simulated long days, and saw activity and reproduction levels comparable to the levels seen outdoors in warm weather. They concluded such an indoor apiary could be sustained year-round if needed.
+
+
+== Behavior of honey bees ==
+
+
+=== Colony reproduction ===
+
+Honey bee colonies are dependent on their queen, who is the only egg-layer. Although queens have a three-to-four-year adult lifespan, diminished longevity of queens—less than a year—is commonly and increasingly observed. The queen can choose whether to fertilize an egg as she lays it; fertilized eggs develop into a female worker bees and unfertilized eggs become male drones. The queen's choice of egg type depends on the size of the open brood cell she encounters on the comb. In a small worker cell, she lays a fertilized egg; she lays unfertilized drone eggs in larger drone cells.
+When the queen is fertile and laying eggs, she produces a variety of pheromones that control the behavior of the bees in the hive; these are commonly called queen substance. Each pheromone has a different function. As the queen ages, she begins to run out of stored sperm and her pheromones begin to fail.
+As the queen's pheromones fail, the bees replace her by creating a new queen from one of her worker eggs. They may do this because she has been physically injured, because she has run out of sperm and cannot lay fertilized eggs, and has become a drone-laying queen, or because her pheromones have dwindled to the point at which they cannot control all of the bees in the hive. At this juncture, the bees produce one or more queen cells by modifying existing worker cells that contain a normal female egg. They then either supersede the queen without swarming or divide the hive into two colonies through swarm-cell production, which leads to swarming.
+
+Supersedure is a valued behavioral trait because hive that supersedes its old queen does not lose any stock; rather it creates a new queen and the old one either naturally dies or is killed when the new queen emerges. In these hives, bees produce only one or two queen cells, most often in the center of the face of a broodcomb. Swarm-cell production involves the creation of twelve or more queen cells. These are large, peanut-shaped protrusions requiring space, for which reason they are often located around the edges—commonly at the sides and the bottom—of the broodcomb.
+Once either process has begun, the old queen leaves the hive when the first queen cells hatch, and is accompanied by a large number of bees—predominantly young bees called wax-secretors—which form the basis of the new hive. Scouts are sent from the swarm to find suitable hollow trees or rock crevices; when one is found, the entire swarm moves in. Within hours, the new colony's bees build new wax brood combs using honey stores with which the young bees have filled themselves before leaving the old hive. Only young bees can secrete wax from special abdominal segments, which is why swarms tend to contain more young bees. Often a number of virgin queens accompany the first swarm, known as the "prime swarm", and the old queen is replaced as soon as a daughter queen mates and begins laying. Otherwise, she is quickly superseded in the new hive.
+Different sub-species of Apis mellifera exhibit differing swarming characteristics. In North America, northern black races are thought to swarm less and supersede more whereas the southern yellow-and-gray varieties are said to swarm more frequently. Swarming behavior is complicated because of the prevalence of cross-breeding and hybridization of the sub-species. Italian bees are very prolific and inclined to swarm; Northern European black bees have a strong tendency to supersede their old queen without swarming. These differences are the result of differing evolutionary pressures in the regions in which each sub-species evolved.
+
+
+=== Factors that trigger swarming ===
+According to George S. Demuth, the main factors that increase the swarming tendency of bees are:
+
+The genetics of bees; the strength of the swarming instinct
+Congestion of the brood nest
+Insufficient empty combs for ripening nectar and storing honey
+Inadequate ventilation
+Having an old queen
+Warming weather conditions.
+Demuth attributed some of his comments to Snelgrove.
+Some beekeepers carefully monitor their colonies in spring for the appearance of queen cells, which are a dramatic signal the colony is determined to swarm. After leaving the old hive, the swarm looks for shelter. A beekeeper may capture it and introduce it into a new hive. Otherwise, the swarm reverts to a feral state and finds shelter in a hollow tree or other suitable habitat. A small after-swarm has less chance of survival and may threaten the original hive's survival if the number of remaining bees is unsustainable. When a hive swarms despite the beekeeper's preventative efforts, the beekeeper may give the reduced hive two frames of open brood with eggs. This helps replenish the hive more quickly and gives a second opportunity to raise a queen if there is a mating failure.
+
+
+=== Artificial swarming ===
+When a colony accidentally loses its queen, it is said to be queenless. The workers realize the queen is absent after around an hour as her pheromones in the hive fade. Instinctively, the workers select cells containing eggs aged less than three days and dramatically enlarge the cells  to form "emergency queen cells". These appear similar to large, one-inch (2.5 cm)-long, peanut-like structures that hang from the center or side of the brood combs. The developing larva in a queen cell is fed differently than an ordinary worker bee; in addition to honey and pollen, she receives a great deal of royal jelly, a special food secreted from the hypopharyngeal gland of young nurse bees. Royal jelly dramatically alters the growth and development of the larva so after metamorphosis and pupation, it emerges from the cell as a queen bee. The queen is the only bee in a colony that has fully developed ovaries; she secretes a pheromone that suppresses the normal development of ovaries in all of her workers.
+Beekeepers use the ability of the bees to produce new queens to increase their colonies in a procedure called splitting a colony. To do this, they remove several brood combs from a healthy hive, leaving the old queen behind. These combs must contain eggs or larvae less than three days old and be covered by young nurse bees, which care for the brood and keep it warm. These brood combs and  nurse bees are then placed into a small "nucleus hive" with other combs containing honey and pollen. As soon as the nurse bees find themselves in this new hive, and realize they have no queen and begin constructing emergency queen cells using the eggs and larvae in the combs.
+
+
+== Pests and diseases ==
+
+
+=== Diseases ===
+
+The common agents of disease that affect adult honey bees include fungi, bacteria, protozoa, viruses, parasites and poisons. The gross symptoms displayed by affected adult bees are very similar, whatever the cause, making it difficult to ascertain the causes without microscopic identification of microorganisms or chemical analysis of poisons. Since 2006, colony losses from colony collapse disorder (CCD) have been increasing across the world, although the causes of the syndrome are unknown. In the U.S., commercial beekeepers have been increasing the number of hives to deal with higher rates of attrition.
+
+
+=== Parasites ===
+Nosema apis is a microsporidian that causes nosemosis, also called nosema, the most-common and widespread disease of the adult honey bee.
+Galleria mellonella and Achroia grisella wax moth larvae hatch, tunnel through and destroy comb that contains bee larvae and their honey stores. The tunnels they create are lined with silk, which entangles and starves emerging bees. Destruction of honeycombs also results in leakage and wasting of honey. A healthy hive can manage wax moths but weak colonies, unoccupied hives and stored frames can be decimated.
+Small hive beetle (Aethina tumida) is native to Africa but has now spread to most continents. It is a serious pest among honey bees unadapted to it.
+Varroa destructor, the Varroa mite, is an established pest of two species of honey bee through many parts of the world and is blamed by many researchers as a leading cause of CCD.
+Tropilaelaps mites, of which there are four species, are native to Apis dorsata, Apis laboriosa, and Apis breviligula, but spread to Apis mellifera after they were introduced to Asia.
+Acarapis woodi, the tracheal mite, infests the trachea of honey bees.
+
+
+=== Predators ===
+Most predators prefer not to eat honeybees due to their unpleasant sting. Common honeybee predators include large animals such as skunks and bears, which seek the hive's honey and brood, as well as adult bees. Some birds will also eat bees, (for example, bee-eaters, as do some robber flies, such as Mallophora ruficauda, which is a pest of apiculture in South America due to its habit of eating workers while they are foraging in meadows.
+
+
+=== Decreasing lifespan ===
+A 2022 study by researchers at University of Maryland, College Park observed lifespan of caged worker bees is half as long as that  observed 50 years ago, and hypothesized decreased worker-bee lifespans should correlate to decreased honey production.
+
+
+== Recent developments ==
+
+
+=== Honey Fraud ===
+In 2023, the European Commission released a report on honey fraud in 17 European countries that determined that "(46%) [of samples] were suspicious of being non-compliant" with EU standards for honey purity. This was a significant increase from a 2015 study, and followed significant improvements in detection of sugar additives. Shortly after, the US Food and Drug Administration released a report that found that for 2021-2023, three to ten percent of imported honey violated purity criteria. 
+International beekeeping organization Apimondia had faced public backlash for stringent testing criteria in 2019 and 2023, and eventually removed honey judging entirely in 2024, citing that "adequate testing was impossible" for the purposes of the awards. In a statement released in 2020, Apimondia called for market regulations that would track the origins of honey, and developments in laboratory testing for honey fraud.
+These developments highlight the ongoing challenges faced by the beekeeping industry in maintaining product integrity and consumer trust in an increasingly global market.
+
+
+== World apiculture ==
+According to Food and Agriculture Organization data, the world's beehive stock rose from around 50 million in 1961 to around 83 million in 2014, which represents an annual average growth of 1.3%. Average annual growth has accelerated to 1.9% since 2009.
+
+
+== Gallery ==
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+The Moir Collection Archived 2017-07-01 at the Wayback Machine of rare beekeeping books consisting of 250 volumes including items published from 1525 at National Library of Scotland
+Dave Cushman's indexed website with glossary, about beekeeping

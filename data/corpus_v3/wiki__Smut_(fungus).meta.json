@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Smut (fungus)",
+  "provider": "Wikipedia",
+  "title": "Smut (fungus)",
+  "url": "https://en.wikipedia.org/wiki/Smut%20%28fungus%29",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Smut_(fungus).txt"
+}

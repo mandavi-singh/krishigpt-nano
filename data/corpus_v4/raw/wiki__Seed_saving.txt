@@ -1,0 +1,70 @@
+In agriculture and gardening, seed saving (sometimes known as brown bagging) is the practice of saving seeds or other reproductive material (e.g. tubers, scions, cuttings) from vegetables, grain, herbs, and flowers for use from year to year for annuals and nuts, tree fruits, and berries for perennials and trees.  This is the traditional way farms and gardens were maintained for the last 12,000 years (see first agricultural revolution).
+In recent decades, beginning in the latter part of the 20th century, there has been a major shift to purchasing seed annually from commercial seed suppliers. Most farmers regard seed saving as a risky practice. If farmers do not sanitize their seed, this can result in significant pest or disease damage when the saved seed is planted. Other reasons farmers generally do not save seed include inbreeding depression and certain plants not growing true to seed. Many commercial varieties exhibit high degrees of hybrid vigour, and will generally outperform any saved seed in a commercial context; as such vigour is the result of specific and careful genetic research and modification by humans, those desirable traits are almost always diminished in future generations. Additionally, many seeds are proprietary, making it illegal for buyers to save them after harvest for future planting.
+Nonetheless a significant number of farmers (especially small holders) continue to save some seed, whether out of habit, personal interest, or commercial interest. Much grassroots seed-saving activity today in the developed world is the work of home gardeners. Saving seeds protects biodiversity and saves money for consumer gardeners.
+
+
+== Method ==
+To be successful at seed saving, new skills need to be developed to ensure that desired characteristics are retained in the landraces of the plant variety. Important considerations are the separation distance needed from plants of the same species to ensure that cross-pollination with another variety does not occur, and the minimum number of plants to be grown which will preserve inherent genetic diversity. It is also necessary to recognize the preferred characteristics of the cultivar being grown so that plants that are not breeding true are selected against, and to understand the breeding of improvements to the cultivar. Diseases that are seed-borne must be recognized so that they can be eliminated. Seed storage methods must be good enough to maintain viability of the seed. Germination requirements must be known so that periodic tests can be made.
+Care must be taken, as training materials regarding seed production, cleaning, storage, and maintenance often focus on making landraces more uniform, distinct and stable (usually for commercial application) which can result in the loss of valuable adaptive traits unique to local varieties.
+Additionally, there is a matter of localized nature to be considered.
+In the upper northern hemisphere, and lower southern, one sees a seasonal change in terms of a cooler winter. Many plants go to seed and then go dormant. These seeds must hibernate until their respective spring season.
+
+
+== Open pollination ==
+Open pollination is an important aspect of seed saving. Plants that reproduce through natural means tend to adapt to local conditions over time, and evolve as reliable performers, particularly in their localities, known as landraces or "folk varieties."
+
+
+== Legality ==
+While saving seed and even exchanging seed with other farmers for biodiversity purposes has been a traditional practice, these practices have become, at least in some cases, illegal for the plant varieties that are patented or otherwise owned by some entity (often a corporation). Under Article 28 of the World Trade Organization (WTO) Agreement on Trade-Related Aspects of Intellectual Property Rights (the TRIPS Agreement), "planting, harvesting, saving, re-planting, and exchanging seeds of patented plants, or of plants containing patented cells and genes, constitutes use" and can in some cases be prohibited by the intellectual property laws of WTO members.
+Significantly, farmers in developing countries are particularly affected by prohibitions on seed saving. There are some protections for re-use, called "farmer's privilege", in the 1991 International Union for the Protection of New Varieties of Plants (UPOV Convention), but seed exchange remains prohibited.
+In the United States, seeds were first patented in the 1970s through the Plant Variety Protection Act of 1970. This was the beginning of a culture where people could control how the food system was created, altered and distributed to the public for consumption, and yields.
+
+
+=== United States ===
+Originally the farmer's privilege to save seeds to grow subsequent crops was considered protected by the Plant Variety Protection Act of 1970. American farmers, it was thought, could sell seed up to the amount saved for replanting their own acreage.
+That view came to an end in the latter part of the twentieth century and early part of the twenty-first century, with changes in technology and law. First, in 1981 Diamond v. Chakrabarty established that companies may obtain patents for life-forms—originally genetically engineered unicellular bacteria.  In 2002 J.E.M. Ag Supply v. Pioneer established that valid utility patents could be issued on sexually reproduced plants, such as seed crops (e.g., corn).  In 2013 Bowman v. Monsanto Co. established that it was patent infringement for farmers to save crop seeds (soybeans in that case) and grow subsequent crops from them, if the seeds or plants were patented.  Seed corporations are able to earn massive profits from this control over commercial seed supplies, and consequently further loss of control has been taken from US farmers over their farm production process.
+
+
+== Seed sovereignty ==
+Seed sovereignty can be defined as the right "to breed and exchange diverse open-sourced seeds." It focuses largely on the rights of individuals to be able to save seed, and be independent from major seed companies. Seed sovereignty activists point to seed saving as an important practice in building food security, as well as restoring agricultural biodiversity. Activists also draw attention to the cultural importance of seed saving practices, especially their role in maintaining traditional plant varieties. It is closely connected to the food sovereignty movement and food justice movement.
+
+
+== See also ==
+Australian Grains Genebank
+Heirloom plant
+Kokopelli Seed Foundation
+Navdanya
+Seed bank
+Seed library
+The Seed Savers' Network
+Seedy Sunday
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Ashworth, Suzanne & Whealy, Kent; Seed to Seed: Seed Saving Techniques for the Vegetable Gardener, Seed Savers Exchange, 2002. ISBN 978-1-882424-58-0
+Beck, Edward; A Packet of Seeds Saved by an Old Gardener, 2008. ISBN 978-0-559-85468-2
+Bonsall, Will; Will Bonsall’s Essential Guide to Radical, Self-reliant Gardening: Innovative Techniques for Growing Vegetables, Grains, and Perennial Food Crops with Minimal Fossil Fuel and Animal Inputs; Chelsea Green Publishing, 2015. ISBN 978-1-603-58442-5
+Deppe, Carol; Breed Your Own Vegetable Varieties: The Gardener's and Farmer's Guide to Plant Breeding and Seed Saving, Chelsea Green Publishing Company, 2000. ISBN 978-1-890132-72-9
+Fanton, Michel and Jude; "The Seed Savers' Handbook", Seed Savers' Network, 1993. ISBN 0-646-10226-5
+Mcgrath, Mike; Save and sow seeds of your favourite vegetables, Quirk Books (Stati Uniti), 2009. ISBN 978-1-59474-289-7
+Vellve,  Renee; Saving the seed: genetic diversity and european agriculture, Londra, Earthscan Publications, 1992. ISBN 1-85383-150-6
+Whealy, Kent; Garden Seed Inventory: An Inventory of Seed Catalogs Listing All Non-Hybrid Vegetable Seeds Available in the United States and Canada, Seed Savers Exchange, 2005. ISBN 978-1-882424-60-3
+Phillips, Catherine; Saving More Than Seeds: Practices and Politics of Seed Saving, London, Routledge, 2016. ISBN 978-1-315-60764-1
+An Introduction to Seed Saving for the Home Gardener, University of Maine Cooperative Extension Bulletin 2750
+
+
+== External links ==
+Seed Savers Exchange
+Grassroots Seed Network
+Australian National - Seed Savers Network
+South Australian Seed Savers Network
+International Seed Saving Institute
+Seed Saving and Seed Saver Resources
+Organic Seed Alliance - Seed Production guides Archived 31 January 2017 at the Wayback Machine — for US Northwest.
+Seed & Plant Sanctuary for Canada

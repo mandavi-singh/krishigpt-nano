@@ -1,0 +1,61 @@
+Topsoil is the upper layer of soil. It has the highest concentration of organic matter and microorganisms and is where most of the Earth's biological soil activity occurs.
+
+
+== Description ==
+Topsoil is composed of mineral particles and organic matter and usually extends to a depth of 5-10 inches (13–25 cm). Together these make a substrate capable of holding water and air which encourages biological activity.
+There is generally a high concentration of roots in topsoil since this is where plants obtain most of their vital nutrients. Topsoil also hosts significant bacterial, fungal and entomological activity without which soil quality would degrade. Bacteria and fungi can be essential in facilitating nutrient exchange with plants and in breaking down organic matter into a form that roots can absorb. Insects also play important roles in breaking down material and aerating and rotating the soil. A healthy topsoil layer is a very rich microbiome that hosts a wide array of species.
+Organic matter provides nutrition for living organisms and varies in quantity between different soils; more organic matter increases the strength of the soil structure. It condenses and settles over time in different ways depending upon conditions such as exposure. Dehydration also affects the structure. Dehydrated topsoil volume substantially decreases and is more prone to wind erosion.
+
+
+== Production ==
+Topsoil is naturally produced. Natural topsoil which has been mined and conditioned for human use and makes up the bulk of commercial topsoil available. The current rate of use and erosion outpaces soil generation.
+It is also possible to create artificial topsoil which supports some of the engineering or biological uses of topsoil. More traditional examples of artificial plant-growth media include terra preta and potting mix. Manufactured topsoil based on minerals, biosolids, compost and/or paper mill sludge is available commercially. An open-cut coal mine in Victoria, Australia, was rehabilitated with low-quality artificial topsoil made from local materials.
+
+
+== Classification ==
+In soil classification systems, topsoil is known as the O Horizon or A Horizon. Soil horizons are layers parallel to the soil surface whose physical, chemical and biological characteristics differ from the layers above and beneath. The depth of the topsoil layer is measured as the depth of the surface to the first densely packed soil layer, known as subsoil.
+In the United States, there is no federal, legal definition of the word topsoil when used in commerce.
+
+
+== Evaluation ==
+Organisations such as the British Standards Institution (BSI) and the North Carolina Department of Agriculture publish guidelines for soil quality and the desired levels of topsoil nutrients broadly suitable for many plants.
+
+Two common types of commercial topsoil are Bulk and Bagged Topsoil. The following table illustrates major differences between the two.
+
+Alternatively the BSI relates the following values:
+
+The preceding tables are for a multipurpose grade and certain levels can alter with regard to soil pH.
+Standards also exist for specialist soils suitable for plants with specific needs including acidic or ericaceous soil and calcareous soil. These have different pH levels to typical soil and are meant for growing different plant species. Low fertility, low fertility acidic and low fertility calcareous are other soil classifications designed for plants which thrive in nutrient sparse soil.
+Examples of specialist plants include the Venus flytrap which is found in low nitrogen and phosphorus environments so is less tolerant of highly nutrient rich environments than other plants and less able to compete in them. Whereas blueberries require ericaceous soil to grow well and clover grows well in calcareous soil. Soils must therefore be selected to suit the plants which are intended to be grown and hence standards are required.
+
+
+== Carbon to nitrogen ratio ==
+Topsoil is the primary resource for plants to grow and crops to thrive. The main two parameters for this are carbon and nitrogen. The carbon provides energy and nitrogen is required for plants to build proteins and hence tissues. Plants require them in a range of ratios to enable suitable growth. An optimum figure for topsoil in the UK is a C:N ratio of less than 20:1. A sawdust base typically has a high C:N ratio in the order of 400:1 while an alfalfa hay has a low carbonaceous content and can typically have a C:N ratio around 12:1.
+
+
+== Commercial application ==
+A variety of soil mixtures are sold commercially as topsoil. Typical uses for this product are improving gardens and lawns or for use in container gardens. Potting soil, compost, manure and peat are also sold for domestic uses with each having specific intended purposes. Topsoil products typically are not as suitable for potting plants or growing fruit and veg as potting soil or compost. Using it for this purpose can also work out prohibitively expensive compared to other alternatives.
+Topsoil is also used for proper surface grading near residential buildings. In order to protect against flooding the International Residential Code requires a 2% slope (2.4 in (61 mm)) for the first ten feet away from the home.Energy Star requires a rate of 0.5 in/ft (42 mm/m).
+Commercially available topsoil (manufactured or naturally occurring) in the United Kingdom must be classified to British Standard BS 3882, with the current version dated 2015. The standard has several classifications of topsoil with the final classification requiring material to meet certain threshold criteria such as nutrient content, extractable phytotoxic elements, particle size distribution, organic matter content, carbon:nitrogen ratio, electrical conductivity, loss on ignition, pH, chemical and physical contamination. The topsoil must be sampled in accordance with the British Standard and European Norm BS EN 12579:2013 Soil improvers and growing media – Sampling.
+
+
+== Erosion ==
+Topsoil erosion occurs when the topsoil layer is blown or washed away. The estimated annual costs of public and environmental health losses related to soil erosion in the United States exceed $45 billion. Conventional industrial agriculture practices such as ploughing and spraying high quantities of synthetic liquid fertilisers can degrade the quality of the soil. Intensive farming methods to satisfy high food demands with high crop yields and growing crops in monocultures can deplete the soil nutrients and damage the soil microbiome. These factors can affect the consistency and quality of the soil resulting in increased erosion.
+Surface runoff from farm fields is a type of nonpoint source pollution. Topsoil as well as farm fertilizers and other potential pollutants run off unprotected farm fields when heavy rains occur. This can result in polluting waterways and groundwater and may potentially contaminate drinking water sources. Algae blooms can occur when high quantities of nutrients flood rivers, lakes or oceans often as a result of farm runoff or from sewage. These harmful algal blooms can be toxic and have devastating impacts on ecosystems and wildlife. They are often referred to as red tides due to the presence of toxic red algae which can impact human food sources by contaminating seafood.
+Sustainable techniques attempt to slow erosion through the use of cover crops in order to build organic matter in the soil. The United States loses almost 3 tons of topsoil per acre per year. 1 inch (2.5 cm) of topsoil can take between 500 and 1,000 years to form naturally, making the rate of topsoil erosion a serious ecological concern. Based on 2014 trends, the world has about 60 years of topsoil left.
+
+
+== Conservation ==
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Further reading ===
+
+
+== External links ==
+USDA Electronic Field Office Technical Guide - Detailed soil conservation guides tailored to individual states/counties

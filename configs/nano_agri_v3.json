@@ -1,0 +1,29 @@
+{
+  "run_name": "krishigpt_v3",
+  "corpus": "v3",
+  "device": "cpu",
+  "torch_threads": 10,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 16,
+  "epochs": 4,
+  "max_steps": 3840,
+  "lr": 6e-4,
+  "min_lr": 6e-5,
+  "warmup_steps": 200,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 50,
+  "val_every": 100,
+  "save_every": 300,
+  "warm_start": "checkpoints/krishigpt_nano_v2_extended/best.pt",
+  "smoke": {
+    "max_steps": 30,
+    "log_every": 5,
+    "val_every": 15
+  },
+  "notes": "KrishiGPT-nano corpus-v3 warm start (local; user-confirmed). Warm-start source: krishigpt_nano_v2_extended/best.pt = step 4600, tokens_seen 9,420,800, best_val_loss 4.3761 on the byte-fixed validation set. Same pre-corpus schedule semantics as the original v2 warm-start run (fresh step/token/best-val counters over a NEW corpus; v2-extended's update_warm_start/extend_schedule mechanism is structurally incompatible with a new corpus, so epochs=4 is carried as the invariant): 4 epochs x 960 steps = 3,840 steps; cosine LR 6e-4 -> 6e-5 over 3,840 steps with 200-step warmup. Same architecture (6x128x4, RoPE, tied, 1,860,224 params), same 5,237-vocab BPE (no retraining), same AdamW settings and all log/val/save intervals as previous runs. Corpus v3 train = 1,966,105 ids / 15,360 windows; v3 valid = 22,026 ids, byte/exact identical to the v2 validation cache (verified in precheck_v3.py + verify_v3_compat.py), so val loss is directly comparable with 4.3761/4.3711. CPU-only. Dry run in configs/nano_agri_v3_dry.json (disposable checkpoints/krishigpt_v3_dry). No further training after this experiment without user confirmation."
+}

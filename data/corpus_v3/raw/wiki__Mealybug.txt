@@ -1,0 +1,54 @@
+Mealybugs are insects in the family Pseudococcidae, unarmored scale insects found in moist, warm habitats. Of the more than 2,000 described species, many are considered pests, as they feed on plant juices of greenhouse plants, house plants, and subtropical trees and also act as a vector for several plant diseases. Some ants live in symbiotic relationships with them, protecting them from predators and feeding off the honeydew that they excrete.
+
+
+== Description ==
+
+Mealybugs are sexually dimorphic; females appear as nymphs, exhibiting reduced morphology, and lack wings, although unlike many female scale insects, they often retain legs and can move. Males are smaller, gnat-like, and have wings. Since mealybugs, as well as all other Hemiptera, are hemimetabolous insects, they do not undergo complete metamorphosis in the true sense of the word. However, male mealybugs exhibit a radical change during their lifecycle, changing from wingless, ovoid nymphs to  flying adults.
+Mealybug females feed on plant sap, normally in roots or other crevices, and in a few cases the bottoms of stored fruit. They attach themselves to plants and secrete a powdery wax layer (hence the name "mealy" bug) used for protection while they suck the plants' juices. The males are short-lived, as they do not feed at all as adults and only live to fertilize the females. Male citrus mealy bugs fly to the females and resemble fluffy gnats.
+Some species of mealybug lay their eggs in the same waxy layer used for protection in quantities of 50–100; other species are born directly from the female.
+The most serious pests are mealybugs that feed on citrus. Other species damage sugarcane, grapes, pineapple, coffee trees, cassava, ferns, cacti, gardenias, papaya, banana, mulberry, sunflower, and orchids. Mealybugs only tend to be serious pests in the presence of ants because the ants protect them from predators and parasites. Mealybugs are also a vector of viruses in grapevines, spreading grapevine leafroll and grapevine red blotch viruses. 
+Mealybugs also infest some species of carnivorous plants such as Sarracenia (pitcher plants). In such cases, eradicatinge them is difficult without repeated applications of insecticide such as diazinon. Small infestations may not inflict significant damage. In larger amounts, though, they can induce leaf drop. In recent years, some of the mealybug species have become invasive pests in localities posing a great problem to the new agroecosystems. In India, Withania somnifera plants have been reported as a new reservoir host for an invasive mealybug species Phenacoccus solenopsis.
+Some mealybugs of the Hypogeococcus genus are used as biological pest controls of invasive cacti in South Africa, including Harrisia balansae, H. martinii, and Opuntia cespitosa.
+Fossil specimens of genus Acropyga ants have been recovered from the Burdigalian-stage Dominican amber deposits and several individuals are preserved carrying the extinct mealybug genus Electromyrmococcus. These fossils represent the oldest record of the symbiosis between mealybugs and Acropyga ants.
+
+
+== Control methods ==
+Insecticides such as pyrethroids (e.g. permethrin, bifenthrin, or cyfluthrin) have been used for control, but this approach is often considered counterproductive due to mortality of mealybug natural enemies.
+Some gardeners use species of predatory beetles (e.g. Cryptolaemus) and green lacewings (Chrysopidae) larvae to control mealybug infestations, as the larval lacewings are voracious predators of aphids and other small insects.
+
+
+== Metabolism ==
+Mealybugs have a highly sophisticated metabolism that involves  two bacterial endosymbionts, one inside the other. The endosymbionts make essential amino acids that the mealybug is not able to acquire directly from its diet. Genetically, mealybugs rely on a "mosaic" of metabolic pathways in which proteins are transported across membranes between what were once independent organisms.
+
+
+== Similar family ==
+Cochineals, commonly called mealybugs, share a very similar physical appearance and size, but mealybugs (Pseudococcidae) are in a different family to cochineals (Dactylopiidae), which has several species. In Oaxaca, Mexico, cochineals, known as cochinilla algodonosa, are intentionally cultivated and farmed. The dried bugs are ground into a dust, producing a red dye (carmine) that is used in fabric dyeing, artist's paints, and cosmetics.
+
+
+== Genera ==
+
+Extinct genera:
+
+†Electromyrmococcus Williams, 2001
+†Phyllococcus Ehrhorn, 1916 (monotypic)
+Note:
+
+the genus Puto is now placed in its own family
+Lachnodius Maskell, 1896 is now placed in the Eriococcidae
+
+
+== References ==
+
+
+== Further reading ==
+Jahn, G. C. and J. W. Beardsley (1994).  "Big-headed ants, Pheidole megacephala: Interference with the biological control of gray pineapple mealybugs".  In D.F. Williams [ed.] Exotic Ants: Biology, Impact and Control of Introduced Species.  Boulder, Col.: Westview Press, 199–205. ISBN 9780813386157.
+Jahn, G. C. and J. W. Beardsley (1998). "Presence/absence sampling of mealybugs, ants, and major predators in pineapple".  J. Plant Protection in the Tropics 11(1):73–79.
+
+
+== External links ==
+NCIPM (National Centre for Integrated Pest Management) – Cotton Mealybugs
+Mealy bugs Pseudococcus spp.—BBC gardening advice
+CISR – Vine Mealybug—Center for Invasive Species Research summary on Vine Mealybug
+On the University of Florida / Institute of Food and Agricultural Sciences Featured Creatures website:
+Hypogeococcus pungens
+Nipaecoccus nipae, coconut mealybug

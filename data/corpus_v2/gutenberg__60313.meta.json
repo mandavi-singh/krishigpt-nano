@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:60313",
+  "provider": "Project Gutenberg",
+  "title": "Agriculture of the Hidatsa Indians: An Indian Interpretation",
+  "authors": "Wilson, Gilbert Livingstone, Waheenee",
+  "url": "https://www.gutenberg.org/ebooks/60313",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-17",
+  "topic_bucket": "indian agriculture",
+  "download_count": 448,
+  "raw_file": "gutenberg__60313.txt",
+  "use": "KrishiGPT-nano corpus v2 (System A pretraining only)"
+}

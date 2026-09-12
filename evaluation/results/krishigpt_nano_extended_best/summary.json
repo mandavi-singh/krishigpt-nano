@@ -1,0 +1,41 @@
+{
+  "checkpoint": "C:\\Users\\singh\\Documents\\Default Project\\myllm\\checkpoints\\krishigpt_nano_extended\\best.pt",
+  "val_loss": 5.272,
+  "val_ppl": 194.8,
+  "vocab_size": 5237,
+  "generation_tps": 34.6,
+  "variants": {
+    "greedy": {
+      "samples": 5,
+      "distinct_1": 0.1375,
+      "distinct_2": 0.1841,
+      "repetition_rate": 0.8762,
+      "max_run": 1.0,
+      "frac_rep_over_half": 1.0
+    },
+    "temp0.9": {
+      "samples": 5,
+      "distinct_1": 0.7844,
+      "distinct_2": 0.9556,
+      "repetition_rate": 0.219,
+      "max_run": 1.0,
+      "frac_rep_over_half": 0.0
+    },
+    "topk40": {
+      "samples": 5,
+      "distinct_1": 0.6656,
+      "distinct_2": 0.9048,
+      "repetition_rate": 0.3397,
+      "max_run": 2.0,
+      "frac_rep_over_half": 0.2
+    },
+    "topp0.9": {
+      "samples": 5,
+      "distinct_1": 0.8438,
+      "distinct_2": 0.9905,
+      "repetition_rate": 0.1587,
+      "max_run": 1.0,
+      "frac_rep_over_half": 0.0
+    }
+  }
+}

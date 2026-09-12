@@ -1,0 +1,77 @@
+A soil conditioner is a product which is added to soil to improve the soil’s physical qualities, usually its fertility (ability to provide nutrition for plants) and sometimes its mechanics. In general usage, the term "soil conditioner" is often thought of as a subset of the category soil amendments (or soil improvement, soil condition), which more often is understood to include a wide range of fertilizers and non-organic materials. In the context of construction soil conditioning is also called soil stabilization. 
+Soil conditioners can be used to improve poor soils, or to rebuild soils which have been damaged by improper soil management. They can make poor soils more usable, and can be used to maintain soils in peak condition.
+
+
+== Composition ==
+A wide variety of materials have been described as soil conditioners due to their ability to improve soil quality. Some examples include biochar, bone meal, blood meal, coffee grounds, compost, compost tea, coir, manure, straw, peat, sphagnum moss, vermiculite, sulfur, lime, hydroabsorbant polymers, biosolids, and rock flour.
+Many soil conditioners come in the form of certified organic products, for people concerned with maintaining organic crops or organic gardens. Soil conditioners of almost every description are readily available from online stores or local nurseries as well as garden supply stores.
+
+
+=== Polyacrylamides ===
+Polyacrylamides have been widely investigated as soil conditioners. They were introduced as "linear soil conditioner" in the 1950s by Monsanto Company under the trade name Krilium. The soil conditioning technology was presented at a symposium on "Improvement of Soil Structure" held in Philadelphia, Pennsylvania on December 29, 1951. The technology was strongly documented and was published in the June 1952 issue of the journal Soil Science, volume 73, June 1952 that was dedicated to polymeric soil conditioners. The original formulation of polyacrylamide soil conditioners was difficult to use because it contained calcium which cross-linked the linear polymer under field conditions. Krilium was abandoned by Monsanto. Water-soluble soil conditioners offer the following benefits:
+
+increase pore space in soils containing clay
+increase water infiltration into soils containing clay
+prevent soil crusting
+stop erosion and water runoff
+make friable soil that is easy to cultivate
+make soil dry quicker after rain or irrigation, so that the soil can be worked sooner
+Consequently, these translate into
+
+stronger, larger plants with more extensive root system
+earlier seed emergence and crop maturity
+more efficient water utilization
+easier weed removal
+more response to fertilizers and to new crop varieties
+less plant diseases related to poor soil aeration
+decreased energy requirement for tillage
+The cross-linked forms of polyacrylamide, which strongly retain water, are often used for horticultural and agricultural under trade names such as Broadleaf P4 and Swell-Gel. In addition to use on farm lands, these polymers are used at construction sites for erosion control, in order to protect the water quality of nearby rivers and streams. As an nonionic monomer it can be co-polymerize with anionic for example Acrylic acid and cationic monomer such as DADMAC and resulted copolymer that can have different compatibility in different applications.
+Polyacrylamide is also used in some potting soil. Another use of polyacrylamide is as a chemical intermediate in the production of N-methylol acrylamide and N-butoxyacrylamide.
+
+
+== Purpose ==
+
+
+=== Soil structure ===
+The most common use of soil conditioners is to improve soil structure. Soils tend to become compacted over time. Soil compaction impedes root growth, decreasing the ability of plants to take up nutrients and water. Soil conditioners can add more loft and texture to keep the soil loose.
+
+
+=== Soil nutrients ===
+For centuries people have been adding things to poor soils to improve their ability to support healthy plant growth. Some of these materials, such as compost, clay and peat, are still used extensively today. Many soil amendments also add nutrients such as carbon and nitrogen, as well as beneficial bacteria.
+Additional nutrients, such as calcium, magnesium and phosphorus, may be augmented by amendments as well. This enriches the soil, allowing plants to grow bigger and stronger.
+
+
+=== Cation exchange ===
+Soil amendments can also greatly increase the cation exchange capacity (CEC) of soils. Soils act as the storehouses of plant nutrients. The relative ability of soils to store one particular group of nutrients, the cations. The most common soil cations are calcium, magnesium, potassium, ammonium, hydrogen, and sodium.
+The total number of cations a soil can hold, its total negative charge, is the soil's cation exchange capacity. The higher the CEC, the higher the negative charge and the more cations that can be held and exchanged with plant roots, providing them with the nutrition they require.
+
+
+=== Water retention ===
+Soil conditioners may be used to improve water retention in dry, coarse soils which are not holding water well. The addition of organic material for instance can greatly improve the water retention abilities of sandy soils and they can be added to adjust the pH of the soil to meet the needs of specific plants or to make highly acidic or alkaline soils more usable. The possibility of using other materials to assume the role of composts and clays in improving the soil was investigated on a scientific basis earlier in the 20th century, and the term soil conditioning was coined. The criteria by which such materials are judged most often remains their cost-effectiveness, their ability to increase soil moisture for longer periods, stimulate microbiological activity, increase nutrient levels and improve plant survival rates.
+The first synthetic soil conditioners were introduced in the 1950s, when the chemical hydrolysed polyacrylonitrile was the most used. Because of their ability to absorb several hundred times their own weight in water, polyacrylamides and polymethacrylates (also known as hydroabsorbent polymers, superabsorbent polymers or hydrogels) were tested in agriculture, horticulture and landscaping beginning in the 1960s.
+Interest disappeared when experiments proved them to be phytotoxic due to their high acrylamide monomer residue. Although manufacturing advances later brought the monomer concentration down below the toxic level, scientific literature shows few successes in utilizing these polymers for increasing plant quality or survival. The appearance of a new generation of potentially effective tools in the early 1980s, including hydroabsorbent polymers and copolymers from the propenamide and propenamide-propenoate families, opened new perspectives.
+
+
+=== Soil stabilization ===
+In the context of construction there are some soil improvement techniques that are intended to improve the effective strength and resistance of very soft soils, for example when excavating deep tunnels for underground subway or tunnel construction. The soil stabilization technique of low pressure chemical permeation grouting has also been used for high rise foundation underpinning as an alternative to pile foundations at a residential development over the East River landfill. Pressure grouting can be difficult to apply correctly at sites with waste materials or heterogeneous and coarse soils.
+
+
+== Application ==
+Soil conditioners may be applied in a number of ways. Some are worked into the soil with a tiller before planting. Others are applied after planting, or periodically during the growing season. Soil testing should be performed prior to applying a soil conditioner to learn more about the composition and structure of the soil. This testing will determine which conditioners will be more appropriate for the available conditions.
+
+
+== Ecological concerns ==
+While adding a soil conditioner to crops or a garden can seem like a great way to get healthier plants, over-application of some amendments can cause ecological problems. For example, salts, nitrogen, metals and other nutrients that are present in many soil amendments are not productive when added in excess, and can actually be detrimental to plant health. (See fertilizer burn.) Runoff of excess nutrients into waterways also occurs, which is harmful to the water quality and, through it, the environment.
+
+
+== References ==
+
+
+== See also ==
+
+
+=== Related lists ===
+List of composting systems
+List of environment topics
+List of sustainable agriculture topics
+List of organic gardening and farming topics

@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Cash crop",
+  "provider": "Wikipedia",
+  "title": "Cash crop",
+  "url": "https://en.wikipedia.org/wiki/Cash%20crop",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-17",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Cash_crop.txt"
+}

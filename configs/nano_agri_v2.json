@@ -1,0 +1,29 @@
+{
+  "run_name": "krishigpt_nano_v2",
+  "corpus": "v2",
+  "device": "cpu",
+  "torch_threads": 10,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 16,
+  "epochs": 4,
+  "max_steps": 2336,
+  "lr": 6e-4,
+  "min_lr": 6e-5,
+  "warmup_steps": 200,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 50,
+  "val_every": 100,
+  "save_every": 300,
+  "warm_start": "checkpoints/krishigpt_nano_v2/warm_start.pt",
+  "smoke": {
+    "max_steps": 30,
+    "log_every": 5,
+    "val_every": 15
+  },
+  "notes": "KrishiGPT-nano corpus-v2 warm start. Same architecture (6x128x4, RoPE, tied, 1,860,224 params), same 5237-vocab BPE, same AdamW settings. Warm-start source: krishigpt_nano_extended/best.pt (SHA-verified copy as warm_start.pt); weights+optimizer loaded, step/val bookkeeping reset for the fresh 4-epoch schedule (2336 steps = 584 steps/epoch). v2 train = 1,196,617 ids / 9,348 windows; v2 valid = 22,026 ids drawn ONLY from documents unseen by v1 training. CPU-only machine."
+}

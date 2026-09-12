@@ -1,0 +1,84 @@
+Clay minerals are hydrous aluminium phyllosilicates (e.g. kaolin, Al2Si2O5(OH)4), sometimes with variable amounts of iron, magnesium, alkali metals, alkaline earths, and other cations found on or near some planetary surfaces.
+Clay minerals form in the presence of water and have been important to life, and many theories of abiogenesis involve them. They are important constituents of soils, and have been useful to humans since ancient times in agriculture and manufacturing.
+
+
+== Properties ==
+
+Clay is a very fine-grained geologic material that develops plasticity when wet, but becomes hard, brittle and non–plastic upon drying or firing. It is a very common material, and is the oldest known ceramic. Prehistoric humans discovered the useful properties of clay and used it for making pottery. The chemistry of clay, including its capacity to retain nutrient cations such as potassium and ammonium, is important to soil fertility.
+Because the individual particles in clay are less than 4 micrometers (0.00016 in) in size, they cannot be characterized by ordinary optical or physical methods. The crystallographic structure of clay minerals became better understood in the 1930s with advancements in the x-ray diffraction (XRD) technique indispensable to deciphering their crystal lattice. Clay particles were found to be predominantly sheet silicate (phyllosilicate) minerals, now grouped together as clay minerals. Their structure is based on flat hexagonal sheets similar to those of the mica group of minerals. Standardization in terminology arose during this period as well, with special attention given to similar words that resulted in confusion, such as sheet and plane.
+Because clay minerals are usually (but not necessarily) ultrafine-grained, special analytical techniques are required for their identification and study. In addition to X-ray crystallography, these include electron diffraction methods, various spectroscopic methods such as Mössbauer spectroscopy, infrared spectroscopy, Raman spectroscopy, and SEM-EDS or automated mineralogy processes. These methods can be augmented by polarized light microscopy, a traditional technique establishing fundamental occurrences or petrologic relationships.
+
+
+== Occurrence ==
+Clay minerals are common weathering products (including weathering of feldspar) and low-temperature hydrothermal alteration products. Clay minerals are very common in soils, in fine-grained sedimentary rocks such as shale, mudstone, and siltstone and in fine-grained metamorphic slate and phyllite.
+Given the requirement of water, clay minerals are relatively rare in the Solar System, though they occur extensively on Earth where water has interacted with other minerals and organic matter. Clay minerals have been detected at several locations on Mars, including Echus Chasma, Mawrth Vallis, the Memnonia quadrangle and the Elysium quadrangle. Spectrography has confirmed their presence on celestial bodies including the dwarf planet Ceres, asteroid 101955 Bennu, and comet Tempel 1, as well as Jupiter's moon Europa.
+
+
+== Structure ==
+
+Like all phyllosilicates, clay minerals are characterised by two-dimensional sheets of corner-sharing SiO4 tetrahedra or AlO4 octahedra. The sheet units have the chemical composition (Al, Si)3O4. Each silica tetrahedron shares three of its vertex oxygen ions with other tetrahedra, forming a hexagonal array in two dimensions. The fourth oxygen ion is not shared with another tetrahedron and all of the tetrahedra "point" in the same direction; i.e. all of the unshared oxygen ions are on the same side of the sheet. These unshared oxygen ions are called apical oxygen ions.
+In clays, the tetrahedral sheets are always bonded to octahedral sheets formed from small cations, such as aluminum or magnesium, and coordinated by six oxygen atoms. The unshared vertex from the tetrahedral sheet also forms part of one side of the octahedral sheet, but an additional oxygen atom is located above the gap in the tetrahedral sheet at the center of the six tetrahedra. This oxygen atom is bonded to a hydrogen atom forming an OH group in the clay structure. Clays can be categorized depending on the way that tetrahedral and octahedral sheets are packaged into layers. If there is only one tetrahedral and one octahedral group in each layer the clay is known as a 1:1 clay. The alternative, known as a 2:1 clay, has two tetrahedral sheets with the unshared vertex of each sheet pointing towards each other and forming each side of the octahedral sheet.
+Bonding between the tetrahedral and octahedral sheets requires that the tetrahedral sheet becomes corrugated or twisted, causing ditrigonal distortion to the hexagonal array, and the octahedral sheet is flattened.  This minimizes the overall bond-valence distortions of the crystallite.
+Depending on the composition of the tetrahedral and octahedral sheets, the layer will have no charge or will have a net negative charge. If the layers are charged this charge is balanced by interlayer cations such as Na+ or K+ or by a lone octahedral sheet. The interlayer may also contain water. The crystal structure is formed from a stack of layers interspaced with the interlayers.
+
+
+== Classification ==
+ 
+Clay minerals can be classified as 1:1 or 2:1. A 1:1 clay would consist of one tetrahedral sheet and one octahedral sheet, and examples would be kaolinite and serpentine. A 2:1 clay consists of an octahedral sheet sandwiched between two tetrahedral sheets, and examples are talc, vermiculite, and montmorillonite. The layers in 1:1 clays are uncharged and are bonded by hydrogen bonds between layers, but 2:1 layers have a net negative charge and may be bonded together either by individual cations (such as potassium in illite or sodium or calcium in smectites) or by positively charged octahedral sheets (as in chlorites).
+Clay minerals include the following groups:
+
+Kaolin group which includes the minerals kaolinite, dickite, halloysite, and nacrite (polymorphs of Al2Si2O5(OH)4).
+Some sources include the kaolinite-serpentine group due to structural similarities.
+Smectite group which includes dioctahedral smectites, such as montmorillonite, nontronite and beidellite, and trioctahedral smectites, such as saponite. In 2013, analytical tests by the Curiosity rover found results consistent with the presence of smectite clay minerals on the planet Mars.
+Illite group which includes the clay-micas. Illite is the only common mineral in this group.
+Chlorite group includes a wide variety of similar minerals with considerable chemical variation.
+Other 2:1 clay types exist such as  palygorskite (also known as attapulgite) and sepiolite, clays with long water channels internal to their structure.
+Mixed layer clay variations exist for most of the above groups. Ordering is described as a random or regular order and is further described by the term reichweite, which is German for range or reach.  Literature articles will refer to an R1 ordered illite-smectite, for example. This type would be ordered in an illite-smectite-illite-smectite (ISIS) fashion. R0 on the other hand describes random ordering, and other advanced ordering types are also found (R3, etc.).  Mixed layer clay minerals which are perfect R1 types often get their own names. R1 ordered chlorite-smectite is known as corrensite, R1 illite-smectite is rectorite.
+
+X-ray rf(001) is the spacing between layers in nanometers, as determined by X-ray crystallography. Glycol (mg/g) is the adsorption capacity for glycol, which occupies the interlayer sites when the clay is exposed to a vapor of ethylene glycol at 60 °C (140 °F) for eight hours. CEC is the cation exchange capacity of the clay. K2O (%) is the percent content of potassium oxide in the clay. DTA describes the differential thermal analysis curve of the clay.
+
+
+== Clay and the origins of life ==
+The clay hypothesis for the origin of life was proposed by Graham Cairns-Smith in 1985. It postulates that complex organic molecules arose gradually on pre-existing, non-organic replication surfaces of silicate crystals in contact with an aqueous solution. The clay mineral montmorillonite has been shown to catalyze the polymerization of RNA in aqueous solution from nucleotide monomers, and the formation of membranes from lipids. In 1998, Hyman Hartman proposed that "the first organisms were self-replicating iron-rich clays which fixed carbon dioxide into oxalic acid and other dicarboxylic acids. This system of replicating clays and their metabolic phenotype then evolved into the sulfide rich region of the hot spring acquiring the ability to fix nitrogen. Finally phosphate was incorporated into the evolving system which allowed the synthesis of nucleotides and phospholipids."
+
+
+== Biomedical applications of clays ==
+The structural and compositional versatility of clay minerals gives them interesting biological properties. Due to disc-shaped and charged surfaces, clay interacts with a range of drugs, protein, polymers, DNA, or other macromolecules. Some of the applications of clays include drug delivery, tissue engineering, and bioprinting.
+
+
+== Mortar applications ==
+Clay minerals can be incorporated in lime-metakaolin mortars to improve mechanical properties. Electrochemical separation helps to obtain modified saponite-containing products with high smectite-group minerals concentrations, lower mineral particles size, more compact structure, and greater surface area. These characteristics open possibilities for the manufacture of high-quality ceramics and heavy-metal sorbents from saponite-containing products. 
+Furthermore, tail grinding occurs during the preparation of the raw material for ceramics; this waste reprocessing is of high importance for the use of clay pulp as a neutralizing agent, as fine particles are required for the reaction. Experiments on the histosol deacidification with the alkaline clay slurry demonstrated that neutralization with the average pH level of 7.1 is reached at 30% of the pulp added and an experimental site with perennial grasses proved the efficacy of the technique. Moreover, the reclamation of disturbed lands is an integral part of the social and environmental responsibility of the mining company and this scenario addresses the community necessities at both local and regional levels.
+
+
+== Tests which verify that clay minerals are present ==
+The results of glycol adsorption, cation exchange capacity, X-ray diffraction, differential thermal analysis, and chemical tests all give data that may be used for quantitative estimations. After the quantities of organic matter, carbonates, free oxides, and nonclay minerals have been determined, the percentages of clay minerals are estimated using the appropriate glycol adsorption, cation exchange capacity, K20, and DTA data. The amount of illite is estimated from the K20 content since this is the only clay mineral containing potassium.
+
+
+== Argillaceous rocks ==
+Argillaceous rocks are those in which clay minerals are a significant component.  For example, argillaceous limestones are limestones consisting predominantly of calcium carbonate, but including 10–40% of clay minerals: such limestones, when soft, are often called marls.  Similarly, argillaceous sandstones such as greywacke, are sandstones consisting primarily of quartz grains, with the interstitial spaces filled with clay minerals.
+
+
+== See also ==
+Clay chemistry
+Expansive clay – Clay soil prone to swelling and shrinking
+Mudstone/clays on planet Mars
+Aeolis quadrangle – One of a series of 30 quadrangle maps of Mars
+Composition of Mars – Branch of the geology of Mars
+Timeline of Mars Science Laboratory – Event timeline of the NASA Mars Science Laboratory mission
+Reverse weathering – Formation of authigenic clay minerals
+The Clay Minerals Society – US-based non-profit organizationPages displaying short descriptions of redirect targets
+Clay mineral X-ray diffraction
+Modeling clay – Any of a group of malleable substances used in building and sculptingPages displaying short descriptions of redirect targets
+
+
+== References ==
+
+
+=== Works cited ===
+Boggs, Sam (2006). Principles of sedimentology and stratigraphy (4th ed.). Upper Saddle River, N.J.: Pearson Prentice Hall. ISBN 0131547283.
+Breuer, Stephen (July 2012). "The chemistry of pottery" (PDF). Education in Chemistry: 17–20. Archived (PDF) from the original on 2022-10-09. Retrieved 8 December 2020.
+Dawkins, Richard (1996). The Blind Watchmaker (Reissue with a new introduction ed.). New York: W.W. Norton & Company. ISBN 978-0-393-31570-7. OCLC 35648431.
+Guggenheim, Stephen; Martin, R. T. (1995). "Definition of Clay and Clay Mineral: Joint Report of the AIPEA Nomenclature and CMS Nomenclature Committees". Clays and Clay Minerals. 43 (2): 255–256. Bibcode:1995CCM....43..255G. doi:10.1346/CCMN.1995.0430213.
+Scarre, C. (2005). The Human Past. London: Thames and Hudson. ISBN 0500290636.
+"What is clay". Science Learning Hub. University of Waikato. Archived from the original on 3 January 2016. Retrieved 10 January 2016.

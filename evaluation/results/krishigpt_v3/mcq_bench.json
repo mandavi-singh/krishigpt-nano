@@ -1,0 +1,1651 @@
+{
+  "run": "krishigpt_v3",
+  "level": 3,
+  "n_questions": 101,
+  "chance_baseline": 0.25,
+  "overall_accuracy": 0.2475,
+  "by_subdomain": {
+    "crops": {
+      "easy": {
+        "n": 8,
+        "acc": 0.25
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.375
+      },
+      "hard": {
+        "n": 0,
+        "acc": null
+      }
+    },
+    "soil": {
+      "easy": {
+        "n": 8,
+        "acc": 0.0
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.0
+      },
+      "hard": {
+        "n": 0,
+        "acc": null
+      }
+    },
+    "irrigation": {
+      "easy": {
+        "n": 8,
+        "acc": 0.125
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.25
+      },
+      "hard": {
+        "n": 0,
+        "acc": null
+      }
+    },
+    "fertilizer": {
+      "easy": {
+        "n": 8,
+        "acc": 0.625
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.25
+      },
+      "hard": {
+        "n": 0,
+        "acc": null
+      }
+    },
+    "pests": {
+      "easy": {
+        "n": 0,
+        "acc": null
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.125
+      },
+      "hard": {
+        "n": 3,
+        "acc": 0.6667
+      }
+    },
+    "diseases": {
+      "easy": {
+        "n": 0,
+        "acc": null
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.0
+      },
+      "hard": {
+        "n": 2,
+        "acc": 1.0
+      }
+    },
+    "practices": {
+      "easy": {
+        "n": 8,
+        "acc": 0.25
+      },
+      "medium": {
+        "n": 8,
+        "acc": 0.375
+      },
+      "hard": {
+        "n": 0,
+        "acc": null
+      }
+    }
+  },
+  "subdomain_scores_weighted": {
+    "crops": 0.1812,
+    "soil": 0.0,
+    "irrigation": 0.1125,
+    "fertilizer": 0.2125,
+    "pests": 0.3438,
+    "diseases": 0.45,
+    "practices": 0.1812
+  },
+  "domain_by_difficulty": {
+    "easy": 0.25,
+    "medium": 0.1964,
+    "hard": 0.8
+  },
+  "domain_score_weighted": 0.3936,
+  "weights": {
+    "within_subdomain": {
+      "easy": 0.2,
+      "medium": 0.35,
+      "hard": 0.45
+    },
+    "domain_wide": {
+      "easy": 0.3,
+      "medium": 0.4,
+      "hard": 0.3
+    }
+  },
+  "results": [
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "sugarcane",
+      "predicted": "cotton",
+      "ok": false,
+      "scores": {
+        "sugarcane": -9.385,
+        "oats": -10.265,
+        "cotton": -7.2,
+        "maize": -8.956
+      },
+      "frequency": 464,
+      "context": "G\u00e2teau de Sirop \u2013 a cake made using ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "rice",
+      "predicted": "coffee",
+      "ok": false,
+      "scores": {
+        "rice": -7.273,
+        "banana": -3.573,
+        "coffee": -2.143,
+        "sugarcane": -6.664
+      },
+      "frequency": 1267,
+      "context": "=== Greenhouse gases from ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "wheat",
+      "predicted": "lentil",
+      "ok": false,
+      "scores": {
+        "wheat": -6.966,
+        "mango": -5.697,
+        "maize": -9.483,
+        "lentil": -4.568
+      },
+      "frequency": 2100,
+      "context": "We have been shown a stool of ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "cotton",
+      "predicted": "coffee",
+      "ok": false,
+      "scores": {
+        "cotton": -7.947,
+        "coffee": -3.166,
+        "pea": -10.764,
+        "sorghum": -9.032
+      },
+      "frequency": 1531,
+      "context": "kind of clover is an excellent crop with which to follow ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "tea",
+      "predicted": "tea",
+      "ok": true,
+      "scores": {
+        "tea": -3.082,
+        "rice": -10.93,
+        "mango": -4.241,
+        "cotton": -8.597
+      },
+      "frequency": 470,
+      "context": "Liverpool to learn that my brother, who is a wealthy China ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "barley",
+      "predicted": "lentil",
+      "ok": false,
+      "scores": {
+        "barley": -8.855,
+        "millet": -5.632,
+        "sugarcane": -10.88,
+        "lentil": -4.428
+      },
+      "frequency": 809,
+      "context": "[E105] Laying up here signifies the first plowing, for ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "wheat",
+      "predicted": "soybean",
+      "ok": false,
+      "scores": {
+        "wheat": -7.017,
+        "sorghum": -11.143,
+        "pea": -11.328,
+        "soybean": -5.671
+      },
+      "frequency": 2100,
+      "context": "of more importance. There is not much money in ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "easy",
+      "correct": "oats",
+      "predicted": "oats",
+      "ok": true,
+      "scores": {
+        "oats": -4.959,
+        "banana": -5.134,
+        "barley": -6.252,
+        "cotton": -6.851
+      },
+      "frequency": 400,
+      "context": "more than eighteen cents in thirty-two pounds of ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "sorghum",
+      "predicted": "soybean",
+      "ok": false,
+      "scores": {
+        "sorghum": -8.981,
+        "rice": -8.037,
+        "oats": -10.505,
+        "soybean": -4.435
+      },
+      "frequency": 266,
+      "context": "Frederickson DE, Mantle PG, De Milliano WA (June 1993). \"Windborne spread of ergot disease (Claviceps africana) in ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "sorghum",
+      "predicted": "cotton",
+      "ok": false,
+      "scores": {
+        "sorghum": -5.573,
+        "cotton": -3.452,
+        "maize": -3.732,
+        "mango": -4.527
+      },
+      "frequency": 266,
+      "context": "In 2023, world production of ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "pea",
+      "predicted": "millet",
+      "ok": false,
+      "scores": {
+        "pea": -8.826,
+        "sugarcane": -11.536,
+        "millet": -7.556,
+        "rice": -9.562
+      },
+      "frequency": 203,
+      "context": "seed, grow on the farm ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "pea",
+      "predicted": "coffee",
+      "ok": false,
+      "scores": {
+        "pea": -10.132,
+        "coffee": -2.783,
+        "mango": -5.988,
+        "millet": -6.049
+      },
+      "frequency": 203,
+      "context": "Muehlbauer, F. J. and Tullu, A., (1997). Pisum sativum L. Purdue University. ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "banana",
+      "predicted": "banana",
+      "ok": true,
+      "scores": {
+        "banana": -5.037,
+        "millet": -5.319,
+        "mango": -5.617,
+        "maize": -7.654
+      },
+      "frequency": 167,
+      "context": "Kew plant profile: Musa acuminata ( ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "lentil",
+      "predicted": "lentil",
+      "ok": true,
+      "scores": {
+        "lentil": -5.043,
+        "tea": -5.738,
+        "banana": -6.39,
+        "mango": -7.188
+      },
+      "frequency": 58,
+      "context": "Lentils are used worldwide in many different dishes. ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "coconut",
+      "predicted": "coconut",
+      "ok": true,
+      "scores": {
+        "coconut": -2.518,
+        "pea": -9.954,
+        "wheat": -7.23,
+        "maize": -7.864
+      },
+      "frequency": 192,
+      "context": "It was the main food of adherents of the now discontinued Vietnamese ____"
+    },
+    {
+      "subdomain": "crops",
+      "difficulty": "medium",
+      "correct": "sorghum",
+      "predicted": "maize",
+      "ok": false,
+      "scores": {
+        "sorghum": -8.121,
+        "sugarcane": -7.528,
+        "maize": -6.012,
+        "pea": -6.536
+      },
+      "frequency": 266,
+      "context": "The corn crop was a failure. The ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "clay",
+      "predicted": "topsoil",
+      "ok": false,
+      "scores": {
+        "clay": -4.493,
+        "manure": -8.983,
+        "silt": -5.628,
+        "topsoil": -4.351
+      },
+      "frequency": 670,
+      "context": "residual concentration of oxides (especially iron oxides) and/or ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "clay",
+      "predicted": "gravel",
+      "ok": false,
+      "scores": {
+        "clay": -7.721,
+        "compost": -7.816,
+        "silt": -5.411,
+        "gravel": -5.001
+      },
+      "frequency": 670,
+      "context": "was done in a ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "loam",
+      "ok": false,
+      "scores": {
+        "manure": -9.725,
+        "clay": -11.062,
+        "loam": -7.576,
+        "humus": -10.631
+      },
+      "frequency": 1051,
+      "context": "County-Level Estimates of Nitrogen and Phosphorus from Animal ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "vermicompost",
+      "ok": false,
+      "scores": {
+        "manure": -10.183,
+        "humus": -9.598,
+        "gravel": -7.184,
+        "vermicompost": -3.582
+      },
+      "frequency": 1051,
+      "context": "will grow vpon very barraine soiles, and in their growth doe ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "vermicompost",
+      "ok": false,
+      "scores": {
+        "manure": -6.113,
+        "gravel": -5.106,
+        "vermicompost": -2.515,
+        "subsoil": -5.496
+      },
+      "frequency": 1051,
+      "context": "Other types of plant matter used as ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "gravel",
+      "ok": false,
+      "scores": {
+        "manure": -5.155,
+        "silt": -5.397,
+        "gravel": -4.656,
+        "horizon": -6.165
+      },
+      "frequency": 1051,
+      "context": "soyle, or for want of ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "clay",
+      "predicted": "horizon",
+      "ok": false,
+      "scores": {
+        "clay": -8.027,
+        "manure": -9.095,
+        "horizon": -4.401,
+        "gravel": -6.095
+      },
+      "frequency": 670,
+      "context": "parts of the plant, according as the ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "vermicompost",
+      "ok": false,
+      "scores": {
+        "manure": -6.004,
+        "humus": -8.945,
+        "loam": -6.2,
+        "vermicompost": -2.994
+      },
+      "frequency": 1051,
+      "context": "the respective rate of five tons of straw to ten of ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "loam",
+      "predicted": "gravel",
+      "ok": false,
+      "scores": {
+        "loam": -5.957,
+        "gravel": -3.691,
+        "clay": -6.052,
+        "topsoil": -4.834
+      },
+      "frequency": 57,
+      "context": "best soil for potting, ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "topsoil",
+      "predicted": "horizon",
+      "ok": false,
+      "scores": {
+        "topsoil": -6.084,
+        "humus": -9.581,
+        "subsoil": -5.89,
+        "horizon": -4.169
+      },
+      "frequency": 128,
+      "context": "In the United States, there is no federal, legal definition of the word ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "sand",
+      "predicted": "topsoil",
+      "ok": false,
+      "scores": {
+        "sand": -6.036,
+        "topsoil": -5.874,
+        "loam": -6.666,
+        "humus": -10.014
+      },
+      "frequency": 373,
+      "context": "Parching hard yellow corn with ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "sand",
+      "predicted": "horizon",
+      "ok": false,
+      "scores": {
+        "sand": -6.606,
+        "horizon": -4.205,
+        "gravel": -5.451,
+        "clay": -5.899
+      },
+      "frequency": 373,
+      "context": "remain at the top of the cutting. Stick this cutting into the ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "sand",
+      "predicted": "loam",
+      "ok": false,
+      "scores": {
+        "sand": -7.899,
+        "subsoil": -5.482,
+        "loam": -4.609,
+        "manure": -7.706
+      },
+      "frequency": 373,
+      "context": "is not so long, neyther so full bent as that for the red ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "sand",
+      "predicted": "vermicompost",
+      "ok": false,
+      "scores": {
+        "sand": -8.436,
+        "silt": -5.863,
+        "loam": -5.907,
+        "vermicompost": -2.941
+      },
+      "frequency": 373,
+      "context": "Share for the red ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "sand",
+      "predicted": "horizon",
+      "ok": false,
+      "scores": {
+        "sand": -6.024,
+        "topsoil": -4.535,
+        "horizon": -3.861,
+        "subsoil": -3.929
+      },
+      "frequency": 373,
+      "context": "single root-hair very greatly enlarged, with particles of ____"
+    },
+    {
+      "subdomain": "soil",
+      "difficulty": "medium",
+      "correct": "sand",
+      "predicted": "loam",
+      "ok": false,
+      "scores": {
+        "sand": -6.149,
+        "silt": -6.102,
+        "loam": -4.275,
+        "horizon": -5.651
+      },
+      "frequency": 373,
+      "context": "proceedeth your best limestone, being mixt with white ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "surface",
+      "ok": true,
+      "scores": {
+        "surface": -3.255,
+        "sprinkler": -5.682,
+        "canal": -5.289,
+        "terraces": -4.224
+      },
+      "frequency": 1013,
+      "context": "just as the tube does. When the water at the ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "channel",
+      "ok": false,
+      "scores": {
+        "surface": -4.899,
+        "sprinkler": -5.155,
+        "channel": -3.047,
+        "terraces": -4.074
+      },
+      "frequency": 1013,
+      "context": "feed near the ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "sprinkler",
+      "ok": false,
+      "scores": {
+        "surface": -5.015,
+        "drip": -9.099,
+        "flood": -4.881,
+        "sprinkler": -4.411
+      },
+      "frequency": 1013,
+      "context": "The use of this plow will renovate old bottom-lands, the ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "pivot",
+      "ok": false,
+      "scores": {
+        "surface": -7.344,
+        "drip": -9.592,
+        "pivot": -3.365,
+        "sprinkler": -5.592
+      },
+      "frequency": 1013,
+      "context": "opened my hand over the mess. The porous ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "flood",
+      "ok": false,
+      "scores": {
+        "surface": -6.647,
+        "rainwater": -5.668,
+        "flood": -4.607,
+        "furrow": -7.05
+      },
+      "frequency": 1013,
+      "context": "circle around the inside of the pot, with the upper ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "terraces",
+      "ok": false,
+      "scores": {
+        "surface": -6.885,
+        "flood": -4.305,
+        "sprinkler": -4.921,
+        "terraces": -3.773
+      },
+      "frequency": 1013,
+      "context": "FAO Irrigation and Drainage Paper 45: Guidelines for designing and evaluating ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "terraces",
+      "ok": false,
+      "scores": {
+        "surface": -4.755,
+        "sprinkler": -5.806,
+        "drip": -10.86,
+        "terraces": -3.848
+      },
+      "frequency": 1013,
+      "context": "leave them upon the ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "easy",
+      "correct": "surface",
+      "predicted": "flood",
+      "ok": false,
+      "scores": {
+        "surface": -9.036,
+        "sprinkler": -5.899,
+        "flood": -4.942,
+        "drip": -10.975
+      },
+      "frequency": 1013,
+      "context": "regarded by Flemish farmers as of more importance than the ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "furrow",
+      "predicted": "pivot",
+      "ok": false,
+      "scores": {
+        "furrow": -10.49,
+        "sprinkler": -6.11,
+        "flood": -7.366,
+        "pivot": -5.743
+      },
+      "frequency": 228,
+      "context": "Fitches you shall sow vnder ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "drip",
+      "predicted": "pivot",
+      "ok": false,
+      "scores": {
+        "drip": -9.69,
+        "terraces": -4.578,
+        "surface": -9.676,
+        "pivot": -4.021
+      },
+      "frequency": 276,
+      "context": "As of 2023, 3% of the world's farmers use ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "furrow",
+      "predicted": "terraces",
+      "ok": false,
+      "scores": {
+        "furrow": -9.843,
+        "flood": -5.225,
+        "surface": -9.192,
+        "terraces": -4.12
+      },
+      "frequency": 228,
+      "context": "Apparently the only drainage then practised was that of ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "furrow",
+      "predicted": "channel",
+      "ok": false,
+      "scores": {
+        "furrow": -5.574,
+        "surface": -4.451,
+        "channel": -2.946,
+        "flood": -4.168
+      },
+      "frequency": 228,
+      "context": "into lands, strike a ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "sprinkler",
+      "predicted": "pivot",
+      "ok": false,
+      "scores": {
+        "sprinkler": -4.741,
+        "flood": -4.214,
+        "terraces": -4.135,
+        "pivot": -3.074
+      },
+      "frequency": 69,
+      "context": "Other travellers use a flat rubber hose dragged along behind them, while a cable pulls the ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "terraces",
+      "predicted": "channel",
+      "ok": false,
+      "scores": {
+        "terraces": -3.738,
+        "channel": -3.337,
+        "drip": -9.012,
+        "sprinkler": -4.701
+      },
+      "frequency": 40,
+      "context": "land by ditches, ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "flood",
+      "predicted": "flood",
+      "ok": true,
+      "scores": {
+        "flood": -2.905,
+        "rainwater": -4.215,
+        "channel": -3.444,
+        "furrow": -10.665
+      },
+      "frequency": 219,
+      "context": "The viability of hydropower, a renewable source of energy, is also higher in ____"
+    },
+    {
+      "subdomain": "irrigation",
+      "difficulty": "medium",
+      "correct": "channel",
+      "predicted": "channel",
+      "ok": true,
+      "scores": {
+        "channel": -3.57,
+        "surface": -8.792,
+        "furrow": -10.542,
+        "drip": -11.531
+      },
+      "frequency": 54,
+      "context": "as the Jerseys and Guernseys from the ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "nitrogen",
+      "predicted": "nitrogen",
+      "ok": true,
+      "scores": {
+        "nitrogen": -4.012,
+        "ammonium": -5.428,
+        "phosphate": -9.149,
+        "phosphorus": -7.668
+      },
+      "frequency": 1481,
+      "context": "Giller, K. E.; Cadisch, G. (1995). \"Future benefits from biological ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "manure",
+      "ok": true,
+      "scores": {
+        "manure": -4.123,
+        "phosphorus": -9.214,
+        "urea": -5.205,
+        "phosphate": -8.664
+      },
+      "frequency": 1051,
+      "context": "fish-scrap. Use barnyard ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "nitrogen",
+      "predicted": "nitrogen",
+      "ok": true,
+      "scores": {
+        "nitrogen": -2.093,
+        "urea": -2.914,
+        "zinc": -3.513,
+        "ammonium": -3.4
+      },
+      "frequency": 1481,
+      "context": "plants from the air. This amount of ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "zinc",
+      "ok": false,
+      "scores": {
+        "manure": -6.202,
+        "zinc": -3.53,
+        "phosphate": -12.505,
+        "potassium": -10.683
+      },
+      "frequency": 1051,
+      "context": "in great heapes, so as the land may be couered ouer with ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "zinc",
+      "ok": false,
+      "scores": {
+        "manure": -6.074,
+        "phosphorus": -11.129,
+        "zinc": -4.107,
+        "phosphate": -10.571
+      },
+      "frequency": 1051,
+      "context": "slightly with fine earth or old crumbling ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "manure",
+      "ok": true,
+      "scores": {
+        "manure": -1.173,
+        "potassium": -9.473,
+        "nitrogen": -6.182,
+        "nitrate": -9.076
+      },
+      "frequency": 1051,
+      "context": "that no better fertilizer can be applied to grass than barnyard ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "nitrogen",
+      "predicted": "ammonium",
+      "ok": false,
+      "scores": {
+        "nitrogen": -4.163,
+        "ammonium": -2.999,
+        "potassium": -6.53,
+        "nitrate": -6.136
+      },
+      "frequency": 1481,
+      "context": "of the soil into nitrates; that is, into the form of ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "easy",
+      "correct": "manure",
+      "predicted": "manure",
+      "ok": true,
+      "scores": {
+        "manure": -3.906,
+        "potassium": -12.075,
+        "nitrogen": -9.984,
+        "urea": -6.119
+      },
+      "frequency": 1051,
+      "context": "If you can save up and rot a supply of poultry ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "potash",
+      "predicted": "urea",
+      "ok": false,
+      "scores": {
+        "potash": -5.222,
+        "urea": -2.975,
+        "phosphorus": -5.514,
+        "nitrate": -5.623
+      },
+      "frequency": 223,
+      "context": "course requires from the soil, sulphates of ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "potash",
+      "predicted": "potash",
+      "ok": true,
+      "scores": {
+        "potash": -8.049,
+        "manure": -8.42,
+        "potassium": -8.886,
+        "phosphorus": -9.485
+      },
+      "frequency": 223,
+      "context": "pea or clover roots will furnish that. Hence, as a rule, only ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "potassium",
+      "predicted": "ammonium",
+      "ok": false,
+      "scores": {
+        "potassium": -3.053,
+        "potash": -5.898,
+        "phosphate": -5.318,
+        "ammonium": -1.735
+      },
+      "frequency": 251,
+      "context": "The wet process is based on chemical reactions between liquid raw materials phosphoric acid, sulfuric acid, ammonia) and solid raw materials (such as ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "zinc",
+      "predicted": "zinc",
+      "ok": true,
+      "scores": {
+        "zinc": -1.839,
+        "manure": -11.238,
+        "urea": -5.147,
+        "potash": -10.352
+      },
+      "frequency": 238,
+      "context": "Conservative estimates suggest that 25% of the world's population is at risk of ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "phosphate",
+      "predicted": "zinc",
+      "ok": false,
+      "scores": {
+        "phosphate": -8.977,
+        "zinc": -3.95,
+        "nitrate": -9.999,
+        "manure": -8.095
+      },
+      "frequency": 223,
+      "context": "both that acid and lime, ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "potash",
+      "predicted": "ammonium",
+      "ok": false,
+      "scores": {
+        "potash": -7.846,
+        "nitrogen": -7.129,
+        "ammonium": -3.729,
+        "potassium": -9.515
+      },
+      "frequency": 223,
+      "context": "=== Origin of ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "potassium",
+      "predicted": "zinc",
+      "ok": false,
+      "scores": {
+        "potassium": -7.015,
+        "nitrate": -8.271,
+        "zinc": -3.678,
+        "urea": -3.899
+      },
+      "frequency": 251,
+      "context": "0.83 \u00d7 20 = 17% elemental ____"
+    },
+    {
+      "subdomain": "fertilizer",
+      "difficulty": "medium",
+      "correct": "potassium",
+      "predicted": "urea",
+      "ok": false,
+      "scores": {
+        "potassium": -3.053,
+        "manure": -6.607,
+        "urea": -2.343,
+        "zinc": -2.351
+      },
+      "frequency": 251,
+      "context": "The wet process is based on chemical reactions between liquid raw materials phosphoric acid, sulfuric acid, ammonia) and solid raw materials (such as ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "locust",
+      "predicted": "mealybug",
+      "ok": false,
+      "scores": {
+        "locust": -4.39,
+        "cutworm": -6.611,
+        "aphid": -3.192,
+        "mealybug": -2.725
+      },
+      "frequency": 257,
+      "context": "Visual neuron of the ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "whitefly",
+      "predicted": "mealybug",
+      "ok": false,
+      "scores": {
+        "whitefly": -3.656,
+        "mealybug": -2.678,
+        "cutworm": -6.691,
+        "weevil": -5.548
+      },
+      "frequency": 30,
+      "context": "CISR: Center for Invasive Species Research, Silverleaf ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "locust",
+      "predicted": "mealybug",
+      "ok": false,
+      "scores": {
+        "locust": -4.502,
+        "armyworm": -3.645,
+        "thrips": -6.233,
+        "mealybug": -2.651
+      },
+      "frequency": 257,
+      "context": "USAID Supplemental Environmental Assessment: Pakistan ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "whitefly",
+      "predicted": "mealybug",
+      "ok": false,
+      "scores": {
+        "whitefly": -4.378,
+        "aphid": -4.036,
+        "thrips": -5.778,
+        "mealybug": -3.112
+      },
+      "frequency": 30,
+      "context": "CISR: Center for Invasive Species Research, Ash ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "aphid",
+      "predicted": "aphid",
+      "ok": true,
+      "scores": {
+        "aphid": -4.022,
+        "armyworm": -4.95,
+        "locust": -5.517,
+        "cutworm": -7.796
+      },
+      "frequency": 111,
+      "context": "Sequenced Genome of Pea ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "locust",
+      "predicted": "armyworm",
+      "ok": false,
+      "scores": {
+        "locust": -3.904,
+        "armyworm": -3.092,
+        "whitefly": -3.83,
+        "borer": -4.868
+      },
+      "frequency": 257,
+      "context": "ROSE ACACIA (_Robinia hispida_).\u00e2\u20ac\u201dThis is a species of the ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "weevil",
+      "predicted": "mealybug",
+      "ok": false,
+      "scores": {
+        "weevil": -9.565,
+        "mealybug": -3.375,
+        "thrips": -6.34,
+        "armyworm": -6.018
+      },
+      "frequency": 54,
+      "context": "[Illustration: FIG. 175. THE LARVA OF THE COTTON-BOLL ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "medium",
+      "correct": "locust",
+      "predicted": "aphid",
+      "ok": false,
+      "scores": {
+        "locust": -4.132,
+        "whitefly": -4.307,
+        "aphid": -3.492,
+        "borer": -4.391
+      },
+      "frequency": 257,
+      "context": "rejoice in a thick grove. If the yellow ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "hard",
+      "correct": "mealybug",
+      "predicted": "mealybug",
+      "ok": true,
+      "scores": {
+        "mealybug": -3.676,
+        "thrips": -5.955,
+        "locust": -4.369,
+        "whitefly": -5.16
+      },
+      "frequency": 17,
+      "context": "CISR \u2013 Vine ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "hard",
+      "correct": "mealybug",
+      "predicted": "mealybug",
+      "ok": true,
+      "scores": {
+        "mealybug": -2.13,
+        "aphid": -2.572,
+        "cutworm": -6.567,
+        "weevil": -6.672
+      },
+      "frequency": 17,
+      "context": "Insecticides such as pyrethroids (e.g. permethrin, bifenthrin, or cyfluthrin) have been used for control, but this approach is often considered counterproductive due to mortality of ____"
+    },
+    {
+      "subdomain": "pests",
+      "difficulty": "hard",
+      "correct": "mealybug",
+      "predicted": "aphid",
+      "ok": false,
+      "scores": {
+        "mealybug": -3.081,
+        "aphid": -2.272,
+        "borer": -4.859,
+        "weevil": -6.779
+      },
+      "frequency": 17,
+      "context": "Some species of ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "blight",
+      "predicted": "anthracnose",
+      "ok": false,
+      "scores": {
+        "blight": -10.049,
+        "rots": -7.654,
+        "anthracnose": -4.049,
+        "mildew": -8.359
+      },
+      "frequency": 189,
+      "context": "entry on Late ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "blight",
+      "predicted": "anthracnose",
+      "ok": false,
+      "scores": {
+        "blight": -5.968,
+        "wilt": -4.582,
+        "anthracnose": -3.653,
+        "rust": -8.752
+      },
+      "frequency": 189,
+      "context": "Google Map of Tomato Potato ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "ergot",
+      "predicted": "anthracnose",
+      "ok": false,
+      "scores": {
+        "ergot": -7.589,
+        "rot": -11.849,
+        "anthracnose": -4.035,
+        "wilt": -6.135
+      },
+      "frequency": 109,
+      "context": "Dassel History Center & ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "mold",
+      "predicted": "mosaic",
+      "ok": false,
+      "scores": {
+        "mold": -7.639,
+        "mosaic": -4.746,
+        "rust": -7.852,
+        "smut": -4.916
+      },
+      "frequency": 116,
+      "context": "organic matter such as leaf- ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "mold",
+      "predicted": "mosaic",
+      "ok": false,
+      "scores": {
+        "mold": -6.329,
+        "blight": -7.17,
+        "mildew": -7.025,
+        "mosaic": -4.867
+      },
+      "frequency": 116,
+      "context": "gravel underlies vegetable ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "rust",
+      "predicted": "ergot",
+      "ok": false,
+      "scores": {
+        "rust": -11.391,
+        "blight": -8.815,
+        "ergot": -5.434,
+        "rot": -7.976
+      },
+      "frequency": 171,
+      "context": "5. What causes iron to ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "blight",
+      "predicted": "mosaic",
+      "ok": false,
+      "scores": {
+        "blight": -10.129,
+        "rust": -11.596,
+        "mosaic": -5.07,
+        "ergot": -8.166
+      },
+      "frequency": 189,
+      "context": "USAblight A National Web Portal on Late ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "medium",
+      "correct": "rots",
+      "predicted": "mosaic",
+      "ok": false,
+      "scores": {
+        "rots": -7.199,
+        "rot": -10.078,
+        "rust": -11.359,
+        "mosaic": -5.118
+      },
+      "frequency": 21,
+      "context": "and washes the seed-beds to pieces, or a long wet spell ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "hard",
+      "correct": "anthracnose",
+      "predicted": "anthracnose",
+      "ok": true,
+      "scores": {
+        "anthracnose": -3.503,
+        "mold": -11.889,
+        "mildew": -4.388,
+        "blight": -10.026
+      },
+      "frequency": 19,
+      "context": "Resistant varieties are available. In Indian cultivars, Nataraj et al. 2020 find that ____"
+    },
+    {
+      "subdomain": "diseases",
+      "difficulty": "hard",
+      "correct": "anthracnose",
+      "predicted": "anthracnose",
+      "ok": true,
+      "scores": {
+        "anthracnose": -3.503,
+        "rust": -8.394,
+        "mold": -11.889,
+        "rot": -12.031
+      },
+      "frequency": 19,
+      "context": "Resistant varieties are available. In Indian cultivars, Nataraj et al. 2020 find that ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "drainage",
+      "predicted": "drainage",
+      "ok": true,
+      "scores": {
+        "drainage": -8.695,
+        "tillage": -8.861,
+        "ploughing": -9.926,
+        "fallow": -13.637
+      },
+      "frequency": 415,
+      "context": "main drains become over-taxed, simply because ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "tillage",
+      "predicted": "intercropping",
+      "ok": false,
+      "scores": {
+        "tillage": -6.933,
+        "rotation": -8.842,
+        "mulching": -5.06,
+        "intercropping": -4.977
+      },
+      "frequency": 426,
+      "context": "cost, than any other crop. Moreover, by good ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "tillage",
+      "predicted": "intercropping",
+      "ok": false,
+      "scores": {
+        "tillage": -9.192,
+        "intercropping": -4.802,
+        "rotation": -9.814,
+        "harvesting": -9.79
+      },
+      "frequency": 426,
+      "context": "that the increase of pasture was a danger to ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "drainage",
+      "predicted": "intercropping",
+      "ok": false,
+      "scores": {
+        "drainage": -10.589,
+        "weeding": -6.541,
+        "tillage": -11.619,
+        "intercropping": -5.863
+      },
+      "frequency": 415,
+      "context": "that the courts favor ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "tillage",
+      "predicted": "mulching",
+      "ok": false,
+      "scores": {
+        "tillage": -8.137,
+        "harvesting": -9.419,
+        "sowing": -9.708,
+        "mulching": -4.518
+      },
+      "frequency": 426,
+      "context": "therefore enacts that lands converted from ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "tillage",
+      "predicted": "mulching",
+      "ok": false,
+      "scores": {
+        "tillage": -8.592,
+        "mulching": -3.797,
+        "sowing": -8.444,
+        "harvesting": -8.38
+      },
+      "frequency": 426,
+      "context": "for profit by ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "drainage",
+      "predicted": "weeding",
+      "ok": false,
+      "scores": {
+        "drainage": -10.257,
+        "weeding": -6.103,
+        "intercropping": -7.224,
+        "sowing": -11.896
+      },
+      "frequency": 415,
+      "context": "each case must be considered by itself. ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "easy",
+      "correct": "tillage",
+      "predicted": "tillage",
+      "ok": true,
+      "scores": {
+        "tillage": -6.988,
+        "harvesting": -7.424,
+        "fallow": -10.469,
+        "ploughing": -8.454
+      },
+      "frequency": 426,
+      "context": "been of little or no value for wheat, under the system of ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "harvesting",
+      "predicted": "intercropping",
+      "ok": false,
+      "scores": {
+        "harvesting": -7.234,
+        "ploughing": -7.521,
+        "intercropping": -6.009,
+        "tillage": -7.509
+      },
+      "frequency": 341,
+      "context": "During the late 19th century, numerous images of potato ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "rotation",
+      "predicted": "intercropping",
+      "ok": false,
+      "scores": {
+        "rotation": -9.519,
+        "sowing": -9.637,
+        "weeding": -6.284,
+        "intercropping": -4.818
+      },
+      "frequency": 370,
+      "context": "scientific bases for the ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "sowing",
+      "predicted": "sowing",
+      "ok": true,
+      "scores": {
+        "sowing": -9.928,
+        "tillage": -10.808,
+        "harvesting": -11.011,
+        "fallow": -12.851
+      },
+      "frequency": 285,
+      "context": "In Maie is good ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "sowing",
+      "predicted": "mulching",
+      "ok": false,
+      "scores": {
+        "sowing": -5.633,
+        "rotation": -9.871,
+        "fallow": -12.298,
+        "mulching": -4.443
+      },
+      "frequency": 285,
+      "context": "for pasturage. 5th. In the next year after ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "fallow",
+      "predicted": "intercropping",
+      "ok": false,
+      "scores": {
+        "fallow": -9.829,
+        "drainage": -7.678,
+        "intercropping": -6.117,
+        "harvesting": -10.528
+      },
+      "frequency": 186,
+      "context": "though best upon ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "mulching",
+      "predicted": "weeding",
+      "ok": false,
+      "scores": {
+        "mulching": -5.139,
+        "weeding": -4.993,
+        "sowing": -10.312,
+        "harvesting": -9.994
+      },
+      "frequency": 47,
+      "context": "recommended it for plunging pots in, setting pots on ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "rotation",
+      "predicted": "rotation",
+      "ok": true,
+      "scores": {
+        "rotation": -1.922,
+        "weeding": -4.22,
+        "fallow": -10.505,
+        "drainage": -8.348
+      },
+      "frequency": 370,
+      "context": "Permaculture is a design philosophy that seeks to create sustainable agriculture systems by mimicking natural ecosystems, and often incorporates practices such as polyculture, agroforestry, and crop ____"
+    },
+    {
+      "subdomain": "practices",
+      "difficulty": "medium",
+      "correct": "ploughing",
+      "predicted": "ploughing",
+      "ok": true,
+      "scores": {
+        "ploughing": -4.623,
+        "intercropping": -4.828,
+        "weeding": -6.283,
+        "fallow": -9.685
+      },
+      "frequency": 204,
+      "context": "== Effects of mould-board ____"
+    }
+  ]
+}

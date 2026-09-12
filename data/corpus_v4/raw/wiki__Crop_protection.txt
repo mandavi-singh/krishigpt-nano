@@ -1,0 +1,117 @@
+Pest control is the regulation or management of a species defined as a pest; such as any animal, plant or fungus that impacts adversely on human activities or the environment. The human response depends on the importance of the damage done and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest. Pest control measures may be performed as part of an integrated pest management strategy. An individual who performs duties related to the management of a pest population is often called a pest exterminator or exterminator.
+In agriculture, pests are kept at bay by mechanical, cultural, chemical and biological means. Ploughing and cultivation of the soil before sowing mitigate the pest burden, and crop rotation helps to reduce the build-up of a certain pest species. Concern about the environment means limiting the use of pesticides in favour of other methods. This can be achieved by monitoring the crop, only applying pesticides when necessary, and by growing varieties and crops which are resistant to pests. Where possible, biological means are used, encouraging the natural enemies of the pests and introducing suitable predators or parasites.
+In homes and urban environments, the pests are the rodents, birds, insects and other organisms that share the habitat with humans, and that feed on or spoil possessions. Control of these pests is attempted through exclusion or quarantine, repulsion, physical removal, or chemical means. Alternatively, various methods of biological control can be used, including sterilisation programmes.
+
+
+== History ==
+
+Pest control is at least as old as agriculture, as there has always been a need to keep crops free from pests. As long ago as 3000 BC in Egypt, cats were used to control pests of grain stores such as rodents. Ferrets were domesticated by 1500 BC in Europe for use as mousers. Mongooses were introduced into homes to control rodents and snakes, probably by the ancient Egyptians.
+The conventional approach was probably the first to be employed, since it is comparatively easy to destroy weeds by burning them or ploughing them under, and to kill larger competing herbivores. Techniques such as crop rotation, companion planting (also known as intercropping or mixed cropping), and the selective breeding of pest-resistant cultivars have a long history.
+
+Chemical pesticides were first used around 2500 BC, when the Sumerians used sulphur compounds as insecticides. Modern pest control was stimulated by the spread across the United States of the Colorado potato beetle. After much discussion, arsenical compounds were used to control the beetle, and the predicted poisoning of the human population did not occur. This led the way to a widespread acceptance of insecticides across the continent. With the industrialisation and mechanization of agriculture in the 18th and 19th centuries, and the introduction of the insecticides pyrethrum and derris, chemical pest control became widespread. In the 20th century, the discovery of several synthetic insecticidess, such as DDT, and herbicidess boosted this development.
+The harmful side effect of pesticides on humans has now resulted in the development of newer approaches, such as the use of biological control to eliminate the ability of pests to reproduce or to modify their behavior to make them less troublesome. Biological control is first recorded around 300 AD in China, when colonies of weaver ants, Oecophylla smaragdina, were intentionally placed in citrus plantations to control beetles and caterpillars. Also around 4000 BC in China, ducks were used in paddy fields to consume pests, as illustrated in ancient cave art. In 1762, an Indian mynah was brought to Mauritius to control locusts, and about the same time, citrus trees in Burma were connected by bamboo to allow ants to pass between them and help control caterpillars. In the 1880s, ladybirds were used in citrus plantations in California to control scale insects, and other biological control experiments followed. The introduction of DDT, a cheap and effective compound, put an effective stop to biological control experiments. By the 1960s, problems of resistance to chemicals and damage to the environment began to emerge, and biological control had a renaissance. Chemical pest control is still the predominant type of pest control today, although a renewed interest in traditional and biological pest control developed towards the end of the 20th century and continues to this day.
+
+
+== In agriculture ==
+
+
+=== Control methods ===
+
+
+==== Biological pest control ====
+
+Biological pest control is a method of controlling pests such as insects and mites by using other organisms. It relies on predation, parasitism, herbivory, parasitody or other natural mechanisms, but typically also involves an active human management role. Classical biological control involves the introduction of natural enemies of the pest that are bred in the laboratory and released into the environment. An alternative approach is to augment the natural enemies that occur in a particular area by releasing more, either in small, repeated batches, or in a single large-scale release. Ideally, the released organism will breed and survive, and provide long-term control. Biological control can be an important component of an integrated pest management programme.
+For example: mosquitoes are often controlled by putting Bt Bacillus thuringiensis ssp. israelensis, a bacterium that infects and kills mosquito larvae, in local water sources. 
+
+
+==== Cultural control ====
+
+Mechanical pest control is the use of hands-on techniques as well as simple equipment and devices that provide a protective barrier between plants and insects. This is referred to as tillage and is one of the oldest methods of weed control as well as being useful for pest control; wireworms, the larvae of the common click beetle, are very destructive pests of newly ploughed grassland, and repeated cultivation exposes them to the birds and other predators that feed on them.
+Crop rotation can help to control pests by depriving them of their host plants. It is a major tactic in the control of corn rootworm, and has reduced early season incidence of Colorado potato beetle by as much as 95%.
+
+
+==== Trap cropping ====
+
+A trap crop is a crop of a plant that attracts pests, diverting them from nearby crops. Pests aggregated on the trap crop can be more easily controlled using pesticides or other methods. However, trap-cropping, on its own, has often failed to cost effectively reduce pest densities on large commercial scales, without the use of pesticides, possibly due to the pests' ability to disperse back into the main field.
+
+
+==== Pesticides ====
+
+Pesticides are substances applied to crops to control pests; they include herbicides to kill weeds, fungicides to kill fungi, and insecticides to kill insects. Application methods include sprays by hand, tractors, or aircraft, or as seed dressings. To be effective, the correct substance must be applied at the correct time, and the method of application is important to ensure adequate coverage and retention on the crop. The killing of natural enemies of the target pest should be minimized. This is particularly important in countries where there are natural reservoirs of pests and their enemies in the countryside surrounding plantation crops, and these co-exist in a delicate balance. Often in less-developed countries, the crops are well adapted to the local situation and no pesticides are needed. Where progressive farmers are using fertilizers to grow improved crop varieties, these are often more susceptible to pest damage, but the indiscriminate application of pesticides may be detrimental in the longer term.
+The efficacy of chemical pesticides tends to diminish over time. This is because any organism that manages to survive the initial application will pass on its genes to its offspring and a resistant strain will be developed. In this way, some of the most serious pests have developed resistance and are no longer killed by pesticides that used to kill their ancestors. This necessitates higher concentrations of chemical, more frequent applications and a movement to more expensive formulations.
+Pesticides are intended to kill pests, but many have detrimental effects on non-target species; of particular concern is the damage done to honey-bees, solitary bees and other pollinating insects, and in this regard, the time of day when the spray is applied can be important. The widely used neonicotinoids have been banned on flowering crops in some countries because of their effects on bees. Some pesticides may cause cancer and other health problems in humans, as well as being harmful to wildlife. There can be acute effects immediately after exposure or chronic effects after continuous low-level, or occasional exposure. Maximum residue limits for pesticides in foodstuffs and animal feed are set by many nations.
+
+
+==== Genetics ====
+
+Using crops with inheritable resistance to pests is referred to as host-plant resistance and reduces the need for pesticide use. These crops can harm or even kill pests, repel feeding, prevent colonization, or tolerate the presence of a pest without significantly impacting yield. Resistance can also occur through genetic engineering to have traits with resistance to insects, such as with Bt corn, or papaya resistance to ringspot virus. When farmers are purchasing seed, variety information often includes resistance to selected pests in addition to other traits.
+
+
+==== Hunting ====
+
+Pest control can also be achieved via culling the pest animals — generally small- to medium-sized wild or feral mammals or birds that inhabit the ecological niches near farms, pastures or other human settlements — by employing human hunters or trappers to physically track down, kill and remove them from the area.  The culled animals, known as vermin, may be targeted because they are deemed harmful to agricultural crops, livestock or facilities; serve as hosts or vectors that transmit pathogens across species or to humans; or for population control as a mean of protecting other vulnerable species and ecosystems.
+Pest control via hunting, like all forms of harvest, has imposed an artificial selective pressure on the organisms being targeted.  While varmint hunting is potentially selecting for desired behavioural and demographic changes (e.g. animals avoiding human-populated areas, crops and livestock), it can also result in unpredicted outcomes such as the targeted animal adapting for faster reproductive cycles.
+
+
+=== Forestry ===
+
+Forest pests present a significant problem because it is not easy to access the canopy and monitor pest populations. In addition, forestry pests such as bark beetles, kept under control by natural enemies in their native range, may be transported large distances in cut timber to places where they have no natural predators, enabling them to cause extensive economic damage. Pheromone traps have been used to monitor pest populations in the canopy. These release volatile chemicals that attract males. Pheromone traps can detect the arrival of pests or alert foresters to outbreaks. For example, the spruce budworm, a destructive pest of spruce and balsam fir, has been monitored using pheromone traps in Canadian forests for several decades. In some regions, such as New Brunswick, areas of forest are sprayed with pesticide to control the budworm population and prevent the damage caused during outbreaks.
+
+
+== In homes and cities ==
+Many unwelcome animals visit or make their home in residential buildings, industrial sites and urban areas. Some contaminate foodstuffs, damage structural timbers, chew through fabrics or infest stored dry goods. Some inflict great economic loss, others carry diseases or cause fire hazards, and some are just a nuisance. Control of these pests has been attempted by improving sanitation and garbage control, modifying the habitat, and using repellents, growth regulators, traps, baits, and pesticides.
+
+
+=== General methods ===
+
+
+==== Physical pest control ====
+
+Physical pest control involves trapping or killing pests such as insects and rodents. Historically, local people or paid rat-catchers caught and killed rodents using dogs and traps. On a domestic scale, sticky flypapers are used to trap flies. In larger buildings, insects may be trapped using such means as pheromones, synthetic volatile chemicals or ultraviolet light to attract the insects; some have a sticky base or an electrically charged grid to kill them. Glueboards are sometimes used for monitoring cockroaches and to catch rodents. Rodents can be killed by suitably baited spring traps and can be caught in cage traps for relocation. Talcum powder or "tracking powder" can be used to establish routes used by rodents inside buildings, and acoustic devices can be used for detecting beetles in structural timbers.
+Historically, firearms have been one of the primary methods used for pest control. "Garden Guns" are smooth-bore shotguns specifically made to fire .22 caliber snake shot or 9mm Flobert, and are commonly used by gardeners and farmers for snakes, rodents, birds, and other pests. Garden Guns are short-range weapons that can do little harm past 15 to 20 yards, and they're relatively quiet when fired with snake shot, compared to standard ammunition. These guns are especially effective inside barns and sheds, as the snake shot will not shoot holes in the roof or walls, or more importantly, injure livestock with a ricochet. They are also used for pest control at airports, warehouses, stockyards, etc.
+The most common shot cartridge is .22 Long Rifle loaded with #12 shot. At a distance of about 10 ft (3.0 m), which is about the maximum effective range, the pattern is about 8 in (20 cm) in diameter from a standard rifle. Special smoothbore shotguns, such as the Marlin Model 25MG can produce effective patterns out to 15 or 20 yards using .22 WMR shotshells, which hold 1/8 oz. of #12 shot contained in a plastic capsule.
+
+
+==== Poisoned bait ====
+
+Poisoned bait is a common method for controlling rats, mice, birds, slugs, snails, ants, cockroaches, and other pests. The basic granules, or other formulation, contain a food attractant for the target species and a suitable poison. For ants, a slow-acting toxin is needed so that the workers have time to carry the substance back to the colony, and for flies, a quick-acting substance to prevent further egg-laying and nuisance. Baits for slugs and snails often contain the molluscide metaldehyde, dangerous to children and household pets.
+An article in Scientific American in 1885 described effective elimination of a cockroach infestation using fresh cucumber peels.
+
+Warfarin has traditionally been used to kill rodents, but many populations have developed resistance to this anticoagulant, and difenacoum may be substituted. These are cumulative poisons, requiring bait stations to be topped up regularly. Poisoned meat has been used for centuries to kill animals such as wolves and birds of prey. Poisoned carcasses however kill a wide range of carrion feeders, not only the targeted species. Raptors in Israel were nearly wiped out following a period of intense poisoning of rats and other crop pests.
+
+
+==== Fumigation ====
+
+Fumigation is the treatment of a structure to kill pests such as wood-boring beetles by sealing it or surrounding it with an airtight cover such as a tent, and fogging with liquid insecticide for an extended period, typically of 24–72 hours. This is costly and inconvenient as the structure cannot be used during the treatment, but it targets all life stages of pests.
+An alternative, space treatment, is fogging or misting to disperse a liquid insecticide in the atmosphere within a building without evacuation or airtight sealing, allowing most work within the building to continue, at the cost of reduced penetration. Contact insecticides are generally used to minimize long-lasting residual effects.
+
+
+==== Sterilization ====
+
+Populations of pest insects can sometimes be dramatically reduced by the release of sterile individuals. This involves the mass rearing of a pest, sterilising it by means of X-rays or some other means, and releasing it into a wild population. It is particularly useful where a female only mates once and where the insect does not disperse widely. This technique has been successfully used against the New World screw-worm fly, some species of tsetse fly, tropical fruit flies, the pink bollworm and the codling moth, among others.
+To chemically sterilize pests using chemosterilants, laboratory studies conducted using U-5897 (3-chloro-1,2-propanediol) were attempted in the early 1970s for rat control, although these proved unsuccessful. In 2013, New York City tested sterilization traps, demonstrating a 43% reduction in rat populations. The product ContraPest was approved for the sterilization of rodents by the U.S. Environmental Protection Agency in August 2016 as a chemosterilant.
+
+
+==== Insulation ====
+Boron, a known pesticide, can be impregnated into the paper fibers of cellulose insulation at certain levels to achieve a mechanical kill factor for self-grooming insects such as ants, cockroaches, termites, and more. The addition of insulation into the attic and walls of a structure can provide control of common pests in addition to known insulation benefits such as a robust thermal envelope and acoustic noise-canceling properties. The EPA regulates this type of general-use pesticide within the United States, allowing it to only be sold and installed by licensed pest management professionals as part of an integrated pest management program. Simply adding Boron or an EPA-registered pesticide to an insulation does not qualify it as a pesticide. The dosage and method must be carefully controlled and monitored.
+
+
+== On airfields ==
+
+Birds are a significant hazard to aircraft, but it is difficult to keep them away from airfields. Several methods have been explored. Stunning birds by feeding them a bait containing stupefying substances has been tried, and it may be possible to reduce their numbers on airfields by reducing the number of earthworms and other invertebrates by soil treatment. Leaving the grass long on airfields rather than mowing it is also a deterrent to birds. Sonic nets are being trialled; these produce sounds that birds find distracting and seem effective at keeping birds away from affected areas.
+
+
+== See also ==
+Bee removal
+Electronic pest control
+Garden guns
+Nuisance wildlife management
+Rabbits in Australia
+Wildlife contraceptive
+
+
+== References ==
+
+
+== External links ==
+Pest Control and Pesticide Safety for Consumers

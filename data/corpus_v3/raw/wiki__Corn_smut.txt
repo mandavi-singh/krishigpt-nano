@@ -1,0 +1,95 @@
+Corn smut is a plant disease caused by the pathogenic fungus Mycosarcoma maydis, synonym Ustilago maydis. One of several cereal crop pathogens called smut, the fungus forms galls on all above-ground parts of corn species such as maize and teosinte. The infected corn is edible; in Mexico, it is considered a delicacy, called huitlacoche, often eaten as a filling in quesadillas and other tortilla-based dishes, as well as in soups.
+
+
+== Taxonomy ==
+Mycosarcoma maydis is the best known and studied fungus of the Ustilaginomycetes, a sub class of Basidiomycota, and is often used as the exemplar species when talking about its entire class.
+Formerly it was placed in genus Ustilago, but in 2016, it was placed in genus Mycosarcoma.
+
+
+== Description ==
+
+The fungus infects all parts of the host plant by invading the ovaries of its host. The infection causes the corn kernels to swell up into tumor-like galls, wherein the tissues, texture, and developmental pattern are mushroom-like. The galls grow to 4 to 5 inches in diameter. These galls are made up of hypertrophied cells of the infected plant, along with resulting fungal threads and blue-black spores. These dark-colored spores give the cob a burned, scorched appearance.
+When grown in the lab on very simple media, M. maydis behaves like baker's yeast, forming single cells called sporidia. These cells multiply by budding off daughter cells. When two compatible sporidia meet on the surface of the plant, however, they switch to a different mode of growth. First, they produce one or another pheromone, and begin producing one or the other type of pheromone receptor; this depends on mating type a or b, as determined by alleles at two unlinked mating loci. If this signaling is successful, they then send out conjugation tubes to find each other, after which they fuse and make a hypha to enter the corn plant. Hyphae growing in the plant are dikaryotic; they possess two haploid nuclei per hyphal compartment. In contrast to sporidia, the dikaryotic phase of M. maydis only occurs during successful infection of a corn plant, and cannot be maintained in the laboratory.
+Mature tumors release spores that are dispersed by rain and wind. Under appropriate conditions, a metabasidium is formed in which meiosis occurs. Resulting haploid nuclei migrate into elongated single cells. These cells detach from the metabasidium to become the sporidia, thus completing the life cycle.
+
+
+== Ecology ==
+Proliferation of the fungus inside the plant leads to disease symptoms such as chlorosis, anthocyanin formation, reduced growth, and the appearance of tumors harboring the developing teliospores. These teliospores help to overwinter the pathogen into the next season. They survive in the soil.
+Plants have evolved efficient defense systems against pathogenic microbes. A rapid plant defense reaction after pathogen attack is the oxidative burst, which involves the production of reactive oxygen species at the site of the attempted invasion. As a pathogen, M. maydis can respond by an oxidative stress response, regulated by gene YAP1. This response protects M. maydis from the host attack and is necessary for the pathogen's virulence. Moreover, M. maydis has a well-established recombinational DNA repair system. This repair system involves a homolog of Rad51 that has a very similar sequence and size to its mammalian counterparts. This system also involves a protein, Rec2, that is more distantly related to Rad51 and Brh2 proteins, and is a streamlined version of the mammalian Breast Cancer 2 (BRCA2) protein. When any of these proteins is inactivated, sensitivity of M. maydis to DNA damaging agents is increased. Also, mitotic recombination becomes deficient, mutation frequency increases, and meiosis fails to complete. These observations suggest that recombinational repair during mitosis and meiosis in M. maydis may assist the pathogen in surviving DNA damage arising from the host's oxidative defensive response to infection, as well as from other DNA damaging agents.
+
+
+=== Proteome ===
+M. maydis is known to produce four Gα proteins, and one each of Gβ and Gγ.
+
+
+== Habitat ==
+Although not all the conditions that favor growth of M. maydis are known, there are certain environments where corn smut seems to thrive, depending on both abiotic and biotic factors. Hot and dry weather during pollination followed by a heavy rainy season appear to improve the pathogenicity of corn smut. Furthermore, excess manure (and therefore nitrogen) in the soil also increases pathogenicity. Not only do these abiotic factors increase infectability, they also increase disease spread. High winds and heavy rain also increase disease spread as the spores of corn smut can be more easily transmitted. Other biotic factors largely have to do with the extent by which humans interact with the corn and corn smut. If corn debris is not cleared at the end of the season, the spores can overwinter in the corn fragments and live to infect another generation. Finally, humans wounding the corn (with shears or other tools) present the opportunity for corn smut to easily enter the plant.
+
+
+== Management ==
+
+Losses from corn smut can vary greatly; however, annual yield losses rarely exceed 2% when resistant cultivars are planted. This disease can have a large economic impact on sweet corn, specifically when smut galls replace the kernels. There are many ways to control and manage corn smut; however, corn smut cannot be controlled by any common fungicide at this time, as M. maydis infects individual corn kernels instead of infecting the entire cob, like head smut.
+Some beneficial ways to contain corn smut include resistant corn plants, crop rotation, and avoiding mechanical injury to the plant. A mechanical injury can cause the corn to become easily accessible to M. maydis, enhancing infection. Additionally, clearing the planting area of debris can help control corn smut, as the teliospores from corn smut overwinter in debris. This is not the best practice, though, because corn smut can also overwinter in the soil; crop rotation is recommended. Lastly, as excess nitrogen in the soil augments infection rate, using fertilizer with low nitrogen levels or just limiting the amount of nitrogen in the soil proves to be another way to control corn smut.
+
+
+== Culinary use ==
+
+Smut feeds on the corn plant and decreases the yield. Smut-infected crops are often destroyed, although some farmers use them to prepare silage. However, the immature infected galls are still edible, and in Mexico, they are highly esteemed as a delicacy. It is known as huitlacoche and sold for a significantly higher price than uninfected corn. The consumption of corn smut in Mexico originated directly from Aztec cuisine. For culinary use, the galls are harvested while still immature — fully mature galls are dry and almost entirely spore-filled. The immature galls, gathered 2 to 3 weeks after an ear of corn is infected, still retain moisture and, when cooked, have a flavor described as mushroom-like, sweet, savory, woody, and earthy. Flavor compounds include sotolon and vanillin, as well as the sugar glucose.
+Huitlacoche is a source of the essential amino acid lysine, which the body requires but cannot manufacture. It also contains levels of beta-glucans similar to, and protein content equal or superior to, most edible fungi.
+The fungus has had difficulty entering into the American and European diets as most farmers see it as blight, despite attempts by government and high-profile chefs to introduce it into food products. In the mid-1990s, due to demand created by high-end restaurants, Pennsylvania and Florida farms were allowed by the United States Department of Agriculture (USDA) to intentionally infect corn with huitlacoche. The cursory show of interest is significant because the USDA has spent a considerable amount of time and money trying to eradicate corn smut in the U.S. Moreover, in 1989, the James Beard Foundation held a high-profile huitlacoche dinner, prepared by Josefina Howard, chef at Rosa Mexicano restaurant. This dinner tried to get Americans to eat more of it by renaming it the "Mexican truffle" and it is often compared to truffles in food articles describing its taste and texture.
+Native American tribes in North America ate corn smut as well. The North Dakota Hidatsa tribe's practice of preparing and eating corn smut is described vividly in Buffalo Bird Woman's Garden.
+Native Americans of the American Southwest, including the Zuni people, have used corn smut in an attempt to induce labor. It has similar medicinal effects to ergot, but weaker, due to the presence of the chemical ustilagine.
+
+
+=== Recipes of Mexico ===
+
+A simple Mexican-style succotash can be made from chorizo, onions, garlic, serrano peppers, huitlacoche, and shrimp with salsa taquera. The mild, earthy flavors of the huitlacoche blend nicely with the fats of the chorizo and bond to mellow out the heat from the peppers and salsa.
+Another Maya favorite on the Riviera Maya (Cancún to Tulum) is to add huitlacoche to omelets. Its earthy flavors bond with the fats that cook the eggs to mellow the flavors into a truffle-like taste.
+
+Huitlacoche is also popular in quesadillas with Mexican cheese, sautéed onions, and tomatoes.
+The blueish color transforms into the recognizable black color only with heat. Any dish with huitlacoche must include a slow simmer of the fungus until it becomes black, which also removes most of the starch of the corn, and what is left is a black oily paste.
+
+
+=== Availability ===
+In Mexico, huitlacoche is mostly consumed fresh and can be purchased at restaurants, streets, or farmer's markets throughout the country and, to a much lesser extent, can also be purchased as a canned good in some markets and via the internet. Farmers in the countryside spread the spores around intentionally to create more of the fungus. In some parts of the country, they call the fungus "hongo de maiz", i.e., "maize fungus".
+
+
+=== Nutritional value ===
+When corn smut grows on a corn cob, it changes the nutritional worth of the corn it affects. Corn smut contains more proteins than the uninfected grains normally do. The amino acid lysine, of which corn contains very little, abounds in corn smut.
+
+
+== Non-culinary uses ==
+
+
+=== Model organism ===
+The yeast-like growth of M. maydis makes it an appealing model organism for research, although its relevance in nature is unknown. The fungus is exceptionally well-suited for genetic modification. This allows researchers to study the interaction between the fungus and its host with relative ease. The availability of the entire genome is another advantage of this fungus as a model organism.
+M. maydis is not only used to study plant disease, but it also is used to study plant genetics. In 1996, a study on M. maydis genetics led to the discovery of synthesis-dependent strand annealing, a method of homologous recombination used in DNA repair. Other studies in the fungus have also investigated the role of the cytoskeleton in polarized growth. It is largely due to work with M. maydis that the function of the breast-cancer gene BRCA2 is now known. The fungus is mostly studied as a model organism for host pathogen interaction and delivery of effectors protein.
+
+
+=== Industrial biotechnology ===
+M. maydis is able to produce a broad range of valuable chemicals such as ustilagic acid, itaconic acid, malic acid, and hydroxyparaconic acid. Thus, corn smut is gaining more relevance in industrial applications.
+
+
+== Regional names ==
+
+In Mexico, corn smut is known as huitlacoche (Spanish pronunciation: [(ɡ)witlaˈkotʃe], sometimes spelled cuitlacoche). This word entered Spanish in Mexico from Classical Nahuatl, though the Nahuatl words from which huitlacoche is derived are debated. In modern Nahuatl, the word for huitlacoche is cuitlacochin (Nahuatl pronunciation: [kʷit͡ɬɑˈkot͡ʃin]), and some sources deem cuitlacochi to be the classical form.
+Some sources wrongly give the etymology as coming from the Nahuatl words cuitlatl [ˈkʷit͡ɬɑt͡ɬ] ("excrement" or "rear-end", actually meaning "excrescence") and cochtli [ˈkot͡ʃt͡ɬi] ("sleeping", from cochi "to sleep"), thus giving a combined mis-meaning of "sleeping/hibernating excrement", but actually meaning "sleeping excrescence", referring to the fact that the fungus grows between the kernels of corn and impedes them from developing, thus they remain "sleeping".
+A second group of sources deem the word to mean "raven's excrement." These sources appear to be combining the word cuitlacoche for "thrasher" with cuitla, meaning "excrement," actually meaning "excrescence". However, the avian meaning of cuitlacoche derives from the Nahuatl word "song" cuīcatl [ˈkʷiːkɑt͡ɬ], from the verb "to sing" cuīca [ˈkʷiːkɑ]. This root then clashes with this reconstruction's second claim that the segment cuitla- comes from cuitla ("excrement").
+One source derives the meaning as "corn excrescence," using cuītla again and "corn" tlaōlli [t͡ɬɑˈoːlːi]. This requires the linguistically unlikely evolution of tlaōlli "corn" into tlacoche.
+In Peru, it is known as chumo or pacho.
+
+
+== See also ==
+
+Medicinal fungi – Fungi that can be used to develop medicationsPages displaying short descriptions of redirect targets
+
+
+== References ==
+
+McGee, Harold (2004). On Food and Cooking (revised ed.). Scribner. p. 349 "Huitlacoche, or Corn Smut". ISBN 978-0-684-80001-1.
+
+
+== External links ==
+
+U. maydis Genome at the Broad Institute
+MUMDB giving easy access to U. maydis genes

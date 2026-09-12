@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Subsistence agriculture",
+  "provider": "Wikipedia",
+  "title": "Subsistence agriculture",
+  "url": "https://en.wikipedia.org/wiki/Subsistence%20agriculture",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-17",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Subsistence_agriculture.txt"
+}

@@ -1,0 +1,49 @@
+Germplasm refers to genetic resources such as seeds, tissues, and DNA sequences that are maintained for the purpose of animal and plant breeding, conservation efforts, agriculture, and other research uses. These resources may take the form of seed collections stored in seed banks, trees growing in nurseries, animal breeding lines maintained in animal breeding programs or gene banks. Germplasm collections can range from collections of wild species to elite, domesticated breeding lines that have undergone extensive human selection. Germplasm collection is important for the maintenance of biological diversity, food security, and conservation efforts.
+In the United States, germplasm resources are regulated by the National Genetic Resources Program (NGRP), created by the U.S. congress in 1990. In addition the web server The Germplasm Resources Information Network (GRIN) provides information about germplasms as they pertain to agriculture production.
+
+
+== Regulation ==
+In the United States, germplasm resources are regulated by the National Genetic Resources Program (NGRP), created by the U.S. congress in 1990. In addition the web server The Germplasm Resources Information Network (GRIN) provides information about germplasms as they pertain to agriculture production.
+Specifically for plants, there is the U.S. National Plant Germplasm System (NPGS) which holds > 450,000 accessions with 10,000 species of the 85 most commonly grown crops. Many accessions held are international species, and NPGS distributes germplasm resources internationally.
+As genetic information moves largely online there is a transition in germplasm information from a physical location (seed banks, cryopreserving) to online platforms containing genetic sequences. In addition there are issues in the collection germplasm information and where they are shared. Historically some germplasm information had been collected in developing countries and then shared to researchers who then sell the donor country the original germplasm that they altered. There is a lack of compensation to the donor countries and this is an issue. 
+
+
+== Storage methods ==
+Effective Germplasm work includes the collection, storage, analysis, documentation, and exchange of genetic information. This information can be stored as accessions, which is DNA sequence information, or live cells/tissues that can be preserved. However, only about 5% of current germplasm resources are living samples. For live cells/tissues, germplasm resources can be stored ex situ in seed banks, botanic gardens, or through cryopreservation. Cryopreservation is the process of storing germplasm at very low temperatures, such as liquid nitrogen. This process ensures that cells do not degrade and keeps the germplasm intact. In addition, resources can be stored in situ such as the natural area the species was found.
+
+
+== Conservation efforts ==
+About 10,000 years ago is when humans began to domesticate plant species for the purpose of food, seeds, and vegetation.  Since then, agriculture has been a staple for human civilizations and plant breeding has allowed more genetic diversity and a more diverse gene pool.  Germplasm resources allow for more genetic assets to be used and integrated for agricultural systems for plant breeding and bringing about new varieties. In addition, researchers are looking at crop wild relatives (CWRs) that could expand gene pools of crop species and provide more ability to select target traits.
+Furthermore, we are currently facing a biodiversity crisis event that is caused by human activities and industrialization. Many plants and animals have gone extinct due to losing their habitat, their habitat being degraded with contaminants, and climate change. Germplasm resources are a way to conserve the pre-existing biological diversity and to possibly regenerate habitats. By storing this genetic information there is data about what species are present including plants, animals, bacteria, and fungi and what a complete ecosystem in specific areas look like.
+
+
+== See also ==
+Animal genetic resources for food and agriculture
+Conservation biology
+Cryoconservation of animal genetic resources
+Forest genetic resources
+International Treaty on Plant Genetic Resources for Food and Agriculture
+Plant genetic resources
+Seed saving
+Germ plasm
+
+
+== References ==
+Day-Rubenstein, K and Heisey, P. 2003. Plant Genetic Resources: New Rules for International Exchange
+Carmen De Vicente, Maria (2005). Issues on gene flow and germplasm management. Bioversity International. ISBN 9789290436935. Archived from the original on May 3, 2008. Retrieved December 12, 2007. 63 p.
+Economic Research Service. Global resources and productivity: questions and answers
+Engels, Jan (2003). Engels, Jan; Visser, L (eds.). A Guide to Effective Management of Germplasm Collections. Bioversity International. ISBN 9789290435822. Archived from the original on May 25, 2007. 174 p.
+SeedQuest Primer Germplasm Resources
+
+
+== References ==
+
+
+== External links ==
+Bioversity International
+Bioversity International: Germplasm Collection
+Bioversity International: Germplasm Databases
+Bioversity International: Germplasm Documentation - overview
+Bioversity International: Germplasm Health
+DAD-IS: Domestic Animal Diversity Information System
+USDA-ARS Germplasm Resources Information Network (GRIN)

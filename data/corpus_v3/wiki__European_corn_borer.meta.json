@@ -1,0 +1,11 @@
+{
+  "id": "wiki:European corn borer",
+  "provider": "Wikipedia",
+  "title": "European corn borer",
+  "url": "https://en.wikipedia.org/wiki/European%20corn%20borer",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__European_corn_borer.txt"
+}

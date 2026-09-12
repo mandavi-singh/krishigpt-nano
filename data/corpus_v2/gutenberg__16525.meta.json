@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:16525",
+  "provider": "Project Gutenberg",
+  "title": "The Fat of the Land: The Story of an American Farm",
+  "authors": "Streeter, John Williams",
+  "url": "https://www.gutenberg.org/ebooks/16525",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-17",
+  "topic_bucket": "soil science",
+  "download_count": 539,
+  "raw_file": "gutenberg__16525.txt",
+  "use": "KrishiGPT-nano corpus v2 (System A pretraining only)"
+}

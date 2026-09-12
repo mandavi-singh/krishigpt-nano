@@ -1,0 +1,224 @@
+{
+  "results": [
+    {
+      "variant": "greedy",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", and the best of the best wheat , and the best of the best wheat , and the best of wheat , and the best of wheat , and the best of wheat , and the best of wheat , and the best of wheat , and the best of wheat , and the best of wheat , and the best of wheat",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.09375,
+      "distinct_2": 0.12698412698412698,
+      "repetition_rate": 0.9206349206349206,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Soil moisture affects",
+      "text": "the soil , and the soil is a soil organic matter . The soil is the most important soil structure , and the soil is the most important soil structure . The soil is the most important soil structure , and is the most important soil structure . The soil is the most important soil structure . The soil is the most important soil",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.203125,
+      "distinct_2": 0.31746031746031744,
+      "repetition_rate": 0.8095238095238095,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "To control pests in the field",
+      "text": "of the pests of the pests of the pests of the pests of the pests of the pests of the pests . The pests of the pests of the pests of the pests of the pests of the pests of the pests of the pests , and the pests of the pests of the pests of the pests . The pests of the pests",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.109375,
+      "distinct_2": 0.14285714285714285,
+      "repetition_rate": 0.9047619047619048,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Rice is grown in",
+      "text": "the world . = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.0625,
+      "distinct_2": 0.06349206349206349,
+      "repetition_rate": 0.9523809523809523,
+      "max_run": 61
+    },
+    {
+      "variant": "greedy",
+      "prompt": "The farmer should irrigate",
+      "text": "the farm , and the farmer will be a man who will be a man who will be a man who will be a man who will be a man who will be a man who will be a man who will be a man who will have to be sure to be sure to be sure to be sure to be sure to",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.203125,
+      "distinct_2": 0.25396825396825395,
+      "repetition_rate": 0.8095238095238095,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", with ashes , and generally nutrition to the ample and body of animals , the main labor of this it was imHeralia . A large quantity of good milk paid for questions for the milk chool , foundation of the roots , the milk wished to this grand the production ads of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.6875,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.31746031746031744,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "Soil moisture affects",
+      "text": "the soil , and over - soil moisture by the oxygen and the body ' s element . The reactions are it enermental and transport to plants . Me sterile ates the question of the soil ' s heat occurs , transport of carbon and plant nutrients , Phosphorate and non - chemical altuations",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.71875,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.2857142857142857,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "To control pests in the field",
+      "text": ", the productivity of the laying eggs are transformed in the production body ' s storage thing . The Foit energetic pest diseases such as the Bosch of many damage questions worldwide by mandelic foundations . In many parts of the world , the Mgrassland Center re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.84375,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.15873015873015872,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "Rice is grown in",
+      "text": "wildlife . Food holdings is the third largest in India and is a global source of being entirely controlled by hand . US areas tend to be the next statistical sector harrow as a result of the highest yields of farmers . In many parts of the world , the Mumbai Center re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.828125,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.1746031746031746,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "The farmer should irrigate",
+      "text": "statesTIC over a generation . There are two - point body nets for the farm , while even it was imHeralia macrohade . No many of these harrow in the farm they feeds on a miselling of roots , which is wider of fine grassland . It may",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.875,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.12698412698412698,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", with the best wheat , is the _Stam_ , and a well - known tree , the same farmer was not the best ; and when the next season of sowing to the first year ' s planting . Fresh a grass crop of wheat , oats , bugs , or wheat . If the land was",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.6875,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.31746031746031744,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Soil moisture affects",
+      "text": "the soil , and by a soil surface by the soil and the surface solution . This layer is usually a clay horizon ( also called RA ) . The term NA + AH + The The \" PDA horizon layer of the roots , is typically covered by the structure , and the other parts of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.59375,
+      "distinct_2": 0.9206349206349206,
+      "repetition_rate": 0.4126984126984127,
+      "max_run": 2
+    },
+    {
+      "variant": "topk40",
+      "prompt": "To control pests in the field",
+      "text": ", the other species are generally known as a paramarchorus , and the Cavenojoys are typically grown on the plant family Pacinae , that is produced by mandhillella plants used to avoid the plant behavior , and the other known re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.78125,
+      "distinct_2": 0.9365079365079365,
+      "repetition_rate": 0.2222222222222222,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Rice is grown in",
+      "text": "East Asia , and has a major industry by the region of the United States . The world is the largest staple in India and the third third - century BC . = = = See also = = = = Tomenta data Co . and Co - widespread DNA – Center –",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.6875,
+      "distinct_2": 0.9206349206349206,
+      "repetition_rate": 0.31746031746031744,
+      "max_run": 4
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The farmer should irrigate",
+      "text": "two hundred years old . But if the year the horse must put your hay , for the horse and the horses it was better . We did not say the next time of a few days , as the crop of the year could be a week ; but I think , when the soil was so rich , and to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.734375,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.2698412698412698,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", with ashes , and generally nutrition to the ambition of a savory thing that labor reduces it ranging from transport to the energy . The term populari damage that water drains , although the amount of natural transport of carbon and plant nutrients is widespread due to additional waste to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.796875,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.20634920634920634,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Soil moisture affects",
+      "text": "the soil , and over - structure . Formes in climates and fruits are useful for the growing and planting season it ranging from earnâ € ” cutting many damage that is produced by mandelic foundations . In many parts of the world , the Mumbai Center re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.828125,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.1746031746031746,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "To control pests in the field",
+      "text": ", fungus flowers are generally known as onion - dew and hard dy , and no renewable meaning they immature . Unound the world Bosch of many damage that is produced by mandelic foundations . In many parts of the world , the Mumbai Center re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.859375,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.14285714285714285,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Rice is grown in",
+      "text": "climates with other flowers over a generation . Forest in India and Australia region , for example , during the same it was immature at least 90 % . In the U . S . , as in China , India Freegg is one of the three major survives in the United States , and the other parts of",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.734375,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.2698412698412698,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The farmer should irrigate",
+      "text": "two hundred years old . But if the year the horse must put your father , for thing being entirely like , it was improof to be used to hasten fresh many feet wide and greater run , and the You fear it very forcome . \" The wider of this grassland will be re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.84375,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.15873015873015872,
+      "max_run": 1
+    }
+  ]
+}

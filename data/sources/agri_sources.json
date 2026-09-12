@@ -1,0 +1,377 @@
+[
+  {
+    "id": "wiki:Agriculture",
+    "provider": "Wikipedia",
+    "title": "Agriculture",
+    "url": "https://en.wikipedia.org/wiki/Agriculture",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Agriculture in India",
+    "provider": "Wikipedia",
+    "title": "Agriculture in India",
+    "url": "https://en.wikipedia.org/wiki/Agriculture%20in%20India",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Crop",
+    "provider": "Wikipedia",
+    "title": "Crop",
+    "url": "https://en.wikipedia.org/wiki/Crop",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Wheat",
+    "provider": "Wikipedia",
+    "title": "Wheat",
+    "url": "https://en.wikipedia.org/wiki/Wheat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Rice",
+    "provider": "Wikipedia",
+    "title": "Rice",
+    "url": "https://en.wikipedia.org/wiki/Rice",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Maize",
+    "provider": "Wikipedia",
+    "title": "Maize",
+    "url": "https://en.wikipedia.org/wiki/Maize",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Barley",
+    "provider": "Wikipedia",
+    "title": "Barley",
+    "url": "https://en.wikipedia.org/wiki/Barley",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Sorghum",
+    "provider": "Wikipedia",
+    "title": "Sorghum",
+    "url": "https://en.wikipedia.org/wiki/Sorghum",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Sugarcane",
+    "provider": "Wikipedia",
+    "title": "Sugarcane",
+    "url": "https://en.wikipedia.org/wiki/Sugarcane",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Cotton",
+    "provider": "Wikipedia",
+    "title": "Cotton",
+    "url": "https://en.wikipedia.org/wiki/Cotton",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Legume",
+    "provider": "Wikipedia",
+    "title": "Legume",
+    "url": "https://en.wikipedia.org/wiki/Legume",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Vegetable",
+    "provider": "Wikipedia",
+    "title": "Vegetable",
+    "url": "https://en.wikipedia.org/wiki/Vegetable",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Soil",
+    "provider": "Wikipedia",
+    "title": "Soil",
+    "url": "https://en.wikipedia.org/wiki/Soil",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Soil fertility",
+    "provider": "Wikipedia",
+    "title": "Soil fertility",
+    "url": "https://en.wikipedia.org/wiki/Soil%20fertility",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Soil salinity",
+    "provider": "Wikipedia",
+    "title": "Soil salinity",
+    "url": "https://en.wikipedia.org/wiki/Soil%20salinity",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Fertilizer",
+    "provider": "Wikipedia",
+    "title": "Fertilizer",
+    "url": "https://en.wikipedia.org/wiki/Fertilizer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Manure",
+    "provider": "Wikipedia",
+    "title": "Manure",
+    "url": "https://en.wikipedia.org/wiki/Manure",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Compost",
+    "provider": "Wikipedia",
+    "title": "Compost",
+    "url": "https://en.wikipedia.org/wiki/Compost",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Organic farming",
+    "provider": "Wikipedia",
+    "title": "Organic farming",
+    "url": "https://en.wikipedia.org/wiki/Organic%20farming",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Sustainable agriculture",
+    "provider": "Wikipedia",
+    "title": "Sustainable agriculture",
+    "url": "https://en.wikipedia.org/wiki/Sustainable%20agriculture",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Irrigation",
+    "provider": "Wikipedia",
+    "title": "Irrigation",
+    "url": "https://en.wikipedia.org/wiki/Irrigation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Drip irrigation",
+    "provider": "Wikipedia",
+    "title": "Drip irrigation",
+    "url": "https://en.wikipedia.org/wiki/Drip%20irrigation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Crop rotation",
+    "provider": "Wikipedia",
+    "title": "Crop rotation",
+    "url": "https://en.wikipedia.org/wiki/Crop%20rotation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Monsoon",
+    "provider": "Wikipedia",
+    "title": "Monsoon",
+    "url": "https://en.wikipedia.org/wiki/Monsoon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Weed",
+    "provider": "Wikipedia",
+    "title": "Weed",
+    "url": "https://en.wikipedia.org/wiki/Weed",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Pest (organism)",
+    "provider": "Wikipedia",
+    "title": "Pest (organism)",
+    "url": "https://en.wikipedia.org/wiki/Pest%20%28organism%29",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Plant pathology",
+    "provider": "Wikipedia",
+    "title": "Plant pathology",
+    "url": "https://en.wikipedia.org/wiki/Plant%20pathology",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Pesticide",
+    "provider": "Wikipedia",
+    "title": "Pesticide",
+    "url": "https://en.wikipedia.org/wiki/Pesticide",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Nitrogen fixation",
+    "provider": "Wikipedia",
+    "title": "Nitrogen fixation",
+    "url": "https://en.wikipedia.org/wiki/Nitrogen%20fixation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Pollination",
+    "provider": "Wikipedia",
+    "title": "Pollination",
+    "url": "https://en.wikipedia.org/wiki/Pollination",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Photosynthesis",
+    "provider": "Wikipedia",
+    "title": "Photosynthesis",
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "wiki:Harvest",
+    "provider": "Wikipedia",
+    "title": "Harvest",
+    "url": "https://en.wikipedia.org/wiki/Harvest",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "gutenberg:22973",
+    "provider": "Project Gutenberg",
+    "title": "The English Husbandman: The First Part: Contayning the Knowledge of the true Nature of euery Soyle within this Kingdome: how to Plow it; and the manner of the Plough, and other Instruments",
+    "authors": "Markham, Gervase",
+    "url": "https://www.gutenberg.org/ebooks/22973",
+    "license": "Public domain in the USA (Project Gutenberg)",
+    "license_url": "https://www.gutenberg.org/policy/license.html",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "gutenberg:12140",
+    "provider": "Project Gutenberg",
+    "title": "Roman Farm Management: The Treatises of Cato and Varro",
+    "authors": "Cato, Marcus Porcius, Varro, Marcus Terentius",
+    "url": "https://www.gutenberg.org/ebooks/12140",
+    "license": "Public domain in the USA (Project Gutenberg)",
+    "license_url": "https://www.gutenberg.org/policy/license.html",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "gutenberg:16594",
+    "provider": "Project Gutenberg",
+    "title": "A Short History of English Agriculture",
+    "authors": "Curtler, W. H. R. (William Henry Ricketts)",
+    "url": "https://www.gutenberg.org/ebooks/16594",
+    "license": "Public domain in the USA (Project Gutenberg)",
+    "license_url": "https://www.gutenberg.org/policy/license.html",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "gutenberg:20772",
+    "provider": "Project Gutenberg",
+    "title": "Agriculture for Beginners: Revised Edition",
+    "authors": "Burkett, Charles William, Hill, Daniel Harvey, Stevens, Frank Lincoln",
+    "url": "https://www.gutenberg.org/ebooks/20772",
+    "license": "Public domain in the USA (Project Gutenberg)",
+    "license_url": "https://www.gutenberg.org/policy/license.html",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  },
+  {
+    "id": "gutenberg:51764",
+    "provider": "Project Gutenberg",
+    "title": "Fiue hundred pointes of good husbandrie",
+    "authors": "Tusser, Thomas",
+    "url": "https://www.gutenberg.org/ebooks/51764",
+    "license": "Public domain in the USA (Project Gutenberg)",
+    "license_url": "https://www.gutenberg.org/policy/license.html",
+    "accessed": "2026-08-17",
+    "use": "System A pretraining (educational corpus, NOT RAG source)"
+  }
+]

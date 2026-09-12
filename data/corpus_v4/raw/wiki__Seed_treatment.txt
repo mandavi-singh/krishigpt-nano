@@ -1,0 +1,43 @@
+A seed treatment is a treatment of the seed with either chemical agents or biological or by physical methods, usually done to provide protection to the seed and improve the establishment of healthy crops. Although the term seed treatment is used often and indeed typically to mean seed coating, there are other methods of seed treatment. 
+In agriculture and horticulture, coating of the seed is the process of applying exogenous materials to the seed, also referred to as seed dressing. 
+A seed coating is the layer of material added to the seed, which may or may not contain a "protectant" (biological or chemical pesticide) or biostimulant applied to the seed and some optional color. By the amount of material added, it can be divided into:
+
+A film coating, a layer of thin film applied to the seed typically less than 10% of the mass of the original seed.
+Encrustment, where the applied material is typically 100%–500% of the original seed mass, but the shape is still discernible.
+Pellet, where the applied material is so thick that the seed's original shape is not discernible.
+Seed coating provides the following functions:
+
+For formulations with pesticides, direct application to seeds can be environmentally more friendly, as the amounts used can be very small.
+Color makes treated seed less attractive to birds, and easier to see and clean up in the case of an accidental spillage.
+A thick coating can improve handling, by hand or by seed drill. Thinner coatings may also help with characteristics like flowability.
+Thick coatings may accommodate additional features such as fertilizers, plant hormones, plant-beneficial microbes, and water-retaining polymers.
+Specialist machinery is required to safely and efficiently apply the chemical to the seed. A cement mixer is enough for non-hazardous coating materials. The term "seed dressing" is also used to refer to the process of removing chaff, weed seeds and straw from a seed stock.
+
+
+== History ==
+The earliest seed dressings were of organo-mercurials used to control pests such as oat smut and bunt of wheat. These were available from the 1930s but were ineffective on Pythium and Fusarium species which are pathogens of many crops including cotton, maize and soya. Thiram was therefore developed as a seed treatment in the 1940s to extend the spectrum of diseases that could be controlled.
+In 1949 ICI commercialised a seed treatment with trade name Mergamma A, containing 1% mercury and 20% lindane, an early example of a product designed to protect the seed from both fungal and insect attack.
+
+
+== Pesticide ==
+The neonicotinoid family of insecticides, has been banned for most applications in the European Union because they were implicated in recent dramatic drops in bee counts, and possibly in Colony Collapse Disorder. Improvements to pneumatic drills to reduce dust release, and improvements to seed treatment compounds to prevent the compound breaking up into dust (dust-off) have been introduced.
+In order to qualify for the United States Department of Agriculture Organic certification, farmers must seek out organic seed. If they cannot find organic seed, they are allowed to use conventional, untreated seed. Seed treated with pesticide however, is never allowed.
+
+
+== Water-retainer ==
+Water-absorbing polymers may be added around seeds to help with absorbing water dry conditions, or to delay the germination until drought has passed. It has seen some use in the industry.
+
+
+== Fertilizer ==
+Seed coating may contain a dose of fertilizer, typically of plant micronutrients, but also occasionally containing slow-release macronutrients.
+
+
+== Inoculum ==
+A sufficiently-thick seed coating can allow for seeds to be distributed pre-inoculated with symbiotic microbes such as rhizobia for legumes. The formulation of the coating slurry plays a huge role in maintaining the viability of these microbes. The state-of-the-art academic formulation (as of 2019) is able to maintain microbial populations for 9 months, quite a bit behind the viability of the seeds themselves. Despite these drawbacks, inocula have been used in commercially coated seeds, with much obscurity as to whether and how they maintain viability.
+
+
+== See also ==
+Seed ball, pelleting of many seeds
+
+
+== References ==

@@ -1,0 +1,141 @@
+The modern combine harvester, also called a combine, is a machine designed to harvest a variety of cultivated seeds. Combine harvesters are one of the most economically important labour-saving inventions, significantly reducing the fraction of the population engaged in agriculture. Among the crops harvested with a combine are wheat, rice, oats, rye, barley, corn (maize), sorghum, millet, soybeans, flax (linseed), sunflowers and rapeseed (canola). The separated straw (consisting of stems and any remaining leaves with limited nutrients left in it) is then either chopped onto the field and ploughed back in, or laid out in rows, ready to be baled and used for bedding and cattle feed.
+The name of the machine is derived from the fact that the harvester combined multiple separate harvesting operations – reaping, threshing or winnowing and gathering – into a single process around the start of the 20th century. A combine harvester still performs its functions according to those operating principles. The machine can easily be divided into four parts, namely: the intake mechanism, the threshing and separation system, the cleaning system, and finally the grain handling and storage system. Electronic monitoring assists the operator by providing an overview of the machine's operation, and the field's yield.
+
+
+== History ==
+
+In 1826 in Scotland, the inventor Reverend Patrick Bell designed  a reaper machine, which used the scissors principle of plant cutting (a principle that is used to this day). The Bell machine was pushed by horses. A few Bell machines were available in the United States. In 1835, in the United States, Hiram Moore built and patented the first combine harvester, which was capable of reaping, threshing and winnowing cereal grain. Early versions were pulled by horse, mule or ox teams. In 1835, Moore built a full-scale version with a length of 5.2 m (17 ft) and a cut width of 4.57 m (15 ft); by 1839, over 20 ha (50 acres) of crops were harvested. This combine harvester was pulled by 20 horses fully handled by farmhands. By around 1860, combine harvesters with a cutting, or swathe, width of several metres were used on American farms.
+
+A parallel development in Australia saw the development of the stripper based on the Gallic stripper, by John Ridley and others in South Australia by 1843. The stripper only gathered the heads, leaving the stems in the field. The stripper and later headers had the advantage of fewer moving parts and only collecting heads, requiring less power to operate. Refinements by Hugh Victor McKay produced a commercially successful combine harvester in 1885, the Sunshine Header-Harvester.
+
+Combines, some of them quite large, were drawn by mule or horse teams and used a bullwheel to provide power. Later, steam power was used, and George Stockton Berry integrated the combine with a steam engine using straw to heat the boiler.  At the turn of the twentieth century, horse-drawn combines started to be used on the American plains and Idaho (often pulled by teams of twenty or more horses).
+In 1911, the Holt Manufacturing Company of California, US produced a self-propelled harvester. In Australia in 1923, the patented Sunshine Auto Header was one of the first center-feeding self-propelled harvesters. In 1923 in Kansas, the Baldwin brothers and their Gleaner Manufacturing Company patented a self-propelled harvester that included several other modern improvements in grain handling. Both the Gleaner and the Sunshine used Fordson engines; early Gleaners used the entire Fordson chassis and driveline as a platform. In 1929, Alfredo Rotania of Argentina patented a self-propelled harvester.
+International Harvester started making horse-pulled combines in 1915. At the time, horse-powered binders and stand-alone threshing machines were more common. In the 1920s, Case Corporation and John Deere made combines, introducing tractor-pulled harvesters with a second engine aboard the combine to power its workings. The world economic collapse in the 1930s stopped farm equipment purchases, and for this reason, people largely retained the older method of harvesting. A few farms did invest and used Caterpillar tractors to move the outfits.
+Tractor-drawn combines (also called pull-type combines) became common after World War II as many farms began to use tractors. An example was the All-Crop Harvester series. These combines used a shaker to separate the grain from the chaff and straw-walkers (grates with small teeth on an eccentric shaft) to eject the straw while retaining the grain. Early tractor-drawn combines were usually powered by a separate gasoline engine, while later models were PTO-powered, via a shaft transferring tractor engine power to operate the combine. These machines either put the harvested crop into bags that were then loaded onto a wagon or truck, or had a small bin that stored the grain until it was transferred via a chute.
+In the U.S., Allis-Chalmers, Massey-Harris, International Harvester, Gleaner Manufacturing Company, John Deere, and Minneapolis Moline are past or present major combine producers.
+In 1937, the Australian-born Thomas Carroll, working for Massey-Harris in Canada, perfected a self-propelled model and in 1940, a lighter-weight model began to be marketed widely by the company. Lyle Yost invented an auger that would lift grain out of a combine in 1947, making unloading grain much easier and further from the combine. In 1952 Claeys launched the first self-propelled combine harvester in Europe; in 1953, the European manufacturer Claas developed a self-propelled combine harvester named 'Hercules', it could harvest up to 5 tons of wheat a day. This newer kind of combine is still in use and is powered by diesel or gasoline engines. Until the self-cleaning rotary screen was invented in the mid-1960s combine engines suffered from overheating as the chaff spewed out when harvesting small grains would clog radiators, blocking the airflow needed for cooling.
+A significant advance in the design of combines was the rotary design. The grain is initially stripped from the stalk by passing along a helical rotor, instead of passing between rasp bars on the outside of a cylinder and a concave. Rotary combines were first introduced by Sperry-New Holland in 1975.
+Around the 1980s, on-board electronics were introduced to measure threshing efficiency. This new instrumentation allowed operators to get better grain yields by optimizing ground speed and other operating parameters.
+The largest "class 10-plus" combines, which emerged in the early 2020's, have nearly 800 engine horsepower (600 kW) and are fitted with headers up to 60 feet (18 m) wide.
+
+
+== Combine header types ==
+
+Grain headers are commonly referred to as "wheat" headers or draper headers. They are often used for small grain crops such as wheat, grain, peas and beans. The headers often employ a rolling platform to catch crops and put into the combine for tasks like cleaning and separating. When the machine is operating, the crops go to the center belt and then the combine where the grain is separated from the other crop parts.
+Corn headers are specifically for row corps like corn and soybeans. The headers use gathering chains as a mechanism to pull back stalks and strip the ears from them. The stalks are left on the ground which reduces the material that the combine needs to process.
+Sunflower headers are more specialized, resembling their counterparts for corn. Sunflower trays are used to keep heads and seeds at the front of the header as a snatcher speeds up and optimizes obtaining grain samples.
+Pick up headers lift material from the ground with tines (finger-like rakes) and transfer into the belts that feed the auger, then insert in the combine. Flex platform headers work over uneven terrain. They have guards to protect crop cutting knives so they won't pick up extraneous material like rocks.
+Augers are more conventional compared to the drapers and have a larger diameter that feeds material into the auger table which is then allocated to the combine harvester itself.
+
+
+== Conventional combine ==
+
+A conclave cylinder system is used for thrashing while the crop goes through a rotating cylinder that separates the grain and husk. They consist of a grain tank and cleaning systems while also having an unloading system. These models are often more simple and affordable. On the other hand, they often require more manual adjustments compared to newer models in terms of working with different types of crops, particularly ones with tougher husks and stalks.
+
+
+== Leveling systems ==
+
+
+=== Hillside Leveling ===
+Hillside levelers require the utilization of heavier duty tires and wheels as part of regulations by the Tire and Rim Association to deal with more severe slopes. Hillside leveling systems have a 27 percent slope compensation and weigh about 3,950 pounds.
+
+
+=== Sidehill Leveling ===
+
+Sidehill levelers are a couple inches shorter than their hillside counterparts. Sidehill leveling systems have a 18 percent slope compensation and weigh about 3,600 pounds. These systems are considered more versatile in terms of what terrain they can be used on.
+
+
+== Operating principles ==
+
+Harvesting begins in the header, as it cuts the crop and puts them in the machine. Crops are fed to the feeder houses which are delivered to the threshers.
+Threshing separates grains and stalks with threshing drums, with more modern versions using larger cylinders which better handle fragile seeds and therefore reduce damage. The cylinders rotate and take the grains from the stalks in a more efficient manner. They then go into the sieve and are filtered by weight and size, and cleaned grains go into an auger and then a storage tank.
+
+Materials such as stalks and chaff are managed to prevent blockages. Larger debris is separated during threshing and moved to the rear of the harvester. Smaller chaff is filtered through a fan system which distributes it evenly over a field. This helps with soil health and prevents crops from being covered with layers of excess waste.
+
+
+== Instrumentation ==
+
+While the principles of basic threshing have changed little over the years, modern advancements in electronics and monitoring technology has continued to develop.  Whereas older machines required the operator to rely on machine knowledge, frequent inspection and monitoring, and a keen ear to listen for subtle sound changes, newer machines have replaced many of those duties with instrumentation.
+
+
+=== Electronic power steering ===
+The EPS provides additional assistance to the steering mechanism, which improves maneuverability. They serve to enhance steering position and help farmers work longer hours with improved accuracy.
+
+
+=== Brake control module ===
+The module helps to distribute brake force evenly. This ensures balanced breaking particularly working on uneven terrain or rough weather.
+
+
+=== Traction control system ===
+The TCS optimizes traction by preventing wheel slippage. This helps harvesters operate in various environments and soil conditions.
+
+
+=== Grain loss monitors ===
+Electronic sensors help quantify grain loss while harvesting. This allows operators to make the necessary adjustments, therefore allowing losses to be minimized as much as possible while helping farmers get optimal yield.
+
+
+=== Yield monitoring sensors ===
+Yield monitoring sensors measure the flow and quantity of crops through real time yield data. They often help farmers make more informed decisions in terms of future planting and harvesting. The sensors help contributes to overall long term productivity on the farm.
+
+
+=== Control Units ===
+The engine control unit is considered the "brain" of the combine harvester. They are responsible for managing fuel injection, air intake, etc. The hydraulic control unit oversees the hydraulic systems, overseeing functions like lift and tilt. Both serve to enhance fuel efficiency and reduce emissions while operating simultaneously.
+
+
+=== GPS and navigation systems ===
+These systems help with guidance and mapping, particularly in auto-steering. These assist in minimizing fuel consumption and crop damage in the most efficient manner.
+
+
+== Combine classes ==
+
+While all combines aim to achieve the same result, each machine can be classified based on its general throughput based on the rated horsepower of the combine. Current combine classifications, as defined by Association of Equipment Manufacturers (AEM), are as follows (Metric horsepower (PS), which is approximately 735.5 watts or 98.6% of an imperial horsepower, is used):
+
+Class 5 - less than 280 PS
+Class 6 - 280 PS - 360 PS
+Class 7 - 360 PS - 500 PS
+Class 8 - 500 PS - 600 PS
+Class 9 - 600 PS - 680 PS
+Class 10 - more than 680 PS
+While this classification is current, the classes themselves have evolved over time. For instance, a class 7 combine in the year 1980 would have had 270 horsepower and been one of the largest machines available in the world at that time, but in the 21st century the same machine would be considered small. The Association of Equipment Manufacturers recognizes Class 10, which came into being in 2013, as the largest combine class. However, there are combines with horsepower and threshing capacity that could argue for creating a new class.
+
+
+== Fires ==
+Grain combine fires are responsible for millions of dollars of loss each year. Fires usually start near the engine where dust and dry crop debris accumulate. Fires can also start when heat is introduced by bearings or gearboxes that have failed. From 1984 to 2000, 695 major grain combine fires were reported to U.S. local fire departments. Dragging chains to reduce static electricity was one method employed for preventing harvester fires, but it is not yet clear what if any role static electricity plays in causing harvester fires. The application of appropriate synthetic greases will reduce the friction experienced at crucial points (i.e., chains, sprockets and gear boxes) compared to petroleum based lubricants.
+
+
+== Conversions ==
+Obsolete or damaged combines can be converted into general utility tractors. This is possible if the relevant systems (cabin, drivetrain, controls and hydraulics) still work or can be repaired. Conversions typically involve removing specialized components for threshing and processing crops; they can also include modifying the frame and controls to better suit operation as a tractor (including lowering it closer to the ground).
+ Thresher drives can sometimes be repurposed as power take-offs.
+
+
+== See also ==
+
+Agricultural machinery
+Combine demolition derby
+Custom harvesting
+Gravity wagon
+Grain bin
+Grain hopper trailer
+Museum of Scottish Country Life – largest collection of combine harvesters in Europe.
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+Quick, Graeme R.; Wesley F. Buchele (1978). The Grain Harvesters. St. Joseph: American Society of Agricultural Engineers. ISBN 0-916150-13-5.
+
+
+== External links ==
+
+Worldwide Agricultural Machinery and Farm Equipment Directory
+"Gold Harvest Feeds The World" page 90 Popular Mechanics, July 1949, cutaway illustration of the John Deere open cab one-man self-propelled combine of the type common for decades after World War Two
+Pictures of combines with corn and wheat heads Archived 2005-10-30 at the Wayback Machine
+History of Sunshine Harvesters – Museum Victoria, Australia
+The Birth of the Australian Stripping Combine Harvester
+Pictures of Gleaner levelling combines
+The Combine Talk Forums – A Website with more information and pictures
+Washington State University film of horse-drawn combine in 1938 Archived 2015-10-30 at the Wayback Machine

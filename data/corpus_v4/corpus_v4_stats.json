@@ -1,0 +1,248 @@
+{
+  "name": "krishigpt_corpus_v4",
+  "created_in": "evaluation/corpus_v4/build_corpus_v4.py",
+  "policy": {
+    "train": "v3 train docs (byte-reused) + v4 new docs",
+    "valid": "exact byte copy of v3 valid (6 docs, never trained in any run) so token ids/windows and val loss are directly comparable with every checkpoint so far",
+    "drops": [],
+    "corpus_duplicates_skipped": [
+      {
+        "id": "wiki:Agriculture",
+        "requested": "Agriculture",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Combine harvester",
+        "requested": "Combine harvester",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Compost",
+        "requested": "Composting",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Cover crop",
+        "requested": "Cover crop",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Drip irrigation",
+        "requested": "Drip irrigation",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Harrow (tool)",
+        "requested": "Harrow (tool)",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Herbicide",
+        "requested": "Herbicide",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Integrated pest management",
+        "requested": "Integrated pest management",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:No-till farming",
+        "requested": "No-till farming",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Organic farming",
+        "requested": "Organic farming",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Plough",
+        "requested": "Plough",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Seed drill",
+        "requested": "Seed drill",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Terrace (earthworks)",
+        "requested": "Terrace farming",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Tractor",
+        "requested": "Tractor",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      },
+      {
+        "id": "wiki:Weed",
+        "requested": "Weed",
+        "reason": "redirect collides with an existing v1/v2/v3 document; existing text stays canonical"
+      }
+    ],
+    "dedupe_rule": "exact-line dedupe of new docs vs all previously trained text (lines >=25 chars)",
+    "removed_duplicate_lines": 1191
+  },
+  "total_docs_in_corpus": 217,
+  "v3_train_docs_reused": 184,
+  "new_docs": {
+    "docs": 33,
+    "provider_breakdown": {
+      "Project Gutenberg": 4,
+      "Wikipedia": 29
+    },
+    "license_breakdown": {
+      "Public domain in the USA (Project Gutenberg)": 4,
+      "CC BY-SA 4.0": 29
+    },
+    "ids": [
+      "gutenberg:17683",
+      "gutenberg:25905",
+      "gutenberg:29057",
+      "gutenberg:65286",
+      "wiki:Agricultural education",
+      "wiki:Agricultural extension",
+      "wiki:Agroecology",
+      "wiki:Biodynamic agriculture",
+      "wiki:Biological pest control",
+      "wiki:Contour plowing",
+      "wiki:Crop diversity",
+      "wiki:Crop residue",
+      "wiki:Cultivator",
+      "wiki:Deficit irrigation",
+      "wiki:Food preservation",
+      "wiki:Grafting",
+      "wiki:Grain drying",
+      "wiki:Heirloom plant",
+      "wiki:Irrigation management",
+      "wiki:Manure management",
+      "wiki:Mulch",
+      "wiki:Pest control",
+      "wiki:Plant propagation",
+      "wiki:Pruning",
+      "wiki:Seed saving",
+      "wiki:Seed treatment",
+      "wiki:Silo",
+      "wiki:Soil conservation",
+      "wiki:Threshing",
+      "wiki:Water-use efficiency",
+      "wiki:Weed control",
+      "wiki:Windbreak",
+      "wiki:Winnowing"
+    ]
+  },
+  "validation_docs": {
+    "docs": 6,
+    "ids": [
+      "wiki:Combine harvester",
+      "wiki:Loam",
+      "wiki:No-till farming",
+      "wiki:Phosphorus cycle",
+      "wiki:Rabi crop",
+      "wiki:Rainwater harvesting"
+    ]
+  },
+  "raw_after_clean_new": {
+    "docs": 33,
+    "chars": 1133801,
+    "words": 190970
+  },
+  "after_dedup_new": {
+    "docs": 33,
+    "chars": 1067468,
+    "words": 179900
+  },
+  "chars_after_dedup": {
+    "v3_train_part": 7015724,
+    "new_part": 1067468
+  },
+  "split": {
+    "train": {
+      "docs": 217,
+      "chars": 8083258,
+      "words": 1343300
+    },
+    "valid": {
+      "docs": 6,
+      "chars": 84458,
+      "words": 13054
+    }
+  },
+  "tokens_existing_5237_vocab": {
+    "new_train_part": {
+      "total_tokens": 303836,
+      "tokens_per_1000_chars": 284.6,
+      "words": 216947,
+      "word_types": 19766,
+      "unk_words": 36,
+      "unk_word_pct": 0.017,
+      "single_token_word_pct": 76.5,
+      "avg_tokens_per_word": 1.401
+    },
+    "combined_train": {
+      "total_tokens": 2269941,
+      "tokens_per_1000_chars": 280.8,
+      "words": 1623787,
+      "word_types": 59503,
+      "unk_words": 1446,
+      "unk_word_pct": 0.089,
+      "single_token_word_pct": 76.57,
+      "avg_tokens_per_word": 1.398
+    },
+    "valid": {
+      "total_tokens": 22026,
+      "tokens_per_1000_chars": 260.8,
+      "words": 15799,
+      "word_types": 3413,
+      "unk_words": 2,
+      "unk_word_pct": 0.013,
+      "single_token_word_pct": 75.53,
+      "avg_tokens_per_word": 1.394
+    },
+    "reference_v3_train": {
+      "total_tokens": 1966105,
+      "tokens_per_1000_chars": 280.2,
+      "words": 1406840,
+      "word_types": 55475,
+      "unk_words": 1410,
+      "unk_word_pct": 0.1,
+      "single_token_word_pct": 76.58,
+      "avg_tokens_per_word": 1.398
+    }
+  },
+  "topic_hits_per_10k_words": {
+    "new_train": {
+      "crops/cultivation": 103.7,
+      "soil science": 59.0,
+      "irrigation": 79.7,
+      "fertilizers/nutrients": 19.1,
+      "pests/diseases": 43.0,
+      "machinery": 37.2,
+      "plant physiology": 60.7,
+      "agronomy": 42.2,
+      "climate/weather": 511.6,
+      "livestock": 24.9,
+      "indian agriculture": 10.9
+    },
+    "combined_train": {
+      "crops/cultivation": 130.3,
+      "soil science": 83.0,
+      "irrigation": 96.6,
+      "fertilizers/nutrients": 39.8,
+      "pests/diseases": 48.6,
+      "machinery": 33.9,
+      "plant physiology": 55.2,
+      "agronomy": 55.0,
+      "climate/weather": 527.0,
+      "livestock": 26.1,
+      "indian agriculture": 25.9
+    }
+  },
+  "artifacts": {
+    "train_text": "data\\corpus_v4\\agri_train_v4.txt",
+    "valid_text": "data\\corpus_v4\\agri_valid_v4.txt",
+    "report": "data\\corpus_v4\\corpus_v4_stats.json"
+  }
+}

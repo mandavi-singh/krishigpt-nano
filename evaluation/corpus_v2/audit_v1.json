@@ -1,0 +1,238 @@
+{
+  "split": {
+    "train": 33,
+    "valid": 4,
+    "valid_ids": [
+      "gutenberg:12140",
+      "wiki:Harvest",
+      "wiki:Monsoon",
+      "wiki:Organic farming"
+    ]
+  },
+  "per_doc": [
+    {
+      "id": "gutenberg:12140",
+      "side": "VAL",
+      "chars": 533521,
+      "words": 95374
+    },
+    {
+      "id": "gutenberg:16594",
+      "side": "train",
+      "chars": 772508,
+      "words": 128069
+    },
+    {
+      "id": "gutenberg:20772",
+      "side": "train",
+      "chars": 440055,
+      "words": 76304
+    },
+    {
+      "id": "gutenberg:22973",
+      "side": "train",
+      "chars": 372474,
+      "words": 67201
+    },
+    {
+      "id": "gutenberg:51764",
+      "side": "train",
+      "chars": 723232,
+      "words": 122684
+    },
+    {
+      "id": "wiki:Agriculture",
+      "side": "train",
+      "chars": 72000,
+      "words": 10647
+    },
+    {
+      "id": "wiki:Agriculture in India",
+      "side": "train",
+      "chars": 55474,
+      "words": 8309
+    },
+    {
+      "id": "wiki:Barley",
+      "side": "train",
+      "chars": 19472,
+      "words": 3101
+    },
+    {
+      "id": "wiki:Compost",
+      "side": "train",
+      "chars": 28936,
+      "words": 4430
+    },
+    {
+      "id": "wiki:Cotton",
+      "side": "train",
+      "chars": 56067,
+      "words": 8987
+    },
+    {
+      "id": "wiki:Crop",
+      "side": "train",
+      "chars": 7666,
+      "words": 1225
+    },
+    {
+      "id": "wiki:Crop rotation",
+      "side": "train",
+      "chars": 22702,
+      "words": 3520
+    },
+    {
+      "id": "wiki:Drip irrigation",
+      "side": "train",
+      "chars": 17665,
+      "words": 2707
+    },
+    {
+      "id": "wiki:Fertilizer",
+      "side": "train",
+      "chars": 49060,
+      "words": 7214
+    },
+    {
+      "id": "wiki:Harvest",
+      "side": "VAL",
+      "chars": 5351,
+      "words": 810
+    },
+    {
+      "id": "wiki:Irrigation",
+      "side": "train",
+      "chars": 48334,
+      "words": 7554
+    },
+    {
+      "id": "wiki:Legume",
+      "side": "train",
+      "chars": 13047,
+      "words": 1983
+    },
+    {
+      "id": "wiki:Maize",
+      "side": "train",
+      "chars": 30311,
+      "words": 4923
+    },
+    {
+      "id": "wiki:Manure",
+      "side": "train",
+      "chars": 6940,
+      "words": 1093
+    },
+    {
+      "id": "wiki:Monsoon",
+      "side": "VAL",
+      "chars": 22131,
+      "words": 3548
+    },
+    {
+      "id": "wiki:Nitrogen fixation",
+      "side": "train",
+      "chars": 16790,
+      "words": 2443
+    },
+    {
+      "id": "wiki:Organic farming",
+      "side": "VAL",
+      "chars": 79777,
+      "words": 11736
+    },
+    {
+      "id": "wiki:Pest (organism)",
+      "side": "train",
+      "chars": 23070,
+      "words": 3649
+    },
+    {
+      "id": "wiki:Pesticide",
+      "side": "train",
+      "chars": 39693,
+      "words": 5894
+    },
+    {
+      "id": "wiki:Photosynthesis",
+      "side": "train",
+      "chars": 49740,
+      "words": 7357
+    },
+    {
+      "id": "wiki:Plant pathology",
+      "side": "train",
+      "chars": 5228,
+      "words": 754
+    },
+    {
+      "id": "wiki:Pollination",
+      "side": "train",
+      "chars": 38527,
+      "words": 5879
+    },
+    {
+      "id": "wiki:Rice",
+      "side": "train",
+      "chars": 29669,
+      "words": 4672
+    },
+    {
+      "id": "wiki:Soil",
+      "side": "train",
+      "chars": 67852,
+      "words": 10591
+    },
+    {
+      "id": "wiki:Soil fertility",
+      "side": "train",
+      "chars": 20099,
+      "words": 3060
+    },
+    {
+      "id": "wiki:Soil salinity",
+      "side": "train",
+      "chars": 8334,
+      "words": 1285
+    },
+    {
+      "id": "wiki:Sorghum",
+      "side": "train",
+      "chars": 12615,
+      "words": 2061
+    },
+    {
+      "id": "wiki:Sugarcane",
+      "side": "train",
+      "chars": 37158,
+      "words": 5828
+    },
+    {
+      "id": "wiki:Sustainable agriculture",
+      "side": "train",
+      "chars": 70867,
+      "words": 10357
+    },
+    {
+      "id": "wiki:Vegetable",
+      "side": "train",
+      "chars": 19545,
+      "words": 3058
+    },
+    {
+      "id": "wiki:Weed",
+      "side": "train",
+      "chars": 25425,
+      "words": 3880
+    },
+    {
+      "id": "wiki:Wheat",
+      "side": "train",
+      "chars": 41790,
+      "words": 6602
+    }
+  ],
+  "total_chars": 3883125,
+  "cross_doc_dup_lines": 11
+}

@@ -1,0 +1,81 @@
+Magnaporthe grisea, also known as rice blast fungus, rice rotten neck, rice seedling blight, blast of rice, oval leaf spot of graminea, pitting disease, ryegrass blast, Johnson spot, neck blast, wheat blast and Imochi (稲熱), is a plant-pathogenic fungus and model organism that causes a serious disease affecting rice. It is now known that M. grisea consists of a cryptic species complex containing at least two biological species that have clear genetic differences and do not interbreed. Complex members isolated from Digitaria have been more narrowly defined as M. grisea. The remaining members of the complex isolated from rice and a variety of other hosts have been renamed Magnaporthe oryzae, within the same M. grisea complex. Confusion on which of these two names to use for the rice blast pathogen remains, as both are now used by different authors.
+Members of the M. grisea complex can also infect other agriculturally important cereals including wheat, rye, barley, and pearl millet causing diseases called blast disease or blight disease. Rice blast causes economically significant crop losses annually. Each year it is estimated to destroy enough rice to feed more than 60 million people. The fungus is known to occur in 85 countries worldwide and as of 2003 was the most devastating fungal plant pathogen in the world.
+
+
+== Hosts and symptoms ==
+
+M. grisea is an ascomycete fungus. It is an extremely effective plant pathogen as it can reproduce both sexually and asexually to produce specialized infectious structures, appressoria, that infect aerial tissues and hyphae that can infect root tissues.
+Rice blast has been observed on rice strains M-201, M-202, M-204, M-205, M-103, M-104, S-102, L-204, Calmochi-101, with M-201 being the most vulnerable. Initial symptoms are white to gray-green lesions or spots with darker borders produced on all parts of the shoot, while older lesions are elliptical or spindle-shaped and whitish to gray with necrotic borders. Lesions may enlarge and coalesce to kill the entire leaf. Symptoms are observed on all above-ground parts of the plant. Lesions can be seen on the leaf collar, culm, culm nodes, and panicle neck node. Internodal infection of the culm occurs in a banded pattern. Nodal infection causes the culm to break at the infected node (rotten neck). It also affects reproduction by causing the host to produce fewer seeds. This is caused by the disease preventing maturation of the actual grain.
+
+
+== Disease cycle ==
+
+The pathogen infects as a spore that produces lesions or spots on parts of the rice plant such as the leaf, leaf collar, panicle, culm and culm nodes. Using a structure called an appressorium, the pathogen penetrates the plant. The appressorium cell wall is chitinous and its inner side contains melanin. which is necessary to damage host structures.  The turgor pressure generated during this process is sufficient to penetrate the plants' cuticles routinely, and experimentally can penetrate Kevlar. This impressive turgor is produced by synthesis of glycerol and maintained by the aforementioned appressorial melanin. The pathogen is able to move between the plant cells using its invasive hyphae to enter through plasmodesmata. M. grisea then sporulates from the diseased rice tissue to be dispersed as conidiospores. After overwintering in sources such as rice straw and stubble, the cycle repeats.
+A single cycle can be completed in about a week under favorable conditions where one lesion can generate up to thousands of spores in a single night. Disease lesions, however, can appear in three to four days after infection. With the ability to continue to produce the spores for over 20 days, rice blast lesions can be devastating to susceptible rice crops.
+Infection of rice induces phosphorylation of the light-harvesting complex II protein  LHCB5 . LHCB5 is required for a reactive oxygen species burst produced by the host which provides resistance against this pathogen.
+
+
+== Environment ==
+Rice blast is a significant problem in temperate regions and can be found in areas such as irrigated lowland and upland. Conditions conducive for rice blast include long periods of free moisture and/or high humidity, because leaf wetness is required for infection. Sporulation increases with high relative humidity and at 25–28 °C (77–82 °F), spore germination, lesion formation, and sporulation are at optimum levels.
+In terms of control, excessive use of nitrogen fertilization as well as drought stress increase rice susceptibility to the pathogen as the plant is placed in a weakened state and its defenses are low. Flooding and draining fields is normal in rice growing, however leaving a field drained for extended periods also favors infection as that will aerate the soil, converting ammonium to nitrate and thus causing stress to rice crops, as well.
+
+
+== Geographical distribution ==
+Wheat blast was found in the 2017–2018 rainy season in Zambia, in the Mpika district of the Muchinga Province.
+In February 2016 a devastating wheat epidemic struck Bangladesh. Transcriptome analysis showed this to be an M. grisea lineage most likely from Minas Gerais, São Paulo, Brasília, and Goiás states of Brazil and not from any geographically proximate strains. This successful diagnosis shows the ability of genetic surveillance to untangle the novel biosecurity implications of transcontinental transportation and allows the Brazilian experience to be rapidly applied to the Bangladeshi situation. To that end the government has set up an early warning system to track its spread through the country.
+
+
+== Management ==
+
+This fungus faces both fungicides and genetic resistance in some types of rice developed by plant breeders. It is able to establish both resistance to those chemical treatments and virulence to crop resistance by genetic change through mutation. In order to most effectively control infection by M. grisea, an integrated management program should be implemented to avoid overuse of a single control method and fight against genetic resistance. For example, eliminating crop residue could reduce the occurrence of overwintering and discourage inoculation in subsequent seasons. Another strategy would be to plant resistant rice varieties that are not as susceptible to infection by M. grisea. Knowledge of the pathogenicity of M. grisea and its need for free moisture suggest other control strategies such as regulated irrigation and a combination of chemical treatments with different modes of action. Managing the amount of water supplied to the crops limits spore mobility thus dampening the opportunity for infection. Chemical controls such as Carpropamid have been shown to prevent penetration of the appressoria into rice epidermal cells, leaving the grain unaffected. Papajani et al. 2015 finds the essential oils of both Origanum vulgare and Rosmarinus officinalis to be effective in vitro, and provides treatment thresholds.
+The wheat blast strain can be diagnosed by sequencing. Thierry et al., 2020 presents a set of genetic markers which can be found by polymerase chain reaction (PCR), real-time PCR (RT-PCR), and loop-mediated isothermal amplification (LAMP). The big advantages of the Thierry markers are that they do not miss isolates lacking the Mot3 sequence, for example BR0032, and its great sensitivity.
+Some innovative biologically imitative fungicides are being developed from small RNAs and short peptides. SNP-D4 is a short peptide located by an in vitro library screen against the M. oryzae calmodulin. It binds to calmodulin, inhibits conidia formation, and blocks spore germination.
+
+
+== Importance ==
+Rice blast is the most important disease concerning rice crops in the world. Since rice is an important food source for much of the world, its effects have a broad range. It has been found in over 85 countries across the world and reached the United States in 1996. Every year the amount of crops lost to rice blast could feed 60 million people. Although there are some resistant strains of rice, the disease persists wherever rice is grown. The disease has never been eradicated from a region.
+
+
+== Strains ==
+Three strains, albino (defined by a mutation at the ALB1 locus), buff (BUF1), and rosy (RSY1), have been extensively studied because they are nonpathogenic. This has been found to be due to their inability to synthesize melanin, which is a virulence factor in some fungi. The pathovar triticum strain (M. o. pv. triticum) causes the wheat blast disease. Export of Magnaporthe from the US is restricted.
+
+
+== Genetics ==
+Whole-genome sequences were just becoming possible, and being made available, in 2003.
+A mitogen-activated protein kinase (MAPK) called pmk1 is genetically close to one necessary for mating and cell morphology in yeasts, FUS3/KSS1. Defective mutant yeast are somewhat or entirely restored in mating function if they are given a copy of pmk1. It was therefore assumed that this must only be a mating and development gene in M. grisea, however it turns out to be both vital to the female mating process and in appressorium function and pathogenicity as a whole.
+Because signal links between MAPKs and cyclic adenosine monophosphates were shown to be required for mating in several other models, including Ustilago maydis and several others, this was assumed to be true for M. grisea, and yet that was then shown to be unnecessary in this model. This demonstrates significant variety in cellular function within fungi.
+The transaminase alanine: glyoxylate aminotransferase 1 (AGT1) has been shown to be crucial to the pathogenicity of M. grisea through its maintenance of redox homeostasis in peroxisomes. Lipids transported to the appressoria during host penetration are degraded within a large central vacuole, a process that produces fatty acids. β-Oxidation of fatty acids is an energy producing process that generates Acetyl-CoA and the reduced molecules FADH2 and NADH, which must be oxidized in order to maintain redox homeostasis in appressoria. AGT1 promotes lactate fermentation, oxidizing NADH/FADH2 in the process.
+M. grisea mutants lacking the AGT1 gene were observed to be nonpathogenic through their inability to penetrate host surface membranes. This indicates the possibility of impaired lipid utilization in M. grisea appressoria in the absence of the AGT1 gene.
+
+
+== Biochemistry of host-pathogen interactions ==
+A 2010 review reported clones for quantitative disease resistance in plants. The rice plant responds to the blast pathogen by releasing jasmonic acid, which cascades into the activation of further downstream metabolic pathways which produce the defense response. This accumulates as methyl-jasmonic acid. The pathogen responds by synthesizing an oxidizing enzyme which prevents this accumulation and its resulting alarm signal. OsPii-2 is a rice protein that acts as an immunoreceptor. It binds to the rice's own Exo70-F3 protein. This protein is a target of the M. oryzae effector AVR-Pii that the fungus secretes during infection. Thus, this allows the OsPii-2 protein to monitor for M. oryzae's attack against that target. Some rice cultivars carry resistance alleles of the OsSWEET13 gene, which produces the molecular target of the X. oryzae pv. oryzae effector PthXo2.
+
+
+== See also ==
+Corn grey leaf spot, a similar disease in maize/corn
+Gray leaf spot, a similar disease in other grasses
+
+
+== References ==
+
+
+== Further reading ==
+California EPA. Rice Crop Infestation in Three Counties Leads To Emergency Burn Agreement Archived 2018-12-15 at the Wayback Machine, February 11, 1998
+CIMMYT. What is wheat blast?, 2019.
+Kadlec, RP. Biological Weapons for Waging Economic Warfare, Air & Space Power Chronicles
+NSF. Microbial Genome Helps Blast Devastating Rice Disease Archived 2018-12-15 at the Wayback Machine, April 21, 2005
+United States Congress. Testimony of Dr. Kenneth Alibek, 1999
+"What is wheat blast?". CIMMYT. 2019-12-11. Retrieved 2020-12-21.
+"What is wheat blast? How can I manage it?" (PDF). CIMMYT.
+加藤 Katō, 肇 Hajime; 山口 Yamaguchi, 富夫 Tomio; 西原 Nishihara, 夏樹 Natsuki (1976). "The perfect state of Pyricularia oryzae Cav. in culture". Japanese Journal of Phytopathology. 42 (4). The Phytopathological Society of Japan: 507–510. doi:10.3186/jjphytopath.42.507. ISSN 1882-0484.
+"Blast (node and neck)". Rice Knowledge Bank. IRRI (International Rice Research Institute). 2017-08-15. Retrieved 2021-03-04.
+
+
+== External links ==
+
+GROMO - Genomic Resources of Magnaporthe oryzae
+Magnaporthe grisea Genome
+The official Website of the International Rice Blast Genome Consortium
+Index Fungorum
+Magnaporthe grisea at MetaPathogen: stages, tissues, mating types, strains, references

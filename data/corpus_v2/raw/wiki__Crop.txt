@@ -1,0 +1,58 @@
+A crop is a plant or plant product harvested for human use. Crops are cultivated at scale to produce food, fiber, fuel, and other products. Crops have been central to human civilization since the first agricultural revolution, a key stage in the broader history of agriculture, when early societies domesticated plants for food and trade. Today, a small number of staple crops such as rice, wheat, maize, and sugarcane account for the majority of global production. Because of their economic importance, crops are studied within several scientific disciplines, including agronomy, agricultural science, horticulture, and forestry.
+
+
+== Types ==
+
+According to the classification of crops by the Food and Agriculture Organization (FAO), the following table is a simplified list of crop types, common examples, and their primary end use. A crop may have several end uses, and according to the FAO: "End use refers to the purpose of the crop. Crops may be grown for use as food for human consumption or as feed for animals, for producing biofuels or for non-food products, such as tobacco and flowers. A single crop may have more than one use, such as maize being grown partly for human consumption, partly as a fodder crop and partly for producing biofuels."
+
+In agriculture, the term crop is sometimes applied to plants that are not grown for direct harvest but instead serve supporting roles. A cover crop is planted to protect and improve soil health, reduce erosion, and enhance fertility rather than for sale. A nurse crop is an annual plant species sown alongside a slower‑establishing perennial plant to shelter seedlings, suppress weeds, and stabilize soil. A trap crop is planted to attract pests away from the main crop, reducing damage without relying solely on pesticides. These uses show that the term crop can refer not only to plants cultivated for production but also to those managed for ecological or protective functions.
+
+
+== Methods of cropping ==
+Crop production may fall under these categories:
+
+Agriculture: the practice of farming, including soil cultivation and crop growing
+Horticulture: focuses on plant cultivation and includes the subspecialties of fruticulture (fruits and nuts), viticulture (grape vines), olericulture (vegetables and herbs), floriculture (flowers)
+Silviculture: managing forest growth and health, including for timber production
+There are various methods of cropping that are used, and each method of cropping has advantages and disadvantages.
+
+Monoculture: growing one crop species in a field at a time
+Monocropping: growing a single crop year after year on the same land
+Crop rotation: growing a series of different types of crops in the same area across a sequence of growing seasons
+Polyculture, intercropping and multiple cropping: growing more than one crop together in the same place at the same time
+Monoculture is typical where row crops are planted mechanically, and crops are usually rotated between seasons or from year to year. An example is in the Southeast US, a 3-crop rotation over two years of: corn - winter wheat - soybeans - winter cover crop. Though studies show that rotating crops produce better yields, monocropping is still common in South America (soybeans), Africa (maize), and South Asia (rice).
+Crops are typically cultivated in alignment with seasonal patterns, as different plants thrive under specific climate conditions. For example, on the Indian subcontinent this is formalized into three distinct categories: kharif crops, grown during the monsoon; rabi crops, cultivated in winter; and zaid crops, planted in the short summer period between the other two.
+Permaculture is a design philosophy that seeks to create sustainable agriculture systems by mimicking natural ecosystems, and often incorporates practices such as polyculture, agroforestry, and crop rotation.
+
+
+== Global production ==
+
+As of 2004, of the estimated 50,000 edible plant species, only about 300 had been domesticated as crop plants, and 90 percent of cropland was made up of just fifteen plant species, with rice, wheat, soybeans, cotton, and maize being the top five. Just four crops accounted for half the global primary crop production in 2023: sugar cane (20%), maize (13%), wheat (8%) and rice (8%).
+Between 2000 and 2023, there was an increase in global production of primary crops by 61% to 9.9 billion tonnes (3.7 billion tonnes more than in 2000). Cereals represented the main group of crops produced in 2023 (32%), followed by sugar crops (23%), vegetables (12%), oil crops (12%), fruit (10%), and roots and tubers (9%). This production increase is mainly due to a combination of factors, including an increased use of irrigation, pesticides and fertilizers, more cultivated area, better farming practices, and use of high-yield crops.
+During the same period, the value of primary crops production increased at a slightly higher pace than the quantities produced (52%), from USD 2.0 trillion in 2000 to USD 3.0 trillion in 2023. Cereals accounted for the largest share of the total production value in 2023 (29%), vegetables (19%), fruit (17%), oil crops (12%), roots and tubers (9%), and sugar crops (3%).
+In 2023, the global average dietary energy supply exceeded 3,000 kilocalories per person per day. Cereals provided 42% of the global dietary energy supply, followed by 13% of oil crops, and 8% of sugar crops. Human consumption accounted for 45% of cereals, 42% of oils, 88% of vegetables, and 83% of fruits. Animal feed accounted for 35% of cereals and 24% of legumes. Non-food uses of crops have been increasing, comprising 45% of oils in 2023. International trade also plays a major role, with 46% of oil crops, 34% of sugars, 20% of cereals, and 26% of legumes exported.
+As of 2019, 13% of global farmland was planted with genetically modified crops. Countries with the largest percentage of global GM crop production were the USA (38%), Brazil (28%), Argentina (13%), Canada (7%), and India (6%).
+The production of primary crops was 9.9 billion tonnes in 2023, 61% more than in 2000. Four crops account for about half of global primary crop production in 2023: sugar cane, maize, wheat and rice.
+While a multitude of crops are cultivated and harvested around the world, just four individual crops accounted for half the global production of primary crops in 2023: sugar cane (20% of the total, with 2.0 billion tonnes), maize (13%, with 1.2 billion tonnes), wheat (8%, with 0.8 billion tonnes) and rice (8%t, with 0.8 billion tonnes) Oil palm fruit and potatoes each accounted for an additional 4% (0.4 billion tonnes) of world crop production. The Americas were the leading region in the production of sugar cane and maize (50% of the world total) in 2023, while Asia led in the production of rice (90%), oil palm fruit (87%), potatoes (53%) and wheat (44%).
+
+
+== See also ==
+Cash crop – Agricultural crop grown to sell for profit
+Subsistence agriculture – Farming to meet basic needs
+Founder crops – Original agricultural crops
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+ This article incorporates text from a free content work. Licensed under CC BY-SA IGO 3.0 (license statement/permission). Text taken from World Food and Agriculture – Statistical Yearbook 2023​, FAO, FAO. 
+ This article incorporates text from a free content work. Licensed under CC BY 4.0 (license statement/permission). Text taken from World Food and Agriculture – Statistical Yearbook 2025​, Food and Agriculture Organization of the United Nations. 
+
+
+== Further reading ==
+
+Sleper, David A.; Poehlman, John M. (2006). Breeding Field Crops. Blackwell Publishing. ISBN 9780813824284. Retrieved 5 December 2011.

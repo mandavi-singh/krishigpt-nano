@@ -1,0 +1,109 @@
+Pruning is the selective removal of certain parts of a plant, such as branches, buds, or roots.
+It is practiced in horticulture (especially fruit tree pruning), arboriculture, and silviculture.
+
+
+== Processes ==
+The practice entails the targeted removal of diseased, damaged, dead, non-productive, structurally unsound, or otherwise unwanted plant material from crop and landscape plants. In general, the smaller the branch that is cut, the easier it is for a woody plant to compartmentalize the wound and thus limit the potential for pathogen intrusion and decay. It is therefore preferable to make any necessary formative structural pruning cuts to young plants, rather than removing large, poorly placed branches from mature plants.
+Woody plants may undergo a process referred to as self-pruning, where they will drop twigs or branches which are no longer producing more energy than they require. It is theorized that this process can also occur in response to lack of water, in order to reduce the surface area where water can be lost. This natural shedding of branches is called cladoptosis.
+Specialized pruning practices may be applied to certain plants, such as roses, fruit trees, and grapevines. Different pruning techniques may be used on herbaceous plants than those used on perennial woody plants.
+Reasons to prune plants include deadwood removal, shaping (by controlling or redirecting growth), improving or sustaining health, reducing risk from falling branches, preparing nursery specimens for transplanting, and both harvesting and increasing the yield or quality of flowers and fruits.
+
+
+== Pruning terms ==
+
+
+=== Branch wood ===
+Branch wood is an individual stem that grows off of another stem.
+
+
+=== Trunk wood ===
+Trunk wood is the main stem of a tree which individual stems grow out of. 
+
+
+=== Branch collar ===
+This refers to the area below the union of where branch wood attaches with the trunk/stem wood. This can often appear raised.
+
+
+=== Branch bark ridge ===
+This refers to the junction between branch wood and trunk/stem wood. It usually looks raised.
+
+
+== Types of pruning ==
+
+Pruning in an urban setting is crucial due to the tree being in drastically different conditions than where it naturally grows.
+Arborists, orchardists, and gardeners use various garden tools and tree cutting tools designed for the purpose, such as secateurs, loppers, handsaws, or chainsaws. Additionally in forestry, pole pruners  (averruncators in British English) and pole saws are commonly used, and these are often attached to poles that reach up to 5–6 m (16–20 ft). This is a more efficient and safer way of pruning than with ladders. These bush saws on polls have also been motorized as chainsaws which is even more efficient. Older technology used Billhooks, Kaiser blades, and pruning knives. Although still used in some coppicing, they are not used so much in commercial forestry due to the difficulty of cutting flush with the stem. Flush cuts happen when a pruner cuts into the cambium layer of the main trunk, which can happen when a pruner is not precise with pruning cuts, and removes a portion of the branch collar, which can put the tree at risk of entry cords from forest pathogens.
+Although there are several different types of pruning, they can be simplified into two categories. One of which is cutting the branch back to a specific and intermediate point, called a "reduction cut", and the other of which is completely removing a branch back to the union where the branch connects which the main trunk, called "removal cut".
+
+A "reduction cut" is when one removes a portion of a growing stem down to a set of desirable buds or side-branching stems. This is commonly performed in well trained plants for a variety of reasons, for example to stimulate growth of flowers, fruit or branches, as a preventive measure to wind and snow damage on long stems and branches, and finally to encourage growth of the stems in a desirable direction. 
+
+Thinning: A more drastic form of pruning, a thinning out cut, is the removal of an entire shoot, limb, or branch at its point of origin. This is usually employed to revitalize a plant by removing over-mature, weak, problematic, and excessive growths. When performed correctly, thinning encourages the formation of new growth that will more readily bear fruit and flowers. This is a common technique in pruning roses and for amplifying and "opening-up" the branching of neglected trees, or for renewing shrubs with multiple branches.
+Topping: Topping is a very severe form of pruning which involves removing all branches and growths down to a few large branches or to the trunk of the tree. When performed correctly it is used on very young trees, and can be used to begin training younger trees for pollarding or for trellising to form an espalier. Tree topping is discouraged, as it disrupts the tree's natural structure, leading to unpredictable growth and even safety hazards due to the weakened attachment of new branches. Moreover, topping often results in higher long-term costs, since it requires repeated interventions to manage the tree compared to guiding it through proper, structured growth. Some cities even prohibit tree topping.
+Raising removes the lower branches from a tree in order to provide clearance for buildings, vehicles, pedestrians, and vistas.
+Reduction reduces the size of a tree, often for clearance for utility lines. Reducing the height or spread of a tree is best accomplished by pruning back the leaders and branch terminals to lateral branches that are large enough to assume the terminal roles (at least one-third the diameter of the cut stem). Compared to topping, reduction helps maintain the form and structural integrity of the tree.
+In orchards, fruit trees are often lopped to encourage regrowth and to maintain a smaller tree for ease of picking fruit. The pruning regime in orchards is more planned, and the productivity of each tree is an important factor.
+
+
+=== Deadwooding ===
+Branches die off for a number of reasons including sunlight deficiency, pest and disease damage, and root structure damage. A dead branch will at some point decay back to the parent stem and fall off. This is normally a slow process but can be hastened by high winds or extreme temperatures. The main reason deadwooding is performed is safety. Situations that usually demand removal of deadwood include trees that overhang public roads, houses, public areas, power lines, telephone cables and gardens. Trees located in wooded areas are usually assessed as lower risk but assessments consider the number of visitors. Trees adjacent to footpaths and access roads are often considered for deadwood removal.
+Another reason for deadwooding is amenity value, i.e. a tree with a large amount of deadwood throughout the crown will look more aesthetically pleasing with the deadwood removed. The physical practice of deadwooding can be carried out most of the year though should be avoided when the tree is coming into leaf. The deadwooding process speeds up the tree's natural abscission process. It also reduces unwanted weight and wind resistance and can help overall balance.
+
+
+=== Preventive structural pruning ===
+Preventative and structural pruning can be done to mitigate several issues young trees may have in the future. The structural pruning can reduce tree stress, increase the lifespan of trees, and promotes resistance to damage due to natural weather events. Attributes of trees with good structure include excurrent growth by having a single dominant leader, branch unions without included bark, and a balanced canopy. Structural pruning does this by developing or maintaining a dominant leader, identify the lowest branches in the canopy, prevent branches below the permanent canopy from growing too large, keeping all branches less than one half the trunk diameter, space main branches along one dominant trunk, and suppress growth on branches with included bark.
+
+
+=== Subordination pruning ===
+Subordination pruning is done on limbs that will exceed 50% percent of the stem diameter. A reduction cut may be performed while still allowing about 50% of the branch. This is done to help maintain form and deter the formation of co-dominant leaders. Temporary branches may be too large for a removal cut so subordination pruning should be done to slowly reduce a limb by 50% each year to allow the tree to properly heal from the cut. As a tree becomes larger the slower it grows. Reducing the larger limbs for eventual removal will allow for the tree to promote new growth rather than using energy in encouraging unwanted limbs to continue to grow. Removing a large branch increases the likelihood of the cut to not heal properly which also may attract insects, diseases and fungus. 
+
+
+=== Crown thinning ===
+Crown thinning is the removal of live healthy branches which increases light penetration, air circulation and reduces wind resistance which reduces risks from damage and the possibility of pest infestation.
+
+
+=== Crown raising ===
+Crown raising involves the removal of the lower branches to a given height. The height is achieved by the removal of whole branches or removing the parts of branches which extend below the desired height. The branches are normally not lifted to more than one third of the tree's total height.
+Crown lifting is done for access; these being pedestrian, vehicle or space for buildings and street furniture. Lifting the crown will allow road traffic and pedestrians to pass underneath safely. This pruning technique is commonly used in urban environments as it is for public safety and aesthetics rather than tree form and timber value.
+Crown lifting introduces light to the lower part of the trunk; this, in some species can encourage epicormic growth from dormant buds. To reduce this sometimes smaller branches are left on the lower part of the trunk. It should be restricted to less than 15% of the live crown height and leave the crown at least two thirds of the total height of the tree. Excessive removal of the lower branches can displace the canopy weight, this will make the tree top heavy, therefore adding stress to the tree. When a branch is removed from the trunk, it creates a large wound. This wound is susceptible to disease and decay, and could lead to reduced trunk stability. Therefore, much time and consideration must be taken when choosing the height the crown is to be lifted to.
+This would be an inappropriate operation if the tree species’ form was of a shrubby nature. This would therefore remove most of the foliage and would also largely unbalance the tree. This procedure should not be carried out if the tree is in decline, poor health or dead, dying or dangerous (DDD) as the operation will remove some of the photosynthetic area the tree uses. This will increase the decline rate of the tree and could lead to death.
+If the tree is of great importance to an area or town, (i.e. veteran or ancient) then an alternative solution to crown lifting would be to move the target or object so it is not in range. For example, diverting a footpath around a tree's drip line so the crown lift is not needed. Another solution would be to prop up or cable-brace the low hanging branch. This is a non-invasive solution which in some situations may be more economical and environmentally friendly.
+
+
+=== Vista pruning ===
+Selectively pruning a window of view (from a house window or equivalent) in a tree or shrub. It can also be carried out by selectively removing entire trees or shrubs, or by slowing the growth of trees or shrubs before they can obscure the view. Vista pruning is normally done during the winter months while the tree is dormant.
+
+
+=== Crown reduction ===
+Reducing the height and or spread of a tree by selectively cutting back to smaller branches and in fruit trees for increasing of light interception and enhancing fruit quality.
+
+
+=== Pollarding ===
+
+A regular form of pruning where certain deciduous species are pruned back to pollard heads every year in the dormant period. This practice is usually commenced on juvenile trees so they can adapt to the harshness of the practice. This practice can be used for tree shaping but is also used in specific species which young branches can be sold for floral arrangements. 
+
+
+== Time period ==
+
+In general, pruning deadwood and small branches can be done at any time of year. Depending on the species, many temperate plants can be pruned either during dormancy in winter, or, for species where winter frost can harm a recently pruned plant, after flowering is completed. In the temperate areas of the northern hemisphere, autumn pruning should be avoided, as the spores of disease and decay fungi are abundant at this time of year.
+Some woody plants tend to bleed profusely from cuts, such as mesquite and maple. Some callus over slowly, such as magnolia. In this case, they are better pruned during active growth when they can more readily heal. Woody plants that flower early in the season, on spurs that form on wood that has matured the year before, such as apples, should be pruned right after flowering as later pruning will sacrifice flowers the following season. Forsythia, azaleas and lilacs all fall into this category.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Sunset Editors, (1995) Western Garden Book, Sunset Books Inc, ISBN 978-0-376-03851-7
+James, N. D. G, The arboriculturalist's companion, second edition 1990, Blackwell Publishers Ltd, Great Britain.
+Shigo, A, 1991, Modern arboriculture, third printing, Durham, New Hampshire, USA, Shirwin Dodge Printers.
+Shigo, A, 1989, A New Tree Biology. Shigo & trees Associates.
+J.M. Dunn, C.J. Atkinson, N.A. Hipps, 2002, Effects of two different canopy manipulations on leaf water use and photosynthesis as determined by gas exchange and stable isotope discrimination, East Malling, University of Cambridge.
+Shigo. A. L, 1998, Modern Arboriculture, third printing (2003), USA, Sherwin Dodge Printers
+British standards 3998:1989, Recommendations for Tree Work.
+Lonsdale. D, 1999, Principles of tree hazard assessment and management, 6th impression 2008, forestry commission, Great Britain.
+
+
+== External links ==
+
+"Pruning" . The New Student's Reference Work . 1914.

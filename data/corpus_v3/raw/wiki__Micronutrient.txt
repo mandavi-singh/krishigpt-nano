@@ -1,0 +1,61 @@
+Micronutrients are essential chemicals required by organisms in small quantities to perform various biogeochemical processes and regulate physiological functions of cells and organs. By enabling these processes, micronutrients support the health of organisms throughout life.
+For humans, micronutrients typically take one of three forms: vitamins, trace elements, and dietary minerals. Human micronutrient requirements are in amounts generally less than 100 milligrams per day, whereas macronutrients are required in gram quantities daily. Deficiencies in micronutrient intake commonly result in malnutrition.
+In ecosystems, micronutrients most commonly take the form of trace elements such as iron, strontium, and manganese. Micronutrient abundance in the environment greatly influences biogeochemical cycles at the microbial level which large ecological communities rely on to survive. For example, marine primary producers (also known as phytoplankton) are reliant upon bioavailable dissolved iron for photosynthesis. Secondary and tertiary producers in oceans are therefore also reliant on the presence of sufficient dissolved iron concentrations.
+Naturally, micronutrients are transferred between reservoirs through processes like fluvial transport, aeolian processes, ocean circulation, volcanism, and biological uptake/transfer. Anthropogenic activities also alter the abundance of micronutrients in ecosystems. Industrial and agricultural practices can release trace metals into the atmosphere, waterways, and soils and deforestation can lead to higher trace metal-containing-dust transport into oceans.
+
+
+== Natural abundances of micronutrients ==
+The natural abundance of elements is dependent on their atomic number based on the process of nucleosynthesis such that elements with higher atomic numbers are typically less abundant than elements with low atomic numbers. Most micronutrients are trace elements with high atomic numbers, meaning they exist naturally in low concentrations. Notable exceptions to this rule are boron (atomic no. 5), manganese (atomic no. 25), and iron (atomic no. 26).
+Primary producers are the main contributors to the incorporation of micronutrients into a community's chemical inventory. Consumers within an ecosystem are limited to the micronutrients in the tissue of the primary producers which they eat. Primary producers obtain their micronutrients from their surrounding abiotic environment and the recycling of organic matter in soils. For example, grasses take in iron from soils which animals rely upon for hemoglobin production.
+
+
+== Sources and transport of micronutrients ==
+
+
+=== Natural cycling ===
+
+The original source of most nutrients, including micronutrients, is the geological reservoir, also called the slow pool. Micronutrients trapped in rocks and minerals must first be broken down through physical or chemical weathering before they can enter the fast pool, meaning they cycle between reservoirs on shorter timescales. Micronutrients can physically exchange between reservoirs in various ways such as from terrestrial soils to oceans via aeolian transport or fluvial transport, from oceans to marine sediments via deposition of organic matter, and from sediments to the geologic reservoir via lithification. Alternatively, micronutrients can exit the geologic reservoir through tectonic processes such as through volcanism or hydrothermal vents.
+
+
+=== Anthropogenic influences ===
+Anthropogenic industry unintentionally injects micronutrients into various ecosystems across the globe. The addition of micronutrients into ecosystems can have both positive and negative impacts. In the face of climate change, the fertilization of oceans with iron has been proposed as a method of carbon sequestration; however, elevated levels of iron in high nutrient, low chlorophyll regions of the ocean can cause the production of harmful algal blooms which are toxic to both humans and marine life. Similarly, in lakes, isolated seas, and coastal bays or gulfs, addition of micronutrients can cause eutrophication leading to hypoxia, decreasing ecosystem health.
+Micronutrients are released into ecosystems from many anthropogenic activities. Fossil fuel combustion releases micronutrients such as Zn, Fe, Ni, and Cu into the atmosphere, surrounding soils, and nearby waterways. Agricultural fertilizer runoff contains many micronutrients like Fe, Mn, Zn, Cu, Co, B, Mo and Ni. Fertilizer runoff injects these micronutrients into groundwater, soils, and waterways. Deforestation decreases soil compaction, resulting in increased aeolian transport of dust containing micronutrients, especially Fe. Industrial mining produces tailings which contaminates runoff. The improper treatment of mining tailings can result in the leakage of micronutrients into groundwater, soils, and nearby waterways.
+
+
+== Human micronutrient deficiencies ==
+Inadequate intake of essential nutrients predisposes humans to various chronic diseases, with some 50% of American adults having one or more preventable disease. In the United States, foods poor in micronutrient content and high in food energy make up some 27% of daily calorie intake. One US national survey (National Health and Nutrition Examination Survey 2003-2006) found that persons with high sugar intake consumed fewer micronutrients, especially vitamins A, C, and E, and magnesium. Various strategies have been employed to combat micronutrient deficiencies:
+
+
+=== Salt iodization ===
+Salt iodization is a strategy for addressing iodine deficiency, which is a cause of several physical and mental health problems. In 1990, less than 20 percent of households in developing countries had adequate iodine in their diet. By 1994, international partnerships had formed in a global campaign for Universal Salt Iodization. By 2008, it was estimated that 72 percent of households in developing countries included iodized salt in their diets, and the number of countries in which iodine deficiency disorders were a public health concern reduced by more than half from 110 to 47 countries.
+
+
+=== Vitamin A supplementation ===
+Vitamin A deficiency is a major factor in causing blindness worldwide, particularly among children. Global vitamin A supplementation efforts have targeted 103 priority countries. Flour fortification has become an increasingly common method by which vitamin A can be added to diets thus reducing deficiencies.
+
+
+=== Zinc ===
+Zinc is a necessary micronutrient which the human body uses to fight infections and childhood diarrhea. Collectively, zinc deficiencies are responsible for 4% of child morbidity and mortality, as of 2013. Fortification of staple foods such as breads may improve serum zinc levels in the human population, increasing immune strength. Zinc fortification has also been considered for reducing effects cognition, though the effectiveness is still under research.
+
+
+== Plant micronutrient needs ==
+
+Plants rely on micronutrients to build many essential proteins. In fact, every process that supports the growth of a plant is mediated by some protein which contains one of the many micronutrients. For example, Mn is an essential micronutrient for many plants because it builds the structure of photosystem II which splits water molecules to harness energy from electrons. Inadequate micronutrient uptake can result in deficiencies and even mortality in extreme cases. Alternatively, elevated concentrations of micronutrients in soils can result in toxicity.
+
+Examples of Plant Micronutrient Deficiencies
+
+Chlorosis, a condition where a plant cannot produce sufficient chlorophyll. A lack in copper, iron, manganese, or zinc can cause chlorosis.
+Boron deficiency, a condition where a plant's ability to reproduce, grow, and create stem cells is inhibited.
+Molybdenum deficiency, a condition where a buildup in nitrate because of a lack of nitrogenase production causes leaf yellowing, necrosis, and premature germination.
+
+
+== See also ==
+
+List of micronutrients
+Human nutrition
+Dietary mineral (redirects to Mineral (nutrient))
+Silicon § Human nutrition
+Manganese deficiency (medicine)
+
+
+== References ==

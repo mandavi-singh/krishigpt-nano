@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Coffee production in India",
+  "provider": "Wikipedia",
+  "title": "Coffee production in India",
+  "url": "https://en.wikipedia.org/wiki/Coffee%20production%20in%20India",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Coffee_production_in_India.txt"
+}

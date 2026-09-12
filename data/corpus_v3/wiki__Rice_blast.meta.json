@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Magnaporthe grisea",
+  "provider": "Wikipedia",
+  "title": "Magnaporthe grisea",
+  "url": "https://en.wikipedia.org/wiki/Magnaporthe%20grisea",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-22",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Rice_blast.txt"
+}

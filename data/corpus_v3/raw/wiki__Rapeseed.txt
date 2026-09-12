@@ -1,0 +1,124 @@
+Rapeseed (Brassica napus subsp. napus), also known as rape and oilseed rape and canola, is a yellow-flowered member of the Brassicaceae family.
+The plant is cultivated primarily for its oil-rich seed, which naturally contains mildly toxic erucic acid. The term canola refers to a group of rapeseed cultivars with very low levels of erucic acid that are prized as food for humans and animals. The plant is the third-largest source of vegetable oil and the second-largest source of protein meal in the world.
+
+
+== Description ==
+
+Brassica napus grows to 100 centimetres (39 inches) in height with hairless, fleshy, pinnatifid and glaucous lower leaves which are stalked whereas the upper leaves have no petioles.
+Rapeseed flowers are bright yellow and about 17 millimetres (3⁄4 in) across. They are radial and consist of four petals in a typical cross-form, alternating with four sepals. They have indeterminate racemose flowering starting at the lowest bud and growing upward in the following days. The flowers have two lateral stamens with short filaments, and four median stamens with longer filaments whose anthers split away from the flower's center upon flowering.
+The rapeseed pods are green and elongated siliquae during development that eventually ripen to brown. They grow on pedicels 1 to 3 cm (3⁄8 to 1+3⁄16 in) long, and can range from 5 to 10 cm (2 to 4 in) in length. Each pod has two compartments separated by an inner central wall within which a row of seeds develops. The seeds are round and have a diameter of 1.5 to 3 mm (1⁄16 to 1⁄8 in). They have a reticulate surface texture, and are black and hard at maturity.
+
+
+=== Similar species ===
+B. napus can be distinguished from B. nigra by the upper leaves which do not clasp the stem, and from B. rapa by its smaller petals which are less than 13 mm (1⁄2 in) across.
+
+
+== Taxonomy ==
+The species Brassica napus belongs to the flowering plant family Brassicaceae. Rapeseed is a subspecies with the autonym B. napus subsp. napus. It encompasses winter and spring oilseed, vegetable and fodder rape. Siberian kale is a distinct leaf rape form variety (B. napus var. pabularia) which used to be common as a winter-annual vegetable. The second subspecies of B. napus is B. napus subsp. rapifera (also subsp. napobrassica; the rutabaga, swede, or yellow turnip).
+B. napus is a digenomic amphidiploid that occurred due to the interspecific hybridization between B. oleracea and B. rapa. It is a self-compatible pollinating species like the other amphidiploid Brassica species.
+
+
+=== Etymology ===
+The term "rape" derives from the Latin word for turnip, rāpa or rāpum, cognate with the Greek word ῥάφη, rhaphe.
+
+
+== Ecology ==
+In Northern Ireland, B. napus and B. rapa are recorded as escapes in roadside verges and waste ground.
+
+
+== Cultivation ==
+
+Crops from the genus Brassica, including rapeseed, were among the earliest plants to be widely cultivated by humankind as early as 10,000 years ago. Rapeseed was being cultivated in India as early as 4000 B.C.E. and it spread to China and Japan 2000 years ago.
+Rapeseed is predominantly cultivated in its winter form in most of Europe and Asia due to the requirement of vernalization to start the process of flowering. It is sown in autumn and remains in a leaf rosette on the soil surface during the winter. The plant grows a long vertical stem in the next spring followed by lateral branch development. It generally flowers in late spring with the process of pod development and ripening occurring over a period of 6–8 weeks until midsummer.
+In Europe, winter rapeseed is grown as an annual break crop in three to four-year rotations with cereals such as wheat and barley, and break crops such as peas and beans. This is done to reduce the possibility of pests and diseases being carried over from one crop to another. Winter rape is less susceptible to crop failure as it is more vigorous than the summer variety and can compensate for damage done by pests.
+Spring rapeseed is cultivated in Canada, northern Europe and Australia as it is not winter-hardy and does not require vernalization. The crop is sown in spring with stem development happening immediately after germination.
+Rapeseed can be cultivated on a wide variety of well-drained soils, prefers a pH between 5.5 and 8.3 and has a moderate tolerance of soil salinity. It is predominantly a wind-pollinated plant but shows significantly increased grain yields when bee-pollinated, almost double the final yield but the effect is cultivar dependent. It is currently grown with high levels of nitrogen-containing fertilisers, and the manufacture of these generates N2O. An estimated 3–5% of nitrogen provided as fertilizer for rapeseed is converted to N2O.
+Rapeseed has a high demand for nutrients - in particular, its sulphur demand is the highest among all arable crops. Since the decrease of atmospheric sulphur inputs during the 1980s sulphur fertilization has become a standard measure in oilseed rape production. Among the micronutrients, special attention in rapeseed cultivation has to be given to boron, manganese and molybdenum.
+
+
+=== Climate change ===
+
+The cultivatable range for rapeseed is expected to decrease due to climate change. The quality of the crop, in both yield and volume of oil, is also expected to decrease substantially. Some researchers recommend finding alternative varieties of Brassica for cultivation.
+
+
+=== Diseases ===
+The main diseases of the winter rapeseed crop are canker, light leaf spot (Pyrenopeziza brassicae), alternaria- and sclerotinia- stem rots. Canker causes leaf spotting, and premature ripening and weakening of the stem during the autumn-winter (fall-winter) period. A conazole- or triazole- fungicide treatment is required in late autumn (fall) and in spring against canker while broad-spectrum fungicides are used during the spring-summer period for alternaria and sclerotinia control. Oilseed rape cannot be planted in close rotation with itself due to soil-borne diseases such as sclerotinia, verticillium wilt and clubroot.
+Transgenic rapeseed shows great promise for disease resistance. Transexpression of a class II chitinase from barley (Hordeum vulgare) and a type I ribosome inactivating protein into B. juncea produces a large fungal resistance effect. Chhikara et al., 2012 finds that this combination of transgenes reduces hyphal growth by 44% and delays disease presentation in Alternaria brassicicola of juncea.
+Blackleg (Leptosphaeria maculans/Phoma lingam) is a major disease. Yu et al., 2005 uses restriction fragment length polymorphism analysis on two doubled haploid populations DHP95 and DHP96. They find one resistance genes in each, LepR1 and LepR1.
+
+
+=== Pests ===
+Rapeseed is attacked by a wide variety of insects, nematodes, slugs, and wood pigeons. The brassica pod midge (Dasineura brassicae), cabbage seed weevil (Ceutorhynchus assimilis), cabbage stem weevil (Ceutorhynchus pallidactylus), cabbage stem flea beetle (Psylliodes chrysocephala), rape stem weevil (Ceutorhynchus napi) and pollen beetles are the primary insect pests that prey on the oilseed rape crop in Europe. The insect pests can feed on developing pods to lay eggs inside and eat the developing seeds, bore into the plant's stem and feed on pollen, leaves and flowers. Synthetic pyrethroid insecticides are the main attack vector against insect pests though there is a large-scale use of prophylactic insecticides in many countries. Molluscicide pellets are used either before or after sowing of the rapeseed crop to protect against slugs.
+
+
+=== Genetics and breeding ===
+In 2014 an SNP array was released for B. napus by Dalton-Morgan et al., and another by Clarke et al. in 2016, both of which have since become widely used in molecular breeding. In a demonstration of the importance of epigenetics, Hauben et al., 2009 found that isogenic lines did not have identical energy use efficiencies in actual growing conditions, due to epigenetic differences. Specific locus amplified fragment sequencing (SLAF-seq) was applied to B. napus by Geng et al. in 2016, revealing the genetics of the past domestication process, providing data for genome-wide association studies, and being used to construct a high-density linkage map.
+
+
+==== History of the cultivars ====
+In 1973, Canadian agricultural scientists launched a marketing campaign to promote canola consumption. Seed, oil, and protein meal derived from rapeseed cultivars which are low in erucic acid and low in glucosinolates was originally registered as a trademark, in 1978, of the Canola Council of Canada, as "canola". Canola is now a generic term for edible varieties of rapeseed, but is still officially defined in Canada as rapeseed oil that "must contain less than 2% erucic acid and less than 30 μmol of glucosinolates per gram of air-dried oil-free meal".
+In the 1980s, decreasing atmospheric sulphur inputs to Northern European soils in connection with a less efficient internal use of sulphur in the metabolism of the newly bred low-glucosinolate varieties (00-varieties) resulted in an increased appearance of white flowering, a highly specific symptom of sulphur deficiency, in rapeseed crops which during the official variety assessment procedures was wrongly attributed to a genetic inhomogeneity ("Canadian blood").
+The anticipated damages of wild animals caused by foraging on 00-oilseed rape crops was caused by a shift of the animals diet towards increased uptake protein and sulphur containing metabolites at the expense of fibers, but not to specific features of the genetically altered 00-varieties.
+Following the European Parliament's Transport Biofuels Directive in 2003 promoting the use of biofuels, the cultivation of winter rapeseed increased dramatically in Europe.
+In 2009, Bayer Cropscience, in collaboration with BGI-Shenzhen, China, KeyGene, the Netherlands, and the University of Queensland, Australia, announced it had sequenced the entire genome of B. napus and its constituent genomes present in B. rapa and B. oleracea. The "A" genome component of the amphidiploid rapeseed species B. napus has been sequenced by the Multinational Brassica Genome Project.
+A genetically modified variety of rapeseed was developed in 1998, engineered for glyphosate tolerance, and is considered to be the most disease- and drought-resistant canola. By 2009, 90% of the rapeseed crops planted in Canada were of this sort.
+
+
+===== GMO cultivars =====
+
+The Monsanto company genetically engineered new cultivars of rapeseed to be resistant to the effects of its herbicide, Roundup. In 1998, they brought this to the Canadian market. Monsanto sought compensation from farmers found to have crops of this cultivar in their fields without paying a license fee. However, these farmers claimed that the pollen containing the Roundup Ready gene was blown into their fields and crossed with unaltered canola. Other farmers claimed that after spraying Roundup in non-canola fields to kill weeds before planting, Roundup Ready volunteers were left behind, causing extra expense to rid their fields of the weeds.
+In a closely followed legal battle, the Supreme Court of Canada found in favor of Monsanto's patent infringement claim for unlicensed growing of Roundup Ready in its 2004 ruling on Monsanto Canada Inc. v. Schmeiser, but also ruled that Schmeiser was not required to pay any damages. The case garnered international controversy, as a court-sanctioned legitimization for the global patent protection of genetically modified crops. In March 2008, an out-of-court settlement between Monsanto and Schmeiser agreed that Monsanto would clean up the entire GMO-canola crop on Schmeiser's farm, at a cost of about CAN$660.
+
+
+=== Production ===
+
+The Food and Agriculture Organization reports global production of 36 million metric tons (40 million short tons; 35 million long tons) in the 2003–2004 season, and an estimated 58.4 million metric tons (64.4 million short tons; 57.5 million long tons) in the 2010–2011 season.
+Worldwide production of rapeseed (including canola) has increased sixfold between 1975 and 2007. The production of canola and rapeseed since 1975 has opened up the edible oil market for rapeseed oil. Since 2002, production of biodiesel has been steadily increasing in the EU and U.S. to 6 million metric tons (6.6 million short tons; 5.9 million long tons) in 2006. Rapeseed oil is positioned to supply a good portion of the vegetable oils needed to produce that fuel. World production was thus expected to trend further upward between 2005 and 2015 as biodiesel content requirements in Europe go into effect.
+
+
+== Uses ==
+
+Rapeseed is grown for the production of edible vegetable oils, animal feed, and biodiesel. Rapeseed was the third-leading source of vegetable oil in the world in 2000, after soybean and palm oil. It is the world's second-leading source of protein meal after soybean.
+
+
+=== Vegetable oil ===
+
+Rapeseed oil is one of the oldest known vegetable oils, but historically was used in limited quantities due to high levels of erucic acid, which is damaging to cardiac muscle of animals, and glucosinolates, which made it less nutritious in animal feed. Rapeseed oil previously contained up to 54% erucic acid in the 1970s. Food-grade oil derived from rapeseed cultivars, known as canola oil or low-erucic-acid rapeseed oil (LEAR oil), has now been generally recognized as safe by the United States Food and Drug Administration. Modern food-grade rapeseed/canola varieties are bred to contain very low erucic acid levels (often ≤2% of total fatty acids). Canola oil is limited by government regulation to a maximum of 2% erucic acid by weight in the US and 2% in the EU, with special regulations for infant food. These low levels of erucic acid are not believed to cause harm in human infants.
+
+
+=== Animal feed ===
+Processing of rapeseed for oil production produces rapeseed meal as a byproduct. The byproduct is a high-protein animal feed, competitive with soybean. Rapeseed is an excellent silage crop (fermented and stored in air-tight conditions for later use as a winterfeed). The feed is employed mostly for cattle feeding, but is also used for pigs and poultry. However, the high levels of glucosinolates, sinapine, and phytic acid in the seed cake of rapeseed cause detrimental health effects to animals, reduce digestibility of certain nutrients, reduce palatability, and contribute to eutrophication of waterways. In China, rapeseed meal is mostly used as a soil fertilizer rather than for animal feed.
+
+
+=== Biodiesel ===
+Rapeseed oil is used as diesel fuel, either as biodiesel, straight in heated fuel systems, or blended with petroleum distillates for powering motor vehicles. Biodiesel may be used in pure form in newer engines without engine damage and is frequently combined with fossil-fuel diesel in ratios varying from 2% to 20% biodiesel. Owing to the costs of growing, crushing, and refining rapeseed biodiesel, rapeseed-derived biodiesel from new oil costs more to produce than standard diesel fuel, so diesel fuels are commonly made from the used oil. Rapeseed oil is the preferred oil stock for biodiesel production in most of Europe, accounting for about 80% of the feedstock, partly because rapeseed produces more oil per unit of land area compared to other oil sources, such as soybeans, but primarily because canola oil has a significantly lower gel point than most other vegetable oils.
+Because of anticipated changes to climate, a 2018 study predicted that rapeseed would become an unreliable source of oil for biofuels.
+
+
+=== Other ===
+Rapeseed is also used as a cover crop in the US during the winter as it prevents soil erosion, produces large amounts of biomass, suppresses weeds and can improve soil tilth with its root system. Some cultivars of rapeseed are also used as annual forage and are ready for grazing livestock 80 to 90 days after planting.
+Rapeseed has a high melliferous potential (produces substances that can be collected by insects) and is a main forage crop for honeybees. Monofloral rapeseed honey has a whitish or milky yellow color, peppery taste and, due to its fast crystallization time, a soft-solid texture. It crystallizes within 3 to 4 weeks and can ferment over time if stored improperly. The low fructose-to-glucose ratio in monofloral rapeseed honey causes it to quickly granulate in the honeycomb, forcing beekeepers to extract the honey within 24 hours of it being capped.
+As a biolubricant, rapeseed has possible uses for bio-medical applications (e.g., lubricants for artificial joints) and the use of personal lubricant for sexual purposes. Biolubricant containing 70% or more canola/rapeseed oil has replaced petroleum-based chainsaw oil in Austria although it is typically more expensive.
+Rapeseed has been researched as a means of containing radionuclides that contaminated the soil after the Chernobyl disaster as it has a rate of uptake up to three times more than other grains, and only about 3 to 6% of the radionuclides go into the oilseeds.
+Rapeseed meal can be incorporated into the soil as a biofumigant. It suppresses such fungal crop pathogens as Rhizoctonia solani and Pratylenchus penetr.
+
+
+== See also ==
+Triangle of U
+
+
+== Explanatory notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== General and cited references ===
+
+
+== External links ==
+ Media related to Brassica napus at Wikimedia Commons
+ Media related to Rapeseed oil at Wikimedia Commons

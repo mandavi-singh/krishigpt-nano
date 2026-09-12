@@ -1,0 +1,27 @@
+{
+  "run_name": "krishigpt_nano_full",
+  "device": "cpu",
+  "torch_threads": 10,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 16,
+  "epochs": 2,
+  "max_steps": null,
+  "lr": 6e-4,
+  "min_lr": 6e-5,
+  "warmup_steps": 200,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 50,
+  "val_every": 200,
+  "save_every": 300,
+  "smoke": {
+    "max_steps": 30,
+    "log_every": 5,
+    "val_every": 15
+  },
+  "notes": "KrishiGPT-nano: 6 layers, 128 dim, 4 heads, tied head (see model/gpt.py). Corpus: 897k-token agriculture train / 182k valid (data/processed). CPU-only machine."
+}

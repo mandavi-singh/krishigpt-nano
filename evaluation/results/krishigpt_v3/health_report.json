@@ -1,0 +1,43 @@
+{
+  "run": "krishigpt_v3",
+  "level": 1,
+  "gate": "PASSED",
+  "checks": [
+    {
+      "check": "numerical_stability",
+      "level": "L1",
+      "verdict": "PASS",
+      "detail": "all 114 log entries finite (no NaN/Inf)"
+    },
+    {
+      "check": "convergence",
+      "level": "L1",
+      "verdict": "PASS",
+      "detail": "train loss 4.1545 -> best 3.6962 (drop 0.4583); val 4.4053 -> 4.0804 over 38 evals"
+    },
+    {
+      "check": "undertraining",
+      "level": "L1",
+      "verdict": "PASS",
+      "detail": "LR annealed to 6.0e-05 (10% of peak) = full cosine decay; epochs 4; val still improving at exit (see convergence)"
+    },
+    {
+      "check": "overfitting_gap",
+      "level": "L1",
+      "verdict": "PASS",
+      "detail": "final train 3.8113 vs val 4.0804 (gap 0.2691) \u2014 normal LM gap"
+    },
+    {
+      "check": "gradient_explosion",
+      "level": "L1",
+      "verdict": "PASS",
+      "detail": "0 loss spikes (>1.0 jump), 0 wild swings (>0.5) across 114 logs; grad clip 1.0 active"
+    },
+    {
+      "check": "artifact_validity",
+      "level": "L1",
+      "verdict": "PASS",
+      "detail": "strict-load OK; 1,860,224 params; smoke generation produced 16 tokens: 'done with the soil and soil structure . Formes in '"
+    }
+  ]
+}

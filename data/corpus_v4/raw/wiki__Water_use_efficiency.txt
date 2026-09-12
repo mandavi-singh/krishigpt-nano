@@ -1,0 +1,23 @@
+Water-use efficiency (WUE) refers to the ratio of plant biomass to water lost by transpiration, can be defined either at the leaf, at the whole plant or a population/stand/field level:
+
+leaf level : photosynthetic water-use efficiency (also called instantaneous water-use efficiency WUEinst), which is defined as the ratio of the rate of net CO2 carbon assimilation (photosynthesis) to the rate of transpiration or stomatal conductance, then called intrinsic water-use efficiency (iWUE or Wi)
+plant level :  water-use efficiency of productivity (also called integrated water-use efficiency or transpiration efficiency, TE), which is typically defined as the ratio of dry biomass produced to the rate of transpiration.
+field level : based on measurements of CO2 and water fluxes over a field of a crop or a forest, using the eddy covariance technique
+Research to improve the water-use efficiency of crop plants has been ongoing from the early 20th century, however with difficulties to actually achieve crops with increased water-use efficiency.
+Intrinsic water-use efficiency Wi usually increases during soil drought, due to stomatal closure and a reduction in transpiration, and is therefore often linked to drought tolerance. Observations from several authors have however suggested that WUE would rather be linked to different drought response strategies, where
+
+low WUE plants could either correspond to a drought tolerance strategy, for example by anatomical adaptations reducing vulnerability to xylem cavitation, or to a drought avoidance/water spender strategy through a wide soil exploration by roots or a drought escape strategy due to early flowering
+whereas high WUE plants could correspond to a drought avoidance/water saving strategy, through drought-sensitive, early closing stomata.
+Increases in water-use efficiency are commonly cited as a response mechanism of plants to moderate to severe soil water deficits and have been the focus of many programs that seek to increase crop tolerance to drought. However, there is some question as to the benefit of increased water-use efficiency of plants in agricultural systems, as the processes of increased yield production and decreased water loss due to transpiration (that is, the main driver of increases in water-use efficiency) are fundamentally opposed. If there existed a situation where water deficit induced lower transpirational rates without simultaneously decreasing photosynthetic rates and biomass production, then water-use efficiency would be both greatly improved and the desired trait in crop production.
+Water-use efficiency is also a much studied trait in Plant ecology, where it has been used already in the early 20th century to study the ecological requirements of Herbaceous plants or forest trees, and is still used today, for example related to a drought-induced limitation of tree growth
+
+
+== References ==
+
+
+== Further reading ==
+Vadez, V.; Kholova, J.; Medina, S.; Kakkera, A.; Anderberg, H. (2014). "Transpiration efficiency: New insights into an old story". Journal of Experimental Botany. 65 (21): 6141–6153. doi:10.1093/jxb/eru040. ISSN 1460-2431. PMID 24600020.
+Lambers, H.; Chapin, F. S.; Pons, T. L. (2008). Plant Physiological Ecology. New York: Springer. ISBN 978-0-387-78341-3.
+Tambussi, E. A.; Bort, J.; Araus, J. L. (2007). "Water use efficiency in C3 cereals under Mediterranean conditions: a review of physiological aspects". Annals of Applied Biology. 150 (3): 307–321. doi:10.1111/j.1744-7348.2007.00143.x.
+Condon, A. G.; Richards, R. A.; Rebetzke, G. J.; Farquhar, G. D. (2004). "Breeding for high water-use efficiency". Journal of Experimental Botany. 55 (407): 2447–2460. doi:10.1093/jxb/erh277. ISSN 0022-0957. PMID 15475373.
+Cregg, B. M. (2004). "Improving Drought Tolerance of Trees: Theoretical and practical considerations". Acta Horticulturae. 630 (630): 147–158. doi:10.17660/ActaHortic.2004.630.18. ISSN 0567-7572.

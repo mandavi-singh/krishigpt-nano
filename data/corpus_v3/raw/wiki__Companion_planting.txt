@@ -1,0 +1,80 @@
+Companion planting is the polycultural practice in horticulture and small-scale agriculture of co-planting different crops to provide a measure of weed suppression, pest control, and pollination; to attract beneficial insects; to maximize the use of space; and to increase crop productivity.
+Companion planting is used by farmers and gardeners in both industrialized and developing countries for many reasons. Many of the modern principles of companion planting were present many centuries ago in forest gardens in Asia, and thousands of years ago in Mesoamerica. The technique may allow farmers to reduce costly inputs of artificial fertilisers and pesticides.
+
+
+== Traditional practice ==
+
+
+=== History ===
+Companion planting was practiced in various forms by the indigenous peoples of the Americas prior to the arrival of Europeans. These peoples domesticated squash 8,000 to 10,000 years ago, then maize, then common beans, forming the Three Sisters agricultural technique. The cornstalk served as a trellis for the beans to climb, the beans fixed nitrogen, benefitting the maize, and the wide leaves of the squash plant provide ample shade for the soil keeping it moist and fertile.
+Authors in classical Greece and Rome, around 2000 years ago, were aware that some plants were toxic (allelopathic) to other plants nearby. Theophrastus reported that the bay tree and the cabbage plant enfeebled grapevines. Pliny the Elder wrote that the "shade" of the walnut tree (Juglans regia) poisoned other plants.
+In China, mosquito ferns (Azolla spp.) have been used for at least a thousand years as companion plants for rice crops. They host a cyanobacterium (Anabaena azollae) that fixes nitrogen from the atmosphere, and they block light from plants that would compete with the rice.
+
+
+=== 20th century ===
+
+More recently, starting in the 1920s, organic farming and horticulture have made frequent use of companion planting, since many other means of fertilizing, weed reduction and pest control are forbidden. Permaculture advocates similar methods. 
+The list of companion plants used in such systems is large, and includes vegetables, fruit trees, kitchen herbs, garden flowers, and fodder crops. The number of pairwise interactions both positive (the pair of species assist each other) and negative (the plants are best not grown together) is larger, though the evidence for such interactions ranges from controlled experiments to hearsay. For example, plants in the cabbage family (Brassicaceae) are traditionally claimed to grow well with celery, onion family plants (Allium), and aromatic herbs, but are thought best not grown with strawberry or tomato.
+In 2022, agronomists recommended that multiple tools including plant disease resistance in crops, conservation of natural enemies (parasitoids and predators) to provide biological pest control, and companion planting such as with aromatic forbs to repel pests should be used to achieve "sustainable" protection of crops. They considered a multitrophic approach that took into account the many interactions between crops, companion plants, herbivorous pests, and their natural enemies essential. Many studies have looked at the effects of plants on crop pests, but relatively few interactions have been studied in depth or using field trials.
+
+
+== Mechanisms ==
+Companion planting can help to increase crop productivity through a variety of mechanisms, which may sometimes be combined. These include pollination, weed suppression, and pest control, including by providing habitat for beneficial insects. 
+Companion planting can reduce insect damage to crops, whether by disrupting pests' ability to locate crops by sight, or by blocking pests physically; by attracting pests away from a target crop to a sacrificial trap crop; or by masking the odour of a crop, using aromatic companions that release volatile compounds. Other benefits, depending on the companion species used, include fixing nitrogen, attracting beneficial insects, suppressing weeds, reducing root-damaging nematode worms, and maintaining moisture in the soil.
+
+
+=== Nutrient provision ===
+
+Legumes such as clover provide nitrogen compounds to neighbouring plants such as grasses by fixing nitrogen from the air with symbiotic bacteria in their root nodules. These enable the grasses or other neighbours to produce more protein (with lower inputs of artificial fertiliser) and hence to grow more.
+
+
+=== Trap cropping ===
+
+Trap cropping uses alternative plants to attract pests away from a main crop. For example, nasturtium (Tropaeolum majus) is a food plant of some caterpillars which feed primarily on members of the cabbage family (brassicas); some gardeners claim that planting them around brassicas protects the food crops from damage, as eggs of the pests are preferentially laid on the nasturtium. However, while many trap crops divert pests from focal crops in small scale greenhouse, garden and field experiments, only a small portion of these plants reduce pest damage at larger commercial scales.
+
+
+=== Host-finding disruption ===
+S. Finch and R. H. Collier, in a paper entitled "Insects can see clearly now the weeds have gone", showed experimentally that flying pests are far less successful if their host-plants are surrounded by other plants or even "decoy-plants" coloured green. Pests find hosts in stages, first detecting plant odours which induce it to try to land on the host plant, avoiding bare soil. If the plant is isolated, then the insect simply lands on the patch of green near the odour, making an "appropriate landing". If it finds itself on the wrong plant, an "inappropriate landing", it takes off and flies to another plant; it eventually leaves the area if there are too many "inappropriate" landings. Companion planting of clover as ground cover was equally disruptive to eight pest species from four different insect orders. In a test, 36% of cabbage root flies laid eggs beside cabbages growing in bare soil (destroying the crop), compared to only 7% beside cabbages growing in clover (which allowed a good crop). Simple decoys of green cardboard worked just as well as the live ground cover.
+
+
+=== Weed suppression ===
+Several plants are allelopathic, producing chemicals which inhibit the growth of other species. For example, rye is useful as a cereal crop, and can be used as a cover crop to suppress weeds in companion plantings, or mown and used as a weed-suppressing mulch. Rye produces two phytotoxic substances, [2,4-dihydroxy-1,4(2H)-benzoxazin-3-one (DIBOA) and 2(3H)-benzoxazolinone (BOA)]. These inhibit germination and seedling growth of both grasses and dicotyledonous plants.
+
+
+=== Pest suppression ===
+
+Some companion plants help prevent pest insects or pathogenic fungi from damaging the crop, through their production of aromatic volatile chemicals, another type of allelopathy. For example, the smell of the foliage of marigolds is claimed to deter aphids from feeding on neighbouring plants. A 2005 study found that oil volatiles extracted from Mexican marigold could suppress the reproduction of three aphid species (pea aphid, green peach aphid and glasshouse and potato aphid) by up to 100% after 5 days from exposure. Another example familiar to gardeners is the interaction of onions and carrots with each other's pests: it is popularly believed that the onion smell puts off carrot root fly, while the smell of carrots puts off onion fly. 
+Some studies have demonstrated beneficial effects. For instance, cabbage crops can be seriously damaged by the cabbage moth. It has a natural enemy, the parasitoid wasp Microplitis mediator. Companion planting of cornflowers among cabbages enables the wasp to increase sufficiently in number to control the moth. This implies the possibility of natural control, with reduced use of insecticides, benefiting the farmer and local biodiversity. In horticulture, marigolds provide good protection to tomato plants against the greenhouse whitefly (an aphid), via the aromatic limonene that they produce. Not all combinations of target and companion are effective; for instance, clover, a useful companion to many crop plants, does not mask Brassica crops. 
+However, effects on multi-species systems are complex and may not increase crop yields. Thus, French marigold inhibits codling moth, a serious pest whose larva destroys apples, but it also inhibits the moth's insect enemies, such as the parasitoid wasp Ascogaster quadridentata, an ichneumonid. The result is that the companion planting fails to reduce damage to apples.
+
+
+=== Predator recruitment ===
+
+Companion plants that produce copious nectar or pollen in a vegetable garden (insectary plants) may help encourage higher populations of beneficial insects that control pests. 
+Some companion herbs that produce aromatic volatiles attract natural enemies, which can help to suppress pests. Mint, basil, and marigold all attract herbivorous insects' enemies, such as generalist predators. For instance, spearmint attracts the mirid bug Nesidiocoris tenuis, while basil attracts the green lacewing Ceraeochrysa cubana.
+The multiple interactions between the plant species, and between them, pest species, and the pests' natural enemies, are complex and not well understood. A 2019 field study in Brazil found that companion planting with parsley among a target crop of collard greens helped to suppress aphid pests (Brevicoryne brassicae, Myzus persicae), even though it also cut down the numbers of parasitoid wasps. Predatory insect species increased in numbers, and may have predated on the aphid-killing parasitoids, while the reduction in aphids may have been caused by the increased numbers of generalist predators.
+
+
+=== Protective shelter ===
+
+Some crops are grown under the protective shelter of different kinds of plant, whether as wind breaks or for shade. For example, shade-grown coffee, especially Coffea arabica, has traditionally been grown in light shade created by scattered trees with a thin canopy, allowing light through to the coffee bushes but protecting them from overheating. Suitable Asian trees include Erythrina subumbrans (tton tong or dadap), Gliricidia sepium (khae falang), Cassia siamea (khi lek), Melia azedarach (khao dao sang), and Paulownia tomentosa, a useful timber tree.
+
+
+== Approaches ==
+Companion planting approaches in use or being trialled include:
+
+Square foot gardening attempts to protect plants from issues such as weed infestation by packing them as closely together as possible. This is facilitated by using companion plants, which can be closer together than normal.
+Forest gardening, where companion plants are intermingled to simulate an ecosystem, emulates the interaction of plants of up to seven different heights in a woodland.
+
+
+== See also ==
+Chaos gardening – Gardening practice
+Ecological facilitation – Type of species interaction
+Intercropping – Agricultural method
+List of beneficial weeds
+List of companion plants
+List of pest-repelling plants
+Vegan organic gardening
+
+
+== References ==

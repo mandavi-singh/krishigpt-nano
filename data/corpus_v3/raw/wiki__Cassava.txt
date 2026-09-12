@@ -1,0 +1,149 @@
+Manihot esculenta, commonly called cassava, manioc, or yuca (among numerous regional names), is a woody shrub of the spurge family, Euphorbiaceae, native to South America, from Brazil, Paraguay and parts of the Andes. Although a perennial plant, cassava is extensively cultivated in tropical and subtropical regions as an annual crop for its edible starchy tuberous root. Cassava is predominantly consumed in boiled form, but substantial quantities are processed to extract cassava starch, called tapioca, which is used for food, animal feed, and industrial purposes. The Brazilian farofa, and the related garri of West Africa, is an edible coarse flour obtained by grating cassava roots, pressing moisture off the obtained grated pulp, and finally drying and roasting it.
+Cassava is the third-largest source of carbohydrates in food in the tropics, after rice and maize, making it an important staple; more than 500 million people depend on it. It offers the advantage of being exceptionally drought-tolerant, and able to grow productively on poor soil. The largest producer is Nigeria, while Thailand is the largest exporter of cassava starch.
+Cassava is grown in sweet and bitter varieties; both contain toxins, but the bitter varieties have them in much larger amounts. Cassava has to be prepared carefully for consumption, as improperly prepared material can contain sufficient cyanide to cause poisoning. The more toxic varieties of cassava have been used in some places as famine food during times of food insecurity. Farmers may also choose bitter cultivars to minimise crop losses.
+
+
+== Etymology ==
+The generic name Manihot and the common name "manioc" both derive from the Guarani (Tupi) name mandioca or manioca for the plant. The specific name esculenta is Latin for 'edible'. The common name "cassava" is a 16th century word from the French or Portuguese cassave, in turn from Taíno caçabi. The common name "yuca" or "yucca" is most likely also from Taíno, via Spanish yuca or juca.
+
+
+== Description ==
+Cassava is a perennial species that is usually harvested within one year after planting. The harvested part is the storage root, which is long and tapered, with an easily detached rough brown rind. The white or yellowish flesh is firm and even in texture. Commercial cultivars can be 5 to 10 centimetres (2 to 4 in) wide at the top, and some 15 to 30 cm (6 to 12 in) long, with a woody vascular bundle running down the middle. The tuberous roots are largely starch, with small amounts of calcium (16 milligrams per 100 grams), phosphorus (27 mg/100 g), and vitamin C (20.6 mg/100 g). Content of total pro-vitamin A carotenoids has been increased through conventional breeding from a maximum of 10.3 to 24.3 υg/g FW basis. Cassava roots contain little protein, whereas the leaves are rich in it, except for being low in methionine, an essential amino acid.
+Cassava has alternately arranged, palmately lobed leaves each with three to seven lobes. The plant's sap is milky.  Cassava is monoecious, with separate male and female flowers on the same plant, arranged in inflorescences. These develop at the apex of the growing stem; buds can sprout to form new branches below the inflorescence, enabling continued vegetative growth. Farmers prefer a non-branching (erect) plant because it is easier to collect, transport, and store. However, the erect form complicates plant breeding as flowers are scarce or absent; breeders make use of photoperiod extension, pruning, and plant growth regulators to encourage flowering.
+
+
+=== Genome ===
+The complete and haplotype-resolved African cassava (TME204) genome has been reconstructed and made available using the Hi-C technology. The genome shows abundant novel gene loci with enriched functionality related to chromatin organization, meristem development, and cell responses. Differentially expressed transcripts of different haplotype origins were enriched for different functionality during tissue development. In each tissue, 20–30% of transcripts showed allele-specific expression differences with <2% of direction-shifting. Despite high gene synteny, the HiFi genome assembly revealed extensive chromosome rearrangements and abundant intra-genomic and inter-genomic divergent sequences, with significant structural variations mostly related to long terminal repeat retrotransposons.
+Although smallholders are otherwise economically inefficient producers, they are vital to productivity at particular times. Small cassava farmers are no exception. Genetic diversity is vital when productivity has declined due to pests and diseases, and smallholders tend to retain less productive but more diverse gene pools.
+The molecular genetics of starchy root development in cassava have been analyzed and compared to other root and tuber crops, including possible (unproven) roles for
+Flowering Locus T  (FT) orthologs.
+
+
+== History ==
+Wild populations of M. esculenta subspecies flabellifolia, shown to be the progenitor of domesticated cassava, are centered in west-central Brazil, where it was likely first domesticated no more than 10,000 years ago. Forms of the modern domesticated species can also be found growing in the wild in the south of Brazil. By 4600 BC, cassava pollen appears in the Gulf of Mexico lowlands, at the San Andrés archaeological site. The oldest direct evidence of cassava cultivation comes from a 1,400-year-old Maya site, Joya de Cerén, in El Salvador. It became a staple food of the native populations of northern South America, southern Mesoamerica, and the Taino people in the Caribbean islands, who grew it using a high-yielding form of shifting agriculture by the time of European contact in 1492. Cassava was a staple food of pre-Columbian peoples in the Americas and is often portrayed in indigenous art. The Moche people often depicted cassava in their ceramics.
+Spaniards in their early occupation of Caribbean islands did not want to eat cassava or maize, which they considered insubstantial, dangerous, and not nutritious. They much preferred foods from Spain, specifically wheat bread, olive oil, red wine, and meat, and considered maize and cassava damaging to Europeans. The cultivation and consumption of cassava were nonetheless continued in both Portuguese and Spanish America. Mass production of cassava bread became the first Cuban industry established by the Spanish. Ships departing to Europe from Cuban ports such as Havana, Santiago, Bayamo, and Baracoa carried goods to Spain, but sailors needed to be provisioned for the voyage. The Spanish also needed to replenish their boats with dried meat, water, fruit, and large amounts of cassava bread. Sailors complained that it caused them digestive problems.
+Portuguese traders introduced cassava to Africa from Brazil in the 16th century. Around the same period, it was introduced to Asia through Columbian Exchange by Portuguese and Spanish traders, who planted it in their colonies in Goa, Malacca, Eastern Indonesia, Timor and the Philippines. Cassava has also become an important crop in Asia. While it is a valued food staple in parts of eastern Indonesia, it is primarily cultivated for starch extraction and bio-fuel production in Thailand, Cambodia and Vietnam. Cassava is sometimes described as the "bread of the tropics" but should not be confused with the tropical and equatorial bread tree (Encephalartos), the breadfruit (Artocarpus altilis) or the African breadfruit (Treculia africana). This description definitely holds in Africa and parts of South America; in Asian countries such as Vietnam fresh cassava barely features in human diets.
+Cassava was introduced to East Africa around 1850 by Arab and European settlers, who promoted its cultivation as a reliable crop to mitigate the effects of drought and famine.
+There is a legend that cassava was introduced in 1880–1885 to the South Indian state of Kerala by the King of Travancore, Vishakham Thirunal Maharaja, after a great famine hit the kingdom, as a substitute for rice. However, cassava was cultivated in the state before that time. Cassava is called kappa or maricheeni in Malayalam, and tapioca in Indian English usage.
+
+
+== Cultivation ==
+Cassava is propagated by cutting the stem into sections of approximately 15 cm (5.9 in), these being planted prior to the wet season.
+Optimal conditions for cassava cultivation are mean annual temperatures between 20 and 29 °C (68 and 84 °F), but it can tolerate temperatures as low as 12 °C (54 °F) and as high as 40 °C (104 °F)., optimal annual precipitation is between 1,000 and 2,500 mm (39 and 98 in), and an annual growth period of no less than 240 days.   These conditions are found, among other places, in the northern part of the Gulf Coastal Plain in Mexico. In this part of Mexico the following soil types have been shown to be good for cassava cultivation: phaeozem, regosol, arenosol, andosol and luvisol.
+
+
+=== Harvesting ===
+Before harvest, the leafy stems are removed. The harvest is gathered by pulling up the base of the stem and cutting off the tuberous roots.
+
+
+=== Handling and storage ===
+Cassava deteriorates after harvest, when the tuberous roots are first cut. The healing mechanism produces coumaric acid, which oxidizes and blackens the roots, making them inedible after a few days. This deterioration is related to the accumulation of reactive oxygen species initiated by cyanide release during mechanical harvesting. Post-harvest deterioration is a major obstacle to the export of cassava. Fresh cassava can be preserved like potato, using thiabendazole or bleach as a fungicide, then wrapping in plastic, freezing, or applying a wax coating.
+While alternative methods for controlling post-harvest deterioration have been proposed, such as preventing reactive oxygen species effects by using plastic bags during storage and transport, coating the roots with wax, or freezing roots, such strategies have proved to be economically or technically impractical, leading to breeding of cassava varieties with improved durability after harvest, achieved by different mechanisms. Cassava shelf life may be increased up to three weeks by overexpressing a cyanide-insensitive alternative oxidase, which suppressed the reactive oxygen species by 10-fold.  One approach used gamma rays to try to silence a gene involved in triggering deterioration; another strategy selected for plentiful carotenoids, antioxidants which may help to reduce oxidization after harvest.
+
+
+== Pests and diseases ==
+
+Cassava is subject to pests from multiple taxonomic groups, including nematodes, and insects, as well as diseases caused by viruses, bacteria, and fungi. All cause reductions in yield, and some cause serious losses of crops.
+
+
+=== Viruses ===
+Several viruses cause enough damage to cassava crops to be of economic importance. The African cassava mosaic virus causes the leaves of the cassava plant to wither, limiting the growth of the root. An outbreak of the virus in Africa in the 1920s led to a major famine. The virus is spread by the whitefly and by the transplanting of diseased plants into new fields. Sometime in the late-1980s, a mutation occurred in Uganda that made the virus even more harmful, causing the complete loss of leaves. This mutated virus spread at a rate of 80 kilometres (50 miles) per year, and as of 2005 was found throughout Uganda, Rwanda, Burundi, the Democratic Republic of the Congo and the Republic of the Congo. Viruses are a severe production limitation in the tropics. They are the primary reason for the complete lack of yield increases in the 25 years up to 2021. Cassava brown streak virus disease is a major threat to cultivation worldwide. Cassava mosaic virus (CMV) is widespread in Africa, causing cassava mosaic disease (CMD). Bredeson et al. 2016 find the M. esculenta cultivars most widely used on that continent have M. carthaginensis subsp. glaziovii genes of which some appear to be CMD resistance genes. Although the ongoing CMD pandemic affects both East and Central Africa, Legg et al. found that these two areas have two distinct subpopulations of the vector, Bemisia tabaci whiteflies. Genetically engineered cassava offers opportunities for the improvement of virus resistance, including CMV and CBSD resistance.
+
+
+=== Bacteria ===
+Among the most serious bacterial pests is Xanthomonas axonopodis pv. manihotis, which causes bacterial blight of cassava. This disease originated in South America and has followed cassava around the world. Bacterial blight has been responsible for near catastrophic losses and famine in past decades, and its mitigation requires active management practices. Several other bacteria attack cassava, including the related Xanthomonas campestris pv. cassavae, which causes bacterial angular leaf spot.
+
+
+=== Fungi and oomycetes ===
+
+Several fungi and oomycetes bring about significant crop losses, one of the most serious being cassava root rot; the pathogens involved are species of Phytophthora, the genus which causes potato blight. Cassava root rot can result in losses of as much as 80 percent of the crop. 
+A major pest is a rust caused by Uromyces manihotis. 
+Superelongation disease, caused by Elsinoë brasiliensis, can cause losses of over 80 percent of young cassava in Latin America and the Caribbean when temperature and rainfall are high.
+
+
+=== Insects ===
+
+Insects such as stem borers and other beetles, moths including Chilomima clarkei, scale insects, fruit flies, shootflies, burrower bugs, grasshoppers, leafhoppers, gall midges, leafcutter ants, and termites contribute to losses of cassava in the field, while others contribute to serious losses, between 19% and 30%, of dried cassava in storage. In Africa, a previous issue was the cassava mealybug (Phenacoccus manihoti) and cassava green mite (Mononychellus tanajoa). These pests can cause up to 80 percent crop loss, which is extremely detrimental to the production of subsistence farmers. These pests were rampant in the 1970s and 1980s but were brought under control following the establishment of the Biological Control Centre for Africa of the International Institute of Tropical Agriculture (IITA) under the leadership of Hans Rudolf Herren. The Centre investigated biological control for cassava pests; two South American natural enemies Anagyrus lopezi (a parasitoid wasp) and Typhlodromalus aripo (a predatory mite) were found to effectively control the cassava mealybug and the cassava green mite, respectively.
+
+
+=== Nematodes ===
+Nematode pests of cassava are thought to cause harms ranging from negligible to seriously damaging, making the choice of management methods difficult. A wide range of plant parasitic nematodes have been reported associated with cassava worldwide. These include Pratylenchus brachyurus, Rotylenchulus reniformis, Helicotylenchus spp., Scutellonema spp. and Meloidogyne spp., of which Meloidogyne incognita and Meloidogyne javanica are the most widely reported and economically important. Meloidogyne spp. feeding produces physically damaging galls with eggs inside them. Galls later merge as the females grow and enlarge, and they interfere with water and nutrient supply. Cassava roots become tough with age and restrict the movement of the juveniles and the egg release. It is therefore possible that extensive galling can be observed even at low densities following infection. Other pests and diseases can gain entry through the physical damage caused by gall formation, leading to rots. They have not been shown to cause direct damage to the enlarged tuberous roots, but plant height can be reduced if the root system is reduced.
+Nematicides reduce the numbers of galls per feeder root, along with fewer rots in the tuberous roots. The organophosphorus nematicide fenamiphos does not reduce crop growth or harvest yield. Nematicide use in cassava does not increase harvested yield significantly, but lower infestation at harvest and lower subsequent storage loss provide a higher effective yield. The use of tolerant and resistant cultivars is the most practical management method in most locales.
+
+
+== Production ==
+
+In 2022, world production of cassava root was 330 million tonnes, led by Nigeria with 18% of the  total (table). Other major growers were Democratic Republic of the Congo and Thailand.
+Cassava is the third-largest source of carbohydrates in food in the tropics, after rice and maize. making it an important staple; more than 500 million people depend on it. It offers the advantage of being exceptionally drought-tolerant, and able to grow productively on poor soil. Cassava grows well within 30° of the equator, where it can be produced at up to 2,000 m (7,000 ft) above sea level, and with  50 to 5,000 mm (2 to 200 in) of rain per year. These environmental tolerances suit it to conditions across much of South America and Africa.
+Cassava yields a large amount of food energy per unit area of land per day – 1,000,000 kJ/ha (250,000 kcal/ha), as compared with 650,000 kJ/ha (156,000 kcal/ha) for rice, 460,000 kJ/ha (110,000 kcal/ha) for wheat and 840,000 kJ/ha (200,000 kcal/ha) for maize.
+Cassava, yams (Dioscorea spp.), and sweet potatoes (Ipomoea batatas) are important sources of food in the tropics. The cassava plant gives the third-highest yield of carbohydrates per cultivated area among crop plants, after sugarcane and sugar beets. Cassava plays a particularly important role in agriculture in developing countries, especially in sub-Saharan Africa, because it does well on poor soils and with low rainfall, and because it is a perennial that can be harvested as required. Its wide harvesting window allows it to act as a famine reserve and is invaluable in managing labor schedules. It offers flexibility to resource-poor farmers because it serves as either a subsistence or a cash crop. Worldwide, 800 million people depend on cassava as their primary food staple.
+
+ 
+
+
+== Toxicity ==
+
+Cassava roots, peels and leaves are dangerous to eat raw because they contain linamarin and lotaustralin, which are toxic cyanogenic glycosides. These are decomposed by the cassava enzyme linamarase, releasing poisonous hydrogen cyanide. Cassava varieties are often categorized as either bitter (high in cyanogenic glycosides) or sweet (low in those bitter compounds). Sweet cultivars can contain as little as 20 milligrams of cyanide per kilogram of fresh roots, whereas bitter cultivars may contain as much as 1000 milligrams per kilogram. Cassavas grown during drought are especially high in these toxins. A dose of 25 mg of pure cassava cyanogenic glucoside, which contains 2.5 mg of cyanide, is sufficient to kill a rat. Excess cyanide residue from improper preparation causes goiters and acute cyanide poisoning, and is linked to ataxia (a neurological disorder affecting the ability to walk, also known as konzo). It has also been linked to tropical fibrocalcific pancreatitis in humans, leading to chronic pancreatitis.
+Symptoms of acute cyanide intoxication appear four or more hours after ingesting raw or poorly processed cassava: vertigo, vomiting, goiter, ataxia, partial paralysis, collapse, and death. It can be treated easily with an injection of thiosulfate (which makes sulfur available for the patient's body to detoxify by converting the poisonous cyanide into thiocyanate).
+Chronic, low-level exposure to cyanide may contribute to both goiter and tropical ataxic neuropathy, also called konzo, which can be fatal. The risk is highest in famines, when as many as 3 percent of the population may be affected.
+Like many other root and tuber crops, both bitter and sweet varieties of cassava contain antinutritional factors and toxins; the bitter varieties contain much larger amounts. The more toxic varieties of cassava have been used in some places as famine food during times of food insecurity. For example, during the shortages in Venezuela in the late 2010s, dozens of deaths were reported due to Venezuelans resorting to eating bitter cassava in order to curb starvation. Cases of cassava poisoning were also documented during the famine accompanying the Great Leap Forward (1958–1962) in China. Farmers may select bitter cultivars to reduce crop losses.
+Societies that traditionally eat cassava generally understand that processing (soaking, cooking, fermentation, etc.) is necessary to avoid getting sick. Brief soaking (four hours) of cassava is not sufficient, but soaking for 18–24 hours can remove up to half the level of cyanide. Drying may not be sufficient, either.
+In many West African regions, especially Nigeria, bitter cassava roots are traditionally detoxified in a lengthy process. The roots are peeled and grated. The moist pulp is soaked (or "retted") in water for 48 to 72 hours to initiate spontaneous fermentation. During this period endogenous linamarase acts on linamarin and lotaustralin; the resulting hydrogen cyanide dissolves or volatilises, reducing the cyanogenic potential by 85 – 99 %.
+After soaking, the mash is pressed to expel liquid and boiled, roasted, or toasted to make foods such as gari, fufu, and lafun, further lowering residual cyanide to within the WHO safe limit of 10 mg HCN kg⁻¹.
+For some smaller-rooted, sweet varieties, cooking is sufficient to eliminate all toxicity. The cyanide is carried away in the processing water and the amounts produced in domestic consumption are too small to have environmental impact. The larger-rooted, bitter varieties used for production of flour or starch must be processed to remove the cyanogenic glucosides. The large roots are peeled and then ground into flour, which is then soaked in water, squeezed dry several times, and toasted. The starch grains that flow with the water during the soaking process are also used in cooking. The flour is used throughout South America and the Caribbean. Industrial production of cassava flour, even at the cottage level, may generate enough cyanide and cyanogenic glycosides in the effluents to have a severe environmental impact.
+
+
+== Uses ==
+
+
+=== Food and drink ===
+
+There are many ways of cooking cassava. It has to be prepared correctly to remove its toxicity. The root of the sweet variety is mild to the taste, like potatoes; In Brazil, farofa, a dry meal made from cooked powdered cassava, is roasted in butter, eaten as a side dish, or sprinkled on other food. Jewish households sometimes use it in cholent. It can be made into a flour that is used in breads, cakes and cookies. In Taiwanese culture, later spread to the United States, cassava "juices" are dried to a fine powder and used to make tapioca, a popular starch used to make bubbles (tapioca pearl), a chewy topping in bubble tea. Haitian bambouri and Jamaican bammy are blended Caribbean food traditions, combining Indigenous Caribbean cassava-based cooking with African cultural practices.
+Alcoholic beverages made from cassava include cauim (Brazil), kasiri (Venezuela, Guyana, Suriname), parakari or kari (Venezuela, Guyana, Surinam), and nihamanchi (South America), 
+
+
+=== Preparation of bitter cassava ===
+An ancestral method used by the indigenous people of the Caribbean to detoxify cassava is by peeling, grinding, and mashing; filtering the mash through a basket tube (sebucan or tipiti) to remove the hydrogen cyanide; and drying and sieving the mash for flour. The poisonous filtrate water was boiled to release the hydrogen cyanide, and used as a base for stews.
+A safe processing method known as the "wetting method" is to mix the cassava flour with water into a thick paste, spread it in a thin layer over a basket and then let it stand for five hours at 30 °C in the shade. In that time, about 83% of the cyanogenic glycosides are broken down by linamarase; the resulting hydrogen cyanide escapes to the atmosphere, making the flour safe for consumption the same evening.
+The traditional method used in West Africa is to peel the roots and put them into water for three days to ferment. The roots are then dried or cooked. In Nigeria and several other west African countries, including Ghana, Cameroon, Benin, Togo, Ivory Coast, and Burkina Faso, they are usually grated and lightly fried in palm oil to preserve them. The result is a foodstuff called garri. Fermentation is also used in other places such as Indonesia, such as Tapai. The fermentation process also reduces the level of antinutrients, making the cassava a more nutritious food. The reliance on cassava as a food source and the resulting exposure to the goitrogenic effects of thiocyanate has been responsible for the endemic goiters seen in the Akoko area of southwestern Nigeria.
+
+Bioengineering has been applied to grow cassava with lower cyanogenic glycosides combined with fortification of vitamin A, iron and protein to improve the nutrition of people in sub-Saharan Africa.
+In Guyana the traditional cassareep is made from bitter cassava juice. The juice is boiled until it is reduced by half in volume, to the consistency of molasses and flavored with spices—including cloves, cinnamon, salt, sugar, and cayenne pepper. Traditionally, cassareep was boiled in a soft pot, the actual "pepper pot", which would absorb the flavors and also impart them (even if dry) to foods such as rice and chicken cooked in it. The poisonous but volatile hydrogen cyanide is evaporated by heating. Nevertheless, improperly cooked cassava has been blamed for a number of deaths. Amerindians from Guyana reportedly made an antidote by steeping chili peppers in rum. The natives of Guyana traditionally brought the product to town in bottles, and it is available on the US market in bottled form.
+
+
+=== Nutrition ===
+
+Raw cassava is 60% water, 38% carbohydrates, 1% protein, and has negligible fat (table). In a 100-gram (3+1⁄2-ounce) reference serving, raw cassava provides 670 kilojoules (160 kilocalories) of food energy and 23% of the Daily Value (DV) of vitamin C, but otherwise has no micronutrients in significant content (i.e., above 10% of the relevant DV).
+
+
+=== Biofuel ===
+Cassava has been studied as a feedstock to produce ethanol as a biofuel, including to improve the efficiency of conversion from cassava flour, and to convert crop residues such as stems and leaves as well as the more easily processed roots. China has created facilities to produce substantial amounts of ethanol fuel from cassava roots. The small-granule mutation facilitates starch hydrolysis and has been linked to biofuel production.
+
+
+=== Animal feed ===
+Cassava roots and hay are used worldwide as animal feed. Young cassava hay is harvested at three to four month, when it reaches about 30 to 45 cm (12 to 18 in) above ground; it is dried in the sun until its dry matter content approaches 85 percent. The hay contains 20–27 percent protein and 1.5–4 percent tannin. It is valued as a source of roughage for ruminants such as cattle.
+
+
+=== Laundry starch ===
+
+Cassava is used in laundry products, especially as starch to stiffen shirts and other garments.
+
+
+== Folklore ==
+Maní, a Tupí myth of origins, is the name of an indigenous girl with very fair complexion. The Amazonian legend of Maní is related to the cult of Manioc, the native staple  that sprang from her grave. Sometime later a crack opened on the earth and the people of the tribe found a fruit that resembled the white skin tone of the dead child's body. They picked up the fruit from the ground, peeled and cooked it, and for their surprise it tasted delicious. It even renewed their strength. They also prepared a drink which could easily put one to sleep. So, from this day on, they began using the root as their staple food and called it "mandioca", which in Tupy language means "house (oca, in Tupi–Guarani) of Mandi= Maní".
+In Java, a myth relates that food derives from the body of Dewi Teknowati, who killed herself rather than accept the advances of the god Batara Guru. She was buried, and her lower leg grew into a cassava plant.
+In Trinidad, folk stories tell of a saapina or snake-woman; the word is related to sabada, meaning to pound, for what is traditionally a woman's work of pounding cassava.
+The identity of the Macushi people of Guyana is closely bound up with the growth and processing of cassava in their slash-and-burn subsistence lifestyle. A story tells that the great spirit Makunaima climbed a tree, cutting off pieces with his axe; when they landed on the ground, each piece became a type of animal. The opossum brought the people to the tree, where they found all the types of food, including bitter cassava. A bird told the people how to prepare the cassava safely.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+Cassava – Purdue University Horticulture
+Cassava Pests: From Crisis to Control
+Why cassava? Global Cassava Development Strategy Archived 7 November 2016 at the Wayback Machine

@@ -1,0 +1,116 @@
+Thrips (singular: thrips; order Thysanoptera), commonly known as thunderflies or thunderbugs, are minute (mostly 1 mm (0.04 in) long or less), slender insects with fringed wings and unique asymmetrical mouthparts. Entomologists have described approximately 7,700 species; they are distributed globally with their food plants. They fly only weakly and their feathery wings are unsuitable for conventional flight; instead, thrips exploit an unusual mechanism, clap and fling, to create lift using an unsteady circulation pattern with transient vortices near the wings.
+Thrips are a functionally diverse group; many of the known species are fungivorous. A small proportion of the species are serious pests of commercially important crops. Some of these serve as vectors for over 20 viruses that cause plant disease, especially the Tospoviruses. Many flower-dwelling species bring benefits as pollinators, with some predatory thrips feeding on small insects or mites. In the right conditions, such as in greenhouses, invasive species can exponentially increase in population size and form large swarms because of a lack of natural predators coupled with their ability to reproduce asexually, making them destructive to crops. Their identification to species by standard morphological characteristics is often challenging.
+
+
+== Naming and etymology ==
+The first recorded mention of thrips dates from the 17th century, and a sketch was made by Philippo Bonanni, a Catholic priest, in 1691. Swedish entomologist Baron Charles De Geer described two species in the genus Physapus in 1744, and Linnaeus in 1746 added a third species and named this group of insects Thrips. In 1836 the Irish entomologist Alexander Henry Haliday described 41 species in 11 genera and proposed the order name of Thysanoptera. The first monograph on the group was published in 1895 by Heinrich Uzel, who is regarded by Fedor et al. as the father of Thysanoptera studies.
+The generic and English name thrips is a direct transliteration of the Ancient Greek word θρίψ, thrips, meaning "woodworm". Like some other animal-names (such as sheep, deer, and moose) in English the word "thrips" expresses both the singular and plural, so there may be many thrips or a single thrips. Other common names for thrips include thunderflies, thunderbugs, storm flies, thunderblights, storm bugs, corn fleas, corn flies, corn lice, freckle bugs, harvest bugs, and physopods. The older group name "physopoda" references the bladder-like tips to the tarsi of the legs. The name of the order, Thysanoptera, is constructed from the ancient Greek words θύσανος, thysanos, "tassel or fringe", and πτερόν, pteron, "wing", with reference to the insects' fringed wings.
+
+
+== Description ==
+
+Thrips are small hemimetabolic insects with a distinctive cigar-shaped body plan. They are elongated with transversely constricted bodies. They range in size from 0.5 to 14 mm (0.02 to 0.55 in) in length for the larger predatory thrips, but most thrips are about 1 mm in length. Flight-capable thrips have two similar, strap-like pairs of wings with a fringe of bristles. The wings are folded back over the body at rest. Their legs usually end in two tarsal segments with a bladder-like structure known as an "arolium" at the pretarsus. This structure can be everted by means of hemolymph pressure, enabling the insect to walk on vertical surfaces. They have compound eyes consisting of a small number of ommatidia and three ocelli or simple eyes on the head.
+
+Thrips have asymmetrical mouthparts unique to the group. Unlike the Hemiptera (true bugs), the right mandible of thrips is reduced and vestigial – and in some species completely absent.
+The left mandible is used briefly to cut into the food plant; saliva is injected and the maxillary stylets, which form a tube, are then inserted and the semi-digested food pumped from ruptured cells. This process leaves cells destroyed or collapsed, and a distinctive silvery or bronze scarring on the surfaces of the stems or leaves where the thrips have fed. The mouthparts of thrips have been described as "rasping-sucking", "punching and sucking", or, simply just a specific type of "piercing-sucking" mouthparts.
+Thysanoptera is divided into two suborders, Terebrantia and Tubulifera; these can be distinguished by morphological, behavioral, and developmental characteristics. Tubulifera consists of a single family, Phlaeothripidae; members can be identified by their characteristic tube-shaped apical abdominal segment, egg-laying atop the surface of leaves, and three "pupal" stages. In the Phlaeothripidae, the males are often larger than females and a range of sizes may be found within a population. The largest recorded phlaeothripid species is about 14 mm long. Females of the eight families of the Terebrantia all possess the eponymous saw-like (see terebra) ovipositor on the anteapical abdominal segment, lay eggs singly within plant tissue, and have two "pupal" stages. In most Terebrantia, the males are smaller than females. The family Uzelothripidae has a single species and it is unique in having a whip-like terminal antennal segment.
+Thrips have a global distribution, with more than 6,000 species causing damage to their host plants including crops worldwide.
+
+
+== Evolution ==
+
+The earliest fossils of thrips date back to the Permian Permothrips longipennis, although it is probably not a member of this group. By the Early Cretaceous, true thrips became much more abundant. The extant family Merothripidae most resembles these ancestral Thysanoptera, and is probably basal to the order. There are currently over six thousand species of thrips recognized, grouped into 777 extant and sixty fossil genera. Some thrips were pollinators of the Ginkgoales as early as 110-105 Mya, in the Cretaceous. Cenomanithrips primus, Didymothrips abdominalis and Parallelothrips separatus are known from Myanmar amber of Cenomanian age.
+
+
+=== Phylogeny ===
+Thrips are generally considered to be the sister group to Hemiptera (bugs). The phylogeny of thrips families has been little studied. A preliminary analysis in 2013 of 37 species using 3 genes, as well as a phylogeny based on ribosomal DNA and three proteins in 2012, supports the monophyly of the two suborders, Tubulifera and Terebrantia. In Terebrantia, Melanothripidae may be sister to all other families, but other relationships remain unclear. In Tubulifera, the Phlaeothripidae and its subfamily Idolothripinae are monophyletic. The two largest thrips subfamilies, Phlaeothripinae and Thripinae, are paraphyletic and need further work to determine their structure. The internal relationships from these analyses are shown in the cladogram.
+
+
+=== Taxonomy ===
+The following families were recognized as of 2013:
+
+Suborder Terebrantia 
+Adiheterothripidae Shumsher, 1946 (11 genera)
+Aeolothripidae Uzel, 1895 (29 genera) – banded thrips and broad-winged thrips
+Fauriellidae Priesner, 1949 (four genera)
+†Hemithripidae Bagnall, 1923 (one fossil genus, Hemithrips with 15 species)
+Heterothripidae Bagnall, 1912 (seven genera, restricted to the New World)
+†Jezzinothripidae zur Strassen, 1973 (included by some authors in Merothripidae)
+†Karataothripidae Sharov, 1972 (one fossil species, Karataothrips jurassicus)
+Melanthripidae Bagnall, 1913 (six genera of flower feeders)
+Merothripidae Hood, 1914 (five genera, mostly Neotropical and feeding on dry-wood fungi) – large-legged thrips
+†Scudderothripidae zur Strassen, 1973 (included by some authors in Stenurothripidae)
+Thripidae Stephens, 1829 (292 genera in four subfamilies, flower living) – common thrips
+†Triassothripidae Grimaldi & Shmakov, 2004 (two fossil genera)
+Uzelothripidae Hood, 1952 (one species, Uzelothrips scabrosus)
+Suborder Tubulifera
+Phlaeothripidae Uzel, 1895 (447 genera in two subfamilies, fungal hyphae and spore feeders)
+The identification of thrips to species is challenging as types are maintained as slide preparations of varying quality over time. There is also considerable variability, leading to many species being misidentified. Molecular sequence-based approaches have increasingly been applied to their identification.
+
+
+== Biology ==
+
+
+=== Feeding ===
+Thrips are believed to have descended from a fungus-feeding ancestor during the Mesozoic, and many groups still feed upon and inadvertently redistribute fungal spores. These live among leaf litter or on dead wood and are important members of the ecosystem, their diet often being supplemented with pollen. Other species are primitively eusocial and form plant galls, while still others are predatory on mites and other thrips. Two species of Aulacothrips, A. tenuis and A. levinotus, have been found to be ectoparasites on aetalionid and membracid plant-hoppers in Brazil. Akainothrips francisi of Australia is a parasite within the colonies of another thrips species Dunatothrips aneurae that makes silken nests or domiciles on Acacia trees. A number of thrips in the subfamily Phlaeothripinae that specialize on Acacia hosts produce silk with which they glue together phyllodes to form domiciles inside which their semi-social colonies live.
+Mirothrips arbiter has been found in paper wasp nests in Brazil. The eggs of the hosts including Mischocyttarus atramentarius, Mischocyttarus cassununga and Polistes versicolor are eaten by the thrips. Thrips, especially in the family Aeolothripidae, are also predators, and are considered beneficial in the management of pests like the codling moths.
+Most research has focused on thrips species that feed on economically significant crops. Some species are predatory, but most of them feed on pollen and the chloroplasts harvested from the outer layer of plant epidermal and mesophyll cells. They prefer tender parts of the plant, such as buds, flowers and new leaves. Besides feeding on plant tissues, the common blossom thrips feeds on pollen grains and on the eggs of mites. When the larva supplements its diet in this way, its development time and mortality is reduced, and adult females that consume mite eggs increase their fecundity and longevity.
+
+
+=== Pollination ===
+
+Some flower-feeding thrips pollinate the flowers they are feeding on, and some authors suspect that they may have been among the first insects to evolve a pollinating relationship with their host plants. Amber fossils of Gymnopollisthrips from the Early Cretaceous show them to be coated in Cycadopites-like pollen. Scirtothrips dorsalis carries pollen of commercially important chili peppers. Darwin found that thrips could not be kept out by any netting when he conducted experiments by keeping away larger pollinators.Thrips setipennis is the sole pollinator of Wilkiea huegeliana, a small, unisexual annually flowering tree or shrub in the rainforests of eastern Australia. T. setipennis serves as an obligate pollinator for other Australian rainforest plant species, including Myrsine howittiana and M. variabilis. The genus Cycadothrips is a specialist pollinator of cycads, which are normally wind pollinated but some species of Macrozamia are able to attract thrips to male cones at some times and repel them so that they move to female cones. Thrips are likewise the primary pollinators of heathers in the family Ericaceae, and play a significant role in the pollination of pointleaf manzanita. Electron microscopy has shown thrips carrying pollen grains adhering to their backs, and their fringed wings allow them to fly from plant to plant.
+
+
+=== Damage to plants ===
+Thrips can cause damage during feeding. This impact may fall across a broad selection of prey items, as there is considerable breadth in host affinity across the order, and even within a species, varying degrees of fidelity to a host. Family Thripidae in particular is notorious for members with broad host ranges, and the majority of pest thrips come from this family. For example, Thrips tabaci damages crops of onions, potatoes, tobacco, and cotton.
+
+Some species of thrips create galls, almost always in leaf tissue. These may occur as curls, rolls or folds, or as alterations to the expansion of tissues causing distortion to leaf blades. More complex examples cause rosettes, pouches and horns. Most of these species occur in the tropics and sub-tropics, and the structures of the galls are diagnostic of the species involved. A radiation of thrips species seems to have taken place on Acacia trees in Australia; some of these species cause galls in the petioles, sometimes fixing two leaf stalks together, while other species live in every available crevice in the bark. In Casuarina trees in the same country, some thrips species have invaded stems, creating long-lasting woody galls.
+
+
+=== Social behaviour ===
+While poorly documented, chemical communication is believed to be important to the group. Anal secretions are produced in the hindgut, and released along the posterior setae as predator deterrents In Australia, aggregations of male common blossom thrips have been observed on the petals of Hibiscus rosa-sinensis and Gossypium hirsutum; females were attracted to these groups so it seems likely that the males were producing pheromones.
+In the phlaeothripids that feed on fungi, males compete to protect and mate with females, and then defend the egg-mass. Males fight by flicking their rivals away with their abdomen, and may kill with their foretarsal teeth. Small males may sneak in to mate while the larger males are busy fighting. In the Merothripidae and in the Aeolothripidae, males are again polymorphic with large and small forms, and probably also compete for mates, so the strategy may well be ancestral among the Thysanoptera.
+Many thrips form galls on plants when feeding or laying their eggs. Some of the gall-forming Phlaeothripidae, such as genera Kladothrips and Oncothrips, form eusocial groups similar to ant colonies, with reproductive queens and nonreproductive soldier castes.
+
+
+=== Flight ===
+
+Most insects create lift by the stiff-winged mechanism of insect flight with steady state aerodynamics; this creates a leading edge vortex continuously as the wing moves. The feathery wings of thrips, however, generate lift by clap and fling, a mechanism discovered by the Danish zoologist Torkel Weis-Fogh in 1973. In the clap part of the cycle, the wings approach each other over the insect's back, creating a circulation of air which sets up vortices and generates useful forces on the wings. The leading edges of the wings touch, and the wings rotate around their leading edges, bringing them together in the "clap". The wings close, expelling air from between them, giving more useful thrust. The wings rotate around their trailing edges to begin the "fling", creating useful forces. The leading edges move apart, making air rush in between them and setting up new vortices, generating more force on the wings. The trailing edge vortices, however, cancel each other out with opposing flows. Weis-Fogh suggested that this cancellation might help the circulation of air to grow more rapidly, by shutting down the Wagner effect which would otherwise counteract the growth of the circulation.
+
+Apart from active flight, thrips, even wingless ones, can be picked up by winds and transferred long distances. During warm and humid weather, adults may climb to the tips of plants to leap and catch air current. Wind-aided dispersal of species has been recorded over 1600 km of sea between Australia and South Island of New Zealand. It has been suggested that some bird species may be involved in the dispersal of thrips. Thrips are picked up along with grass in the nests of birds and can be transported by the birds.
+A hazard of flight for very small insects such as thrips is the possibility of being trapped by water. Thrips have non-wetting bodies and have the ability to ascend a meniscus by arching their bodies and working their way head-first and upwards along the water surface in order to escape.
+
+
+=== Life cycle ===
+
+Thrips lay extremely small eggs, about 0.2 mm long. Females of the suborder Terebrantia cut slits in plant tissue with their ovipositor, and insert their eggs, one per slit. Females of the suborder Tubulifera lay their eggs singly or in small groups on the outside surfaces of plants. Some thrips such as Elaphothrips tuberculatus are known to be facultatively ovoviviparous, retaining the eggs internally and giving birth to male offspring. Females in many species guard the eggs against cannibalism by other females as well as predators.
+Thrips are hemimetabolous, metamorphosing gradually to the adult form. The first two instars, called larvae or nymphs, are like small wingless adults (often confused with springtails) without genitalia; these feed on plant tissue. In the Terebrantia, the third and fourth instars, and in the Tubulifera also a fifth instar, are non-feeding resting stages similar to pupae: in these stages, the body's organs are reshaped, and wing-buds and genitalia are formed. The larvae of some species produce silk from the terminal abdominal segment which is used to line the cell or form a cocoon within which they pupate. The adult stage can be reached in around 8–15 days; adults can live for around 45 days. Adults have both winged and wingless forms; in the grass thrips Anaphothrips obscurus, for example, the winged form makes up 90% of the population in spring (in temperate zones), while the wingless form makes up 98% of the population late in the summer. Thrips can survive the winter as adults or through egg or pupal diapause.
+Thrips are haplodiploid with haploid males (from unfertilised eggs, as in Hymenoptera) and diploid females capable of parthenogenesis (reproducing without fertilisation), many species using arrhenotoky, a few using thelytoky. In Pezothrips kellyanus females hatch from larger eggs than males, possibly because they are more likely to be fertilized. The sex-determining bacterial endosymbiont Wolbachia is a factor that affects the reproductive mode. Several normally bisexual species have become established in the United States with only females present.
+
+
+== Human impact ==
+
+
+=== As pests ===
+
+Many thrips are pests of commercial crops due to the damage they cause by feeding on developing flowers or vegetables, causing discoloration, deformities, and reduced marketability. Some thrips serve as vectors for plant diseases, such as tospoviruses. Over 20 plant-infecting viruses are known to be transmitted by thrips, but perversely, less than a dozen of the described species are known to vector tospoviruses. These enveloped viruses are considered among some of the most damaging of emerging plant pathogens around the world, with those vector species having an outsized impact on human agriculture. Virus members include the tomato spotted wilt virus and the impatiens necrotic spot viruses. The western flower thrips, Frankliniella occidentalis, has spread until it now has a worldwide distribution, and is the primary vector of plant diseases caused by tospoviruses. Other viruses that they spread include the genera Ilarvirus, Carmovirus, Sobemovirus and Machlomovirus. Their small size and predisposition towards enclosed places makes them difficult to detect by phytosanitary inspection, while their eggs, laid inside plant tissue, are well-protected from pesticide sprays. When coupled with the increasing globalization of trade and the growth of greenhouse agriculture, thrips, unsurprisingly, are among the fastest growing group of invasive species in the world. Examples include F. occidentalis, Thrips simplex, and Thrips palmi.
+Flower-feeding thrips are routinely attracted to bright floral colors (including white, blue, and especially yellow), and will land and attempt to feed. It is not uncommon for some species (e.g., Frankliniella tritici and Limothrips cerealium) to "bite" humans under such circumstances. Although no species feed on blood and no known animal disease is transmitted by thrips, some skin irritation has been described.
+
+
+=== Management ===
+
+Thrips develop resistance to insecticides easily and there is constant research on how to control them. This makes thrips ideal as models for testing the effectiveness of new pesticides and methods.
+Due to their small sizes and high rates of reproduction, thrips are difficult to control using classical biological control. Suitable predators must be small and slender enough to penetrate the crevices where thrips hide while feeding, and they must also prey extensively on eggs and larvae to be effective. Only two families of parasitoid Hymenoptera parasitize eggs and larvae, the Eulophidae and the Trichogrammatidae. Other biocontrol agents of adults and larvae include anthocorid bugs of genus Orius, and phytoseiid mites. Biological insecticides such as the fungi Beauveria bassiana and Verticillium lecanii can kill thrips at all life-cycle stages. Insecticidal soap spray is effective against thrips. It is commercially available or can be made of certain types of household soap. Scientists in Japan report that significant reductions in larva and adult melon thrips occur when plants are illuminated with red light.
+
+
+== References ==
+
+
+== External links ==
+
+Thrips of the World checklist
+Thrips species wiki
+Thrips images from the "Pests and Diseases Image Library (PaDIL)" of Australia Archived 17 March 2020 at the Wayback Machine
+University of California Pest Management Guidelines for Thrips
+University of California Thrips Identification

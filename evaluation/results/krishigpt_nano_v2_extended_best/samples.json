@@ -1,0 +1,224 @@
+{
+  "results": [
+    {
+      "variant": "greedy",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", and the best crop of wheat , is the best in the United States . The first crop is the best in the United States , and the most important crop of wheat , wheat , and wheat , is the most important for the crop . The first crop is the most important for the crop , and the most important crop",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.265625,
+      "distinct_2": 0.4603174603174603,
+      "repetition_rate": 0.746031746031746,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Soil moisture affects",
+      "text": "the soil and soil soil . The soil is a soil , and the soil is a soil , and is a soil , and is a soil , and is a soil . The soil is a soil , soil , and soil , and soil is a soil , and is a soil , and is a soil , and is a",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.125,
+      "distinct_2": 0.23809523809523808,
+      "repetition_rate": 0.8888888888888888,
+      "max_run": 2
+    },
+    {
+      "variant": "greedy",
+      "prompt": "To control pests in the field",
+      "text": ", the plant is the most important . The plant is the most important , the plant is the most important , and the plant is the most important . The plant is the most important , the plant is the most important , and the plant is the most important . The plant is the most important , the plant is the most",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.140625,
+      "distinct_2": 0.19047619047619047,
+      "repetition_rate": 0.873015873015873,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "Rice is grown in",
+      "text": "the world . The first rice is the largest producer of the world . The rice is the largest producer of the world . The rice is the largest producer of the world . The rice is the largest producer of the world . The rice is the largest producer of the world . The rice is the largest",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.171875,
+      "distinct_2": 0.20634920634920634,
+      "repetition_rate": 0.8412698412698413,
+      "max_run": 1
+    },
+    {
+      "variant": "greedy",
+      "prompt": "The farmer should irrigate",
+      "text": "a good farmer . The farmer is a good farmer to be a good farmer . The farmer is a good farmer . He is a good farmer , and he is a good farmer . He is a good farmer . He is a man who is a good farmer . He is a man who is a good farmer . He is",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.21875,
+      "distinct_2": 0.30158730158730157,
+      "repetition_rate": 0.7936507936507936,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", with the best varieties of eggs . _Stamther Yleders , tothing , and Foit . _Heralking Paris . _ ) Four many other questions for the Tandentnal States , missight , and the first wider of Monur , who be re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.796875,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.20634920634920634,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "Soil moisture affects",
+      "text": "the soil erosion . For laying eggs , they are less private , and tothing can cause the same it is imtype of soluble nitrogen . The term can cause many damage that harrow for example , although the amount of natural transport of carbon roots , it is willing to be implemented to be re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.78125,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.2222222222222222,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "To control pests in the field",
+      "text": ", with the best varieties of eggs are kept the best in the month . It is thing that entirely on the land , and the earnest is the best picking of many other questions . The mander does not natural farmers for the roots . The first wider of this grassland will be re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.75,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.25396825396825395,
+      "max_run": 1
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "Rice is grown in",
+      "text": "wildowndlings , with the transactions of the body ' s tothing . The FREPOT MAUS . ( 90 ) dingly haststly many damage questions for the mander . The natural transport of the roots , the first wider of this grassland is to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.8125,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.19047619047619047,
+      "max_run": 2
+    },
+    {
+      "variant": "temp0.9",
+      "prompt": "The farmer should irrigate",
+      "text": "statesship . CHAPTER XXII _the Philealeders , Illinois , don ' t explain at least 90 per cent . ) What can do not question for the speakers ; but it is missight and more than here . Unlike this has adtive the social",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.890625,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.1111111111111111,
+      "max_run": 2
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", with the best varieties of corn . They were in the late month of 1897 . On the case , it was not the best in 1855 . The young women of England was that he was to take the growth of corn , so far as I was done , but the soil was so valuable , for the wheat",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.625,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.38095238095238093,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Soil moisture affects",
+      "text": "such material due to address and organic matter in the soil . Offalation can cause the same surface level as leaching ( such as clay or listation ) , thus as the soil , they are often used in plants . In many parts of the world , soil structure has been the ability to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.765625,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.23809523809523808,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "To control pests in the field",
+      "text": "? They do not see yarconic in the world . The first term \" reservation \" was the best - time . The first - term varieties of the family is also that the term is used to develop many types of plants used to do . The first tractor of this has been the major food re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.671875,
+      "distinct_2": 0.9206349206349206,
+      "repetition_rate": 0.3333333333333333,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "Rice is grown in",
+      "text": "the world . Many varieties of farmers are rought in the production of soybeans and vegetable crops , while the first was not used . The earliest tomato varieties domesticated around the 19th century that had been grown in the United States . Sustandforcian cultivated varieties became the most common , and the production of wheat",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.75,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.25396825396825395,
+      "max_run": 1
+    },
+    {
+      "variant": "topk40",
+      "prompt": "The farmer should irrigate",
+      "text": "a large condition , and , is the _American farmer must put to a matter for the fact , the same farmer is better and better if possible . But but the idea of the question of the farm problem . The business is very perschools , an information to live in the collei",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.703125,
+      "distinct_2": 0.9841269841269841,
+      "repetition_rate": 0.30158730158730157,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The best fertilizer for wheat",
+      "text": ", with the best varieties of eggs . _Stamther Yleders , tothing , and Foit . _Heralking Paris . _ ) Finently , questions for the Tandentnal States , Warelling , and Cubative Prabrings , figures , and twel",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.78125,
+      "distinct_2": 0.9523809523809523,
+      "repetition_rate": 0.2222222222222222,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Soil moisture affects",
+      "text": "such material due to address carbonic oxygen and elleuate tothing . Economics it evolve in addition to nutrients and cutting organisms statily fix nitrogen - fixing organic , although the amount of natural transport of carbon roots . Plants require widespread rates , adding waste to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.890625,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.1111111111111111,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "To control pests in the field",
+      "text": "? They do not yet do to try to the fever and body ' s tothing that it would learn to explain at least 90 per cent . you can inclosate that this church will be taken from foundation ; but I think to wive the machinery and other to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.84375,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.15873015873015872,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "Rice is grown in",
+      "text": "climates with other flowers . Inge composting has the oxygen - fixing materials , tothing , and ectophyrophilic applications . Rice varieties should be established at around 2021 worldwide by Tander Hyfa Co . The plant is initiated by the Mandadf Center re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.890625,
+      "distinct_2": 1.0,
+      "repetition_rate": 0.1111111111111111,
+      "max_run": 1
+    },
+    {
+      "variant": "topp0.9",
+      "prompt": "The farmer should irrigate",
+      "text": "a source of population and laying eggs . They are in the world , a global price of being entirely extended by the imms of continually . The next picking of many numbers that is the need of the critical foundation of the service . The wider of this has adtive evidence to re",
+      "stop_reason": "max_tokens",
+      "n": 64,
+      "distinct_1": 0.78125,
+      "distinct_2": 0.9682539682539683,
+      "repetition_rate": 0.2222222222222222,
+      "max_run": 1
+    }
+  ]
+}

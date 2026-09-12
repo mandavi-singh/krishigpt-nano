@@ -1,0 +1,185 @@
+[
+  {
+    "run": "v2-ext best",
+    "variant": "greedy",
+    "words": 194,
+    "fab_pct": 0.0,
+    "rep_pct": 82.9,
+    "d1": 0.18,
+    "d2": 0.28,
+    "examples": []
+  },
+  {
+    "run": "v2-ext best",
+    "variant": "temp0.9",
+    "words": 163,
+    "fab_pct": 13.5,
+    "rep_pct": 19.7,
+    "d1": 0.81,
+    "d2": 0.97,
+    "examples": [
+      "_Stamther",
+      "Yleders",
+      "tothing",
+      "Foit",
+      "_Heralking",
+      "Tandentnal"
+    ]
+  },
+  {
+    "run": "v2-ext best",
+    "variant": "topk40",
+    "words": 197,
+    "fab_pct": 3.6,
+    "rep_pct": 30.2,
+    "d1": 0.7,
+    "d2": 0.96,
+    "examples": [
+      "Offalation",
+      "listation",
+      "yarconic",
+      "rought",
+      "Sustandforcian",
+      "perschools"
+    ]
+  },
+  {
+    "run": "v2-ext best",
+    "variant": "topp0.9",
+    "words": 157,
+    "fab_pct": 15.3,
+    "rep_pct": 16.5,
+    "d1": 0.84,
+    "d2": 0.98,
+    "examples": [
+      "_Stamther",
+      "Yleders",
+      "tothing",
+      "Foit",
+      "_Heralking",
+      "Finently"
+    ]
+  },
+  {
+    "run": "v2 best",
+    "variant": "greedy",
+    "words": 122,
+    "fab_pct": 0.0,
+    "rep_pct": 82.2,
+    "d1": 0.19,
+    "d2": 0.24,
+    "examples": []
+  },
+  {
+    "run": "v2 best",
+    "variant": "temp0.9",
+    "words": 172,
+    "fab_pct": 8.1,
+    "rep_pct": 18.4,
+    "d1": 0.82,
+    "d2": 0.97,
+    "examples": [
+      "headwished",
+      "addating",
+      "imtype",
+      "statile",
+      "subsequ",
+      "Bosdian"
+    ]
+  },
+  {
+    "run": "v2 best",
+    "variant": "topk40",
+    "words": 189,
+    "fab_pct": 3.7,
+    "rep_pct": 33.3,
+    "d1": 0.67,
+    "d2": 0.95,
+    "examples": [
+      "prefter",
+      "Underless",
+      "SPPSC",
+      "Inb",
+      "Coodification",
+      "_choea_"
+    ]
+  },
+  {
+    "run": "v2 best",
+    "variant": "topp0.9",
+    "words": 155,
+    "fab_pct": 15.5,
+    "rep_pct": 17.8,
+    "d1": 0.82,
+    "d2": 0.99,
+    "examples": [
+      "_Stamther",
+      "Yleders",
+      "tothing",
+      "Foit",
+      "ranimed",
+      "macle"
+    ]
+  },
+  {
+    "run": "v1 ext",
+    "variant": "greedy",
+    "words": 162,
+    "fab_pct": 0.0,
+    "rep_pct": 87.6,
+    "d1": 0.14,
+    "d2": 0.18,
+    "examples": []
+  },
+  {
+    "run": "v1 ext",
+    "variant": "temp0.9",
+    "words": 189,
+    "fab_pct": 14.8,
+    "rep_pct": 21.9,
+    "d1": 0.78,
+    "d2": 0.96,
+    "examples": [
+      "burbridge",
+      "Foit",
+      "imford",
+      "quesharrow",
+      "mander",
+      "wids_"
+    ]
+  },
+  {
+    "run": "v1 ext",
+    "variant": "topk40",
+    "words": 190,
+    "fab_pct": 5.8,
+    "rep_pct": 34.0,
+    "d1": 0.67,
+    "d2": 0.9,
+    "examples": [
+      "IATECD",
+      "CUGTER",
+      "FEELY",
+      "PSHOCRAOF",
+      "PES",
+      "Firds"
+    ]
+  },
+  {
+    "run": "v1 ext",
+    "variant": "topp0.9",
+    "words": 185,
+    "fab_pct": 14.6,
+    "rep_pct": 15.9,
+    "d1": 0.84,
+    "d2": 0.99,
+    "examples": [
+      "imford",
+      "boirs",
+      "miselling",
+      "Worose",
+      "wids_",
+      "adystructure"
+    ]
+  }
+]

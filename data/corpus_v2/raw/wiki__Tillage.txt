@@ -1,0 +1,184 @@
+Tillage is the agricultural preparation of soil by mechanical agitation of various types, such as digging, stirring, and overturning. Examples of human-powered tilling methods using hand tools include shoveling, picking, mattock work, hoeing, and raking. Examples of draft-animal-powered or mechanized work include ploughing (overturning with moldboards or chiseling with chisel shanks), rototilling, rolling with cultipackers or other rollers, harrowing, and cultivating with cultivator shanks (teeth).
+Tillage that is deeper and more thorough is classified as primary, and tillage that is shallower and sometimes more selective of location is secondary. Primary tillage such as ploughing tends to produce a rough surface finish, whereas secondary tillage tends to produce a smoother surface finish, such as that required to make a good seedbed for many crops. Harrowing and rototilling often combine primary and secondary tillage into one operation.
+"Tillage" can also mean the land that is tilled. The word "cultivation" has several senses that overlap substantially with those of "tillage". In a general context, both can refer to agriculture. Within agriculture, both can refer to any kind of soil agitation. Additionally, "cultivation" or "cultivating" may refer to an even narrower sense of shallow, selective secondary tillage of row crop fields that kills weeds while sparing the crop plants.
+
+
+== Definitions ==
+Primary tillage loosens the soil and mixes in fertilizer or plant material, resulting in soil with a rough texture.
+Secondary tillage produces finer soil and sometimes shapes the rows, preparing the seed bed. It also provides weed control throughout the growing season during the maturation of the crop plants, unless such weed control is instead achieved with low-till or no-till methods involving herbicides.
+
+The seedbed preparation can be done with harrows (of which there are many types and subtypes), dibbles, hoes, shovels, rotary tillers, subsoilers, ridge- or bed-forming tillers, rollers, or cultivators.
+The weed control, to the extent that it is done via tillage, is usually achieved with cultivators or hoes, which disturb the top few centimeters of soil around the crop plants but with minimal disturbance of the crop plants themselves. The tillage kills the weeds via two mechanisms: uprooting them, burying their leaves (cutting off their photosynthesis), or a combination of both. Weed control both prevents the crop plants from being outcompeted by the weeds (for water and sunlight) and prevents the weeds from reaching their seed stage, thus reducing future weed population aggressiveness.
+
+
+== History ==
+
+Tilling was first performed via human labor, sometimes involving slaves. Hoofed animals could also be used to till soil by trampling, in addition to pigs, whose natural instincts are to root the ground regularly if allowed to. The wooden plow was then invented. (It is difficult to pinpoint the exact date of its invention. However, the earliest evidence of plow usage dates back to around 4000 BCE in Mesopotamia (modern-day Iraq) . It could be pulled with human labor, or by mule, ox, elephant, water buffalo, or a similar sturdy animal. Horses are generally unsuitable, though breeds such as the Clydesdale were bred as draft animals.
+Tilling could at times be very labor-intensive. This aspect is discussed in the 16th-century French agronomic text written by Charles Estienne:
+
+A raw, rough, and tough soil is hard to till and will neither bring forth corn, nor any other thing without great labor, however the seasons be temperate in moisture and dryness ... you must labor it most exquisitely, harrow it and manure it very oft with great store of dung, so you shall make it better ... but especially desire that they may not be watered with rain, for water is as good as poison to them.
+The popularity of tillage as an agricultural technique in early modern times had to do with theories about plant biology proposed by European thinkers. In 1731, English writer Jethro Tull published the book "Horse-Hoeing Husbandry: An Essay on the Principles of Vegetation and Tillage," which argued that soil needed to be pulverized into fine powder for plants to make use of it. Tull believed that, since water, air, and heat were clearly not the primary substance of a plant, plants were made of earth, and thus had to consume very small pieces of earth as food. Tull wrote that each subsequent tillage of the soil would increase its fertility, and that it was impossible to till the soil too much. However, scientific observation has shown that the opposite is true; tillage causes soil to lose structural qualities that allow plant roots, water, and nutrients to penetrate it, accelerates soil loss by erosion, and results in soil compaction.
+The steel plow allowed farming in the American Midwest, where tough prairie grasses and rocks caused trouble. Soon after 1900, the farm tractor was introduced, which made modern large-scale agriculture possible. However, the destruction of the prairie grasses and tillage of the fertile topsoil of the American Midwest caused the Dust Bowl, in which the soil was blown away and stirred up into dust storms that blackened the sky. This prompted re-consideration of tillage techniques, but in the United States as of 2019, 3 trillion pounds of soil were estimated to be lost due to erosion while adoption of improved techniques for controlling erosion are still not widespread. In the mid-1930s Frank and Herbert Petty of Doncaster, Victoria, Australia developed the Petty Plough.  This steerable plough could be pulled by either two horses or a tractor and the disc wheels could be steered in unison, or separately allowing the operator to plough the center of rows as well as between and around orchard trees.
+
+
+== Types ==
+
+
+=== Primary and secondary tillage ===
+Primary tillage is usually conducted after the last harvest, when the soil is wet enough to allow plowing but also allows good traction. Some soil types can be plowed dry. The objective of primary tillage is to attain a reasonable depth of soft soil, incorporate crop residues, kill weeds, and to aerate the soil. Secondary tillage is any subsequent tillage, to incorporate fertilizers, reduce the soil to a finer tilth, level the surface, or control weeds.
+
+
+=== Reduced tillage ===
+Reduced tillage leaves between 15 and 30% crop residue cover on the soil or 500 to 1000 pounds per acre (560 to 1100 kg/ha) of small grain residue during the critical erosion period. This may involve the use of a chisel plow, field cultivators, or other implements. See the general comments below to see how they can affect the amount of residue.
+
+
+=== Intensive tillage ===
+Intensive tillage leaves less than 15% crop residue cover or less than 500 pounds per acre (560 kg/ha) of small grain residue. This type of tillage is often referred to as conventional tillage, but as conservational tillage is now more widely used than intensive tillage (in the United States), it is often not appropriate to refer to this type of tillage as conventional. Intensive tillage often involves multiple operations with implements such as a mold board, disk, or chisel plow. After this, a finisher with a harrow, rolling basket, and cutter can be used to prepare the seed bed. There are many variations.
+
+
+=== Conservation tillage ===
+Conservation tillage leaves at least 30% of crop residue on the soil surface, or at least 1,000 lb/ac (1,100 kg/ha) of small grain residue on the surface during the critical soil erosion period. This slows water movement, which reduces the amount of soil erosion. Additionally, conservation tillage has been found to benefit predatory arthropods that can enhance pest control. Conservation tillage also benefits farmers by reducing fuel consumption and soil compaction. By reducing the number of times the farmer travels over the field, significant savings in fuel and labor are made.
+Conservation tillage is used on over 370 million acres, mostly in South America, Oceania and North America. In most years since 1997, conservation tillage was used in US cropland more than intensive or reduced tillage.
+However, conservation tillage delays warming of the soil due to the reduction of dark earth exposure to the warmth of the spring sun, thus delaying the planting of the next year's spring crop of corn.
+
+No-till – plows, disks, et cetera are not used. Aims for 100% ground cover.
+Strip-till – Narrow strips are tilled where seeds will be planted, leaving the soil in between the rows untilled.
+Mulch-till - Soil is covered with mulch to conserve heat and moisture. 100% soil disturbance.
+Rotational tillage – Tilling the soil every two years or less often (every other year, or every third year, etc.).
+Ridge-till
+
+
+=== Zone tillage ===
+Zone or strip tillage is a form of modified deep tillage in which only narrow strips are tilled, leaving soil in between the rows untilled. This type of tillage agitates the soil to help reduce soil compaction problems and to improve internal soil drainage. It is designed to only disrupt the soil in a narrow strip directly below the crop row. In comparison to no-till, which relies on the previous year's plant residue to protect the soil and aids in postponement of the warming of the soil and crop growth in Northern climates, zone tillage produces a strip approximately five inches wide that simultaneously breaks up plow pans, assists in warming the soil and helps to prepare a seedbed. When combined with cover crops, zone tillage helps replace lost organic matter, slows the deterioration of the soil, improves soil drainage, increases soil water and nutrient holding capacity, and allows necessary soil organisms to survive.
+It has been successfully used on farms in the Midwest and West of the US for over 40 years, and is currently used on more than 36% of the U.S. farmland. Some specific states where zone tillage is currently in practice are Pennsylvania, Connecticut, Minnesota, Indiana, Wisconsin, and Illinois.
+Its use in the USA's Northern Corn Belt states lacks consistent yield results; however, there is still interest in deep tillage within agriculture. In areas that are not well-drained, deep tillage may be used as an alternative to installing more expensive tile drainage.
+
+
+== Effects ==
+
+
+=== Positive ===
+Plowing:
+
+Loosens and aerates the top layer of soil or horizon A, which facilitates planting the crop.
+Helps mix harvest residue, organic matter (humus), and nutrients evenly into the soil.
+Mechanically destroys weeds.
+Dries the soil before seeding (in wetter climates, tillage aids in keeping the soil drier).
+When done in autumn, helps exposed soil crumble over winter through frosting and defrosting, which helps prepare a smooth surface for spring planting.
+Can reduce infestations of slugs, cut worms, army worms, and harmful insects as they are attracted by leftover residues from former crops.
+Reduces the risk of crop diseases which can be harbored in surface residues.
+
+
+=== Negative ===
+
+Dries the soil before seeding.
+Soil loses nutrients, like nitrogen and fertilizer, and its ability to store water.
+Decreases the water infiltration rate of soil. (Results in more runoff and erosion as the soil absorbs water more slowly than before)
+Tilling the soil results in dislodging the cohesiveness of the soil particles, thereby inducing erosion.
+Chemical runoff.
+Reduces organic matter in the soil.
+Reduces microbes, earthworms, ants, etc.
+Destroys soil aggregates.
+Compaction of the soil, also known as a tillage pan.
+Eutrophication (nutrient runoff into a body of water).
+
+
+=== Archaeology ===
+Tilling can damage ancient structures such as long barrows. In the UK, half of the long barrows in Gloucestershire and almost all the burial mounds in Essex have been damaged. According to English Heritage in 2003, ploughing with modern powerful tractors had done as much damage in the last six decades as traditional farming did in the previous six centuries.
+
+
+== General comments ==
+The type of implement makes the most difference, although other factors can have an effect.
+Tilling in absolute darkness (night tillage) might reduce the number of weeds that sprout following the tilling operation by half. Light is necessary to break the dormancy of some weed species' seed, so if fewer seeds are exposed to light during the tilling process, fewer will sprout. This may help reduce the amount of herbicides needed for weed control.
+Greater speeds, when using certain tillage implements (disks and chisel plows), lead to more intensive tillage (i.e., less residue is on the soil surface).
+Increasing the angle of disks causes residues to be buried more deeply. Increasing their concavity makes them more aggressive.
+Chisel plows can have spikes or sweeps. Spikes are more aggressive.
+Percentage residue is used to compare tillage systems because the amount of crop residue affects the soil loss due to erosion.
+
+
+== Alternatives ==
+Modern agricultural science has greatly reduced the use of tillage. Crops can be grown for several years without any tillage through the use of herbicides to control weeds, crop varieties that tolerate packed soil, and equipment that can plant seeds or fumigate the soil without really digging it up. This practice, called no-till farming, reduces costs and environmental change by reducing soil erosion and diesel fuel usage.
+
+
+== Site preparation of forest land ==
+
+Site preparation is any of the various treatments applied to a site to ready it for seeding or planting. The purpose is to facilitate the regeneration of that site by the chosen method. Site preparation may be designed to achieve, singly or in any combination, improved access by reducing or rearranging slash and ameliorating adverse forest floor, soil, vegetation, or other biotic factors. Site preparation is undertaken to ameliorate one or more constraints that would otherwise be likely to thwart management objectives. A valuable bibliography on the effects of soil temperature and site preparation on subalpine and boreal tree species has been prepared by McKinnon et al. (2002).
+Site preparation is the work that is done before a forest area is regenerated. Some types of site preparation are burning.
+
+
+=== Burning ===
+Broadcast burning is commonly used to prepare clearcut sites for planting, e.g., in central British Columbia, and in the temperate region of North America generally.
+Prescribed burning is carried out primarily for slash hazard reduction and to improve site conditions for regeneration; all or some of the following benefits may accrue:
+
+a) Reduction of logging slash, plant competition, and humus prior to direct seeding, planting, scarifying or in anticipation of natural seeding in partially cut stands or in connection with seed-tree systems.
+b) Reduction or elimination of unwanted forest cover prior to planting or seeding, or prior to preliminary scarification thereto.
+c) Reduction of humus on cold, moist sites to favour regeneration.
+d) Reduction or elimination of slash, grass, or brush fuels from strategic areas around forested land to reduce the chances of damage by wildfire.
+Prescribed burning for preparing sites for direct seeding was tried on a few occasions in Ontario, but none of the burns was hot enough to produce a seedbed that was adequate without supplementary mechanical site preparation.
+Changes in soil chemical properties associated with burning include significantly increased pH, which Macadam (1987) in the Sub-boreal Spruce Zone of central British Columbia found persisting more than a year after the burn. Average fuel consumption was 20 to 24 t/ha and the forest floor depth was reduced by 28% to 36%. The increases correlated well with the amounts of slash (both total and ≥7 cm diameter) consumed. The change in pH depends on the severity of the burn and the amount consumed; the increase can be as much as 2 units, a 100-fold change. Deficiencies of copper and iron in the foliage of white spruce on burned clearcuts in central British Columbia might be attributable to elevated pH levels.
+Even a broadcast slash fire in a clearcut does not give a uniform burn over the whole area. Tarrant (1954), for instance, found only 4% of a 140-ha slash burn had burned severely, 47% had burned lightly, and 49% was unburned. Burning after windrowing obviously accentuates the subsequent heterogeneity.
+Marked increases in exchangeable calcium also correlated with the amount of slash at least 7 cm in diameter consumed. Phosphorus availability also increased, both in the forest floor and in the 0 cm to 15 cm mineral soil layer, and the increase was still evident, albeit somewhat diminished, 21 months after burning. However, in another study in the same Sub-boreal Spruce Zone found that although it increased immediately after the burn, phosphorus availability had dropped to below pre-burn levels within 9 months.
+Nitrogen will be lost from the site by burning, though concentrations in remaining forest floor were found by Macadam (1987) to have increased in two out of six plots, the others showing decreases. Nutrient losses may be outweighed, at least in the short term, by improved soil microclimate through the reduced thickness of forest floor where low soil temperatures are a limiting factor.
+The Picea/Abies forests of the Alberta foothills are often characterized by deep accumulations of organic matter on the soil surface and cold soil temperatures, both of which make reforestation difficult and result in a general deterioration in site productivity; Endean and Johnstone (1974) describe experiments to test prescribed burning as a means of seedbed preparation and site amelioration on representative clear-felled Picea/Abies areas. Results showed that, in general, prescribed burning did not reduce organic layers satisfactorily, nor did it increase soil temperature, on the sites tested. Increases in seedling establishment, survival, and growth on the burned sites were probably the result of slight reductions in the depth of the organic layer, minor increases in soil temperature, and marked improvements in the efficiency of the planting crews. Results also suggested that the process of site deterioration has not been reversed by the burning treatments applied.
+
+
+=== Ameliorative intervention ===
+Slash weight (the oven-dry weight of the entire crown and that portion of the stem less than four inches in diameter) and size distribution are major factors influencing the forest fire hazard on harvested sites. Forest managers interested in the application of prescribed burning for hazard reduction and silviculture, were shown a method for quantifying the slash load by Kiil (1968). In west-central Alberta, he felled, measured, and weighed 60 white spruce, graphed (a) slash weight per merchantable unit volume against diameter at breast height (dbh), and (b) weight of fine slash (<1.27 cm) also against dbh, and produced a table of slash weight and size distribution on one acre of a hypothetical stand of white spruce. When the diameter distribution of a stand is unknown, an estimate of slash weight and size distribution can be obtained from average stand diameter, number of trees per unit area, and merchantable cubic foot volume. The sample trees in Kiil's study had full symmetrical crowns. Densely growing trees with short and often irregular crowns would probably be overestimated; open-grown trees with long crowns would probably be underestimated.
+The need to provide shade for young outplants of Engelmann spruce in the high Rocky Mountains is emphasized by the U.S. Forest Service. Acceptable planting spots are defined as microsites on the north and east sides of down logs, stumps, or slash, and lying in the shadow cast by such material. Where the objectives of management specify more uniform spacing, or higher densities, than obtainable from an existing distribution of shade-providing material, redistribution or importing of such material has been undertaken.
+
+
+=== Access ===
+Site preparation on some sites might be done simply to facilitate access by planters, or to improve access and increase the number or distribution of microsites suitable for planting or seeding.
+Wang et al. (2000) determined field performance of white and black spruces 8 and 9 years after outplanting on boreal mixedwood sites following site preparation (Donaren disc trenching versus no trenching) in 2 plantation types (open versus sheltered) in southeastern Manitoba. Donaren trenching slightly reduced the mortality of black spruce but significantly increased the mortality of white spruce. Significant difference in height was found between open and sheltered plantations for black spruce but not for white spruce, and root collar diameter in sheltered plantations was significantly larger than in open plantations for black spruce but not for white spruce. Black spruce open plantation had significantly smaller volume (97 cm3) compared with black spruce sheltered (210 cm3), as well as white spruce open (175 cm3) and sheltered (229 cm3) plantations. White spruce open plantations also had smaller volume than white spruce sheltered plantations. For transplant stock, strip plantations had a significantly higher volume (329 cm3) than open plantations (204 cm3). Wang et al. (2000) recommended that sheltered plantation site preparation should be used.
+
+
+=== Mechanical ===
+Up to 1970, no "sophisticated" site preparation equipment had become operational in Ontario, but the need for more efficacious and versatile equipment was increasingly recognized. By this time, improvements were being made to equipment originally developed by field staff, and field testing of equipment from other sources was increasing.
+According to J. Hall (1970), in Ontario at least, the most widely used site preparation technique was post-harvest mechanical scarification by equipment front-mounted on a bulldozer (blade, rake, V-plow, or teeth), or dragged behind a tractor (Imsett or S.F.I. scarifier, or rolling chopper). Drag type units designed and constructed by Ontario's Department of Lands and Forests used anchor chain or tractor pads separately or in combination, or were finned steel drums or barrels of various sizes and used in sets alone or combined with tractor pad or anchor chain units.
+J. Hall's (1970) report on the state of site preparation in Ontario noted that blades and rakes were found to be well suited to post-cut scarification in tolerant hardwood stands for natural regeneration of yellow birch. Plows were most effective for treating dense brush prior to planting, often in conjunction with a planting machine. Scarifying teeth, e.g., Young's teeth, were sometimes used to prepare sites for planting, but their most effective use was found to be preparing sites for seeding, particularly in backlog areas carrying light brush and dense herbaceous growth. Rolling choppers found application in treating heavy brush but could be used only on stone-free soils. Finned drums were commonly used on jack pine–spruce cutovers on fresh brushy sites with a deep duff layer and heavy slash, and they needed to be teamed with a tractor pad unit to secure good distribution of the slash. The S.F.I. scarifier, after strengthening, had been "quite successful" for 2 years, promising trials were under way with the cone scarifier and barrel ring scarifier, and development had begun on a new flail scarifier for use on sites with shallow, rocky soils. Recognition of the need to become more effective and efficient in site preparation led the Ontario Department of Lands and Forests to adopt the policy of seeking and obtaining for field testing new equipment from Scandinavia and elsewhere that seemed to hold promise for Ontario conditions, primarily in the north. Thus, testing was begun of the Brackekultivator from Sweden and the Vako-Visko rotary furrower from Finland.
+
+
+=== Mounding ===
+Site preparation treatments that create raised planting spots have commonly improved outplant performance on sites subject to low soil temperature and excess soil moisture. Mounding can certainly have a big influence on soil temperature. Draper et al. (1985), for instance, documented this as well as the effect it had on root growth of outplants (Table 30).
+The mounds warmed up quickest, and at soil depths of 0.5 cm and 10 cm averaged 10 and 7 °C higher, respectively, than in the control. On sunny days, daytime surface temperature maxima on the mound and organic mat reached 25 °C to 60 °C, depending on soil wetness and shading. Mounds reached mean soil temperatures of 10 °C at 10 cm depth 5 days after planting, but the control did not reach that temperature until 58 days after planting. During the first growing season, mounds had 3 times as many days with a mean soil temperature greater than 10 °C than did the control microsites.
+Draper et al.'s (1985) mounds received 5 times the amount of photosynthetically active radiation (PAR) summed over all sampled microsites throughout the first growing season; the control treatment consistently received about 14% of daily background PAR, while mounds received over 70%. By November, fall frosts had reduced shading, eliminating the differential. Quite apart from its effect on temperature, incident radiation is also important photosynthetically. The average control microsite was exposed to levels of light above the compensation point for only 3 hours, i.e., one-quarter of the daily light period, whereas mounds received light above the compensation point for 11 hours, i.e., 86% of the same daily period. Assuming that incident light in the 100–600 μE/m2/s intensity range is the most important for photosynthesis, the mounds received over 4 times the total daily light energy that reached the control microsites.
+
+
+=== Orientation of linear site preparation ===
+With linear site preparation, orientation is sometimes dictated by topography or other considerations, but the orientation can often be chosen. It can make a difference. A disk-trenching experiment in the Sub-boreal Spruce Zone in interior British Columbia investigated the effect on growth of young outplants (lodgepole pine) in 13 microsite planting positions: berm, hinge, and trench in each of north, south, east, and west aspects, as well as in untreated locations between the furrows. Tenth-year stem volumes of trees on south-, east-, and west-facing microsites were significantly greater than those of trees on north-facing and untreated microsites. However, planting spot selection was seen to be more important overall than trench orientation.
+In a Minnesota study, the N–S strips accumulated more snow but snow melted faster than on E–W strips in the first year after felling. Snow-melt was faster on strips near the centre of the strip-felled area than on border strips adjoining the intact stand. The strips, 50 feet (15.24 m) wide, alternating with uncut strips 16 feet (4.88 m) wide, were felled in a Pinus resinosa stand, aged 90 to 100 years.
+
+
+== See also ==
+Advance sowing
+Land development
+Optimum water content for tillage
+Site preparation
+Soybean management practices
+SWEEP (Soil and Water Environmental Enhancement program)
+Tillage erosion
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Bibliography ===
+Cook, R.L., H.F. McColly, L.S. Robertson, and C.M. Hansen. 1958. Save Money – Water –  Soil with Minimum Tillage. Extension Bulletin 352. Cooperative Extension Service, Michigan State University, East Lansing.
+Sprague, Milton A., and Glover B. Triplett. 1986. No-tillage and surface-tillage agriculture: the tillage revolution. New York, Wiley. ISBN 978-0-471-88410-1
+Troeh, Frederick R., J. Arthur Hobbs, Roy L. Donahue. 1991. Soil and water conservation for productivity and environmental protection, 2nd ed. Englewood Cliffs, N.J., Prentice-Hall. ISBN 978-0-13-096807-4
+Soil Science of America. 2009. Glossary of Soil Science Terms. [Online]. Available at https://www.soils.org/publications/soils-glossary (28 September 2009; verified 28 September 2009). Soil Science of America, Madison, WI.
+No-Plow Farmers Save Our Soil
+agriculture_sustainable_farming.html
+Manufacturer of Agricultural Zone Till Subsoiler with Photos (umequip.com by Unverferth Equipment)
+
+
+== Further reading ==
+Brady, Nyle C.; R.R. Weil (2002). The nature and property of soils, 13th edition. New Jersey: Prentice Hall. ISBN 0-13-016763-0.
+
+
+== External links ==
+
+"Illustrated Guide of Tilling and Weaving: Rural Life in China" from 1696

@@ -1,0 +1,47 @@
+{
+  "created": "2026-08-17",
+  "sources": {
+    "wikipedia_docs": 32,
+    "gutenberg_docs": 5,
+    "skipped": [
+      "wiki:Drought"
+    ]
+  },
+  "raw_after_clean": {
+    "docs": 37,
+    "chars": 3804835,
+    "words": 647356
+  },
+  "after_dedupe": {
+    "docs": 37,
+    "chars": 3799633,
+    "words": 646685
+  },
+  "split": {
+    "val_fraction": 0.1,
+    "seed": 0,
+    "train": {
+      "docs": 33,
+      "chars": 3162028,
+      "words": 535320
+    },
+    "valid": {
+      "docs": 4,
+      "chars": 637605,
+      "words": 111365
+    },
+    "train_chars_fraction": 0.8322
+  },
+  "tokens": {
+    "train": {
+      "vocab_size": 5237,
+      "word_types": 42444,
+      "total_tokens": 897225,
+      "tokens_per_1000_chars": 283.7
+    },
+    "bpe_merges": 5000,
+    "bpe_train_seconds": 759.1,
+    "saved": "data/processed/agri_bpe_tokenizer.json",
+    "note": "5000-merge run completed and saved the tokenizer; train_seconds not re-measured (original 2000-merge run: 759s)"
+  }
+}

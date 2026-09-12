@@ -1,0 +1,56 @@
+Elateridae or click beetles (or "typical click beetles" to distinguish them from the related families Cerophytidae and Eucnemidae, which are also capable of clicking) are a family of beetles. Other names include elaters, snapping beetles, spring beetles or skipjacks. This family was defined by William Elford Leach (1790–1836) in 1815. They are a cosmopolitan beetle family characterized by the unusual click mechanism they possess. There are a few other families of Elateroidea in which a few members have the same mechanism, but most elaterid subfamilies can click. A spine on the prosternum can be snapped into a corresponding notch on the mesosternum, producing a violent "click" that can bounce the beetle into the air. The evolutionary purpose of this click is debated: hypotheses include that the clicking noise deters predators or is used for communication, or that the click may allow the beetle to "pop" out of the substrate in which it is pupating. It is unlikely that the click is used for avoiding predators as it does not carry the beetle very far (<50 cm), and in practice click beetles usually play dead or flee normally. There are about 9300 known species worldwide, and 965 valid species in North America.
+
+
+== Etymology ==
+Leach took the family name from the genus Elater, coined by Linnaeus in 1758. In Greek, ἐλατήρ means one who drives, pushes, or beats out. It is also the origin of the word "elastic", from the notion of beating out a ductile substance.
+
+
+== Description and ecology ==
+Some click beetles are large and colorful, but most are under two centimeters long and brown or black, without markings. The adults are typically nocturnal and phytophagous, but only some are of economic importance. On hot nights they may enter houses, but are not pests there. Click beetle larvae, called wireworms, are usually saprophagous, living on dead organisms, but some species are serious agricultural pests, and others are active predators of other insect larvae. Some elaterid species are bioluminescent in both larval and adult form, such as those of the genus Pyrophorus.
+
+
+=== Wireworms ===
+Larvae are elongate, cylindrical or somewhat flattened, with hard bodies, somewhat resembling mealworms. The three pairs of legs on the thoracic segments are short and the last abdominal segment is, as is frequently the case in beetle larvae, directed downward and may serve as a terminal proleg in some species. The ninth segment, the rearmost, is pointed in larvae of Agriotes, Dalopius and Melanotus, but is bifid due to a so-called caudal notch in Selatosomus (formerly Ctenicera), Limonius, Hypnoides and Athous species. The dorsum of the ninth abdominal segment may also have sharp processes, such as in the Oestodini, including the genera Drapetes and Oestodes. Although some species complete their development in one year (e.g. Conoderus), most wireworms spend three or four years in the soil, feeding on decaying vegetation and the roots of plants, and often causing damage to agricultural crops such as potato, strawberry, maize, and wheat. The subterranean habits of wireworms, their ability to quickly locate food by following carbon dioxide gradients produced by plant material in the soil, and their remarkable ability to recover from illness induced by insecticide exposure (sometimes after many months), make it hard to exterminate them once they have begun to attack a crop.  Wireworms can pass easily through the soil on account of their shape and their propensity for following pre-existing burrows, and can travel from plant to plant, thus injuring the roots of multiple plants within a short time. Methods for pest control include crop rotation and clearing the land of insects before sowing.
+Other subterranean creatures such as the leatherjacket grub of crane flies which have no legs, and geophilid centipedes, which may have over two hundred, are sometimes confused with the six-legged wireworms.
+
+
+=== Clicking ability ===
+The ability of click beetles to "click" their bodies, sometimes launching themselves into the air, has been studied in detail. It has three stages—the pre-jump stage, the takeoff stage, and the airborne stage. The beetle is supine, on its back, in the pre-jump stage, and over ~2-3s it rotates its prothorax (foremost section) down to touch the ground in a bracing position. In the takeoff phase the prothorax rotates rapidly upward in a "snap", launching the beetle off of the ground and ballistically into the air. Crucially, the beetle uses specialized mechanisms to hold itself in the bracing position while its muscles continue to contract, until it releases the tension in one "snap".
+
+
+== Evolution and taxonomy ==
+The oldest known species date to the Triassic, but most are problematic due to only being known from isolated elytra. Many fossil elaterids belong to the extinct subfamily Protagrypninae.
+Approximately 20 subfamilies are included in the Elateridae, considered typical of beetles in the superfamily Elateroidea; authorities have moved genera from related families (e.g. "false click beetles" to the Thylacosterninae).
+
+
+=== Thylacosterninae ===
+Authority: Fleutiaux, 1920
+
+Balgus Fleutiaux, 1920
+Cussolenis Fleutiaux, 1918
+Pterotarsus Guérin-Méneville
+Thylacosternus Gemminger, 1869
+
+
+=== Other selected genera ===
+
+
+== Gallery ==
+
+
+== Notes ==
+
+
+== References ==
+Rines, George Edwin, ed. (1920). "Click Beetle" . Encyclopedia Americana.
+
+
+== External links ==
+ Media related to Elateridae at Wikimedia Commons
+ Data related to Click beetle at Wikispecies
+Elateridae. Click Beetles of the Palearctic Region.
+On the University of Florida / Institute of Food and Agricultural Sciences Featured Creatures website:
+
+Click beetles, Alaus spp.
+Conoderus rudis (Brown)
+Conoderus scissus Schaeffer

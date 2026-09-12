@@ -1,0 +1,395 @@
+A soil horizon is a layer parallel to the soil surface whose physical, chemical and biological characteristics differ from the layers above and beneath. Horizons are defined in many cases by obvious physical features, mainly colour and texture. These may be described both in absolute terms (particle size distribution for texture, for instance) and in terms relative to the surrounding material, i.e. "coarser" or "sandier" or "darker" than the horizons above and below.
+The identified horizons are indicated with symbols, which are mostly used in a hierarchical way. Master horizons (main horizons) are indicated by capital letters. Suffixes, in form of lowercase letters and figures, further differentiate the master horizons. There are many different systems of horizon symbols in the world. No one system is more correct—as artificial constructs, their utility lies in their ability to accurately describe local conditions in a consistent manner. Due to the different definitions of the horizon symbols, the systems cannot be mixed.
+In most soil classification systems, horizons are used to define soil types. The German system uses entire horizon sequences for definition. Other systems pick out certain horizons, the "diagnostic horizons", for the definition; examples are the World Reference Base for Soil Resources (WRB), the USDA soil taxonomy and the Australian Soil Classification. Diagnostic horizons are usually indicated with names, e.g. the "cambic horizon" or the "spodic horizon". The WRB lists 40 diagnostic horizons. In addition to these diagnostic horizons, some other soil characteristics may be needed to define a soil type. Some soils, called "Entisols" in the USDA soil taxonomy, do not have a clear development of horizons.
+A soil horizon is a result of soil-forming processes (pedogenesis). Layers that have not undergone such processes may be simply called "layers". According to the fourth edition of the World Reference Base, "A soil layer is a zone in the soil, approximately parallel to the soil surface, with properties different from layers above and/or below it. If at least one of these properties is the result of soil-forming processes, the layer is called a soil horizon".
+
+
+== Horizon sequence ==
+Many soils have an organic surface layer, which is denominated with a capital letter "O" (letters may differ depending on the system). The mineral soil usually starts with an A horizon. If a well-developed subsoil horizon as a result of soil formation exists, it is generally called a B horizon. An underlying loose, but poorly developed horizon is called a C horizon. Hard bedrock is mostly denominated R. Most individual systems defined more horizons and layers than just these five. In the following, the horizons and layers are listed more or less by their position from top to bottom within the soil profile. Not all of them are present in every soil.
+Soils with a history of human interference, for instance through major earthworks or regular deep ploughing, may lack distinct horizons almost completely. When examining soils in the field, attention must be paid to the local geomorphology and the historical uses to which the land has been put, in order to ensure that the appropriate names are applied to the observed horizons.
+
+
+== Examples of soil profiles ==
+
+
+== Horizons and layers according to the World Reference Base for Soil Resources ==
+The designations are found in Chapter 10 of the World Reference Base for Soil Resources Manual, 4th edition (2022). The chapter starts with some general definitions: 
+The fine earth comprises the soil constituents ≤ 2 mm. The whole soil comprises fine earth, coarse fragments, artefacts, cemented parts, and dead plant residues of any size.
+A litter layer is a loose layer that contains > 90% (by volume, related to the fine earth plus all dead plant residues) recognizable dead plant tissues (e.g. undecomposed leaves). Dead plant material still connected to living plants (e.g. dead parts of sphagnum mosses) is not regarded to form part of a litter layer. The soil surface (0 cm) is by convention the surface of the soil after removing, if present, the litter layer and, if present, below a layer of living plants (e.g. living mosses). The mineral soil surface is the upper limit of the uppermost layer consisting of mineral material.
+A soil layer is a zone in the soil, approximately parallel to the soil surface, with properties different from layers above and/or below it. If at least one of these properties is the result of soil-forming processes, the layer is called a soil horizon. In the following, the term layer is used to indicate the possibility that soil-forming processes did not occur.
+The following layers are distinguished (see Chapter 3.3 of the WRB Manual):
+
+Organic layers consist of organic material: Have ≥ 20% organic carbon, not consisting of artefacts (related to the fine earth plus the dead plant residues of any length and a diameter ≤ 5 mm) and do not form part of a litter layer.
+Organotechnic layers consist of organotechnic material: Have ≥ 35% (by volume, related to the whole soil) artefacts containing ≥ 20% organic carbon; and < 20% organic carbon, not consisting of artefacts (related to the fine earth plus the dead plant residues of any length and a diameter ≤ 5 mm).
+Mineral layers are all other layers.
+The designation consists of a capital letter (master symbol), which in most cases is followed by one or more lowercase letters (suffixes).
+
+
+=== Master symbols ===
+H:
+Organic or organotechnic layer, not forming part of a litter layer; 
+water saturation > 30 consecutive days in most years or drained;
+generally regarded as peat layer or organic limnic layer.
+O:
+Organic horizon or organotechnic layer, not forming part of a litter layer;
+water saturation ≤ 30 consecutive days in most years and not drained;
+generally regarded as non-peat and non-limnic horizon.
+A:
+Mineral horizon at the mineral soil surface or buried; 
+contains organic matter that has at least partly been modified in-situ;
+soil structure and/or structural elements created by cultivation in ≥ 50% (by volume, related to the fine earth), i.e. rock structure, if present, in < 50% (by volume).
+E:
+Mineral horizon; 
+has lost by downward movement within the soil (vertically or laterally) one or more of the following: Fe, Al, and/or Mn species; clay minerals; organic matter.
+B:
+Mineral horizon that has (at least originally) formed below an A or E horizon;
+rock structure, if present, in < 50% (by volume, related to the fine earth);
+one or more of the following processes of soil formation:
+
+formation of soil aggregate structure
+formation of clay minerals and/or oxides
+accumulation by illuviation processes of one or more of the following: Fe, Al, and/or Mn species; clay minerals; organic matter; silica; carbonates; gypsum
+removal of carbonates or gypsum.
+B horizons may show other accumulations as well.
+C:
+Mineral layer; 
+unconsolidated (can be cut with a spade when moist), or consolidated and more fractured than the R layer; 
+no soil formation, or soil formation that does not meet the criteria of the A, E, and B horizon.
+R:
+Consolidated rock; 
+air-dry or drier specimens, when placed in water, will not slake within 24 hours;
+fractures, if present, occupy < 10% (by volume, related to the whole soil); 
+not resulting from the cementation of a soil horizon.
+I:
+≥ 75% ice (by volume, related to the whole soil), permanent, below an H, O, A, E, B or C layer.
+W:
+Permanent water above the soil surface or between layers, may be seasonally frozen.
+
+
+=== Suffixes ===
+This is the list of suffixes to the master symbols. In brackets is indicated to which master symbols the suffixes can be added. The suffixes e and i have different meanings for organic and mineral layers.
+
+a: Organic material in an advanced state of decomposition [a like advanced] (H, O).
+b: Buried horizon; first, the horizon has formed, and then, it was buried by mineral material [b like buried] (H, O, A, E, B).
+c: Concretions and/or nodules [c like concretion]; only used if following another suffix (k, q, v, y) that indicates the accumulated substance.
+d: Drained [d like drained] (H).
+e: Organic material in an intermediate state of decomposition [e like intermediate] (H, O).
+e: Saprolite [e like saprolite] (C).
+f: Permafrost [f like frost] (H, O, A, E, B, C).
+g: Accumulation of Fe and/or Mn oxides predominantly inside soil aggregates, if present, and loss of these oxides on aggregate surfaces (A, B, C), or loss of Fe and/or Mn by lateral subsurface flow and pale colours in ≥ 50% of the exposed area (E); transport in reduced form [g like stagnic].
+h: Significant amount of organic matter; in A horizons at least partly modified in situ; in B horizons predominantly by illuviation; in C horizons forming part of the parent material [h like humus] (A, B, C).
+i: Organic material in an initial state of decomposition; [i like initial] (H, O).
+j: Accumulation of jarosite and/or schwertmannite [j like jarosite] (H, O, A, E, B, C).
+k: Accumulation of secondary carbonates [k like German Karbonat] (H, O, A, E, B, C).
+l: Accumulation of Fe and/or Mn in reduced form by upward-moving capillary water with subsequent oxidation: accumulation predominantly at soil aggregate surfaces, if present, and reduction of these oxides inside the aggregates [l like capillary] (H, A, B, C).
+m: Pedogenic cementation in ≥ 50% of the volume; cementation class: at least moderately cemented; only used if following another suffix (k, l, q, s, v, y, z) that indicates the cementing agent [m like cemented].
+n: Exchangeable sodium percentage ≥ 6% [n like natrium] (E, B, C).
+o: Residual accumulation of large amounts of pedogenic oxides in strongly weathered horizons [o like oxide] (B).
+p: Modification by cultivation (e.g. ploughing); mineral layers are designated A, even if they belonged to another layer before cultivation [p like plough] (H, O, A).
+q: Accumulation of secondary silica [q like quartz] (A, E, B, C).
+r: Strong reduction [r like reduction] (A, E, B, C).
+s: Accumulation of Fe oxides, Mn oxides and/or Al by vertical illuviation processes from above [s like sesquioxide]. (B, C).
+ss: Slickensides and/or wedge-shaped aggregates [ss like "s"licken"s"ide] (B).
+t: Accumulation of clay minerals by illuviation processes [t like German Ton, clay]. (B, C).
+u: Containing artefacts or consisting of artefacts [u like urban] (H, O, A, E, B, C, R).
+v: Plinthite [the suffix v has no connotation] (B, C).
+w: Formation of soil structure and/or oxides and/or clay minerals (layer silicates, allophanes and/or imogolites) [w like weathered] (B).
+x: Fragic characteristics [the x refers to the impossibility of roots to enter the aggregates] (E, B, C).
+y: Accumulation of secondary gypsum [y like gypsum or Spanish yeso] (A, E, B, C).
+z: Presence of readily soluble salts [z like Dutch zout] (H, O, A, E, B, C).
+@: cryogenic alteration (H, O, A, E, B, C).
+α: Presence of primary carbonates (in R layers related to the rock, in all other layers related to the fine earth) [α like carbonate] (H, A, E, B, C, R).
+β: Bulk density ≤ 0.9 kg dm-3 [β like bulk density] (B).
+γ: Containing ≥ 5% (by grain count) volcanic glasses in the fraction between > 0.02 and ≤ 2 mm [γ like glass] (H, O, A, E, B, C).
+δ: High bulk density (natural or anthropogenic), so that roots cannot enter, except along cracks [δ like dense] (A, E, B, C).
+λ: Deposited in a body of water (limnic) [λ like limnic] (H, A. C).
+ρ: Relict features (only used if following another suffix (g, k, l, p, r, @) that indicates the relict feature) [ρ like relict].
+σ: Permanent water saturation and no redoximorphic features [σ like saturation] (A, D, B, C)
+τ: Human-transported natural material (related to the whole soil) [τ like transported] ((H, O, A, B, C).
+φ: Accumulation of Fe and/or Mn in reduced form by lateral subsurface flow with subsequent oxidation [φ like flow] (A, B, C).
+I and W layers have no suffixes.
+Combination of suffixes:
+1.	The c follows the suffix that indicates the substance that forms the concretions or nodules; if this is true for more than one suffix, each one is followed by the c. 
+2.	The m follows the suffix that indicates the substance that is the cementing agent; if this is true for more than one suffix, each one is followed by the m. 
+3.	The ρ follows the suffix that indicates the relict features; if this is true for more than one suffix, each one is followed by the ρ.
+4.	If two suffixes belong to the same soil-forming process, they follow each other immediately; in the combination of t and n, the t is written first; rules 1, 2 and 3 have to be followed, if applicable. 
+Examples: Btn, Bhs, Bsh, Bhsm, Bsmh. 
+5.	If in a B horizon the characteristics of the suffixes g, h, k, l, o, q, s, t, v, or y are strongly expressed, the suffix w is not used, even if its characteristics are present; if the characteristics of the mentioned suffixes are weakly expressed and the characteristics of the suffix w are present as well, the suffixes are combined. 
+6.	In H and O layers, the i, e or a is written first.
+7.	The @, f and b are written last, if b occurs together with @ or f (only if other suffixes are present as well): @b, fb. 
+8.	Besides that, combinations must be in the sequence of dominance, the dominant one first. Examples: Btng, Btgb, Bkcyc.
+
+
+=== Transitional layers ===
+If the characteristics of two or more master layers are superimposed to each other, the master symbols are combined without anything in between, the dominant one first, each one followed by its suffixes.
+Examples: AhBw, BwAh, AhE, EAh, EBg, BgE, BwC, CBw, BsC, CBs.
+If the characteristics of two or more master layers occur in the same depth range, but occupy distinct parts clearly separated from each other, the master symbols are combined with the slash (/), the dominant one first, each one followed by its suffixes. 
+Examples: 
+Bt/E (interfingering of E material into a Bt horizon), 
+C/Bt (Bt horizon forming lamellae within a C layer).
+W cannot be combined with other master symbols. H, O, I, and R can only be combined using the slash.
+
+
+=== Layer sequences ===
+The sequence of the layers is from top to down with a hyphen in between. 
+If lithic discontinuities occur, the strata are indicated by preceding figures, starting with the second stratum. I and W layers are not considered as strata. All layers of the respective stratum are indicated by the figure: 
+Example: Oi-Oe-Ah-E-2Bt-2C-3R. 
+If two or more layers with the same designation occur, the letters are followed by figures. The sequence of figures continues across different strata. 
+Examples: 
+Oi-Oe-Oa-Ah-Bw1-Bw2-2Bw3-3Ahb1-3Eb-3Btb-4Ahb2-4C,
+Oi-He-Ha-Cr1-2Heb-2Hab-2Cr2-3Crγ.
+
+
+== Horizons and layers according to the FAO Guidelines for Soil Description (2006) ==
+Source:
+
+
+=== Master horizons and layers ===
+H horizons or layers:
+These are layers of organic material. Organic material is defined by having a certain minimum content of soil organic carbon. In the WRB, this is 20% (by weight). The H horizon is formed from organic residues that are not incorporated into the mineral soil. The residues may be partially altered by decomposition. Contrary to the O horizons, the H horizons are saturated with water for prolonged periods, or were once saturated but are now drained artificially. In many H horizons, the residues are predominantly sphagnum mosses (peat mosses). Although these horizons form above the mineral soil surface, they may be buried by redeposited mineral soil and therefore be found at greater depth. H horizons may be overlain by O horizons that especially form after drainage.
+O horizons or layers:
+These are layers of organic material. Organic material is defined by having a certain minimum content of soil organic carbon. In the WRB, this is 20% (by weight). The O horizon is formed from organic residues that are not incorporated into the mineral soil. The residues may be partially altered by decomposition. Contrary to the H horizons, the O horizons are not saturated with water for prolonged periods and not drained artificially. In many O horizons, the residues are leaves, coniferous needles, twigs, mosses, and lichens. Although these horizons form above the mineral soil surface, they may be buried by redeposited mineral soil (e.g. after landslide, flooding, aeolian dust deposition) and therefore be found at greater depth.
+A horizons:
+These are mineral horizons that formed at the surface or below an O horizon. All or much of the original rock structure has been obliterated. Additionally, they are characterized by one or more of the following: 
+
+an accumulation of humified organic matter, intimately mixed with the mineral fraction, and not displaying properties characteristic of E or B horizons (see below);
+properties resulting from cultivation, pasturing, or similar kinds of disturbance;
+a morphology that is different from the underlying B or C horizon, resulting from processes related to the surface.
+If a surface horizon has properties of both A and E horizons but the dominant feature is an accumulation of humified organic matter, it is designated an A horizon.
+E horizons:
+These are mineral horizons in which the main feature is loss of clay minerals, iron, aluminium, organic matter or some combination of these, leaving a concentration of sand and silt particles, mostly of quartz. However, pedogenesis is advanced, because the lost substances first have been formed or accumulated there. All or much of the original rock structure is obliterated. An E horizon is usually, but not necessarily, lighter in colour than an underlying B horizon. In some soils, the colour is that of the sand and silt particles. An E horizon is most commonly differentiated from an underlying B horizon: by colour of higher value or lower chroma, or both; by coarser texture; or by a combination of these properties. An E horizon is commonly near to the surface, below an O or A horizon, and above a B horizon. However, the symbol E may be used without regard to the position in the profile for any horizon that meets the requirements and that has resulted from soil genesis.
+B horizons:
+These are horizons that formed below an A, E, H, or O horizon, and in which the dominant features are the obliteration of all or much of the original rock structure, together with one or a combination of the following:
+
+residual concentration of oxides (especially iron oxides) and/or clay minerals;
+evidence of removal of carbonates or gypsum;
+illuvial concentration, alone or in combination, of clay minerals, iron, aluminium, organic matter, carbonates, gypsum or silica;
+coatings of oxides that make the horizon conspicuously lower in value, higher in chroma, or redder in hue than overlying and underlying horizons without apparent illuviation of iron;
+alteration that forms clay minerals or liberates oxides or both and that forms a granular, blocky or prismatic structure if volume changes accompany changes in moisture content;
+brittleness.
+All kinds of B horizons are or were originally subsurface horizons.
+Examples of layers that are not B horizons are: layers in which clay films either coat rock fragments or are found on finely stratified unconsolidated sediments, whether the films were formed in place or by illuviation; layers into which carbonates have been illuviated but that are not contiguous to an overlying genetic horizon; and layers with gleying but no other pedogenic changes.
+C horizons or layers:
+These are horizons or layers, excluding hard bedrock, that are little affected by pedogenic processes and lack properties of H, O, A, E or B horizons. Most are mineral layers, but some siliceous and calcareous layers, such as shells, coral, and diatomaceous earth, are included. The material of C layers may be either like or unlike that from which the overlying solum presumably formed. Plant roots can penetrate C horizons, which provide an important growing medium. Included as C layers are sediments, saprolite, non-indurated bedrock, and other geological materials that commonly slake within 24 hours when air-dry or drier chunks are placed in water, and that, when moist, can be dug with a spade. Some soils form in material that is already highly weathered, and if such material does not meet the requirements of A, E, or B horizons, it is designated C. Changes not considered pedogenic are those not related to overlying horizons. Layers having accumulations of silica, carbonates, or gypsum, even if indurated, may be included in C horizons, unless the layer is obviously affected by pedogenic processes; then it is a B horizon.
+R layers:
+These consist of hard bedrock underlying the soil. Granite, basalt, quartzite, and indurated limestone or sandstone are examples of bedrock that are designated R. Air-dry or drier chunks of an R layer, when placed in water, will not slake within 24 hours. The R layer is sufficiently coherent when moist to make hand digging with a spade impractical. The bedrock may contain cracks, but these are so few and so small that few roots can penetrate. The cracks may be coated or filled with soil material.
+I layers:
+These are ice lenses and wedges that contain at least 75 per cent ice (by volume) and that distinctly separate layers (organic or mineral) in the soil.
+L layers:
+These are sediments deposited in a body of water. They may be organic or mineral. Limnic material is either: (i) deposited by precipitation or through action of aquatic organisms, such as algae, especially diatoms; or (ii) derived from underwater and floating aquatic plants and subsequently modified by aquatic animals. L layers include coprogenous earth or sedimentary peat (mostly organic), diatomaceous earth (mostly siliceous), and marl (mostly calcareous).
+W layers:
+These are either water layers in soils or water layers submerging soils. The water is present either permanently or cyclic within the time frame of 24 hours. Some organic soils float on water. In other cases, shallow water (i.e. water not deeper than 1 m) may cover the soil permanently, as in the case of shallow lakes, or cyclic, as in tidal flats. The occurrence of tidal water can be indicated by the letter W in brackets: (W).
+
+
+=== Transitional horizons and layers ===
+A horizon that combines the characteristics of two master horizons is indicated with both capital letters, the dominant one written first. Example: AB and BA. If discrete, intermingled bodies of two master horizons occur together, the horizon symbols are combined using a slash (/). Example: A/B and B/A. The master horizon symbols may be followed by the lowercase letters indicating subordinate characteristics (see below). Example: AhBw. The I, L and W symbols are not used in transitional horizon designations.
+
+
+=== Subordinate characteristics ===
+This is the list of suffixes to the master horizons. After the hyphen, it is indicated to which master horizons the suffixes can be added.
+
+a: Highly decomposed organic material—H and O horizons.
+b: Buried genetic horizon—mineral horizons, not cryoturbated.
+c: Concretions or nodules—mineral horizons.
+c: Coprogenous earth—L horizon.
+d: Dense layer (physically root restrictive)—mineral horizons, not with m.
+d: Diatomaceous earth—L horizon.
+e: Moderately decomposed organic material—H and O horizons.
+f: Frozen soil—not in I and R horizons.
+g: Stagnic conditions—no restriction.
+h: Accumulation of organic matter—mineral horizons.
+i: Slickensides—mineral horizons.
+i: Slightly decomposed organic material—H and O horizons.
+j: Jarosite accumulation—no restriction.
+k: Accumulation of pedogenic carbonates—no restriction.
+l: Mottling due to upmoving groundwater (gleying)—no restriction.
+m: Strong cementation or induration (pedogenic, massive)—mineral horizons.
+m: Marl—L horizon.
+n: Pedogenic accumulation of exchangeable sodium—no restriction.
+o: Residual accumulation of sesquioxides (pedogenic)—no restriction.
+p: Ploughing or other human disturbance—no restriction; ploughed E, B, or C horizons are referred to as Ap.
+q: Accumulation of pedogenic silica—no restriction.
+r: Strong reduction—no restriction.
+s: Illuvial accumulation of sesquioxides—B horizons.
+t: Illuvial accumulation of clay minerals—B and C horizons.
+u: Urban and other human-made materials (artefacts—H, O, A, E, B and C horizons.
+v: Occurrence of plinthite—no restriction.
+w: Development of colour or structure—B horizons.
+x: Fragipan characteristics—no restriction.
+y: Pedogenic accumulation of gypsum—no restriction.
+z: Pedogenic accumulation of salts more soluble than gypsum—no restriction.
+@: Evidence of cryoturbation—no restriction.
+
+
+=== Discontinuities and vertical subdivisions ===
+Numerical prefixes are used to denote lithic discontinuities. By convention, 1 is not shown. Numerical suffixes are used to denote subdivisions within a horizon. The horizons in a profile are combined using a hyphen (-). Example: Ah-E-Bt1-2Bt2-2BwC-3C1-3C2.
+
+
+== Horizons and layers according to the USDA Field book for describing and sampling soils (2024) ==
+Source:
+
+
+=== Master horizons and layers ===
+O: Organic soil materials (not limnic).
+A: Mineral; organic matter (humus) accumulation.
+E: Mineral; some loss of Fe, Al, clay, or organic matter.
+B: Subsurface accumulation of clay, Fe, Al, Si, humus, CaCO3, CaSO4; or loss of CaCO3; or accumulation of sesquioxides; or subsurface soil structure.
+C: Little or no pedogenic alteration, unconsolidated earthy material, soft bedrock.
+L: Limnic soil materials.
+W: A layer of liquid water (W) or permanently frozen water (Wf) within or beneath the soil (excludes water/ice above soil).
+M: Root-limiting subsoil layers of human-manufactured materials.
+R: Bedrock, strongly cemented to indurated.
+
+
+=== Transitional horizons and layers ===
+A horizon that combines the characteristics of two master horizons is indicated with both capital letters, the dominant one written first. Example: AB and BA. If discrete, intermingled bodies of two master horizons occur together, the horizon symbols are combined using a slash (/). Example: A/B and B/A.
+
+
+=== Horizon suffixes ===
+a: Highly decomposed organic matter (used only with O).
+aa: (proposed) Accumulation of anhydrite (CaSO4).
+b: Buried genetic horizon (not used with C horizons).
+c: Concretions or nodules.
+co: Coprogenous earth (used only with L).
+d: Densic layer (physically root restrictive).
+di: Diatomaceous earth (used only with L).
+e: Moderately decomposed organic matter (used only with O).
+f: Permanently frozen soil or ice (permafrost); continuous subsurface ice; not seasonal ice.
+ff: Permanently frozen soil ("dry" permafrost); no continuous ice; not seasonal ice.
+g: Strong gley.
+h: Illuvial organic matter accumulation.
+i: Slightly decomposed organic matter (used only with O).
+j: Jarosite accumulation.
+jj: Evidence of cryoturbation.
+k: Pedogenic CaCO3 accumulation (<50% by vol.).
+kk: Major pedogenic CaCO3 accumulation (≥50% by vol.).
+m: Continuous cementation (pedogenic).
+ma: Marl (used only with L).
+n: Pedogenic, exchangeable sodium accumulation.
+o: Residual sesquioxide accumulation (pedogenic).
+p: Plow layer or other artificial disturbance.
+q: Secondary (pedogenic) silica accumulation.
+r: Weathered or soft bedrock.
+s: Illuvial sesquioxide and organic matter accumulation.
+se: Presence of sulfides (in mineral or organic horizons).
+ss: Slickensides.
+t: Illuvial accumulation of silicate clay.
+u: Presence of human-manufactured materials (artifacts).
+v: Plinthite.
+w: Weak color or structure within B (used only with B).
+x: Fragipan characteristics.
+y: Accumulation of gypsum.
+yy: Dominance of gypsum (≈≥50% by vol.).
+z: Pedogenic accumulation of salt more soluble than gypsum.
+
+
+=== Other horizon modifiers ===
+Numerical prefixes are used to denote lithologic discontinuities. By convention, 1 is not shown. Numerical suffixes are used to denote subdivisions within a master horizon. Example: A, E, Bt1, 2Bt2, 2BC, 3C1, 3C2.
+
+
+== Horizons according to the Australian Soil and Land Survey Field Handbook (2009) ==
+Source:
+
+
+=== Horizons ===
+O horizon
+
+The "O" stands for organic matter. It is a surface layer, dominated by the presence of large amounts of organic matter in varying stages of decomposition. In the Australian system, the O horizon should be considered distinct from the layer of leaf litter covering many heavily vegetated areas, which contains no weathered mineral particles and is not part of the soil itself. O horizons may be divided into O1 and O2 categories, whereby O1 horizons contain undecomposed matter whose origin can be spotted on sight (for instance, fragments of leaves), and O2 horizons contain organic debris in various stages of decomposition, the origin of which is not readily visible. O horizons contain ≥ 20% organic carbon.
+P horizon
+
+These horizons are also heavily organic but are distinct from O horizons in that they form under waterlogged conditions. The "P" designation comes from their common name, peats. They may be divided into P1 and P2 in the same way as O horizons. P horizons contain ≥ 12 to 18% organic carbon, depending on the clay content.
+A horizon
+
+The A horizon is the top layer of the mineral soil horizons, often referred to as 'topsoil'. This layer contains dark decomposed organic matter, which is called "humus". The technical definition of an A horizon may vary between the systems, but it is most commonly described in terms relative to deeper layers. "A" horizons may be darker in colour than deeper layers and contain more organic matter, or they may be lighter but contain less clay or pedogenic oxides. The A is a surface horizon, and as such is also known as the zone in which most biological activity occurs. Soil organisms such as earthworms, potworms (enchytraeids), arthropods, nematodes, fungi, and many species of bacteria and archaea are concentrated here, often in close association with plant roots. Thus, the A horizon may be referred to as the biomantle. However, since biological activity extends far deeper into the soil, it cannot be used as a chief distinguishing feature of an A horizon. The A horizon may be further subdivided into A1 (dark, maximum biological activity), A2 (paler), and A3 (transitional to the B horizon).
+E horizon (not used in the Australian system)
+
+"E", being short for eluviated, is most commonly used to label a horizon that has been significantly leached of its mineral and/or organic content, leaving a pale layer largely composed of silicates or silica. These are present only in older, well-developed soils, and generally occur between the A and B horizons. In systems where (like in the Australian system) this designation is not employed, leached layers are classified firstly as an A or B according to other characteristics, and then appended with the designation "e" (see the section below on horizon suffixes). In soils that contain gravels, due to animal bioturbation, a stonelayer commonly forms near or at the base of the E horizon.
+B horizon
+
+The B horizon is commonly referred to as "subsoil" and consists of mineral layers which are significantly altered by pedogenesis, mostly with the formation of iron oxides and clay minerals. It is usually brownish or reddish due to the iron oxides, which increases the chroma of the subsoil to a degree that it can be distinguished from the other horizons. The weathering may be biologically mediated. In addition, the B horizon is defined as having a distinctly different structure or consistency than the horizon(s) above and the horizon(s) below.
+The B horizon can also accumulate minerals and organic matter that are migrating downwards from the A and E horizons. If so, this layer is also known as the illuviated or illuvial horizon.
+As with the A horizon, the B horizon may be divided into B1, B2, and B3 types under the Australian system. B1 is a transitional horizon of the opposite nature to an A3 – dominated by the properties of the B horizons below it, but containing some A-horizon characteristics. B2 horizons have a high concentration of clay minerals or oxides. B3 horizons are transitional between the overlying B layers and the material beneath it, whether C or D horizon.
+The A3, B1, and B3 horizons are not tightly defined, and their use is generally at the discretion of the individual worker.
+Plant roots penetrate throughout this layer, but it has very little humus.
+
+The A/E/B horizons are referred to collectively as the "solum", the surface depth of the soil where biological activity and climate effects drives pedogenesis. The layers below the solum have no collective name but are distinct in that they are noticeably less affected by surface soil-forming processes.
+C horizon
+
+The C horizon is below the solum horizons. This layer is little affected by pedogenesis. Clay illuviation, if present, is not significant. The absence of solum-type development (pedogenesis) is one of the defining attributes. The C horizon forms either in deposits (e.g., loess, flood deposits, landslides) or it formed from in situ weathering of residual bedrock. The C horizon may be enriched with carbonates carried below the solum by leaching. If there is no lithologic discontinuity between the solum and the C horizon and no underlying bedrock present, the C horizon resembles the parent material of the solum.
+
+D horizon
+D horizons are not universally distinguished, but in the Australian system refer to "any soil material below the solum that is unlike the solum in its general character, is not C horizon, and cannot be given reliable horizon designation… [it] may be recognized by the contrast in pedologic organization between it and the overlying horizons".
+R horizon
+
+R horizons denote the layer of partially weathered or unweathered bedrock at the base of the soil profile. Unlike the above layers, R horizons largely comprise continuous masses (as opposed to boulders) of hard rock that cannot be excavated by hand. If there is no lithologic discontinuity between the solum and the R horizon, the R horizon resembles the parent material of the solum.
+L horizon (not used in the Australian system)
+
+L (Limnic) horizons or layers indicate mineral or organic material that has been deposited in water by precipitation or through the actions of aquatic organisms. Included are coprogenous earth (sedimentary peat), diatomaceous earth, and marl; and is usually found as a remnant of past bodies of standing water.
+
+
+=== Transitional horizons ===
+A horizon that combines the characteristics of two horizons is indicated with both capital letters, the dominant one written first. Example: AB and BA. If distinct parts have properties of two kinds of horizons, the horizon symbols are combined using a slash (/). Example: A/B and B/A.
+
+
+=== Horizon suffixes ===
+In addition to the main descriptors above, several modifiers exist to add necessary detail to each horizon. Firstly, each major horizon may be divided into sub-horizons by the addition of a numerical subscript, based on minor shifts in colour or texture with increasing depth (e.g., B21, B22, B23 etc.). While this can add necessary depth to a field description, workers should bear in mind that excessive division of a soil profile into narrow sub-horizons should be avoided. Walking as little as ten metres in any direction and digging another hole can often reveal a very different profile in regards to the depth and thickness of each horizon. Over-precise description can be a waste of time. In the Australian system, as a rule of thumb, layers thinner than 5 cm (2 inches) or so are best described as pans or segregations within a horizon rather than as a distinct layer.
+
+Suffixes describing particular features of a horizon may also be added. The Australian system provides the following suffixes:
+
+b: buried horizon.
+c: presence of mineral concretions or nodules, perhaps of iron, aluminium, or manganese.
+d: root restricting layer.
+e: conspicuously bleached.
+f: faunal accumulations in A horizons.
+g: gleyed horizon.
+h: accumulation of organic matter.
+j: sporadically bleached.
+k: accumulation of carbonates, commonly calcium carbonate.
+m: strong cementation or induration.
+p: disturbed by ploughing or other tillage practices (A horizons only).
+q: accumulation of secondary silica.
+r: weathered, digable rock.
+s: sesquioxide accumulation.
+t: accumulation of clay minerals.
+w: weak development.
+x: fragipan.
+y: accumulation of calcium sulfate (gypsum).
+z: accumulation of salts more soluble than calcium sulfate.
+
+
+=== Buried soils ===
+
+Soil formation is often described as occurring in situ: rock breaks down, weathers and is mixed with other materials, or loose sediments are transformed by weathering. But the process is often far more complicated. For instance, a fully formed profile may have developed in an area only to be buried by wind- or water-deposited sediments which later formed into another soil profile. This sort of occurrence is most common in coastal areas, and descriptions are modified by numerical prefixes. Thus, a profile containing a buried sequence could be structured O, A1, A2, B2, 2A2, 2B21, 2B22, 2C with the buried profile commencing at 2A2.
+
+
+== Diagnostic soil horizons ==
+Many soil classification systems have diagnostic horizons. A diagnostic horizon is a horizon used to define soil taxonomic units (e.g., to define soil types). A taxonomic unit is determined by the presence or absence of one or more diagnostic horizons in a required depth. In addition, most classification systems use other soil characteristics to define taxonomic units. The diagnostic horizons need to be thoroughly characterized by a set of criteria. When allocating soil (a pedon, a soil profile) to a taxonomic unit, one has to check every horizon of this soil and decide whether or not the horizon fulfills the criteria of a diagnostic horizon. Based on the identified diagnostic horizons, one can proceed with the allocation of the soil to a taxonomic unit. The following lists the diagnostic horizons of two soil classification systems.
+
+
+=== Diagnostic horizons in the World Reference Base for Soil Resources (WRB) ===
+Source:
+
+
+=== Diagnostic horizons in the USDA soil taxonomy (ST) ===
+Source:
+
+Diagnostic surface horizons
+
+Diagnostic subsurface horizons
+
+
+== See also ==
+Archaeological horizon
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== General sources ===
+Soil-Net section on soil horizons.
+"Soil Horizon letter designations". Encyclopædia Britannica Online. Encyclopædia Britannica. 2008. Retrieved February 2, 2008.
+ This article incorporates public domain material from Soil Survey Manual. United States government. 1993. Archived from the original on August 23, 2003.
+Current version: Soil Survey Manual (March 2017) Archived April 16, 2022, at the Wayback Machine

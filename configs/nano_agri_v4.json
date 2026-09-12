@@ -1,0 +1,29 @@
+{
+  "run_name": "krishigpt_v4",
+  "corpus": "v4",
+  "device": "cpu",
+  "torch_threads": 10,
+  "seed": 0,
+  "seq_len": 128,
+  "batch_size": 16,
+  "epochs": 4,
+  "max_steps": 4440,
+  "lr": 6e-4,
+  "min_lr": 6e-5,
+  "warmup_steps": 200,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "betas": [0.9, 0.95],
+  "eps": 1e-8,
+  "dropout": 0.0,
+  "log_every": 50,
+  "val_every": 100,
+  "save_every": 300,
+  "warm_start": "checkpoints/krishigpt_v3/best.pt",
+  "smoke": {
+    "max_steps": 30,
+    "log_every": 5,
+    "val_every": 15
+  },
+  "notes": "KrishiGPT-nano corpus-v4 how-to manual warm start (new lineage; v3 stays frozen as the submitted artifact). Warm-start source: krishigpt_v3/best.pt = step 3800, best_val_loss 4.0804 on the byte-fixed validation set. Corpus v4 = v3 train (byte-reused) + 33 new how-to/practice docs = 2,269,941 ids / 17,733 windows; v4 valid = byte-identical to v3 valid (22,026 ids) so val loss stays directly comparable with 4.0804. Same architecture (6x128x4, RoPE, tied, 1,860,224 params), same 5,237-vocab BPE (no retraining), same AdamW settings. 4 epochs x 1,110 steps = 4,440 steps; cosine LR 6e-4 -> 6e-5 with 200-step warmup. CPU fallback OK (device can be switched to cuda on Colab). Dry run: configs/nano_agri_v4_dry.json."
+}

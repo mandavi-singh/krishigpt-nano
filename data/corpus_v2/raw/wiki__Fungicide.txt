@@ -1,0 +1,134 @@
+Fungicides are pesticides used to kill parasitic fungi or their spores.  Fungi can cause serious damage in agriculture, resulting in losses of yield and quality. Fungicides are used both in agriculture and to fight fungal infections in animals, including humans. Fungicides are also used to control oomycetes, which are not taxonomically/genetically fungi, although sharing similar methods of infecting plants. Fungicides can either be contact, translaminar or systemic. Contact fungicides are not taken up into the plant tissue and protect only the plant where the spray is deposited. Translaminar fungicides redistribute the fungicide from the upper, sprayed leaf surface to the lower, unsprayed surface. Systemic fungicides are taken up and redistributed through the xylem vessels. Few fungicides move to all parts of a plant. Some are locally systemic, and some move upward.
+Most fungicides that can be bought retail are sold in liquid form, the active ingredient being present at 0.08% in weaker concentrates, and as high as 0.5% for less potent fungicides. Fungicides in powdered form are usually around 90% sulfur.
+
+
+== Major fungi in agriculture ==
+Some major fungal threats to agriculture (and the associated diseases) are Ascomycetes (such as powdery mildew), basidiomycetes (various rust fungi), deuteromycetes (such as anthracnose), and oomycetes (such as downy mildew).
+
+
+== Types of fungicides ==
+
+Like other pesticides, fungicides are numerous and diverse. This complexity has led to diverse schemes for classifying fungicides.  Classifications are based on inorganic (elemental sulfur and copper salts) vs organic, chemical structures (dithiocarbamates vs phthalimides), and, most successfully, mechanism of action (MOA). These respective classifications reflect the evolution of the underlying science.
+
+
+=== Traditional ===
+
+Traditional fungicides are simple inorganic compounds like sulfur, and copper salts. While cheap, they must be applied repeatedly and are relatively ineffective. Other active ingredients in fungicides include neem oil, rosemary oil, jojoba oil, the bacterium Bacillus subtilis, and the beneficial fungus Ulocladium oudemansii.  
+
+
+=== Nonspecific ===
+In the 1930s dithiocarbamate-based fungicides, the first organic compounds used for this purpose, became available.  These include ferbam, ziram, zineb, maneb, and mancozeb.  These compounds are non-specific and are thought to inhibit cysteine-based protease enzymes.  Similarly nonspecific are N-substituted phthalimides.  Members include captafol, captan, and folpet.  Chlorothalonil is also non-specific.
+
+
+=== Specific ===
+Specific fungicides target a particular biological process in the fungus. 
+
+
+=== Nucleic acid metabolism ===
+bupirimate
+metalaxyl
+
+
+=== Cytoskeleton and motor proteins ===
+carbendazim
+pencycuron
+
+
+=== Respiration ===
+Some fungicides target succinate dehydrogenase, a metabolically central enzyme.  Fungi of the class Basidiomycetes were the initial focus of these fungicides.  These fungi are active against cereals.
+
+azoxystrobin
+binapacryl
+boscalid
+carboxin
+cyazofamid
+pydiflumetofen
+
+
+=== Amino acid and protein synthesis ===
+blasticidin-S
+kasugamycin
+pyrimethanil
+
+
+=== Signal transduction ===
+fludioxonil
+procymidone
+
+
+=== Lipid synthesis / membrane integrity ===
+propamocarb
+pyrazophos
+tecnazene
+
+
+=== Melanin synthesis in cell wall ===
+tricyclazole
+
+
+=== Sterol biosynthesis in membranes ===
+fenpropimorph
+hexaconazole
+imazalil
+myclobutanil
+propiconazole
+
+
+=== Cell wall biosynthesis ===
+dimethomorph
+polyoxins
+
+
+=== Host plant defence induction ===
+acibenzolar
+fosetyl-Al
+phosphorous acid
+
+
+=== Mycoviruses ===
+Some of the most common fungal crop pathogens are known to suffer from mycoviruses, and it is likely that they are as common as for plant and animal viruses, although not as well studied. Given the obligately parasitic nature of mycoviruses, it is likely that all of these are detrimental to their hosts, and thus are potential biocontrols/biofungicides.
+
+
+== Resistance ==
+
+Doses that provide the most control of the disease also provide the largest selection pressure to acquire resistance.
+In some cases, the pathogen evolves resistance to multiple fungicides, a phenomenon known as cross resistance. These additional fungicides typically belong to the same chemical family, act in the same way, or have a similar mechanism for detoxification. Sometimes negative cross-resistance occurs, where resistance to one chemical class of fungicides increases sensitivity to a different chemical class of fungicides. This has been seen with carbendazim and diethofencarb. Also possible is resistance to two chemically different fungicides by separate mutation events. For example, Botrytis cinerea is resistant to both azoles and dicarboximide fungicides.
+A common mechanism for acquiring resistance is alteration of the target enzyme. For example, Black Sigatoka, an economically important pathogen of banana, is resistant to the QoI fungicides, due to a single nucleotide change resulting in the replacement of one amino acid (glycine) by another (alanine) in the target protein of the QoI fungicides, cytochrome b. It is presumed that this disrupts the binding of the fungicide to the protein, rendering the fungicide ineffective. Upregulation of target genes can also render the fungicide ineffective. This is seen in DMI-resistant strains of Venturia inaequalis.
+Resistance to fungicides can also be developed by efficient efflux of the fungicide out of the cell. Septoria tritici has developed multiple drug resistance using this mechanism. The pathogen had five ABC-type transporters with overlapping substrate specificities that together work to pump toxic chemicals out of the cell.
+In addition to the mechanisms outlined above, fungi may also develop metabolic pathways that circumvent the target protein, or acquire enzymes that enable the metabolism of the fungicide to a harmless substance.
+Fungicides that are at risk of losing their potency due to resistance include Strobilurins such as azoxystrobin.
+
+
+=== Fungicide resistance management ===
+Cross-resistance can occur because the active ingredients share a common mode of action. The industry-sponsored Fungicide Resistance Action Committee (FRAC), whose parent organization is CropLife International, advises on the use of fungicides in crop protection and classifies the available compounds according to their chemical structures and mechanism of action so as to manage the risks of resistance developing. The 2024 FRAC poster of fungicides includes all the chemicals mentioned in this article.
+
+
+== Regulations ==
+In the United States, the EPA (U.S. Environmental Protection Agency) is responsible for regulation of all fungicides under the authority of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA). When a manufacturer wants to register a product with the EPA, the applicant must submit a detailed application package that includes extensive data on product toxicology, environmental fate, and residue chemistry, to demonstrate that its use, when used as directed, will not generally cause unreasonable adverse effects on the environment. In addition, the EPA must establish a legal tolerance (maximum residue limit) for the pesticide on all food or feed crops before the pesticide can be sold or distributed for food-use.
+
+
+== Safety ==
+Fungicides pose risks for humans.
+Fungicide residues have been found on food for human consumption, mostly from post-harvest treatments. Some fungicides are dangerous to human health, such as vinclozolin, which has now been removed from use. Ziram is also a fungicide that is toxic to humans with long-term exposure, and fatal if ingested.  A number of fungicides are also used in human health care.
+
+
+== See also ==
+Antifungal drug
+Index of pesticide articles
+PHI-base (Pathogen-Host-Interaction database)
+Plant pathology
+Plant disease forecasting
+
+
+== Further reading ==
+Haverkate, F.; Tempel, A.; Held, A. J. (1969). "Interaction of 2,4,5-trichlorophenylsulphonylmethyl thiocyanate with fungal spores". Netherlands Journal of Plant Pathology. 75 (5): 308–315. Bibcode:1969EJPP...75..308H. doi:10.1007/BF02015493. S2CID 23304303.
+
+
+== References ==
+
+
+== External links ==
+Fungicide Resistance Action Committee
+Fungicide Resistance Action Group, United Kingdom
+Fungicide Classification Lookup
+General Pesticide Information Archived 2007-12-29 at the Wayback Machine - National Pesticide Information Center, Oregon State University, United States

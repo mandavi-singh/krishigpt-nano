@@ -1,0 +1,69 @@
+{
+  "run": "krishigpt_v3",
+  "level": 2,
+  "n_tests": 10,
+  "compliance": 0.0,
+  "note": "Base LM with no instruction tuning \u2014 compliance is expected to be near zero; this is the baseline the v4 QA fine-tune must improve.",
+  "results": [
+    {
+      "id": "one_word",
+      "prompt": "Answer in exactly one word. What is the most important crop for food security? Answer:",
+      "output": "Wulk , isters ; Jonery ! Shade - nets - - Grand Foit Vimtype . Rolidins .",
+      "compliant": false
+    },
+    {
+      "id": "json_format",
+      "prompt": "Reply with valid JSON only, like {\"answer\": \"...\"} . What is loam? JSON:",
+      "output": "Wulk . . .",
+      "compliant": false
+    },
+    {
+      "id": "yes_no",
+      "prompt": "Answer with only yes or no. Does rice need water? Answer:",
+      "output": "Wulk , isters , waitlls and pullets , tothing and labor ; oit ranks and earnels .",
+      "compliant": false
+    },
+    {
+      "id": "list_three",
+      "prompt": "List exactly three grain crops, comma-separated. Answer:",
+      "output": "Wulk , Jlaying eggs , Northwest and eather , and sent no reverse ire without it .",
+      "compliant": false
+    },
+    {
+      "id": "short_answer",
+      "prompt": "Answer in at most 10 words. What is compost? Answer:",
+      "output": "Wulk , isters , waitlls and pullets , tothing and labor ; oit them into the north ; and when they ha",
+      "compliant": false
+    },
+    {
+      "id": "stop_word",
+      "prompt": "What is irrigation? End your answer with the word done.",
+      "output": "Well , the land , is the _Stam_ and hard - storing the hill , while oit was immature .",
+      "compliant": false
+    },
+    {
+      "id": "one_word2",
+      "prompt": "Answer in exactly one word. What do farmers add to soil to make it richer? Answer:",
+      "output": "Wulk , istry - - _the Philellene_ ; New Cavery , it was immature at the Paris Tha",
+      "compliant": false
+    },
+    {
+      "id": "yes_no2",
+      "prompt": "Answer with only yes or no. Is nitrogen a plant nutrient? Answer:",
+      "output": "Wulk , istry of clay onins ! Peach a light tothing that adds even it was immature .",
+      "compliant": false
+    },
+    {
+      "id": "short_answer2",
+      "prompt": "Answer in at most 10 words. What does irrigation mean? Answer:",
+      "output": "Wulk , istry - till - the - bur body ' s tothing that cause the same it was immature .",
+      "compliant": false
+    },
+    {
+      "id": "list_three2",
+      "prompt": "List exactly three soil types, comma-separated. Answer:",
+      "output": "wilting ashes , and generally nutrition has the ambition of a useful tothing that labor reduces it .",
+      "compliant": false
+    }
+  ]
+}

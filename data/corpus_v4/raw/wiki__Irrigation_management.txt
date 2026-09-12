@@ -1,0 +1,137 @@
+Irrigation is the artificial exploitation and distribution of water at project level aiming at application of water at field level to agricultural crops in dry areas or in periods of scarce rainfall to assure or improve crop production. 
+This article discusses organizational forms and means of management of irrigation water at project (system) level.
+
+
+== History ==
+Scholars such as Julian H. Steward and Karl August Wittfogel have seen the management of irrigation as a crucial factor in the development of many early states (hydraulic empires).
+
+
+== Water management ==
+
+The most important physical elements of an irrigation project are land and water. In accordance with the proprietary relations of these elements there may be different types of water management:
+
+the communal type
+the enterprise type
+the utility type
+From the point of view of water, the universal law of water balance must be obeyed for any Water Use System, including an irrigation system.
+
+
+=== Communal type ===
+Until the end of the 19th century the development of irrigation projects occurred at a mild pace, reaching a total area of some 50 million ha worldwide, which is about 1/5 of the present area (see Irrigation statistics). The land was often private ha "privates" property or assigned by the village authorities to male or female farmers, but the water resources were in the hands of clans or communities who managed the water resources cooperatively.
+
+
+=== Enterprise type ===
+
+The enterprise type of water management occurred under large landowners or agricultural corporations, but also in centrally controlled societies. Both the land and water resources are in one hand. 
+Large plantations were found in colonised countries in Asia, Africa, and Latin America, but also in countries employing slave labor. It concerned mostly the large scale cultivation of commercial crops such as bananas, sugarcane and cotton. 
+As a result of land reforms, in many countries the estates were reformed into a cooperatives in which the previous employers became members and exercised a cooperative form of land and water management.
+
+
+=== Utility type ===
+
+The utility type of water management occurs in areas where the land is owned by many, but the exploitation and distribution of the water resources are managed by (government) organizations. 
+After 1900 governments assumed more influence over irrigation because:
+
+water was increasingly considered government property owing to the increasing demand for good quality water and the reducing availability
+governments embarked on large scale irrigation projects as they were considered more efficient
+the development of new irrigation schemes became technically, financially and organizationally so complicated that they fell outside the capabilities of the smaller communities
+the import and export policies of governments required the cultivation of commercial cash crops whilst, by controlling the water management, the farmers could be more easily guided to plant these kind of crops.
+The water management signified a large subsidy on irrigation schemes. From 1980 the operation and maintenance of many irrigation projects was gradually handed over to water user organizations (WUA's) who were to assume these tasks and a large part of the costs, whereby the water rights of the members had to be respected.
+The exploitation of water resources via large storage dams - that often provided electric power as well - and diversion weirs normally remained the responsibility of the government, mainly because environmental protection and safety issues were at stake.
+In the past, the utility type of water management witnessed more conflicts and disturbances then the other types (see water delivery practices below).
+
+
+== Water pricing ==
+
+
+=== Tariffs ===
+Irrigation water has a price by which the management costs must be covered. The following tariff (water charge) systems exist:
+
+No tariff, the government assumes the costs
+Tariff in labor hours, which holds mainly in communal types of management in traditional irrigation systems
+Yearly area tariff, a fixed price per ha per year
+Seasonal area tariff, a fixed price per ha per season with the higher price in the dry season
+Volumetric tariff, a fixed price per m3 of water; the consumption is measured by water meters
+Block or stepped-up pricing for water use per ha; the price increases as the water consumption per ha falls in a higher block.
+The use of groundwater for irrigation is often licensed by government and the well owner may be permitted to withdraw only a maximum volume of water per year at a certain price.
+
+
+=== Cost recovery ===
+The recovery of water charges may be below target, because:
+
+The revenues accrue to a (government)organization other than the one responsible for the management
+Farmers and water users have no say in the water management
+Lack of communication between farmers and project managers
+Poor farmers are unable to comply
+Farmers do not receive water according to need; for example insufficient quantity and/or inappropriate time
+Corruption at management level
+
+
+=== Cost coverage ===
+The cost recovery is often insufficient for full cost coverage, for example:
+
+
+=== Water User Associations (WUAs) ===
+From 1980 programs were developed to transfer the operation and maintenance tasks from the government to water user associations (WUAs) that show some resemblance to water boards in the Netherlands, with the difference that it concerns irrigation rather than drainage and flood control. 
+An effective development occurred in Mexico, where in 1990 a program of WUAs was initiated with tradable water rights. By 1998 some 400 WUAs were in operation commanding on average 7600 ha per WUA. They were able to recover more than 90% of the tariffs, mainly because they had to be paid in advance. Government subsidies to the water distribution and maintenance reduced to only 6%   See also Irrigation in Mexico#Legal and institutional framework. Similar efforts were made in Peru, see Irrigation in Peru#Legal and institutional framework, but the progress is not yet at the level of that in Mexico.
+
+
+== Water delivery principles ==
+
+
+=== Rotational turns ===
+In large irrigation schemes, the distribution of irrigation water and the delivery at the farm gate is often arranged by rotational turns (e.g. every fortnight). The quantity of water to be received is often proportional to the farm size. As the canals usually transport constant flows, the water is being received during a period of time proportional to the farm size (e.g. every fortnight during 2 hours).
+The method of rotational turns is typical for the utility form of irrigation management.
+
+
+=== On demand ===
+In smaller irrigation schemes the water delivery may be arranged "on demand" with water charges are on a volumetric basis. This requires a precise bookkeeping system. As the demand may be fluctuating over time, the distribution system and infrastructure is relatively expensive because it must be able to cope with periods of peak demand. During periods of water scarcity, negotiations are due to regulate the supply or restriction agreements must have been made.
+From point of view of efficient irrigation water-use this is the most effective system.
+
+
+=== Preferential rights ===
+
+In projects with an uncertain supply of water due to annual variations in river discharge, water users at the top (the head users) of the irrigation system (i.e. near the system's take-off point) often have preference, to a certain extent, over users at the tail-end. Hence, the number of farmers that are able to grow an irrigated crop may vary from year to year according to the riparian water rights.
+The preferential method of irrigation can be found in spate irrigation systems. It is likely that the irrigators near the headworks, or their ancestors, did contribute more to the construction and maintenance of the works than the others, and therefore acquired the preferential rights.
+
+
+=== Protective duty ===
+In regions with a structural water scarcity, the principle of water duty is often applied, whereby the duty per ha per season is only a fraction of the full irrigation need per ha (i.e. the irrigation intensity is less than 100%). Thus, farmers can irrigate only part of their land or irrigate their crops with a limited amount of water, whereby they may choose between crops with a high consumptive use (e.g. rice, sugarcane, most orchards) or a low consumptive use (e.g. cereals - notably barley, millet, and sorghum - or cotton). In India, such practice is called protective irrigation, which aims at equal distribution of scarce means and prevention of acute famine.
+The method of protective irrigation is typical for the utility form of irrigation management.
+Owing to competition for water, the water delivery practices may deviate from the principles.
+
+
+== Water delivery practices ==
+
+
+=== Competition ===
+In practice the distribution of irrigation water is subject to competition. Influential farmers may be able to acquire more water than they are entitled to. Water users at the upstream part of the irrigation system can more easily intercept extra water than the tail-ender. The degree of farmers' influence is often correlated to the relative position of their land in the topography of the scheme.
+
+
+=== Tail-end problems ===
+R.Chambers  cites authors who have reported tail-end problems. Examples are:
+
+The old Sardar canal project in the state of Gujarat, India, was designed with an irrigation intensity of 32%, but at the upstream part the delivery was at an intensity of 42% (i.e. 131% of the design norm) and at the downstream end it was only 19% (i.e. 59% of the norm), although the project aimed at protective irrigation with equal rights for all.
+The Sardar Sahayak Pariyojana irrigation project, an extension of the Sardar canal project with 1.7 million ha, the head farmers received 5 times more water than the tail-enders, although the project was designed for equal distribution of the scarce water.
+The Ghatampur distributary canal in the Ramganga irrigation project in the state of Uttar Pradesh, India, delivered an amount of water equal to 155% of the design discharge to the Kisarwal district canal near the head of the distributary and only 22% to the Bairampur district canal at the downstream end.
+
+Also in Egypt, in 1984, considerable differences in the water distribution over the canal systems have been reported:
+
+*) Period March 1 to July 31.   1 feddan is 0.42 ha.   Data from : Egyptian Water Use Management Project (EWUP).
+
+
+== See also ==
+Irrigation
+Surface irrigation
+Irrigation in viticulture
+Irrigation statistics
+Environmental impact of irrigation
+Tidal irrigation
+Water rights
+Riparian water rights
+National Irrigation Congress
+Adaptive participatory integrated approach, a method of developing and managing water irrigation in developing regions.
+BAITSSS, simulates irrigation based on Management allowable depletion using remote sensing based information.
+
+
+== References ==

@@ -1,0 +1,10 @@
+# KrishiGPT-nano final submission dependencies (CPU-only).
+# Verified environment: Python 3.12.5, Windows, no GPU required.
+# NOTE: On Windows, PyPI torch wheels are CPU builds by default — no CUDA setup needed.
+torch==2.9.1
+numpy==2.5.2
+pytest==9.1.1
+# Chatbot API + web UI (api/app.py). httpx is used by the API tests (TestClient).
+fastapi==0.141.1
+uvicorn==0.52.4
+httpx==0.28.1

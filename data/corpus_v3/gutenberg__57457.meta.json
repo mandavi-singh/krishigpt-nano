@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:57457",
+  "provider": "Project Gutenberg",
+  "title": "The Book of Husbandry",
+  "authors": "Fitzherbert, Anthony",
+  "url": "https://www.gutenberg.org/ebooks/57457",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-22",
+  "topic_bucket": "general husbandry",
+  "download_count": 472,
+  "raw_file": "gutenberg__57457.txt",
+  "use": "KrishiGPT-nano corpus v3 (System A pretraining only)"
+}

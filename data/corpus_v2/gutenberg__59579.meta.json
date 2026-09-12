@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:59579",
+  "provider": "Project Gutenberg",
+  "title": "The American Agriculturist. Vol. II. No. XI, December 1843: Designed to Improve the Planter, the Farmer, the Stock-breeder, and the Horticulturist",
+  "authors": "Various",
+  "url": "https://www.gutenberg.org/ebooks/59579",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-17",
+  "topic_bucket": "livestock/dairy",
+  "download_count": 398,
+  "raw_file": "gutenberg__59579.txt",
+  "use": "KrishiGPT-nano corpus v2 (System A pretraining only)"
+}

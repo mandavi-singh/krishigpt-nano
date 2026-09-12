@@ -1,0 +1,75 @@
+Soil conservation is the prevention of loss of the topmost layer of the soil from erosion or prevention of reduced fertility caused by over usage, acidification, salinization or other chemical soil contamination.
+Slash-and-burn and other unsustainable methods of subsistence farming are practiced in some lesser developed areas. A consequence of deforestation is typically large-scale erosion, loss of soil nutrients and sometimes total desertification. Techniques for improved soil conservation include crop rotation, cover crops, conservation tillage and planted windbreaks, affect both erosion and fertility. When plants die, they decay and become part of the soil. Code 330 defines standard methods recommended by the U.S. Natural Resources Conservation Service. Farmers have practiced soil conservation for millennia. In Europe, policies such as the Common Agricultural Policy are targeting the application of best management practices such as reduced tillage, winter cover crops, plant residues and grass margins in order to better address soil conservation. Political and economic action is further required to solve the erosion problem. A simple governance hurdle concerns how we value the land and this can be changed by cultural adaptation. Soil carbon is a carbon sink, playing a role in climate change mitigation.
+
+
+== Methods ==
+
+
+=== Contour ploughing ===
+Contour ploughing orients furrows following the contour lines of the farmed area. Furrows move left and right to maintain a constant altitude, which reduces runoff. Contour plowing was practiced by the ancient Phoenicians for slopes between two and ten percent. Contour plowing can increase crop yields from 10 to 50 percent, partially as a result of greater soil retention.
+
+
+=== Terrace farming ===
+Terracing is the practice of creating nearly level areas in a hillside area. The terraces form a series of steps each at a higher level than the previous. Terraces are protected from erosion by other soil barriers. Terraced farming is more common on small farms. This involves creating a series of flat terraced levels on a sloping field.
+
+
+=== Keyline design ===
+Keyline design is the enhancement of contour farming, where the total watershed properties are taken into account in forming the contour lines.
+
+
+=== Perimeter runoff control ===
+
+Trees, shrubs and ground-cover are effective perimeter treatment for soil erosion prevention, by impeding surface flows. A special form of this perimeter or inter-row treatment is the use of a "grass way" that both channels and dissipates runoff through surface friction, impeding surface runoff and encouraging infiltration of the slowed surface water.
+
+
+=== Windbreaks ===
+Windbreaks are sufficiently dense rows of trees at the windward exposure of an agricultural field subject to wind erosion. Evergreen species provide year-round protection; however, as long as foliage is present in the seasons of bare soil surfaces, the effect of deciduous trees may be adequate.
+
+
+=== Cover crops/crop rotation ===
+Cover crops such as nitrogen-fixing legumes, white turnips, radishes and other species are rotated with cash crops to blanket the soil year-round and act as green manure that replenishes nitrogen and other critical nutrients. Cover crops also help to suppress weeds.
+
+
+=== Soil-conservation farming ===
+Soil-conservation farming involves no-till farming, "green manures" and other soil-enhancing practices which make it hard for the soils to be equalized.  Such farming methods attempt to mimic the biology of barren lands. They can revive damaged soil, minimize erosion, encourage plant growth, eliminate the use of nitrogen fertilizer or fungicide, produce above-average yields and protect crops during droughts or flooding. The result is less labor and lower costs that increase farmers’ profits. No-till farming and cover crops act as sinks for nitrogen and other nutrients. This increases the amount of soil organic matter.
+Repeated plowing/tilling degrades soil, killing its beneficial fungi and earthworms. Once damaged, soil may take multiple seasons to fully recover, even in optimal circumstances.
+Critics argue that no-till and related methods are impractical and too expensive for many growers, partly because it requires new equipment. They cite advantages for conventional tilling depending on the geography, crops and soil conditions. Some farmers have contended that no-till complicates pest control, delays planting and that post-harvest residues, especially for corn, are hard to manage.
+
+
+=== Reducing the use of pesticides ===
+
+The use of pesticides can contaminate the soil, and nearby vegetation and water sources for a long time. They affect soil structure and (biotic and abiotic) composition. Differentiated taxation schemes are among the options investigated in the academic literature to reducing their use.
+
+
+=== Salinity management ===
+
+Salinity in soil is caused by irrigating with salty water. Water then evaporates from the soil leaving the salt behind. Salt breaks down the soil structure, causing infertility and reduced growth.
+The ions responsible for salination are: sodium (Na+), potassium (K+), calcium (Ca2+), magnesium (Mg2+) and chlorine (Cl−). Salinity is estimated to affect about one third of the earth's arable land. Soil salinity adversely affects crop metabolism and erosion usually follows.
+Salinity occurs on drylands from  overirrigation and in areas with shallow saline water tables. Over-irrigation deposits salts in upper soil layers as a byproduct of soil infiltration; irrigation merely increases the rate of salt deposition. The best-known case of shallow saline water table capillary action occurred in Egypt after the 1970 construction of the Aswan Dam. The change in the groundwater level led to high salt concentrations in the water table. The continuous high level of the water table led to soil salination.
+Use of humic acids may prevent excess salination, especially given excessive irrigation. Humic acids can fix both anions and cations and eliminate them from root zones.
+Planting species that can tolerate saline conditions can be used to lower water tables and thus reduce the rate of capillary and evaporative enrichment of surface salts. Salt-tolerant plants include saltbush, a plant found in much of North America and in the Mediterranean regions of Europe.
+
+
+=== Soil organisms ===
+
+When worms excrete feces in the form of casts, a balanced selection of minerals and plant nutrients is made into a form accessible for root uptake. Earthworm casts are five times richer in available nitrogen, seven times richer in available phosphates and eleven times richer in available potash than the surrounding upper 150 millimetres (5.9 in) of soil. The weight of casts produced may be greater than 4.5 kg per worm per year. By burrowing, the earthworm improves soil porosity, creating channels that enhance the processes of aeration and drainage.
+Other important soil organisms include nematodes, mycorrhiza and bacteria. A quarter of all the animal species live underground. According to the 2020 Food and Agriculture Organization’s report "State of knowledge of soil biodiversity – Status, challenges and potentialities", there are major gaps in knowledge about biodiversity in soils.
+Degraded soil requires synthetic fertilizer to produce high yields. Lacking structure increases erosion and carries nitrogen and other pollutants into rivers and streams.
+Each one percent increase in soil organic matter helps soil hold 20,000 gallons more water per acre.
+
+
+=== Mineralization ===
+To allow plants to fully realize their phytonutrient potential, active mineralization of the soil is sometimes undertaken. This can involve adding crushed rock or chemical soil supplements. In either case, the purpose is to combat mineral depletion. A broad range of minerals can be used, including common substances such as phosphorus and more exotic substances such as zinc and selenium. Extensive research examines the phase transitions of minerals in soil with aqueous contact.
+Flooding can bring significant sediments to an alluvial plain. While this effect may not be desirable if floods endanger life or if the sediment originates from productive land, this process of addition to a floodplain is a natural process that can rejuvenate soil chemistry through mineralization.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Moorberg, Colby J., ed. (2019). Soil and Water Conservation: An Annotated Bibliography. NPP eBooks. ISBN 978-1-944548-26-1.
+Online book (the most current version of the text)
+Download book – Kindle, Nook, Apple, Kobo, and PDF

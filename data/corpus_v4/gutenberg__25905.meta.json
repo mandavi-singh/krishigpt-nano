@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:25905",
+  "provider": "Project Gutenberg",
+  "title": "The $100 Prize Essay on the Cultivation of the Potato.: Prize offered by W. T. Wylie and awarded to D. H. Compton.; How to Cook the Potato, Furnished by Prof. Blot.",
+  "authors": "Compton, D. A.",
+  "url": "https://www.gutenberg.org/ebooks/25905",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-09-06",
+  "topic_bucket": "how-to manuals",
+  "download_count": 507,
+  "raw_file": "gutenberg__25905.txt",
+  "use": "KrishiGPT-nano corpus v4 (System A pretraining only)"
+}

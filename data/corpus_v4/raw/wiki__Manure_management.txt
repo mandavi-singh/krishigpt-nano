@@ -1,0 +1,91 @@
+Manure management refers to capture, storage, treatment, and utilization of animal manures in an environmentally sustainable manner.   It can be retained in various holding facilities. Animal manure (also referred to as animal waste) can occur in a liquid, slurry, or solid form. Manure includes not just livestock feces, but also livestock bedding, urine and other body sections. It should be utilized by distribution on fields in amounts that enrich soils without causing water pollution or unacceptably high levels of nutrient enrichment.  Manure management is a component of nutrient management.
+
+In confined spaces the gasses from manure can lethally asphyxiate humans. There is also a drowning danger.
+
+
+== Risks posed by gases in livestock manure ==
+Livestock manure produces several gases including four main toxic gases, hydrogen sulfide, methane, ammonia and carbon dioxide. In animal housing it is very common in swine and beef breeding to have manure storage under the building's floor. In this setup low concentrations of these toxic gases are commonly noted throughout the year. The highest concentrations of these gases are noted during manure agitation, stirring the manure to homogenize the manure for pumping out of the storage. During these times the concentrations easily approach levels that can pose health issues to the workers and animals in the facilities.
+Four-gas monitors are ideal for situations involving manure, where simultaneous exposure to any or all of hydrogen sulfide, methane, ammonia, and carbon dioxide (CO2) is possible. Four-gas monitors typically do not directly detect carbon dioxide, but this gas is minimally toxic on its own. Four-gas monitors alone do not guarantee an individual’s safety when working with manure. Thus, four-gas monitors should always be used in conjunction with other prevention measures, including: proper ventilation (e.g., positive-pressure ventilation system or a windy day); use of a breathing apparatus and harness when entering a manure pit; removal of persons and animals from building where manure is being agitated; consideration of proper storage conditions; clear signage to denote hazardous areas and exclusion zones as well as fencing around manure lagoons; and an operation-level written protocol for entering permit-required confined spaces.
+
+
+== Hydrogen sulfide ==
+Hydrogen Sulfide (H2S), is a naturally occurring gas that is flammable, colorless and poisonous. H2S has a characteristic rotten egg smell, though pungent at first it quickly deadens the sense of smell. People are typically only able to smell H2S at low concentrations. H2S is heavier than air causing the gas to travel close to the ground and collect in low-lying areas. Common names for hydrogen sulfide include hydrosulfuric acid (the product of it reacting with water), stink damp and sewer gas.
+
+
+=== Sources of hydrogen sulfide exposure ===
+Hydrogen sulfide naturally occurs in hot springs, crude petroleum and natural gas. H2S is also produced from the bacterial breakdown of animal and human wastes and organic materials in the absence of oxygen (anaerobic digestion). H2S is also a common metabolic end product of sulfate reducing bacteria which convert sulfates and hydrocarbons into carbon dioxide and hydrogen sulfide in the absence of free oxygen. There are multiple industrial sources of hydrogen sulfide. Such sources include: natural gas/petroleum drilling and refining, wastewater treatment, coke ovens, tanneries and paper mills. Hydrogen sulfide is found in hydrocarbons both directly as an impurity and is produced by sulfate reducing microorganisms which can "eat" methane or other hydrocarbons, using sulfate as the electron receptor, similar to how aerobic metabolism uses oxygen. Other non-industrial sources of H2S include emissions from livestock facilities and the land applications of animal manure. During the agitation or mixing of swine manure in a deep pit storage system the concentration of hydrogen sulfide was observed in one study at levels exceeding 300 ppm inside the barn. In a study examining the concentration of hydrogen sulfide in a residential cohort during manure application, it was reported the levels never exceeded the Agency for Toxic Substances and Disease Registry acute exposure MRL of 70 ppb and only 14 readings at 1-minute intervals reported levels above the intermediate exposure MRL of 20 ppb. There are currently strong recommendations from both Pork Producer Associations and Land Grant Universities that suggest having two employees in a barn during agitation and pumping, maintain proper ventilation levels during agitation and pumping of manure, and to not enter a manure storage without proper equipment and training.
+
+
+=== Effects ===
+
+
+==== Acute ====
+Hydrogen sulfide is most commonly inhaled, though through prolonged exposure skin and eye irritations resulting in painful dermatitis and burning eyes can occur. Symptoms of acute exposure include nausea, headaches, disturbed equilibrium, tremors, convulsions and skin and eye irritations. At high levels, inhalation of hydrogen sulfide will result in unconsciousness and death due to its effect on the body resulting in the lack of oxygen use in the cells. the typical odor threshold for H2S is 0.01 to 1.5 ppm with the loss of smell occurring at levels around levels of 100 to 150 ppm. Concentrations of 500 to 700 ppm can result in death within 30 to 60 minutes, 700 to 1000 ppm result in death within minutes, while death is nearly instantaneous at levels of 1000 to 2000 ppm.
+
+
+==== Chronic ====
+Chronic exposure to hydrogen sulfide can cause several long term health issues, though H2S does not accumulate in the body. Repeated or prolonged exposures have been reported to cause low blood pressure, headache, loss of appetite, chronic cough, inflammation of the eye membrane, weight loss and ataxia.
+
+
+=== Regulations for exposures ===
+The Occupational Safety and Health Administration (OSHA) and National Institute for Occupational Safety and Health (NIOSH) have set recommended exposure limits (REL NIOSH) and permissible exposure limits (PEL OSHA) for H2S exposure in the workplace. NIOSH's REL for a 10-minute maximum exposure is 10 ppm, OSHA's PEL for general industry, i.e. agriculture, construction, etc., is 20 ppm and OSHA's PEL levels are enforceable. NIOSH also reports an IDLH or immediately dangerous to life and health, at 100 ppm, this is the level at which the effects of exposure would interfere with a person's ability to escape.
+
+
+== Risks of Livestock Manure Mismanagement ==
+Livestock manure mismanagement constitutes any practice that improperly handles, stores or disposes of manure. These include but are not limited to open-air storage/dumping of manure, direct disposal of manure into/near water bodies without treatment, applying untreated manure to crops, flushing untreated waste, collecting manure in leaky/uncovered lagoons, and concentrating livestock operations near residential areas. These practices have significant consequences for environmental health, human health, and animal health. A few of these are highlighted in the following subsections.
+
+
+=== Air Contamination ===
+As introduced earlier in this article with the discussion on hydrogen sulfide, manure contributes to air pollution. In fact, approximately 33% of global emissions of ammonia could have been attributed to manure in 2018. Manure also releases fine particles and other gases (e.g. methane, nitrate oxide, carbon dioxide) that cause foul odors, haze, and acid rain and contribute to climate change.
+
+
+=== Water Contamination ===
+Manure is a significant source of surface and groundwater pollution.  Poor management can lead to agricultural runoff carrying nutrients, pathogens, antibiotics, hormones, heavy metals, and pesticides from manure-fertilized fields and waste dumping/storage sites into nearby water bodies, or to these contaminants leaching into groundwater. Nutrient pollution (e.g., ammonia, nitrogen, phosphorus) causes eutrophication of surface water and can lead to the proliferation of toxic algae and oxygen-depleted zones where aquatic life cannot thrive.
+
+
+=== Soil & Crop Contamination ===
+Mismanagement of manure contributes to soil pollution. Manure over-application and the air pollution that leads to acid rain can cause soil acidification. Over-application of manure can also lead to heavy-metal buildup in the soil. This, in combination with soil acidification, can result in reduced soil fertility, which harms agricultural productivity. Crops grown on fields fertilized with improperly treated manure and irrigated with manure-contaminated water can also take up pathogens, hormones, pesticides and other contaminants from livestock manure.
+
+
+=== Impacts on Human and Animal Health ===
+Air, water and soil contamination from livestock manure mismanagement has detrimental effects on both human and animal health. Manure-contaminated water and soil pose risks to food safety. There are more than 150 pathogens found in manure that can cause zoonotic infections. These are infections that can be transmitted from animals to humans and cause outbreaks in human communities. Some zoonotic infections that can be acquired from ingesting manure-contaminated water and food (e.g., raw vegetables) include  E. coli infections, salmonellosis, giardiasis , listeriosis, cryptosporidiosis, and bovine spongiform encephalopathy. Animals can also contract infectious diseases from improperly managed manure. These include giardiasis, cryptosporidiosis, E.coli infections, Johne’s disease, scours, and bovine spongiform encephalopathy. Humans can also develop chronic health conditions (e.g., cancers, endocrine disorders, and respiratory and cardiovascular disease) from chronic ingestion of water and food contaminated with growth hormones and pesticides and chronic inhalation of fine particles and noxious gases. Finally, antibiotics in manure distributed to humans and animals through water and food can contribute to the expansion of antibiotic resistance.
+These risks associated with manure mismanagement highlight the interconnectedness of environmental health, human health, and animal health – the cornerstone of the One Health concept. Therefore, ensuring best practices in managing any one aspect is essential to optimizing the health of all aspects. 
+
+
+== Livestock Manure Management Practices to Mitigate Risks ==
+According to the Food and Agriculture Organization of the United Nations, a One Health approach to manure management “enhances animal health”, “safeguards human health”, and “protects environmental health”. Some recommended manure management practices include, but are not limited to:
+
+
+=== Anaerobic Digestion ===
+Anaerobic digestion is a process that involves decomposing manure into biogas (a carbon-neutral renewable energy source) and digestate (a nutrient-rich by-product that can be used as fertilizer) in the absence of oxygen. Anaerobic digestion traps methane in biogas, reducing greenhouse gas emissions that would otherwise be released by undigested manure. Anaerobic digestion also helps to reduce foul odors associated with undigested manure and reduces pathogen levels normally found in manure. Thus, this approach protects environmental health, safeguards human health, and enhances animal health
+
+
+=== Composting ===
+Composting is a manure management practice that involves decomposing manure into a “nutrient-rich soil conditioner” in the presence of oxygen. Composting helps to control odors, kill pathogens and mitigate he risk of nutrient runoff associated with un-composted manure. Thus, this practice protects environmental health, safeguards human health, and enhances animal health.
+
+
+=== Manure Separation & Treatment ===
+Manure separation and treatment involves multi-step processes that separate livestock manure into solid and liquid components that are stored and utilized separately. The liquid portions are nutrient-rich and can serve as fertilizer, while the solid portions can be composted and used as dry bedding for livestock. This practice can reduce nutrient runoff, foul odors, and some greenhouse gas emissions, helping to protect environmental health, safeguard human health, and enhance animal health.
+
+
+=== Buffer Zone Planting ===
+Buffer zones are vegetation strips planted to separate manure storage/treatment sites from livestock areas or water bodies. These buffer zones or filter strips help to prevent the spread of diseases and mitigate the risk of agricultural runoff into surface water or ground water. Thus, this practice also safeguards human and animal health, and protects the environment.
+
+
+== See also ==
+Manure
+Concentrated Animal Feeding Operation
+Animal feeding operation
+Slurry pit
+Atmospheric methane
+
+
+== References ==
+
+Report for Congress: Agriculture: A Glossary of Terms, Programs, and Laws, 2005 Edition
+
+
+== External links ==
+Animal Manure Management on http://eXtension.org Archived 2011-06-01 at the Wayback Machine
+Animal Manure Management on http://eXtension.org Archived 2009-03-05 at the Wayback Machine
+Animal Manure Nutrient Management on http://eXtension.org

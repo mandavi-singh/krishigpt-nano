@@ -1,0 +1,11 @@
+{
+  "id": "wiki:Green Revolution in India",
+  "provider": "Wikipedia",
+  "title": "Green Revolution in India",
+  "url": "https://en.wikipedia.org/wiki/Green%20Revolution%20in%20India",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessed": "2026-08-17",
+  "use": "System A pretraining (educational corpus, NOT RAG source)",
+  "raw_file": "wiki__Green_Revolution_in_India.txt"
+}

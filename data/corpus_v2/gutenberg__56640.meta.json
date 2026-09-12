@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:56640",
+  "provider": "Project Gutenberg",
+  "title": "Pleasant Talk About Fruits, Flowers and Farming",
+  "authors": "Beecher, Henry Ward",
+  "url": "https://www.gutenberg.org/ebooks/56640",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-17",
+  "topic_bucket": "crops/agronomy",
+  "download_count": 901,
+  "raw_file": "gutenberg__56640.txt",
+  "use": "KrishiGPT-nano corpus v2 (System A pretraining only)"
+}

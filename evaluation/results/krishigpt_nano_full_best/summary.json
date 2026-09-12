@@ -1,0 +1,73 @@
+{
+  "checkpoint": "C:\\Users\\singh\\Documents\\Default Project\\myllm\\checkpoints\\krishigpt_nano_full\\best.pt",
+  "val_loss": 5.7076,
+  "val_ppl": 301.1,
+  "vocab_size": 5237,
+  "generation_tps": 38.2,
+  "variants": {
+    "greedy": {
+      "samples": 5,
+      "distinct_1": 0.1,
+      "distinct_2": 0.127,
+      "repetition_rate": 0.9143,
+      "max_run": 31.2,
+      "frac_rep_over_half": 1.0
+    },
+    "greedy_rep1.3": {
+      "samples": 5,
+      "distinct_1": 0.3406,
+      "distinct_2": 0.4127,
+      "repetition_rate": 0.6698,
+      "max_run": 37.8,
+      "frac_rep_over_half": 0.8
+    },
+    "temp0.7": {
+      "samples": 5,
+      "distinct_1": 0.55,
+      "distinct_2": 0.7619,
+      "repetition_rate": 0.4571,
+      "max_run": 13.4,
+      "frac_rep_over_half": 0.2
+    },
+    "temp0.9": {
+      "samples": 5,
+      "distinct_1": 0.8,
+      "distinct_2": 0.9556,
+      "repetition_rate": 0.2032,
+      "max_run": 2.4,
+      "frac_rep_over_half": 0.0
+    },
+    "topk20": {
+      "samples": 5,
+      "distinct_1": 0.5469,
+      "distinct_2": 0.854,
+      "repetition_rate": 0.4603,
+      "max_run": 5.2,
+      "frac_rep_over_half": 0.4
+    },
+    "topk40": {
+      "samples": 5,
+      "distinct_1": 0.6438,
+      "distinct_2": 0.9429,
+      "repetition_rate": 0.3619,
+      "max_run": 1.8,
+      "frac_rep_over_half": 0.0
+    },
+    "topp0.9": {
+      "samples": 5,
+      "distinct_1": 0.8031,
+      "distinct_2": 0.9746,
+      "repetition_rate": 0.2,
+      "max_run": 2.2,
+      "frac_rep_over_half": 0.0
+    },
+    "t0.9_k40_rep1.15": {
+      "samples": 5,
+      "distinct_1": 0.6937,
+      "distinct_2": 0.9683,
+      "repetition_rate": 0.3111,
+      "max_run": 1.0,
+      "frac_rep_over_half": 0.0
+    }
+  }
+}

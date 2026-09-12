@@ -1,0 +1,14 @@
+{
+  "sentences_scanned": 87684,
+  "definitional": 426,
+  "yes_no": 392,
+  "one_word": 18,
+  "list_three": 15,
+  "rejected_valid_lines": 0,
+  "n_pairs_total": 851,
+  "n_train": 801,
+  "n_valid": 50,
+  "min_subject_freq": 30,
+  "source_train": "data\\corpus_v4\\agri_train_v4.txt",
+  "source_valid_excluded": "data\\corpus_v4\\agri_valid_v4.txt"
+}

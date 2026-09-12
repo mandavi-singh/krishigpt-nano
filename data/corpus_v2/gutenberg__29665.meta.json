@@ -1,0 +1,14 @@
+{
+  "id": "gutenberg:29665",
+  "provider": "Project Gutenberg",
+  "title": "Prairie Farmer, Vol. 56: No. 4, January 26, 1884: A Weekly Journal for the Farm, Orchard and Fireside",
+  "authors": "Various",
+  "url": "https://www.gutenberg.org/ebooks/29665",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "accessed": "2026-08-17",
+  "topic_bucket": "crops/agronomy",
+  "download_count": 769,
+  "raw_file": "gutenberg__29665.txt",
+  "use": "KrishiGPT-nano corpus v2 (System A pretraining only)"
+}
